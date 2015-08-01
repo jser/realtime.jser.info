@@ -6,8 +6,21 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://realtime.jser.info/" # the base hostname & protocol for your site
 twitter_username: jser_info
 github_username:  jser
+timezone: Asia/Tokyo
 encoding: utf-8
+exclude:
+  - "README.md"
+  - "Gemfile"
+  - "LICENSE"
+  - "bower.json"
+  - "package.json"
+  - "test/"
+  - "vendor"
+  - "node_modules"
 # Build settings
+paginate: 10
+paginate_path: "page/:num"
+permalink: /:year/:month/:day/:title/
 markdown: kramdown
 exclude:
     - node_modules
