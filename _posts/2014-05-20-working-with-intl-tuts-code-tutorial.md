@@ -1,0 +1,13 @@
+---
+title: Working With Intl - Tuts+ Code Tutorial
+author: azu
+layout: post
+itemUrl: 'http://code.tutsplus.com/tutorials/working-with-intl--cms-21082'
+date: '2014-05-20T12:25:56.263Z'
+tags:
+  - ECMAScript
+  - JavaScript
+  - i18n
+  - API
+---
+ECMAScript Internationalization APIの機能についての解説

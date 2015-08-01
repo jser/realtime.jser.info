@@ -1,0 +1,11 @@
+---
+title: 'iOS 7.1: new minimal UI mode and old bugs on Safari | Breaking the Mobile Web'
+author: azu
+layout: post
+itemUrl: 'http://www.mobilexweb.com/blog/ios-7-1-safari-minimal-ui-bugs'
+date: '2014-03-14T01:18:06.353Z'
+tags:
+  - ios
+  - safari
+---
+iOS7.1のSafariのminimal-uiとその他バグについて

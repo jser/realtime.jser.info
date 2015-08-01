@@ -1,0 +1,12 @@
+---
+title: DevTools Extensions For Web App Developers
+author: azu
+layout: post
+itemUrl: 'http://addyosmani.com/blog/devtools-extensions-for-webapp-developers/'
+date: '2013-03-26T14:23:21.086Z'
+tags:
+  - Chrome
+  - デバック
+  - Extension
+---
+Chrome Dev Toolsの拡張機能紹介

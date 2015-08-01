@@ -1,0 +1,10 @@
+---
+title: Dmitry Baranovskiy’s Web Log
+author: azu
+layout: post
+itemUrl: 'http://dmitry.baranovskiy.com/post/typeof-and-friends'
+date: '2011-01-31T15:00:00.000Z'
+---
+入力のtypeを固定してtypeof演算子で比較することは本当にいいのか?
+
+また==はよくないと言われているが、常に===を使うことが良いことなのかについて。

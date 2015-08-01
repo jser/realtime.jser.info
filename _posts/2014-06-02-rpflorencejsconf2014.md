@@ -1,0 +1,12 @@
+---
+title: rpflorence/jsconf2014
+author: azu
+layout: post
+itemUrl: 'https://github.com/rpflorence/jsconf2014'
+date: '2014-06-02T08:35:32.008Z'
+tags:
+  - JavaScript
+  - library
+  - スライド
+---
+Ember,Angular,React,Polymer,Backbone ライブラリについて、それぞれがどのような目的で作られたのか、またどのような要素/特徴を持ってるについてよくまとまってるスライド

@@ -1,0 +1,10 @@
+---
+title: Getfirebug Blog » Blog Archive » Firebug 1.8.0
+author: azu
+layout: post
+itemUrl: 'http://blog.getfirebug.com/2011/07/29/firebug-1-8-0/'
+date: '2011-07-31T15:00:00.000Z'
+---
+Firebug1.8.0がリリース。
+
+モジュールローダーとしてRequireJSを採用して、内部アーキテクチャが大きく改良されている。

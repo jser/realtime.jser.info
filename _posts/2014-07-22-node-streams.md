@@ -1,0 +1,13 @@
+---
+title: node streams
+author: azu
+layout: post
+itemUrl: 'http://tagtree.tv/intro-to-node-streams'
+date: '2014-07-22T08:50:19.200Z'
+tags:
+  - node.js
+  - stream
+  - 動画
+---
+node.jsのStreamについてのスクリーンキャスト。
+ランダムな単語を流すStreamを作り、transform streamで変換してWriteStreamに流すサンプルについて

@@ -1,0 +1,11 @@
+---
+title: 3 New JavaScript APIs You May Want to Follow
+author: azu
+layout: post
+itemUrl: 'http://www.sitepoint.com/3-new-javascript-apis-may-want-follow/'
+date: '2014-07-31T04:49:00.306Z'
+tags:
+  - WebPlatformAPI
+  - JavaScript
+---
+最近ドラフトがリリースされたWeb Alarms API, Presentation API, Standby APIについて

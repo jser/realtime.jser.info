@@ -1,0 +1,12 @@
+---
+title: 'Amazon: HTML5 Canvas: Pocket Primer [Paperback]: Oswald Campesato'
+author: azu
+layout: post
+itemUrl: 'http://www.amazon.com/o/ASIN/1938549678/book042-22/ref=nosim'
+date: '2013-05-03T05:16:26.856Z'
+tags:
+  - HTML5
+  - book
+---
+2013年12月15日発売
+Canvas本

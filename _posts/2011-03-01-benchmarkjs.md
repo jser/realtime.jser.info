@@ -1,0 +1,12 @@
+---
+title: Benchmark.js
+author: azu
+layout: post
+itemUrl: 'http://benchmarkjs.com/'
+date: '2011-02-28T15:00:00.000Z'
+---
+jsPerfでも使われているベンチマーク計測ライブラリ。ブラウザ、コンソール、node.js、Javaアプレット(nano秒対応)とほとんどの環境に対応している。
+
+JavaScriptのコード速度の比較にはjsPerfが便利です
+
+-<a href="http://jsperf.com/" title="jsPerf: JavaScript performance playground">jsPerf: JavaScript performance playground</a>

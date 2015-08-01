@@ -1,0 +1,11 @@
+---
+title: 'JavaScript - じゃあ this の抜き打ちテストやるぞー - Qiita [キータ]'
+author: azu
+layout: post
+itemUrl: 'http://qiita.com/KDKTN/items/0b468a07410d757ac609'
+date: '2013-07-25T13:54:25.850Z'
+tags:
+  - JavaScript
+---
+JavaScript Quiz.
+thisの挙動についてのクイズ

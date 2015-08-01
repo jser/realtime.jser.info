@@ -1,0 +1,10 @@
+---
+title: 'jQuery Version and Plugin Usage Report | BuiltWith Blog'
+author: azu
+layout: post
+itemUrl: 'http://blog.builtwith.com/2011/10/31/jquery-version-and-usage-report/'
+date: '2011-11-30T15:00:00.000Z'
+---
+jQueryに関する調査レポート。
+
+バージョン別利用率やプラグインの目的など

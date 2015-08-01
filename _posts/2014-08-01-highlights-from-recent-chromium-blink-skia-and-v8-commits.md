@@ -1,0 +1,14 @@
+---
+title: 'Highlights from recent Chromium, Blink, Skia and v8 commits'
+author: azu
+layout: post
+itemUrl: 'http://commits.peter.sh/'
+date: '2014-08-01T01:40:09.772Z'
+tags:
+  - Chrome
+  - blink
+  - V8
+  - git
+---
+Chromium,Blink,Skia,V8のコミットハイライトをまとめてるpeterさんのサイト。
+RSSも追加された

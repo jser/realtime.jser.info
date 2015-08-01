@@ -1,0 +1,11 @@
+---
+title: 'DailyJS: JavaScript Developer Survey 2013: Results'
+author: azu
+layout: post
+itemUrl: 'http://dailyjs.com/2013/12/12/javascript-survey-results/'
+date: '2013-12-16T12:34:31.093Z'
+tags:
+  - JavaScript
+  - まとめ
+---
+JavaScript Developer Survey 2013のアンケート結果が公開された

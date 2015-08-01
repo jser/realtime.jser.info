@@ -1,0 +1,12 @@
+---
+title: 'ES6 In Depth: Template strings ✩ Mozilla Hacks – the Web developer blog'
+author: azu
+layout: post
+itemUrl: 'https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/'
+date: '2015-05-17T12:22:31.844Z'
+tags:
+  - JavaScript
+  - ECMAScript
+---
+Template stringsについて。
+Backtickから始まるtemplate literalやtagged templateについて

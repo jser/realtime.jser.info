@@ -1,0 +1,12 @@
+---
+title: Unit testing React components without a DOM – simonsmith.io – Portfolio and blog of a London based front-end web developer
+author: azu
+layout: post
+itemUrl: 'http://simonsmith.io/unit-testing-react-components-without-a-dom/'
+date: '2015-06-15T09:25:44.862Z'
+tags:
+  - React
+  - DOM
+  - testing
+---
+`React.addons.TestUtils.createRenderer` を使ったReact Componentのテストについて。

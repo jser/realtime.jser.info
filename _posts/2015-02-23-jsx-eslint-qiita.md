@@ -1,0 +1,11 @@
+---
+title: JSX - ESLintについての細かいあれこれ - Qiita
+author: azu
+layout: post
+itemUrl: 'http://qiita.com/suisho/items/8610d3806a3f94d7d1d0'
+date: '2015-02-23T13:12:12.241Z'
+tags:
+  - JavaScript
+  - Tools
+---
+ESLintの設定について

@@ -1,0 +1,13 @@
+---
+title: Ramda Documentation
+author: azu
+layout: post
+itemUrl: 'http://ramdajs.com/'
+date: '2015-01-30T12:23:35.832Z'
+tags:
+  - JavaScript
+  - 関数型プログラミング
+  - library
+---
+undrescoreやlodashよりも関数型スタイル向けに沿った作りとする事を目的としたライブラリ。
+Immutable、副作用の排除、関数同士を組み合わせしやすいような作りなど

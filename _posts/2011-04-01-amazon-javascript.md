@@ -1,0 +1,10 @@
+---
+title: 'Amazon: 実践 サーバサイド JavaScript: 井上 誠一郎'
+author: azu
+layout: post
+itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774146293/book042-22/ref=nosim'
+date: '2011-03-31T15:00:00.000Z'
+---
+2011年4月20日発売
+
+アリエル・ネットワークCTOの井上 誠一郎さんだと思うけど、内容についてはまだ何も書いてないのでNode.jsかは不明

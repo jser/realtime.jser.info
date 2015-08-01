@@ -1,0 +1,8 @@
+---
+title: Brewer.js — your asset management friend.
+author: azu
+layout: post
+itemUrl: 'http://brewerjs.org/'
+date: '2012-02-29T15:00:00.000Z'
+---
+SCSSやLESSやCoffeeScriptなどコンパイルが必要なものを変更を監視して処理したり、パッケージや圧縮などのビルドに関するところを管理できるNodeツール 

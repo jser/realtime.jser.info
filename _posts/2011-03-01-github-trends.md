@@ -1,0 +1,10 @@
+---
+title: Github Trends
+author: azu
+layout: post
+itemUrl: 'http://github-trends.oscardelben.com/'
+date: '2011-02-28T15:00:00.000Z'
+---
+GitHubのトレンドをRSS配信。
+
+-<a href="https://github.com/languages/" title="Top Languages - GitHub">Top Languages - GitHub</a>

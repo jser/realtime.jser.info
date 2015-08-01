@@ -1,0 +1,12 @@
+---
+title: How to Unit Test Controllers In AngularJS Without Setting Your Hair On Fire — Nathan LeClaire
+author: azu
+layout: post
+itemUrl: 'http://nathanleclaire.com/blog/2013/12/13/how-to-unit-test-controllers-in-angularjs-without-setting-your-hair-on-fire/'
+date: '2013-12-16T12:52:03.027Z'
+tags:
+  - AngularJS
+  - testing
+---
+AngularJSのテスタビリティについて。
+プロジェクトの設定、DI、$httpBackendについて

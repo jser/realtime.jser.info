@@ -1,0 +1,12 @@
+---
+title: Minified.js - A Truly Lightweight JavaScript Library
+author: azu
+layout: post
+itemUrl: 'http://minifiedjs.com/'
+date: '2013-07-14T01:22:44.449Z'
+tags:
+  - JavaScript
+  - library
+---
+Util、DOM操作、アニメーション、Promise、IE互換のためのJSONやXHR、event handler等の機能を持ったライブラリ。
+ビルド用の条件分岐が細かく入っていて、カスタムビルドできるようになってる。

@@ -1,0 +1,11 @@
+---
+title: mako-taco/DecorateThis
+author: azu
+layout: post
+itemUrl: 'https://github.com/mako-taco/DecorateThis'
+date: '2015-05-31T02:09:09.518Z'
+tags:
+  - JavaScript
+  - library
+---
+Decoratorを使った型のバリデーション、メモ化、カリー、Debounceなど色々なものを用意したライブラリ

@@ -1,0 +1,10 @@
+---
+title: 『MooTools - MooTools 1.4.0』
+author: azu
+layout: post
+itemUrl: 'http://mootools.net/blog/2011/09/10/mootools-1-4-0/'
+date: '2011-09-30T15:00:00.000Z'
+---
+MooTools 1.4.0リリース。
+
+ES5への対応、Event Delegation、WAI-ARIA

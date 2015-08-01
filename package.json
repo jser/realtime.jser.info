@@ -1,0 +1,19 @@
+{
+  "name": "realtime.jser.info",
+  "version": "1.0.0",
+  "description": "realtime jser.info",
+  "main": "index.js",
+  "scripts": {
+    "build:posts": "node tools/json-to-post.js"
+  },
+  "keywords": [
+    "jser"
+  ],
+  "author": "azu",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^3.3.1",
+    "moment": "^2.10.6",
+    "slug": "^0.9.1"
+  }
+}

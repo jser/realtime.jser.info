@@ -1,0 +1,10 @@
+---
+title: '『株式会社シャノン技術ブログ: Navigation TimingとCanvasを使ったページロード時間の可視化』'
+author: azu
+layout: post
+itemUrl: 'http://shanon-tech.blogspot.com/2011/11/navigation-timingcanvas.html'
+date: '2011-11-30T15:00:00.000Z'
+---
+Navigation Timing APIの解説。
+
+取得したページ遷移情報をCanvasで描画

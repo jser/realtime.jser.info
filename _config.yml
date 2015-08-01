@@ -1,0 +1,13 @@
+# Site settings
+title: "Realtime JSer.info"
+email: "info@efcl.info"
+description: "リアルタイム版JSer.info"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://jser.info/realtime" # the base hostname & protocol for your site
+twitter_username: jser_info
+github_username:  jser
+encoding: utf-8
+# Build settings
+markdown: kramdown
+exclude:
+    - node_modules

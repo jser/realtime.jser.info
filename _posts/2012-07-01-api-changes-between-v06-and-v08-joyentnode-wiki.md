@@ -1,0 +1,8 @@
+---
+title: API changes between v0.6 and v0.8 · joyent/node Wiki
+author: azu
+layout: post
+itemUrl: 'https://github.com/joyent/node/wiki/API-changes-between-v0.6-and-v0.8'
+date: '2012-06-30T15:00:00.000Z'
+---
+node.jsの0.6から0.8のAPI変更点について

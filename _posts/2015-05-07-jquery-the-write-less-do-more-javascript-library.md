@@ -1,0 +1,13 @@
+---
+title: 'jQuery - The Write Less, Do More, JavaScript Library'
+author: azu
+layout: post
+itemUrl: 'http://cyokodog.github.io/JS_STUDY/web-audio/presen/'
+date: '2015-05-07T08:58:47.781Z'
+tags:
+  - JavaScript
+  - audio
+  - 動画
+  - スライド
+---
+WebAudio、MediaStream Processing API、Web Speech API、Speech Recognition APIの紹介的なスライド

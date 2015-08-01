@@ -1,0 +1,8 @@
+---
+title: 'Amazon: JavaScript逆引きハンドブック [単行本（ソフトカバー）]: 古籏 一浩'
+author: azu
+layout: post
+itemUrl: 'http://www.amazon.co.jp/o/ASIN/4863541082/book042-22/ref=nosim'
+date: '2012-07-31T15:00:00.000Z'
+---
+2012年8月15日発売

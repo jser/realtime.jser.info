@@ -1,0 +1,12 @@
+---
+title: "Metaprogramming in ES6: Symbols and why they're awesome"
+author: azu
+layout: post
+itemUrl: 'http://blog.keithcirkel.co.uk/metaprogramming-in-es6-symbols/'
+date: '2015-06-28T07:37:30.746Z'
+tags:
+  - JavaScript
+  - ECMAScript
+---
+ES6とメタプログラミング。
+Symbolの使い方。Symbol.hasInstance、Symbol.iterator、Symbol.matchなどそれぞれを定義しておいた時の挙動について書かれてる

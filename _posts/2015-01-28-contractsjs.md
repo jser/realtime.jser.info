@@ -1,0 +1,11 @@
+---
+title: Contracts.js
+author: azu
+layout: post
+itemUrl: 'http://www.contractsjs.org/'
+date: '2015-01-28T12:17:54.487Z'
+tags:
+  - sweet.js
+  - JavaScript
+---
+sweet.jsを使った実行時型チェック的な機能を提供するマクロ

@@ -1,0 +1,11 @@
+---
+title: 'The Pragmatic Bookshelf | CoffeeScript'
+author: azu
+layout: post
+itemUrl: 'https://pragprog.com/book/tbcoffee2/coffeescript'
+date: '2015-02-20T16:55:45.768Z'
+tags:
+  - CoffeeScript
+  - book
+---
+CoffeeScriptについての書籍

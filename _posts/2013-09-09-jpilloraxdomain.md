@@ -1,0 +1,13 @@
+---
+title: jpillora/xdomain
+author: azu
+layout: post
+itemUrl: 'https://github.com/jpillora/xdomain'
+date: '2013-09-09T13:08:31.005Z'
+tags:
+  - JavaScript
+  - library
+  - XHR
+---
+postMessageとproxyとなるページを設置して、CORSを行うライブラリ。
+XHRのインターフェース自体はXHookを使いそのままクロスオリジンでやり取り出来るような仕組み

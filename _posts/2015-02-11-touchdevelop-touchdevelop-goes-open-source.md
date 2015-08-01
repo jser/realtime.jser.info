@@ -1,0 +1,17 @@
+---
+title: TouchDevelop - TouchDevelop goes open-source
+author: azu
+layout: post
+itemUrl: 'https://www.touchdevelop.com/blog/touchdevelopgoesopensource'
+date: '2015-02-11T10:46:17.289Z'
+tags:
+  - JavaScript
+  - TypeScript
+  - MS
+  - オープンソース
+relatedLinks:
+  - title: TouchDevelop
+    url: 'https://github.com/Microsoft/TouchDevelop'
+---
+タッチ操作でアプリを開発出来るウェブアプリである TouchDevelopがオープンソースとして公開された。
+TypeScriptで書かれている

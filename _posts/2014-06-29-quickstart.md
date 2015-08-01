@@ -1,0 +1,16 @@
+---
+title: QuickStart
+author: azu
+layout: post
+itemUrl: 'http://spotify.github.io/quickstart/'
+date: '2014-06-29T11:19:04.312Z'
+tags:
+  - browserify
+  - CommonJS
+  - JavaScript
+  - Tools
+relatedLinks:
+  - title: 'Node.jsで書いてQuickStartを使ってブラウザで実行する話 | Web scratch'
+    url: 'http://efcl.info/2014/0629/res3956/'
+---
+BrowserifyみたいにCommonJSで書いたものをビルド出来るツール。 ビルドだけじゃなくてローダとしても使えるようになってるため、開発時は毎回のビルドをしなくても利用できる。

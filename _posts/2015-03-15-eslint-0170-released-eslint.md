@@ -1,0 +1,18 @@
+---
+title: ESLint 0.17.0 released - ESLint
+author: azu
+layout: post
+itemUrl: 'http://eslint.org/blog/2015/03/eslint-0.17.0-released/'
+date: '2015-03-15T03:56:33.135Z'
+tags:
+  - ECMAScript
+  - JavaScript
+  - Tools
+  - ReleaseNote
+relatedLinks:
+  - title: yannickcr/eslint-plugin-react
+    url: 'https://github.com/yannickcr/eslint-plugin-react'
+---
+ESLint 0.17.0リリース。
+JSX/Reactのセマンティックに関するルールはESLint本体ではなくpluginで行うように。
+

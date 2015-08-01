@@ -1,0 +1,12 @@
+---
+title: 今年こそついにSVG元年？まだ間に合う！SVGの学習に役立つサイト紹介 - 聴く耳を持たない(片方しか)
+author: azu
+layout: post
+itemUrl: 'http://d.hatena.ne.jp/rikuo/20131028'
+date: '2013-10-29T06:49:29.481Z'
+tags:
+  - SVG
+  - tutorial
+  - まとめ
+---
+SVGの歴史、チュートリアルサイト、ライブラリやツールなどのまとめ
