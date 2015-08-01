@@ -26,11 +26,6 @@
 .site-nav {
   float: right;
   line-height: 56px;
-
-  .menu-icon {
-    display: none;
-  }
-
   .page-link {
     color: $text-color;
     line-height: $base-line-height;
@@ -49,35 +44,6 @@
     border: 1px solid $grey-color-light;
     border-radius: 5px;
     text-align: right;
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg {
-        width: 18px;
-        height: 15px;
-
-        path {
-          fill: $grey-color-dark;
-        }
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
 
     .page-link {
       display: block;
@@ -189,6 +155,19 @@
  */
 .post-header {
   margin-bottom: $spacing-unit;
+
+  .post-tags {
+    color: $grey-color;
+    .post-tag {
+      display: inline;
+    }
+  }
+  .post-tag::after {
+    content: ",";
+  }
+  .post-tag:last-child::after {
+    content: "";
+  }
 }
 
 .post-title {

@@ -163,8 +163,6 @@ pre {
 .site-nav {
   float: right;
   line-height: 56px; }
-  .site-nav .menu-icon {
-    display: none; }
   .site-nav .page-link {
     color: #111;
     line-height: 1.5; }
@@ -179,25 +177,6 @@ pre {
       border: 1px solid #e8e8e8;
       border-radius: 5px;
       text-align: right; }
-      .site-nav .menu-icon {
-        display: block;
-        float: right;
-        width: 36px;
-        height: 26px;
-        line-height: 0;
-        padding-top: 10px;
-        text-align: center; }
-        .site-nav .menu-icon > svg {
-          width: 18px;
-          height: 15px; }
-          .site-nav .menu-icon > svg path {
-            fill: #424242; }
-      .site-nav .trigger {
-        clear: both;
-        display: none; }
-      .site-nav:hover .trigger {
-        display: block;
-        padding-bottom: 5px; }
       .site-nav .page-link {
         display: block;
         padding: 5px 10px; } }
@@ -282,6 +261,14 @@ pre {
  */
 .post-header {
   margin-bottom: 30px; }
+  .post-header .post-tags {
+    color: #828282; }
+    .post-header .post-tags .post-tag {
+      display: inline; }
+  .post-header .post-tag::after {
+    content: ","; }
+  .post-header .post-tag:last-child::after {
+    content: ""; }
 
 .post-title {
   font-size: 42px;
