@@ -1,0 +1,12 @@
+---
+title: Changelog · winjs/winjs Wiki
+author: azu
+layout: post
+itemUrl: 'https://github.com/winjs/winjs/wiki/Changelog#v40'
+date: '2015-06-10T01:28:52.936Z'
+tags:
+  - JavaScript
+  - library
+  - ReleaseNote
+---
+WinJS 4.0リリース

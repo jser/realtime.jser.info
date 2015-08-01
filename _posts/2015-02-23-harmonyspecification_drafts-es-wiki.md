@@ -1,0 +1,12 @@
+---
+title: 'harmony:specification_drafts [ES Wiki]'
+author: azu
+layout: post
+itemUrl: 'http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#february_20_2015_rev_34_release_candidate_1'
+date: '2015-02-23T14:58:33.605Z'
+tags:
+  - ECMAScript
+  - spec
+  - ReleaseNote
+---
+ES6 Draft RC1リリース(Rev 34)

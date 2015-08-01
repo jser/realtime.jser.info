@@ -1,0 +1,12 @@
+---
+title: 'jQuery UI 1.10.0 | jQuery UI Blog'
+author: azu
+layout: post
+itemUrl: 'http://blog.jqueryui.com/2013/01/jquery-ui-1-10-0/'
+date: '2013-01-31T15:00:00.000Z'
+---
+jQuery UI 1.10.0リリース。
+
+1.10.0からIE6のサポートはしない事に。
+
+jQuery 1.9と同様にアップグレードガイドを出してる http://jqueryui.com/upgrade-guide/1.10/

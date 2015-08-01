@@ -1,0 +1,10 @@
+---
+title: 'jQuery 1.5の新機能: jQueryのサブクラスが作れるようになる | へびにっき'
+author: azu
+layout: post
+itemUrl: 'http://wp.serpere.info/archives/2050'
+date: '2011-01-31T15:00:00.000Z'
+---
+jQuery 1.5 beta1で追加された
+
+jQuery.subclass()の解説

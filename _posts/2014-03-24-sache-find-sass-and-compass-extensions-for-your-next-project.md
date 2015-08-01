@@ -1,0 +1,12 @@
+---
+title: 'Sache: Find Sass and Compass Extensions for your next project'
+author: azu
+layout: post
+itemUrl: 'http://www.sache.in/'
+date: '2014-03-24T02:45:06.671Z'
+tags:
+  - Sass
+  - webservice
+---
+SassとかCompassのライブラリ/mix-inとかの集積地。
+`sache.json` でメタ情報を書いておけばURLを登録できる

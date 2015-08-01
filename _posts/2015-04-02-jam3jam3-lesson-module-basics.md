@@ -1,0 +1,14 @@
+---
+title: Jam3/jam3-lesson-module-basics
+author: azu
+layout: post
+itemUrl: 'https://github.com/Jam3/jam3-lesson-module-basics'
+date: '2015-04-02T06:10:50.900Z'
+tags:
+  - JavaScript
+  - node.js
+  - npm
+---
+小さいnpmのモジュールを使ってクライアントサイドの開発をしようという紹介記事。
+実際にBrowserifyなどを使ってどうやって開発するかについて紹介している
+

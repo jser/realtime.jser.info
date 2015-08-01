@@ -1,0 +1,13 @@
+---
+title: 'Brackets Blog - The Free, Open Source Code Editor for the Web'
+author: azu
+layout: post
+itemUrl: 'http://blog.brackets.io/2015/04/27/brackets-1-3-release-is-here/'
+date: '2015-04-30T15:24:43.960Z'
+tags:
+  - JavaScript
+  - editor
+  - ReleaseNote
+---
+Brackets 1.3 リリース。
+bracketsコマンドの追加、Code Foldingのサポート、Brackets Health Dataというユーザ情報の収集する仕組みが入った

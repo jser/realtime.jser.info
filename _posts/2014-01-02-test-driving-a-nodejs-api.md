@@ -1,0 +1,16 @@
+---
+title: Test-driving a Node.JS API
+author: azu
+layout: post
+itemUrl: 'http://www.jorisooms.be/testing-your-node-api-with-supertest/'
+date: '2014-01-02T12:43:22.077Z'
+tags:
+  - node.js
+  - API
+  - testing
+  - tutorial
+relatedLinks:
+  - title: visionmedia/supertest
+    url: 'https://github.com/visionmedia/supertest'
+---
+supertestを使ったNodeアプリのAPIをテスト駆動開発していくチュートリアル

@@ -1,0 +1,12 @@
+---
+title: CoffeeScript
+author: azu
+layout: post
+itemUrl: 'http://coffeescript.org'
+date: '2013-03-27T15:00:00.000Z'
+tags:
+  - CoffeeScript
+  - ReleaseNote
+---
+CoffeeScript 1.6.1リリース
+source mapsのサポート、bug fix

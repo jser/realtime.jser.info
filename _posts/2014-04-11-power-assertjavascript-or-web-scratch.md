@@ -1,0 +1,14 @@
+---
+title: 'power-assertでJavaScriptのテストをする ブラウザ編 | Web scratch'
+author: azu
+layout: post
+itemUrl: 'http://efcl.info/2014/0411/res3820/'
+date: '2014-04-11T05:34:52.660Z'
+tags:
+  - JavaScript
+  - testing
+  - browser
+  - browserify
+---
+power-assertを使ったブラウザでのテストについて。
+testemを使った方法、browserifyとkarmaを使った方法、sourcemapでのデバッグについて書かれてる。

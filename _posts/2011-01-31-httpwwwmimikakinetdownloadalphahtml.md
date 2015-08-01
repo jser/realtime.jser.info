@@ -1,0 +1,10 @@
+---
+title: α版ダウンロード
+author: azu
+layout: post
+itemUrl: 'http://www.mimikaki.net/download/alpha.html'
+date: '2011-01-31T15:00:00.000Z'
+---
+Mac OS向けのエディタとして有名なmiのWindows版αがリリースされています。
+
+

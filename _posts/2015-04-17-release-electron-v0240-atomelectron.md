@@ -1,0 +1,12 @@
+---
+title: Release electron v0.24.0 · atom/electron
+author: azu
+layout: post
+itemUrl: 'https://github.com/atom/electron/releases/tag/v0.24.0'
+date: '2015-04-17T09:41:12.988Z'
+tags:
+  - atom
+  - ReleaseNote
+---
+Atom Shell 0.24.0リリース。
+Atom ShellはElectronにリネームされた

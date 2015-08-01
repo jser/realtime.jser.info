@@ -1,0 +1,14 @@
+---
+title: 'Promises and Generators: Control Flow Utopia'
+author: azu
+layout: post
+itemUrl: 'http://pag.forbeslindesay.co.uk/#/'
+date: '2013-10-20T08:26:59.487Z'
+tags:
+  - JavaScript
+  - Promise
+  - スライド
+---
+GeneratorとPromisesについてのスライド.
+コントールフローとエラーハンドリングをどう組み込んでいくのかの話
+http://www.youtube.com/watch?v=qbKWsbJ76-s

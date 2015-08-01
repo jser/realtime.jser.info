@@ -1,0 +1,12 @@
+---
+title: ES Weekly Newsletter
+author: azu
+layout: post
+itemUrl: 'http://esweekly.com/'
+date: '2015-04-16T15:05:41.502Z'
+tags:
+  - JavaScript
+  - ECMAScript
+  - mail
+---
+ECMAScriptについての週刊のメールマガジン

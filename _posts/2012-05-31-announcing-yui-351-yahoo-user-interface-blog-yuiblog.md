@@ -1,0 +1,10 @@
+---
+title: '『Announcing YUI 3.5.1 » Yahoo! User Interface Blog (YUIBlog)』'
+author: azu
+layout: post
+itemUrl: 'http://www.yuiblog.com/blog/2012/05/07/announcing-yui-3-5-1/'
+date: '2012-05-31T15:00:00.000Z'
+---
+YUI 3.5.1リリース。
+
+bug fixes

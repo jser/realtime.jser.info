@@ -1,0 +1,12 @@
+---
+title: サードパーティJavaScript【委託】 - 達人出版会
+author: azu
+layout: post
+itemUrl: 'http://tatsu-zine.com/books/3rdparty-javascript'
+date: '2014-02-05T01:38:37.439Z'
+tags:
+  - JavaScript
+  - book
+  - 電子書籍
+---
+サードパーティJavaScriptの電子書籍

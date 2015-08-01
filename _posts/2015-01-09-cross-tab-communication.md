@@ -1,0 +1,14 @@
+---
+title: Cross-tab Communication
+author: azu
+layout: post
+itemUrl: 'http://ponyfoo.com/articles/cross-tab-communication'
+date: '2015-01-09T01:31:31.478Z'
+tags:
+  - JavaScript
+relatedLinks:
+  - title: bevacqua/local-storage
+    url: 'https://github.com/bevacqua/local-storage'
+---
+localStorageを使ったタブ間のやり取りする方法。
+より簡単に行う`local-storage`というライブラリについて

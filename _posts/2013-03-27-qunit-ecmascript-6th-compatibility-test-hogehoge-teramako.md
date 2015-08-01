@@ -1,0 +1,12 @@
+---
+title: QUnit で ECMAScript 6th Compatibility Test を書いてみた - hogehoge @teramako
+author: azu
+layout: post
+itemUrl: 'http://d.hatena.ne.jp/teramako/20130317/p1'
+date: '2013-03-27T15:00:00.000Z'
+tags:
+  - javascript
+  - testing
+  - ECMA
+---
+ECMAScript compatibility tableのQunitで実行できるテストケース

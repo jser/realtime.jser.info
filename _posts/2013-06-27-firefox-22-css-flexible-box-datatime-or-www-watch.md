@@ -1,0 +1,11 @@
+---
+title: 'Firefox 22 が正式リリース CSS Flexible Box の有効化、data、time 要素のサポートなど | WWW WATCH'
+author: azu
+layout: post
+itemUrl: 'http://hyper-text.org/archives/2013/06/firefox_22_release.shtml'
+date: '2013-06-27T13:35:01.436Z'
+tags:
+  - firefox
+  - ReleaseNote
+---
+Firefox 22 での変更点について

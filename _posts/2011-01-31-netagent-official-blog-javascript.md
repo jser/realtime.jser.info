@@ -1,0 +1,12 @@
+---
+title: 'NetAgent Official Blog : 難読化JavaScriptで利用可能なテクニック'
+author: azu
+layout: post
+itemUrl: 'http://www.netagent-blog.jp/archives/51739962.html'
+date: '2011-01-31T15:00:00.000Z'
+---
+記号プログラミングと難読化エンコーダーの合わせ技でよい難読化を行う手法についての解説。
+
+eval 関数を使うところを、Firefox 独自実装の crypto.generateCRMFRequest メソッドを利用。
+
+evalについては<a href="http://perfectionkills.com/global-eval-what-are-the-options/" title="Perfection kills &#xBB; Global eval. What are the options?">Perfection kills » Global eval. What are the options?</a>がとても詳しい

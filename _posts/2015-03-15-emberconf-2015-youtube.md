@@ -1,0 +1,17 @@
+---
+title: EmberConf 2015 - YouTube
+author: azu
+layout: post
+itemUrl: 'https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU#emberconf'
+date: '2015-03-15T09:31:25.590Z'
+tags:
+  - JavaScript
+  - イベント
+  - 動画
+relatedLinks:
+  - title: poteto/emberconf-2015
+    url: 'https://github.com/poteto/emberconf-2015'
+---
+EmberConf 2015の動画一覧
+http://emberconf.com/
+

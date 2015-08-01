@@ -1,0 +1,8 @@
+---
+title: 'dynaTrace Browser Diagnostics now supporting Firefox 15 & 16 about:performance'
+author: azu
+layout: post
+itemUrl: 'http://blog.dynatrace.com/2012/10/31/dynatrace-browser-diagnostics-now-supporting-firefox-15-16/'
+date: '2012-10-31T15:00:00.000Z'
+---
+dynaTrace  Firefox 15 & 16をサポート

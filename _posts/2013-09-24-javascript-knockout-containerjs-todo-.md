@@ -1,0 +1,13 @@
+---
+title: '[JavaScript] Knockout + ContainerJS でテスタブルにToDoリストを作るチュートリアル - うなの日記'
+author: azu
+layout: post
+itemUrl: 'http://d.hatena.ne.jp/unageanu/20130923/1379916004'
+date: '2013-09-24T12:31:31.169Z'
+tags:
+  - JavaScript
+  - testing
+  - todo
+---
+KnockoutでMVVM、ContainerJSでDIをしてテストしやすい状態にしてアプリを作る。
+UI独自の状態や処理を管理するオブジェクトViewModelを作って、HTMLから分離してテストしやすくしている

@@ -1,0 +1,13 @@
+---
+title: Koa - next generation web framework for node.js
+author: azu
+layout: post
+itemUrl: 'http://koajs.com/'
+date: '2013-12-23T10:30:32.751Z'
+tags:
+  - node.js
+  - web
+  - library
+---
+Expressの人たちが作ってるNodeのウェブフレームワーク.
+Generatorが前提の構造になっており、Expressとアーキテクチャが違うので新規作成されてる。

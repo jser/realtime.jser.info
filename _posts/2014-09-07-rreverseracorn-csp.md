@@ -1,0 +1,17 @@
+---
+title: RReverser/acorn-csp
+author: azu
+layout: post
+itemUrl: 'https://github.com/RReverser/acorn-csp'
+date: '2014-09-07T07:40:21.910Z'
+tags:
+  - JavaScript
+  - library
+  - AST
+relatedLinks:
+  - title: Acorn-cspのできた流れ - efcl’s blog
+    url: 'http://efcl.hatenablog.com/entry/2014/09/07/022914'
+---
+acornのCSP対応版を生成するツール。
+`new Function`を使っているのを、
+AST変換を使ったインライン展開的な事をして対応してる

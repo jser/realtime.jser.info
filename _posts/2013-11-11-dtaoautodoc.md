@@ -1,0 +1,15 @@
+---
+title: dtao/autodoc
+author: azu
+layout: post
+itemUrl: 'https://github.com/dtao/autodoc'
+date: '2013-11-11T02:54:01.874Z'
+tags:
+  - JavaScript
+  - document
+  - AST
+  - testing
+  - Tools
+---
+JavaScriptでdoctestやベンチマークのアノテーションを使えるツール。
+またコメントからドキュメントも生成することが出来る

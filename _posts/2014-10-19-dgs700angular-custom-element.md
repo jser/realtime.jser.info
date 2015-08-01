@@ -1,0 +1,11 @@
+---
+title: dgs700/angular-custom-element
+author: azu
+layout: post
+itemUrl: 'https://github.com/dgs700/angular-custom-element'
+date: '2014-10-19T03:00:25.141Z'
+tags:
+  - AngularJS
+  - WebComponents
+---
+Angular2.0ではWeb Components対応が予定されているが、1.xでもCustom Elementsを使ってディレクティブを定義出来るようにするライブラリ

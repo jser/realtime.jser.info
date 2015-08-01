@@ -1,0 +1,13 @@
+---
+title: Effective Unit Testing with AMD - Bocoup
+author: azu
+layout: post
+itemUrl: 'http://weblog.bocoup.com/effective-unit-testing-with-amd/'
+date: '2013-12-16T13:14:15.760Z'
+tags:
+  - JavaScript
+  - AMD
+  - testing
+---
+ReuqireJSを使ったAMDのテスト手法について。
+requirejsのconfigを上手く使って、テストごとに毎回モジュールを読み込むようにしたり、モジュールのモック等を扱う方法

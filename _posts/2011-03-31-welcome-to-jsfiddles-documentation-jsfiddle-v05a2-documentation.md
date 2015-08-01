@@ -1,0 +1,10 @@
+---
+title: Welcome to jsFiddle’s documentation — jsFiddle v0.5a2 documentation
+author: azu
+layout: post
+itemUrl: 'http://doc.jsfiddle.net/'
+date: '2011-03-31T15:00:00.000Z'
+---
+jsFiddleのAPIドキュメント。
+
+GitHubとの連携もできる

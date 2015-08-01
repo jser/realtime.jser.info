@@ -1,0 +1,10 @@
+---
+title: doT.js - the fastest and concise javascript template engine for Node.js and browsers
+author: azu
+layout: post
+itemUrl: 'http://olado.github.com/doT/'
+date: '2013-01-31T15:00:00.000Z'
+---
+JavaScriptテンプレートエンジン.
+
+V8(Node)でのパフォーマンスを意識して作られてる

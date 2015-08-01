@@ -1,0 +1,16 @@
+---
+title: ESLint 0.22.0 released - ESLint - Pluggable JavaScript linter
+author: azu
+layout: post
+itemUrl: 'http://eslint.org/blog/2015/06/eslint-0.22.0-released'
+date: '2015-05-31T11:24:49.919Z'
+tags:
+  - Tools
+  - JavaScript
+  - ReleaseNote
+relatedLinks:
+  - title: format
+    url: 'http://eslint.org/docs/developer-guide/working-with-rules'
+---
+ESLint 0.22.0リリース
+ルールプラグインに設定のバリデーション用のJSON Schemaを書けるように、.eslintrcの設定ファイルをバリデーションできるように

@@ -1,0 +1,8 @@
+---
+title: 'Markdown・Textile・Wiki記法をサポートしたJavaScript製ドキュメントフレームワーク「Invisible.js」を公開しました(オープンソース) | Chrome Life'
+author: azu
+layout: post
+itemUrl: 'http://www.chrome-life.com/javascript/554/'
+date: '2011-06-30T15:00:00.000Z'
+---
+Markdown・Textile・Wiki記法などで書いたドキュメントを読み込んで表示させるドキュメントフレームワーク

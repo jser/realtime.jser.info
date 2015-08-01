@@ -1,0 +1,14 @@
+---
+title: Snap.svg - Home
+author: azu
+layout: post
+itemUrl: 'http://snapsvg.io/'
+date: '2013-10-24T14:03:40.127Z'
+tags:
+  - adobe
+  - SVG
+  - library
+---
+モダンブラウザ向けのSVGライブラリ.
+Raphaëlと違ってSVG subsetが実装されてるブラウザを対象として、SVGの操作などを行える。
+Raphaëlの作者によって書かれてる

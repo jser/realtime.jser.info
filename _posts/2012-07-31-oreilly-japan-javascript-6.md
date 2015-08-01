@@ -1,0 +1,14 @@
+---
+title: "O'Reilly Japan - JavaScript 第6版"
+author: azu
+layout: post
+itemUrl: 'http://www.oreilly.co.jp/books/9784873115733/'
+date: '2012-07-31T15:00:00.000Z'
+---
+2012年08月10日発売
+
+JavaScript(サイ本) 第6版の日本語版
+
+JavaScriptリファレンスも同時に発売
+
+http://bit.ly/Mtowlb

@@ -1,0 +1,13 @@
+---
+title: Parse data files using Node.js streams - Nicolas Hery
+author: azu
+layout: post
+itemUrl: 'http://nicolashery.com/parse-data-files-using-nodejs-streams/'
+date: '2014-02-23T03:56:36.763Z'
+tags:
+  - node.js
+  - stream
+  - tutorial
+---
+node streamを使ってCSVをJSONに変換するTransform streamのチュートリアル。
+

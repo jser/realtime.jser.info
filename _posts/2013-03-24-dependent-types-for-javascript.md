@@ -1,0 +1,16 @@
+---
+title: Dependent Types for JavaScript
+author: azu
+layout: post
+itemUrl: 'http://www.infoq.com/presentations/Type-System-JavaScript'
+date: '2013-03-24T01:42:24.124Z'
+tags:
+  - javascript
+  - PDF
+  - スライド
+  - 動画
+---
+JavaScript論文 - DJS(Dependent JavaScript) についての発表
+Logicなアプローチ/型コメント
+http://cseweb.ucsd.edu/~rchugh/research/nested/djs.pdf
+https://github.com/ravichugh/djs

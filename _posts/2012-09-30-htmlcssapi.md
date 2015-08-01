@@ -1,0 +1,16 @@
+---
+title: HTMLとかCSSとかAPIとか
+author: azu
+layout: post
+itemUrl: 'http://myakura.github.com/pachystachys/slides.html#21.0'
+date: '2012-09-30T15:00:00.000Z'
+---
+最近仕様に関するスライド(myakura)
+
+FlexBox、CSS Selector Level4、Cascading Variables、@supports,@document等
+
+Event Constructors、Mutation Observers、Timing API、Web Components
+
+
+
+

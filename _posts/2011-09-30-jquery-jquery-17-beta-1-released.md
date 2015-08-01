@@ -1,0 +1,22 @@
+---
+title: 'jQuery: » jQuery 1.7 Beta 1 Released'
+author: azu
+layout: post
+itemUrl: 'http://blog.jquery.com/2011/09/28/jquery-1-7-beta-1-released/'
+date: '2011-09-30T15:00:00.000Z'
+---
+jQuery 1.7βリリース
+
+* bind,live,delegateがNode.jsやAddon SDKのように$(elem).on/offでイベント設定ができるようになった。
+
+* animationがqueue namesをサポート
+
+* removeAttrが複数の属性削除をサポート
+
+* jQueryをReuqireJSのようなAMDローダーでモジュール登録できるのをサポート
+
+など
+
+
+
+http://addyosmani.com/blog/jquery-17-preview/ も参考に

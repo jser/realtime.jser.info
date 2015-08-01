@@ -1,0 +1,12 @@
+---
+title: estree/estree
+author: azu
+layout: post
+itemUrl: 'https://github.com/estree/estree'
+date: '2015-02-12T22:46:46.664Z'
+tags:
+  - ECMAScript
+  - JavaScript
+  - AST
+---
+SpiderMonkey Parser APIのASTについてがGitHubに移行し、ES6についてのドキュメント化が開始された

@@ -1,0 +1,11 @@
+---
+title: How fast are web workers? ✩ Mozilla Hacks – the Web developer blog
+author: azu
+layout: post
+itemUrl: 'https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/'
+date: '2015-07-06T13:30:06.467Z'
+tags:
+  - webworker
+  - firefox
+---
+WebWorkerやSharedWorkerの起動コスト、メッセージの転送速度について

@@ -1,0 +1,8 @@
+---
+title: Continuously integrated JS development with Buster.js and Phantom.js
+author: azu
+layout: post
+itemUrl: 'http://trodrigues.net/presentations/buster-ci/#/'
+date: '2012-05-31T15:00:00.000Z'
+---
+BusterJSとPhantomJSを使ってCIについてのスライド

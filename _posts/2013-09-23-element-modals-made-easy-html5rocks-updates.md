@@ -1,0 +1,12 @@
+---
+title: 'element: Modals made easy - HTML5Rocks Updates'
+author: azu
+layout: post
+itemUrl: 'http://updates.html5rocks.com/2013/09/dialog-element-Modals-made-easy'
+date: '2013-09-23T10:48:15.844Z'
+tags:
+  - HTML
+  - JavaScript
+---
+ChromeでHTML dialog要素のサポート。
+JavaScript API、CSSの擬似要素、polyfillを使ったデモについて
