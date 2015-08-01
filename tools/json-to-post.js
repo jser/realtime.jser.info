@@ -51,7 +51,7 @@ function creteSafeSlug(item) {
 }
 function createPostFrom(item) {
     var postDir = path.join(__dirname, "..", "_posts");
-    var fileName = moment(item.date).format("YYYY-MM-DD") + "-" + creteSafeSlug(item) + ".md";
+    var fileName = moment.utc(item.date).format("YYYY-MM-DD") + "-" + creteSafeSlug(item) + ".md";
     fs.writeFileSync(path.join(postDir, fileName), createPost(item), "utf8");
 }
 
