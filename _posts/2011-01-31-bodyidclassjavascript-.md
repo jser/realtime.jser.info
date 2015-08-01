@@ -1,8 +1,0 @@
----
-title: body要素のid属性またはclass属性をJavaScriptのディスパッチャーに使う - あと味
-author: azu
-layout: post
-itemUrl: 'http://d.hatena.ne.jp/jdg/20110118/1295310812'
-date: '2011-01-31T15:00:00.000Z'
----
-jsファイルを一つにまとめたときに実行スクリプトを振り分けするために、bodyのid属性,class属性を元に判断するディスパッチャー関数。

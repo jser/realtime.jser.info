@@ -1,8 +1,0 @@
----
-title: 『m6tt/less-boilerplate - GitHub』
-author: azu
-layout: post
-itemUrl: 'https://github.com/m6tt/less-boilerplate'
-date: '2012-01-31T15:00:00.000Z'
----
-html5-boilerplateのlessバージョン

@@ -1,8 +1,0 @@
----
-title: jQuery Blog » jQuery 1.8.2 Released
-author: azu
-layout: post
-itemUrl: 'http://blog.jquery.com/2012/09/20/jquery-1-8-2-released/'
-date: '2012-09-30T15:00:00.000Z'
----
-jQuery 1.8.2リリース

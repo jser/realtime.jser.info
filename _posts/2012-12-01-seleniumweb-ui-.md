@@ -1,8 +1,0 @@
----
-title: Seleniumを使ったWeb UI自動テストシステムの構築でやったことまとめ - うなの日記
-author: azu
-layout: post
-itemUrl: 'http://d.hatena.ne.jp/unageanu/20111031/1320016739'
-date: '2012-11-30T15:00:00.000Z'
----
-Seleniumを使ったUI自動テストのセオリー、気をつけること

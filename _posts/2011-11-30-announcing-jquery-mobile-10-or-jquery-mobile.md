@@ -1,8 +1,0 @@
----
-title: '『Announcing jQuery Mobile 1.0 | jQuery Mobile』'
-author: azu
-layout: post
-itemUrl: 'http://jquerymobile.com/blog/2011/11/16/announcing-jquery-mobile-1-0/'
-date: '2011-11-30T15:00:00.000Z'
----
-jQuery Mobile 1.0正式リリース

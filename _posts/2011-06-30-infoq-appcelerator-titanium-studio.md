@@ -1,8 +1,0 @@
----
-title: 'InfoQ: Appcelerator の Titanium Studio がデビュー'
-author: azu
-layout: post
-itemUrl: 'http://www.infoq.com/jp/news/2011/06/Appcelerator-Titanium-Studio'
-date: '2011-06-30T15:00:00.000Z'
----
-Titanium Studio 1.0リリースについて

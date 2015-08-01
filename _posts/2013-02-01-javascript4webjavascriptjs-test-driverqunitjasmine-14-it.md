@@ -1,8 +1,0 @@
----
-title: フレームワークで実践！ JavaScriptテスト入門（4）：WebブラウザでJavaScriptをテストする「js-test-driver」とQUnit、Jasmineを連携してテストするには (1/4) - ＠IT
-author: azu
-layout: post
-itemUrl: 'http://www.atmarkit.co.jp/ait/articles/1301/21/news017.html'
-date: '2013-01-31T15:00:00.000Z'
----
-JSTDとQUnit,Jasmine adapterについて

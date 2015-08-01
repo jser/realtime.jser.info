@@ -1,8 +1,0 @@
----
-title: Mindscape Blog » Blog Archive » Visual Studio + Sass + Less + CoffeeScript = Web Workbench
-author: azu
-layout: post
-itemUrl: 'http://www.mindscapehq.com/blog/index.php/2011/07/14/visual-studio-sass-less-coffeescript-web-workbench/'
-date: '2011-07-31T15:00:00.000Z'
----
-Visual StudioでSass,Less,CoffeeScriptに対応する拡張機能

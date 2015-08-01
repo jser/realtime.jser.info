@@ -1,8 +1,0 @@
----
-title: 'コードで一言: CoffeeScriptで学ぶ Underscore.js 01（Collection編）'
-author: azu
-layout: post
-itemUrl: 'http://codedehitokoto.blogspot.com/2012/06/coffeescript-undersorejs-01collection.html'
-date: '2012-09-30T15:00:00.000Z'
----
-CoffeeScriptでUnderscoreのメソッド解説(全15回)

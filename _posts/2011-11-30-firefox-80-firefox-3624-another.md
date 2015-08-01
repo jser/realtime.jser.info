@@ -1,8 +1,0 @@
----
-title: Firefox 8.0 と Firefox 3.6.24 リリース - Another 朝顔日記
-author: azu
-layout: post
-itemUrl: 'http://d.hatena.ne.jp/nyama/20111109/1320853180'
-date: '2011-11-30T15:00:00.000Z'
----
-Firefox8.0リリース

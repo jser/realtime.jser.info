@@ -1,8 +1,0 @@
----
-title: '『JavaScriptコードのパフォーマンス比較ができるWebサービス「jsPerf」の使い方 | Web scratch』'
-author: azu
-layout: post
-itemUrl: 'http://efcl.info/2011/0303/res2330/'
-date: '2011-03-31T15:00:00.000Z'
----
-jsPerfでベンチマークを比較して記録

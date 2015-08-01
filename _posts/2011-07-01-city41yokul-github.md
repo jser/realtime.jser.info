@@ -1,8 +1,0 @@
----
-title: city41/yokul - GitHub
-author: azu
-layout: post
-itemUrl: 'https://github.com/city41/yokul'
-date: '2011-06-30T15:00:00.000Z'
----
-Google Chart APIと同じクエリでCanvasを使って同じようなグラフを描画するライブラリ
