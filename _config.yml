@@ -18,9 +18,6 @@ exclude:
   - "vendor"
   - "node_modules"
 # Build settings
-paginate: 10
-paginate_path: "page/:num"
-permalink: /:year/:month/:day/:title/
 markdown: kramdown
 exclude:
     - node_modules
