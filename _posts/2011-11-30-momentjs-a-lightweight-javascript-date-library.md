@@ -1,0 +1,10 @@
+---
+title: 『Moment.js - A lightweight javascript date library』
+author: azu
+layout: post
+itemUrl: 'http://momentjs.com/'
+date: '2011-11-30T15:00:00.000Z'
+---
+日付処理ライブラリ。
+
+i18N対応、フォーマット指定

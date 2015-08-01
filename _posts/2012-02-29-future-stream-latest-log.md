@@ -1,0 +1,8 @@
+---
+title: Future と Stream という同期/非同期処理の混在をシンプルにコード化できる車輪を再発明したよ - latest log
+author: azu
+layout: post
+itemUrl: 'http://uupaa.hatenablog.com/entry/2012/02/07/165501'
+date: '2012-02-29T15:00:00.000Z'
+---
+文字列で同期/非同期処理の順番やwaitを指定して実行する仕組み

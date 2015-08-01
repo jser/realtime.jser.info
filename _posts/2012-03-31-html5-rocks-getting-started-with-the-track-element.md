@@ -1,0 +1,8 @@
+---
+title: 『HTML5 Rocks - Getting Started With the Track Element』
+author: azu
+layout: post
+itemUrl: 'http://www.html5rocks.com/en/tutorials/track/basics/'
+date: '2012-03-31T15:00:00.000Z'
+---
+動画に字幕とかテキスト表示するtrack要素の使い方。

@@ -1,0 +1,8 @@
+---
+title: 『Kyosuke hamalog (Sass と LESS 以外の選択肢 Stylus)』
+author: azu
+layout: post
+itemUrl: 'http://kyosuke.tumblr.com/post/14003234226/stylus'
+date: '2011-12-31T15:00:00.000Z'
+---
+Stylusの紹介

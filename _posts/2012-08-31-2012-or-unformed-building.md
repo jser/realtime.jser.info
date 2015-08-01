@@ -1,0 +1,8 @@
+---
+title: 'サイト制作時のメモ 2012年前半 | Unformed Building'
+author: azu
+layout: post
+itemUrl: 'http://unformedbuilding.com/articles/webdevelopment-memo-2012-first-half/'
+date: '2012-08-31T15:00:00.000Z'
+---
+Graceful Degradation、多言語対応(アジア系)、Android/iOSのモバイル対応について注意点や参考サイトなどについて

@@ -1,0 +1,8 @@
+---
+title: sinon.jsとlib/spy.jsを読んだ。 - ryuone日記(2012-05-27)
+author: azu
+layout: post
+itemUrl: 'http://www.ryuone.com/diary/20120527.html#p01'
+date: '2012-06-30T15:00:00.000Z'
+---
+Sinon.jsコードリーディング

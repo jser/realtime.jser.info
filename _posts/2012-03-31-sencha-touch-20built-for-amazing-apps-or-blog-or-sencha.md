@@ -1,0 +1,8 @@
+---
+title: '『Sencha Touch 2.0—Built for Amazing Apps | Blog | Sencha』'
+author: azu
+layout: post
+itemUrl: 'http://www.sencha.com/blog/announcing-sencha-touch-2'
+date: '2012-03-31T15:00:00.000Z'
+---
+Sencha Touch 2.0リリース

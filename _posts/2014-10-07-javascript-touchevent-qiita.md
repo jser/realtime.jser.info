@@ -1,0 +1,14 @@
+---
+title: JavaScript - 本当にあったTouchEventの怖い話 - Qiita
+author: azu
+layout: post
+itemUrl: 'http://qiita.com/damele0n/items/dc312bbf66da1d46dd6f'
+date: '2014-10-07T15:09:38.766Z'
+tags:
+  - mobile
+  - JavaScript
+  - Android
+  - ios
+---
+Android、iOSでのTouchEventを生成してdispatchする方法について。
+独自仕様の`initTouchEvent`についてやPolyfillについて

@@ -1,0 +1,10 @@
+---
+title: danwrong/loadrunner - GitHub
+author: azu
+layout: post
+itemUrl: 'https://github.com/danwrong/loadrunner'
+date: '2011-02-28T15:00:00.000Z'
+---
+依存関係解決、非同期ローダ。
+
+コマンドラインのビルドツールが付いていて一つのminifyされたファイルにまとめることもできる。

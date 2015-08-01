@@ -1,0 +1,10 @@
+---
+title: 'Web Performance: When millisecond resolution just isn’t enough - IEBlog - Site Home - MSDN Blogs'
+author: azu
+layout: post
+itemUrl: 'http://blogs.msdn.com/b/ie/archive/2012/10/19/web-performance-when-millisecond-resolution-just-isn-t-enough.aspx'
+date: '2012-10-31T15:00:00.000Z'
+---
+Date.now()とPerformance.now()の違い。
+
+iframe等複数のコンテキストがカラム計測ではPerformance.now()は相対的にも単純に計測できる

@@ -1,0 +1,13 @@
+---
+title: Next Mobile WebApplication // Speaker Deck
+author: azu
+layout: post
+itemUrl: 'https://speakerdeck.com/uupaa/next-mobile-webapplication'
+date: '2013-12-02T15:46:46.488Z'
+tags:
+  - JavaScript
+  - mobile
+  - スライド
+---
+WebAudio, 高解像度Canvas, Command patternとCanvasの親和性について。
+WebWorkerのTransferable objects、ウェブアプリのキャッシュについて
