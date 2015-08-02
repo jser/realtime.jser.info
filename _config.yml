@@ -15,10 +15,11 @@ exclude:
   - "bower.json"
   - "package.json"
   - "test/"
+  - "tools/"
   - "vendor"
   - "node_modules"
 # Build settings
 permalink: pretty
 markdown: redcarpet
 sass:
-    sass_dir: css
+  sass_dir: public/_scss
