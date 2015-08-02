@@ -3,6 +3,7 @@ title: 'Home | Durandal'
 author: azu
 layout: post
 itemUrl: 'http://durandaljs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-25T04:13:48.361Z'
 tags:
   - JavaScript

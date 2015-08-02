@@ -3,6 +3,7 @@ title: Cross-tab Communication
 author: azu
 layout: post
 itemUrl: 'http://ponyfoo.com/articles/cross-tab-communication'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-09T01:31:31.478Z'
 tags:
   - JavaScript

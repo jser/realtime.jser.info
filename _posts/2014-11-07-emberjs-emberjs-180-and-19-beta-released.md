@@ -3,6 +3,7 @@ title: Ember.js - Ember.js 1.8.0 and 1.9 Beta Released
 author: azu
 layout: post
 itemUrl: 'http://emberjs.com/blog/2014/10/26/ember-1-8-0-released.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-07T02:41:51.444Z'
 tags:
   - JavaScript

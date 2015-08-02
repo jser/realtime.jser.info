@@ -3,6 +3,7 @@ title: "don't code today what you can't debug tomorrow: PhantomJS: minimalistic 
 author: azu
 layout: post
 itemUrl: 'http://ariya.blogspot.com/2011/01/phantomjs-minimalistic-headless-webkit.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 JavaScriptファイルを実行できるWebkitベースのコマンドラインツール

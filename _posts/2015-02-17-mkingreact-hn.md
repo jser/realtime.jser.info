@@ -3,6 +3,7 @@ title: mking/react-hn
 author: azu
 layout: post
 itemUrl: 'https://github.com/mking/react-hn'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-17T02:02:37.354Z'
 tags:
   - React

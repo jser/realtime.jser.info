@@ -3,6 +3,7 @@ title: is.js - micro check library
 author: azu
 layout: post
 itemUrl: 'http://arasatasaygin.github.io/is.js/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-29T15:38:37.349Z'
 tags:
   - JavaScript

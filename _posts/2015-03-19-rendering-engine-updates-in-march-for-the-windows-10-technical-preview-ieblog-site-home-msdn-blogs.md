@@ -3,6 +3,7 @@ title: Rendering engine updates in March for the Windows 10 Technical Preview - 
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2015/03/18/rendering-engine-updates-in-march-for-the-windows-10-technical-preview.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-19T04:05:28.897Z'
 tags:
   - IE

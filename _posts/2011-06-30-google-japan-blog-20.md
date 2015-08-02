@@ -3,6 +3,7 @@ title: 'Google Japan Blog: ブラウザやウェブについて知っておき�
 author: azu
 layout: post
 itemUrl: 'http://googlejapan.blogspot.com/2011/06/20.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
 date: '2011-06-30T15:00:00.000Z'
 ---
 ブラウザを常に最新にする理由やWebである利点などについてわかりやすい説明をしている絵本的なもの

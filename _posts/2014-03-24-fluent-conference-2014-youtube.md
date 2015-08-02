@@ -3,6 +3,7 @@ title: Fluent Conference 2014 - YouTube
 author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-24T02:56:39.071Z'
 tags:
   - JavaScript

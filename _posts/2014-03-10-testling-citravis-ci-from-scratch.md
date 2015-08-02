@@ -3,6 +3,7 @@ title: testling-ciとtravis-ciでクライアントサイドもサーバサイ�
 author: azu
 layout: post
 itemUrl: 'http://yosuke-furukawa.hatenablog.com/entry/2014/03/08/115537'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-10T07:17:34.579Z'
 tags:
   - browserify

@@ -3,6 +3,7 @@ title: Writing Testable JavaScript · An A List Apart Article
 author: azu
 layout: post
 itemUrl: 'http://alistapart.com/article/writing-testable-javascript'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-25T06:28:17.320Z'
 tags:
   - JavaScript

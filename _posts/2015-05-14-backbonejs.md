@@ -3,6 +3,7 @@ title: Backbone.js
 author: azu
 layout: post
 itemUrl: 'http://backbonejs.org'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-14T04:01:44.402Z'
 tags:
   - backbone.js

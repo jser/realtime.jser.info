@@ -3,6 +3,7 @@ title: 'iOS 8 and iPhone 6 for web developers and designers: next evolution for 
 author: azu
 layout: post
 itemUrl: 'http://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-21T03:34:52.175Z'
 tags:
   - ios

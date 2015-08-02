@@ -3,6 +3,7 @@ title: vesln/jsmd
 author: azu
 layout: post
 itemUrl: 'https://github.com/vesln/jsmd'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-13T00:44:05.716Z'
 tags:
   - node.js

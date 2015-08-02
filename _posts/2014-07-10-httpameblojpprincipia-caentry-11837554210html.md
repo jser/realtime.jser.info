@@ -3,6 +3,7 @@ title: コードのバグはコードで見つけよう！｜サイバーエー�
 author: azu
 layout: post
 itemUrl: 'http://ameblo.jp/principia-ca/entry-11837554210.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-10T13:43:40.956Z'
 tags:
   - JavaScript

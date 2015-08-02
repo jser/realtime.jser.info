@@ -3,6 +3,7 @@ title: Intro to Web Workers · Zapier
 author: azu
 layout: post
 itemUrl: 'https://zapier.com/engineering/intro-to-web-workers/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
 date: '2013-06-14T06:25:19.333Z'
 tags:
   - JavaScript

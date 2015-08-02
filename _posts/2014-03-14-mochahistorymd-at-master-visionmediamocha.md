@@ -3,6 +3,7 @@ title: mocha/History.md at master · visionmedia/mocha
 author: azu
 layout: post
 itemUrl: 'https://github.com/visionmedia/mocha/blob/master/History.md#1180--2014-03-13'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-14T01:58:03.461Z'
 tags:
   - node.js

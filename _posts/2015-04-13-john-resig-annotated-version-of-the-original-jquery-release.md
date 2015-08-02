@@ -3,6 +3,7 @@ title: John Resig - Annotated Version of the Original jQuery Release
 author: azu
 layout: post
 itemUrl: 'http://ejohn.org/blog/annotated-version-of-the-original-jquery-release/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-13T14:51:33.310Z'
 tags:
   - jQuery

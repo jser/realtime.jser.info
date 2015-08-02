@@ -3,6 +3,7 @@ title: 'Tagtree course: Expert ES6'
 author: azu
 layout: post
 itemUrl: 'http://tagtree.io/courses/expert-es6/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-12T02:32:16.721Z'
 tags:
   - JavaScript

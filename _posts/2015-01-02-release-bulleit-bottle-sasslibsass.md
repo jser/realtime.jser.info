@@ -3,6 +3,7 @@ title: Release Bulleit Bottle · sass/libsass
 author: azu
 layout: post
 itemUrl: 'https://github.com/sass/libsass/releases/tag/3.1.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-02T12:27:47.752Z'
 tags:
   - Sass

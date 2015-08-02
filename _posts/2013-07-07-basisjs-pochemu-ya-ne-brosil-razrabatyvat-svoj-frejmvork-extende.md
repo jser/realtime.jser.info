@@ -3,6 +3,7 @@ title: Basis.js - почему я не бросил разрабатывать �
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/basisjs/basisjs-fronttalks'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-07T03:49:06.583Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: DOM Performance (JSNext Bulgaria)
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/ickatanet/dom-performance-jsnext-bulgaria'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-24T12:55:40.764Z'
 tags:
   - DOM

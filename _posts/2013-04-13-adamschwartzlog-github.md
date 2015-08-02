@@ -3,6 +3,7 @@ title: adamschwartz/log · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/adamschwartz/log'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
 date: '2013-04-13T00:59:45.626Z'
 tags:
   - デバック

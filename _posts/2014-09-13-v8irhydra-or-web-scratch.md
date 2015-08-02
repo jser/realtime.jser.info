@@ -3,6 +3,7 @@ title: 'V8の最適化とIRHydraでの可視化とベンチマークについて
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/09/13/v8-optimization-memo/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-13T15:36:30.779Z'
 tags:
   - JavaScript

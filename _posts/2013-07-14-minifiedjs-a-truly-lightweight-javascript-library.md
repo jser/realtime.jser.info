@@ -3,6 +3,7 @@ title: Minified.js - A Truly Lightweight JavaScript Library
 author: azu
 layout: post
 itemUrl: 'http://minifiedjs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-14T01:22:44.449Z'
 tags:
   - JavaScript

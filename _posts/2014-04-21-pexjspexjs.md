@@ -3,6 +3,7 @@ title: PexJS/PexJS
 author: azu
 layout: post
 itemUrl: 'https://github.com/PexJS/PexJS'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-21T06:58:53.065Z'
 tags:
   - JavaScript

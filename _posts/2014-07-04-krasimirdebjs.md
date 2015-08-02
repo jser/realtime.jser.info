@@ -3,6 +3,7 @@ title: krasimir/deb.js
 author: azu
 layout: post
 itemUrl: 'https://github.com/krasimir/deb.js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-04T13:39:09.084Z'
 tags:
   - JavaScript

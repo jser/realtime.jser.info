@@ -3,6 +3,7 @@ title: アドビの新プロジェクト：JavaScript で WebGL シェーダを�
 author: azu
 layout: post
 itemUrl: 'http://cuaoar.jp/2013/10/javascript-webgl-shaderd.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-04T00:16:36.917Z'
 tags:
   - WebGL

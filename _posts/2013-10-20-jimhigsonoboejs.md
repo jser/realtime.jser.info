@@ -3,6 +3,7 @@ title: jimhigson/oboe.js
 author: azu
 layout: post
 itemUrl: 'https://github.com/jimhigson/oboe.js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-20T11:27:12.606Z'
 tags:
   - JSON

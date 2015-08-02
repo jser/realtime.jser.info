@@ -3,6 +3,7 @@ title: 'Authoring & development workflow - Chrome DevTools — Google Developers
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/chrome-developer-tools/docs/authoring-development-workflow'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-11T09:05:56.283Z'
 tags:
   - JavaScript

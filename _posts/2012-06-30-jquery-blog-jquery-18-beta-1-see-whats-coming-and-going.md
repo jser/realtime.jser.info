@@ -3,6 +3,7 @@ title: 'jQuery Blog » jQuery 1.8 Beta 1: See What’s Coming (and Going!)'
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2012/06/22/jquery-1-8-beta-1-see-whats-coming-and-going/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
 date: '2012-06-30T15:00:00.000Z'
 ---
 jQuery 1.8β1リリース.

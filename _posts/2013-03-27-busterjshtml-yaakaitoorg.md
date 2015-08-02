@@ -3,6 +3,7 @@ title: BusterJSでテストに使うHTMLの設定と手動実行 - yaakaito.org
 author: azu
 layout: post
 itemUrl: 'http://yaakaito.github.com/blog/2013/03/01/buster-testbed-and-boot/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - BusterJS

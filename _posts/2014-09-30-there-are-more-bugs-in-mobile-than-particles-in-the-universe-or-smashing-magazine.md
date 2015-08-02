@@ -3,6 +3,7 @@ title: '“There Are More Bugs In Mobile Than... Particles In The Universe!” |
 author: azu
 layout: post
 itemUrl: 'http://www.smashingmagazine.com/2014/09/30/mobile-web-handbook-release/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-30T12:44:19.044Z'
 tags:
   - ios

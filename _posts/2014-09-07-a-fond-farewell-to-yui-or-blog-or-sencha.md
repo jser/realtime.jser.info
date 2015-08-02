@@ -3,6 +3,7 @@ title: 'A Fond Farewell to YUI | Blog | Sencha'
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/a-fond-farewell-to-yui/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-07T08:13:40.428Z'
 tags:
   - JavaScript

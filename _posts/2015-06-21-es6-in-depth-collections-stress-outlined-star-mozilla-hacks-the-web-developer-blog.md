@@ -3,6 +3,7 @@ title: 'ES6 In Depth: Collections ✩ Mozilla Hacks – the Web developer blog'
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2015/06/es6-in-depth-collections/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-21T03:45:28.694Z'
 tags:
   - ECMAScript

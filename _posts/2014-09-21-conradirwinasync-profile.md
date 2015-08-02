@@ -3,6 +3,7 @@ title: ConradIrwin/async-profile
 author: azu
 layout: post
 itemUrl: 'https://github.com/ConradIrwin/async-profile'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-21T04:11:09.048Z'
 tags:
   - JavaScript

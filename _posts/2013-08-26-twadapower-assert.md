@@ -3,6 +3,7 @@ title: twada/power-assert
 author: azu
 layout: post
 itemUrl: 'https://github.com/twada/power-assert'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-26T12:32:38.886Z'
 tags:
   - JavaScript

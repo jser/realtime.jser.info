@@ -3,6 +3,7 @@ title: Release v1.10.0 · cjohansen/Sinon.JS
 author: azu
 layout: post
 itemUrl: 'https://github.com/cjohansen/Sinon.JS/releases/tag/v1.10.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-20T12:40:42.788Z'
 tags:
   - JavaScript

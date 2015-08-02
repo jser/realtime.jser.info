@@ -3,6 +3,7 @@ title: 'Chromium Blog: Chrome 39 Beta: JS Generators, Animation Playback Control
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2014/10/chrome-39-beta-js-generators-animation.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-24T14:03:38.009Z'
 tags:
   - Chrome

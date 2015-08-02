@@ -3,6 +3,7 @@ title: 'Yeoman Update: announcing 1.0 beta 4, Windows support, Refreshed Angular
 author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/blog/yeoman-update-announcing-1-0-beta-4/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
 date: '2013-04-15T13:22:40.656Z'
 tags:
   - JavaScript

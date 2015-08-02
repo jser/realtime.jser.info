@@ -3,6 +3,7 @@ title: IE11 の F12 開発者ツールによる Web サイトおよびアプリ�
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie_ja/archive/2013/08/07/debugging-and-tuning-web-sites-and-apps-with-f12-developer-tools-in-ie11.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-08T08:53:01.019Z'
 tags:
   - IE

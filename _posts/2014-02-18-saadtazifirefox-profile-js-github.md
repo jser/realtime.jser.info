@@ -3,6 +3,7 @@ title: saadtazi/firefox-profile-js · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/saadtazi/firefox-profile-js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-18T12:26:19.542Z'
 tags:
   - firefox

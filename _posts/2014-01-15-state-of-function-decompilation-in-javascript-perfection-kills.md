@@ -3,6 +3,7 @@ title: State of function decompilation in Javascript — Perfection Kills
 author: azu
 layout: post
 itemUrl: 'http://perfectionkills.com/state-of-function-decompilation-in-javascript/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-15T00:55:43.414Z'
 tags:
   - JavaScript

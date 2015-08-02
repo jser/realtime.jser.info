@@ -3,6 +3,7 @@ title: Windows 8.1 Update での F12 の新機能 - IEBlog 日本語 - Site Home
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie_ja/archive/2014/04/21/whats-new-in-f12-w-windows-8-1-update.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-22T03:01:34.470Z'
 tags:
   - IE

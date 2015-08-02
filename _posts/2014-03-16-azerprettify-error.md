@@ -3,6 +3,7 @@ title: azer/prettify-error
 author: azu
 layout: post
 itemUrl: 'https://github.com/azer/prettify-error'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-16T06:37:07.123Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: wearefractal/gulp
 author: azu
 layout: post
 itemUrl: 'https://github.com/wearefractal/gulp/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-21T15:47:02.978Z'
 tags:
   - JavaScript

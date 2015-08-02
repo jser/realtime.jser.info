@@ -3,6 +3,7 @@ title: Release 4.0 “Indivisibiliter ac Inseparabiliter” · postcss/autoprefi
 author: azu
 layout: post
 itemUrl: 'https://github.com/postcss/autoprefixer/releases/tag/4.0.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-14T01:51:25.824Z'
 tags:
   - CSS

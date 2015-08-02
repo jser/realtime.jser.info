@@ -3,6 +3,7 @@ title: uxebu/mocha-sinon-traceur-example
 author: azu
 layout: post
 itemUrl: 'https://github.com/uxebu/mocha-sinon-traceur-example'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-20T09:18:19.971Z'
 tags:
   - ECMAScript

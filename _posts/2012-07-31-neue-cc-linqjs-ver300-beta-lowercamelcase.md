@@ -3,6 +3,7 @@ title: 'neue cc - linq.js ver.3.0.0-beta, メソッドlowerCamelCase化、など
 author: azu
 layout: post
 itemUrl: 'http://neue.cc/2012/07/20_378.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
 date: '2012-07-31T15:00:00.000Z'
 ---
 C#のLINQライクに使えるlinq.js 3.0.0βリリース。

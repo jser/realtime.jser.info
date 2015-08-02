@@ -3,6 +3,7 @@ title: 'WebStorm 8 Beta (build 134.1503) | JetBrains WebStorm Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/03/webstorm-8-beta/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-11T01:46:02.359Z'
 tags:
   - WebStorm

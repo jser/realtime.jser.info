@@ -3,6 +3,7 @@ title: PhantomJS 2 · ariya/phantomjs Wiki
 author: azu
 layout: post
 itemUrl: 'https://github.com/ariya/phantomjs/wiki/PhantomJS-2'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-19T02:30:45.212Z'
 tags:
   - webkit

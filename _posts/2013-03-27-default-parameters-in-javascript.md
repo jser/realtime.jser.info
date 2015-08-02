@@ -3,6 +3,7 @@ title: Default Parameters in JavaScript
 author: azu
 layout: post
 itemUrl: 'http://designpepper.com/blog/drips/default-parameters-in-javascript'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - javascript

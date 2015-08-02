@@ -3,6 +3,7 @@ title: Yeoman - Modern workflows for modern webapps
 author: azu
 layout: post
 itemUrl: 'http://yeoman.io/blog/hello-1.0.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-24T04:12:53.789Z'
 tags:
   - node.js

@@ -3,6 +3,7 @@ title: The state of JavaScript Linting
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/mischah/js-linting'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-18T00:49:58.080Z'
 tags:
   - JavaScript

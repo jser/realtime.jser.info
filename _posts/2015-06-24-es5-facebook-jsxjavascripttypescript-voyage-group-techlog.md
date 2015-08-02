@@ -3,6 +3,7 @@ title: ES5 + Facebook JSXで書かれたJavaScriptコードベースをTypeScrip
 author: azu
 layout: post
 itemUrl: 'http://techlog.voyagegroup.com/entry/2015/06/24/170611'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-24T14:49:06.787Z'
 tags:
   - JavaScript

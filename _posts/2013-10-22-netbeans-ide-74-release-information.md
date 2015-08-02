@@ -3,6 +3,7 @@ title: NetBeans IDE 7.4 Release Information
 author: azu
 layout: post
 itemUrl: 'https://netbeans.org/community/releases/74/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-22T02:05:26.542Z'
 tags:
   - NetBeans

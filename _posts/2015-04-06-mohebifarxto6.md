@@ -3,6 +3,7 @@ title: mohebifar/xto6
 author: azu
 layout: post
 itemUrl: 'https://github.com/mohebifar/xto6'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-06T11:39:17.212Z'
 tags:
   - JavaScript

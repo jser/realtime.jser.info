@@ -3,6 +3,7 @@ title: Six Steps for Approaching the Next JavaScript -Telerik Developer Network
 author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/six-steps-for-approaching-the-next-javascript/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-16T13:28:04.184Z'
 tags:
   - JavaScript

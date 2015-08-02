@@ -3,6 +3,7 @@ title: Firefox — Notes (38.0) — Mozilla
 author: azu
 layout: post
 itemUrl: 'https://www.mozilla.org/en-US/firefox/38.0/releasenotes/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-13T06:49:09.176Z'
 tags:
   - firefox

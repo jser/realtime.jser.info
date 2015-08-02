@@ -3,6 +3,7 @@ title: '『Amazon: CSS3デザインブック　仕事で絶対に使うプロの
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844362534/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
 date: '2012-02-29T15:00:00.000Z'
 ---
 2012/3/21発売

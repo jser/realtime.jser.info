@@ -3,6 +3,7 @@ title: 'React/dekuコンポーネントとthisのパターン | Web Scratch'
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/06/05/this-component/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-05T09:38:52.440Z'
 tags:
   - React

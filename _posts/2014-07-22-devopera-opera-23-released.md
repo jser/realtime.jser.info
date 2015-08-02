@@ -3,6 +3,7 @@ title: Dev.Opera — Opera 23 released
 author: azu
 layout: post
 itemUrl: 'http://dev.opera.com/blog/opera-23/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-22T12:41:07.417Z'
 tags:
   - Opera

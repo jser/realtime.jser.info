@@ -3,6 +3,7 @@ title: 'Chromium Blog: Chrome 42 Beta: Push Notifications, Promoting Add to Home
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/03/chrome-42-beta-push-notifications_12.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-14T06:10:38.798Z'
 tags:
   - Chrome

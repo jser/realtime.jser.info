@@ -3,6 +3,7 @@ title: 'The State of the Componentised Web - Blog - Events, News, and Videos for
 author: azu
 layout: post
 itemUrl: 'http://www.futureinsights.com/home/the-state-of-the-componentised-web.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-09T04:17:17.101Z'
 tags:
   - JavaScript

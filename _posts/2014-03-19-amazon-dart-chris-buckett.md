@@ -3,6 +3,7 @@ title: 'Amazon: プログラミング言語Dart [大型本]: Chris Buckett, あ�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4048915118/amazon0abac-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-19T01:13:40.435Z'
 tags:
   - dart

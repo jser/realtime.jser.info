@@ -3,6 +3,7 @@ title: Backbone patterns
 author: azu
 layout: post
 itemUrl: 'http://ricostacruz.com/backbone-patterns/#naming_convention'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-10T03:31:25.726Z'
 tags:
   - backbone.js

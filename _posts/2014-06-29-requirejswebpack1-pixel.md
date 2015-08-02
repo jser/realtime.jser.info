@@ -3,6 +3,7 @@ title: RequireJS等はもう古い。WebPackとは？｜1 pixel｜サイバー�
 author: azu
 layout: post
 itemUrl: 'http://ameblo.jp/ca-1pixel/entry-11884453208.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-29T13:01:40.576Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: Live editing WebGL shaders with Firefox Developer Tools ✩ Mozilla Hacks
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2013/11/live-editing-webgl-shaders-with-firefox-developer-tools/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-18T08:57:22.378Z'
 tags:
   - WebGL

@@ -3,6 +3,7 @@ title: 'A Guide to React.js Tools and Libraries | Toptal'
 author: azu
 layout: post
 itemUrl: 'http://www.toptal.com/react/navigating-the-react-ecosystem'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-29T13:08:35.067Z'
 tags:
   - React

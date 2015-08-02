@@ -3,6 +3,7 @@ title: 'Node.js - Gruntfile.js が長すぎてつらい人は gulp を使って�
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/shuhei@github/items/4aaa550d1ad30d2fc3b5'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-26T14:52:12.353Z'
 tags:
   - gulp

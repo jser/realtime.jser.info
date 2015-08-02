@@ -3,6 +3,7 @@ title: 'Chromium Blog: New JavaScript techniques for rapid page loads'
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/03/new-javascript-techniques-for-rapid.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-19T02:07:38.596Z'
 tags:
   - Chrome

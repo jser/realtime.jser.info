@@ -3,6 +3,7 @@ title: 非同期プログラミングを驚きのシンプルさに (するか�
 author: azu
 layout: post
 itemUrl: 'http://uupaa.hatenablog.com/entry/2013/03/12/185555'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - javascript

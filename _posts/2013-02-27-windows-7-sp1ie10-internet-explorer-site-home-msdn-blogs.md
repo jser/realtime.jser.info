@@ -3,6 +3,7 @@ title: Windows 7 SP1版向けIE10の提供を開始 - Internet Explorer ブロ�
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie_jp/archive/2013/02/27/10397523.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
 date: '2013-02-27T15:00:00.000Z'
 tags:
   - IE

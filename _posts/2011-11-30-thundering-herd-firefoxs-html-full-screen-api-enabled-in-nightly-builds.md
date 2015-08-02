@@ -3,6 +3,7 @@ title: "『Thundering Herd: Firefox's HTML full-screen API enabled in Nightly bu
 author: azu
 layout: post
 itemUrl: 'http://blog.pearce.org.nz/2011/11/firefoxs-html-full-screen-api-enabled.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/index.json'
 date: '2011-11-30T15:00:00.000Z'
 ---
 FirefoxでのfullScreen APIについての解説。Firefox10から対応

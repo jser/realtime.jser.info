@@ -3,6 +3,7 @@ title: 'JSONファイルの管理をちょっとだけ楽にしてくれるgrunt
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/1000ch/items/1fdabd68ec9895c766d7'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-05T00:52:28.362Z'
 tags:
   - JSON

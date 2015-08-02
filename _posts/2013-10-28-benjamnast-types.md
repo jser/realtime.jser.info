@@ -3,6 +3,7 @@ title: benjamn/ast-types
 author: azu
 layout: post
 itemUrl: 'https://github.com/benjamn/ast-types'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-28T12:43:11.982Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: Building a jQuery-like library – Blog of Cedric Ruiz
 author: azu
 layout: post
 itemUrl: 'http://cedricruiz.me/blog/building-a-jquery-like-library/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-10T13:17:47.382Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: Safe JavaScript Templating
 author: azu
 layout: post
 itemUrl: 'http://yahoo.github.io/secure-handlebars/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-03T09:12:59.644Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'AngularJS 2.0 | AngularJS'
 author: azu
 layout: post
 itemUrl: 'http://blog.angularjs.org/2014/03/angular-20.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-22T16:08:26.134Z'
 tags:
   - AngularJS

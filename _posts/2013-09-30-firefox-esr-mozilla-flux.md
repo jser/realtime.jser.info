@@ -3,6 +3,7 @@ title: 三世代のFirefox ESRを比較する - Mozilla Flux
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/Rockridge/20130929/1380464736'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-30T16:45:45.387Z'
 tags:
   - firefox

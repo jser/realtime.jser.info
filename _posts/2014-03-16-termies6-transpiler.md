@@ -3,6 +3,7 @@ title: termi/es6-transpiler
 author: azu
 layout: post
 itemUrl: 'https://github.com/termi/es6-transpiler'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-16T12:45:14.644Z'
 tags:
   - JavaScript

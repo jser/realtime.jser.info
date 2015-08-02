@@ -3,6 +3,7 @@ title: io.js/CHANGELOG.md at v1.x · iojs/io.js
 author: azu
 layout: post
 itemUrl: 'https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-01-14-version-101'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-15T21:45:27.727Z'
 tags:
   - node.js

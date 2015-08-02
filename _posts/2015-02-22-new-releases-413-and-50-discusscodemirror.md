@@ -3,6 +3,7 @@ title: New releases 4.13 and 5.0 - discuss.CodeMirror
 author: azu
 layout: post
 itemUrl: 'http://discuss.codemirror.net/t/new-releases-4-13-and-5-0/163'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-22T01:25:25.196Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: Temporal Dead Zone (TDZ) demystified - ES6 Rocks
 author: azu
 layout: post
 itemUrl: 'http://es6rocks.com/2015/01/temporal-dead-zone-tdz-demystified/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-07T08:03:56.329Z'
 tags:
   - JavaScript

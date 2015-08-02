@@ -3,6 +3,7 @@ title: Getfirebug Blog » Blog Archive » Firebug 3 – next generation of Fireb
 author: azu
 layout: post
 itemUrl: 'https://blog.getfirebug.com/2014/11/10/firebug-3-next-generation-of-firebug/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-11T07:09:06.896Z'
 tags:
   - Firebug

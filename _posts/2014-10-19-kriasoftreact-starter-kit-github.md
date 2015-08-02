@@ -3,6 +3,7 @@ title: kriasoft/react-starter-kit · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/kriasoft/react-starter-kit'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-19T14:40:21.483Z'
 tags:
   - React

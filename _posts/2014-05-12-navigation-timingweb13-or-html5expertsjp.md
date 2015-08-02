@@ -3,6 +3,7 @@ title: 'Navigation Timingだからできる、Webアプリを俯瞰したパフ�
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/furoshiki/6242/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-12T10:59:40.820Z'
 tags:
   - JavaScript

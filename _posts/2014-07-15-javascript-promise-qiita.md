@@ -3,6 +3,7 @@ title: JavaScript - Promiseを使った逐次処理でユーザー入力との�
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/mizchi/items/e57cb91da5f07f5e5cfc'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-15T12:43:15.587Z'
 tags:
   - JavaScript

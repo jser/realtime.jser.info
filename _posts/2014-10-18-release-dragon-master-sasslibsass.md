@@ -3,6 +3,7 @@ title: Release Dragon Master · sass/libsass
 author: azu
 layout: post
 itemUrl: 'https://github.com/sass/libsass/releases/tag/3.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-18T05:56:41.871Z'
 tags:
   - Sass

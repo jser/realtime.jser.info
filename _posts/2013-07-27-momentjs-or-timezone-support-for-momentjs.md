@@ -3,6 +3,7 @@ title: 'Moment.js | Timezone support for Moment.js'
 author: azu
 layout: post
 itemUrl: 'http://momentjs.com/timezone/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-27T03:47:07.642Z'
 tags:
   - JavaScript

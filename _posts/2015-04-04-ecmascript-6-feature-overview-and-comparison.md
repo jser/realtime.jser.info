@@ -3,6 +3,7 @@ title: 'ECMAScript 6: Feature Overview and Comparison'
 author: azu
 layout: post
 itemUrl: 'http://es6-features.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-04T03:42:47.482Z'
 tags:
   - JavaScript

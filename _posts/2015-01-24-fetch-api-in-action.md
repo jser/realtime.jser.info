@@ -3,6 +3,7 @@ title: Fetch API in action
 author: azu
 layout: post
 itemUrl: 'http://blog.gospodarets.com/fetch_in_action'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-24T15:11:50.209Z'
 tags:
   - JavaScript

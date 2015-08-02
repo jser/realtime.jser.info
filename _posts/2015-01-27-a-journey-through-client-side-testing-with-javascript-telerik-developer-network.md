@@ -3,6 +3,7 @@ title: A Journey Through Client-Side Testing with JavaScript -Telerik Developer 
 author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/journey-client-side-testing-javascript/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-27T08:55:25.604Z'
 tags:
   - JavaScript

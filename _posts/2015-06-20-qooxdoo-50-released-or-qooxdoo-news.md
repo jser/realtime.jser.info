@@ -3,6 +3,7 @@ title: 'qooxdoo 5.0 released | qooxdoo News'
 author: azu
 layout: post
 itemUrl: 'http://news.qooxdoo.org/qooxdoo-5-0-released'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-20T05:58:14.303Z'
 tags:
   - JavaScript

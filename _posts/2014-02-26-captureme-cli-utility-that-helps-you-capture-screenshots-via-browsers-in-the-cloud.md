@@ -3,6 +3,7 @@ title: captureme — CLI utility that helps you capture screenshots via browsers
 author: azu
 layout: post
 itemUrl: 'http://vesln.github.io/captureme/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-26T00:05:52.781Z'
 tags:
   - node.js

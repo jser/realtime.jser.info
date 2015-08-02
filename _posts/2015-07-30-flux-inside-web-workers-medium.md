@@ -3,6 +3,7 @@ title: Flux inside Web Workers — Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/@nsisodiya/flux-inside-web-workers-cc51fb463882'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-30T09:34:50.456Z'
 tags:
   - JavaScript

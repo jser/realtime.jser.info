@@ -3,6 +3,7 @@ title: 軽量オブザーバJSライブラリのrev.2をリリースした - sny
 author: azu
 layout: post
 itemUrl: 'http://saneyukis.hatenablog.com/entry/2014/01/25/213310'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-27T06:14:28.194Z'
 tags:
   - JavaScript

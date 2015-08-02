@@ -3,6 +3,7 @@ title: embona – ブラウザで動くBonanzaを作ってみた(その1) » nmi
 author: azu
 layout: post
 itemUrl: 'http://nmi.jp/archives/763'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-20T12:58:32.987Z'
 tags:
   - JavaScript

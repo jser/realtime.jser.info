@@ -3,6 +3,7 @@ title: 'Stop toggling classes with JS, use behaviour driven DOM manipulation wit
 author: azu
 layout: post
 itemUrl: 'http://toddmotto.com/stop-toggling-classes-with-js-use-behaviour-driven-dom-manipulation-with-data-states/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-31T07:37:51.942Z'
 tags:
   - CSS

@@ -3,6 +3,7 @@ title: ジェネレータの解説と非同期への適用 - Block Rockin’ Cod
 author: azu
 layout: post
 itemUrl: 'http://jxck.hatenablog.com/entry/2014-01-12/generator-screencaset'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-13T12:22:22.736Z'
 tags:
   - node.js

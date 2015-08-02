@@ -3,6 +3,7 @@ title: acdlite/flummox
 author: azu
 layout: post
 itemUrl: 'https://github.com/acdlite/flummox'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-14T10:05:22.304Z'
 tags:
   - Flux

@@ -3,6 +3,7 @@ title: 'WebStorm & PhpStorm Blog » Blog Archive » WebStorm & PhpStorm celebrat
 author: azu
 layout: post
 itemUrl: 'http://blogs.jetbrains.com/webide/2011/05/webstorm-phpstorm-celebrate-their-first-birthday-renewals-available/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
 date: '2011-05-31T15:00:00.000Z'
 ---
 WebStorm/PhpStorm一周年

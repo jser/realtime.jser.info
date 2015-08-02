@@ -3,6 +3,7 @@ title: Aerotwist - React + Performance = ?
 author: azu
 layout: post
 itemUrl: 'https://aerotwist.com/blog/react-plus-performance-equals-what/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-04T06:07:25.626Z'
 tags:
   - React

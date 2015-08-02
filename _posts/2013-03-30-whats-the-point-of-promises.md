@@ -3,6 +3,7 @@ title: "What's The Point Of Promises?"
 author: azu
 layout: post
 itemUrl: 'http://www.kendoui.com/blogs/teamblog/posts/13-03-28/what-is-the-point-of-promises.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-30T13:19:14.496Z'
 tags:
   - JavaScript

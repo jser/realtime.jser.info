@@ -3,6 +3,7 @@ title: 'Making the Web Rock: Web Audio'
 author: azu
 layout: post
 itemUrl: 'http://webaudiodemos.appspot.com/slides/index.html#/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-31T15:35:24.673Z'
 tags:
   - JavaScript

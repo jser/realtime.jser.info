@@ -3,6 +3,7 @@ title: Touche.js - seamless touch event mapping for your click events
 author: azu
 layout: post
 itemUrl: 'http://benhowdle.im/touche/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-26T17:22:33.963Z'
 tags:
   - JavaScript

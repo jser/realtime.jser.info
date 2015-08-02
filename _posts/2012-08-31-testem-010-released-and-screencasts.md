@@ -3,6 +3,7 @@ title: Testem 0.1.0 Released and Screencasts
 author: azu
 layout: post
 itemUrl: 'http://tobyho.com/2012/08/29/testem-intro-screencast/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
 date: '2012-08-31T15:00:00.000Z'
 ---
 インタラクティブなJavaScript Test RunnerのTestem 0.1.0リリース

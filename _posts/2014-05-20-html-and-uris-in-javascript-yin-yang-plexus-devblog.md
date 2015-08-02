@@ -3,6 +3,7 @@ title: "HTML and URI's in Javascript ☯ plexus devblog"
 author: azu
 layout: post
 itemUrl: 'http://devblog.arnebrasseur.net/2014-05-HTML-and-URIs-in-Javascript'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-20T00:58:55.677Z'
 tags:
   - JavaScript

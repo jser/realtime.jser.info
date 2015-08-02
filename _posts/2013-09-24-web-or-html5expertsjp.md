@@ -3,6 +3,7 @@ title: 'モバイルブラウザで動くWebアプリケーションのキャッ
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/kyo_ago/2466/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-24T13:04:55.112Z'
 tags:
   - JavaScript

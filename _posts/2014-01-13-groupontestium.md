@@ -3,6 +3,7 @@ title: groupon/testium
 author: azu
 layout: post
 itemUrl: 'https://github.com/groupon/testium'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-13T11:39:53.326Z'
 tags:
   - node.js

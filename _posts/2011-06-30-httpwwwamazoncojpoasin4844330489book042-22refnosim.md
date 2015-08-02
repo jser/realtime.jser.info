@@ -3,6 +3,7 @@ title: ''
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844330489/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
 date: '2011-06-30T15:00:00.000Z'
 ---
 2011/7/8発売

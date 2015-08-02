@@ -3,6 +3,7 @@ title: 'WebStorm 9 EAP, 138.2406: spy-js code completion, CSS3 enhancements, Scr
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/09/webstorm-9-eap-138-2406/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-23T04:22:36.466Z'
 tags:
   - WebStorm

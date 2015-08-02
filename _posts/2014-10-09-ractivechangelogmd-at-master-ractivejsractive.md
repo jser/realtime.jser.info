@@ -3,6 +3,7 @@ title: ractive/CHANGELOG.md at master · ractivejs/ractive
 author: azu
 layout: post
 itemUrl: 'https://github.com/ractivejs/ractive/blob/master/CHANGELOG.md'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-09T13:37:32.602Z'
 tags:
   - JavaScript

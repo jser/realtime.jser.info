@@ -3,6 +3,7 @@ title: shiwano/typhen
 author: azu
 layout: post
 itemUrl: 'https://github.com/shiwano/typhen'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-21T07:29:43.189Z'
 tags:
   - TypeScript

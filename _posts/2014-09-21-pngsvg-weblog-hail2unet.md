@@ -3,6 +3,7 @@ title: 透過PNGをSVGを利用して軽くするテクニック - Weblog - Hail
 author: azu
 layout: post
 itemUrl: 'http://hail2u.net/blog/webdesign/with-svg.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-21T11:54:06.061Z'
 tags:
   - SVG

@@ -3,6 +3,7 @@ title: Donvercety presentations
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/donvercety'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
 date: '2013-04-05T12:52:39.489Z'
 tags:
   - JavaScript

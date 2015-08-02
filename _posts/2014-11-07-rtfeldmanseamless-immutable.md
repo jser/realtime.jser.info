@@ -3,6 +3,7 @@ title: rtfeldman/seamless-immutable
 author: azu
 layout: post
 itemUrl: 'https://github.com/rtfeldman/seamless-immutable'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-07T15:53:29.019Z'
 tags:
   - JavaScript

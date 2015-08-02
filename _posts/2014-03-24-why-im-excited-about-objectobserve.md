@@ -3,6 +3,7 @@ title: "Why I'm Excited About Object.observe"
 author: azu
 layout: post
 itemUrl: 'http://amasad.me/2014/03/16/why-im-excited-about-objectobserve/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-24T12:00:17.392Z'
 tags:
   - JavaScript

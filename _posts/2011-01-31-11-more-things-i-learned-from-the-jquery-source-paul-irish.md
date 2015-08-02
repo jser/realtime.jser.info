@@ -3,6 +3,7 @@ title: 11 More Things I Learned from the jQuery Source « Paul Irish
 author: azu
 layout: post
 itemUrl: 'http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 jQueryから学ぶ11の事

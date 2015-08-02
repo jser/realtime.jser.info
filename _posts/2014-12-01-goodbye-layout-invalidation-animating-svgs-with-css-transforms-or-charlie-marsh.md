@@ -3,6 +3,7 @@ title: 'Goodbye, Layout Invalidation: Animating SVGs With CSS Transforms | Charl
 author: azu
 layout: post
 itemUrl: 'http://www.princeton.edu/~crmarsh/svg-performance/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-01T12:13:39.539Z'
 tags:
   - SVG

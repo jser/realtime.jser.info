@@ -3,6 +3,7 @@ title: 開発者のための WebKit (“WebKit for Developers” 日本語訳)
 author: azu
 layout: post
 itemUrl: 'http://myakura.github.com/n/webkit4devs.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - webkit

@@ -3,6 +3,7 @@ title: 'jQuery: » jQuery 1.7 Beta 1 Released'
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2011/09/28/jquery-1-7-beta-1-released/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/index.json'
 date: '2011-09-30T15:00:00.000Z'
 ---
 jQuery 1.7βリリース

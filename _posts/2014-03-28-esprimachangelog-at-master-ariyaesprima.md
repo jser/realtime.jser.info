@@ -3,6 +3,7 @@ title: esprima/ChangeLog at master · ariya/esprima
 author: azu
 layout: post
 itemUrl: 'https://github.com/ariya/esprima/blob/master/ChangeLog'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-28T05:37:31.941Z'
 tags:
   - JavaScript

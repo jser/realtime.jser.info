@@ -3,6 +3,7 @@ title: Release JSHint 2.5.7 · jshint/jshint
 author: azu
 layout: post
 itemUrl: 'https://github.com/jshint/jshint/releases/tag/2.5.7'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-29T02:23:52.790Z'
 tags:
   - JavaScript

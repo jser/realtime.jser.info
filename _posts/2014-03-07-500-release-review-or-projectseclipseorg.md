@@ -3,6 +3,7 @@ title: '5.0.0 Release Review | projects.eclipse.org'
 author: azu
 layout: post
 itemUrl: 'http://projects.eclipse.org/projects/eclipse.orion/reviews/5.0.0-release-review'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-07T08:02:27.402Z'
 tags:
   - JavaScript

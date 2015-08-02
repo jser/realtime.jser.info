@@ -3,6 +3,7 @@ title: '| Intern 3 is here! | Blog | SitePen'
 author: azu
 layout: post
 itemUrl: 'https://www.sitepen.com/blog/2015/07/30/intern-3-is-here/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
 date: '2015-08-02T03:19:41.748Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: angular/di.js
 author: azu
 layout: post
 itemUrl: 'https://github.com/angular/di.js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-23T06:26:46.433Z'
 tags:
   - JavaScript

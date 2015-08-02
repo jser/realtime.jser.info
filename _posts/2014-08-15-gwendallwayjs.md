@@ -3,6 +3,7 @@ title: gwendall/way.js
 author: azu
 layout: post
 itemUrl: 'https://github.com/gwendall/way.js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-15T01:08:39.588Z'
 tags:
   - DOM

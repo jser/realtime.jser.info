@@ -3,6 +3,7 @@ title: Nightwatch.js
 author: azu
 layout: post
 itemUrl: 'http://nightwatchjs.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-30T13:44:25.381Z'
 tags:
   - webdriver

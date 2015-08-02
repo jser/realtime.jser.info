@@ -3,6 +3,7 @@ title: 'JavaScriptが実行できるリアルタイムオンラインエディ�
 author: azu
 layout: post
 itemUrl: 'http://polygon-planet-log.blogspot.com/2014/09/javascript-online-synchronize-editor.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-29T13:58:03.114Z'
 tags:
   - JavaScript

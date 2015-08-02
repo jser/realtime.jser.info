@@ -3,6 +3,7 @@ title: 'Introduction | Down and Dirty with Chrome Developer Tools'
 author: azu
 layout: post
 itemUrl: 'http://blittle.github.io/chrome-dev-tools/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-26T13:35:53.817Z'
 tags:
   - Chrome

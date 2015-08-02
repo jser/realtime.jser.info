@@ -3,6 +3,7 @@ title: Firefox — Notes (34.0) — Mozilla
 author: azu
 layout: post
 itemUrl: 'https://www.mozilla.org/en-US/firefox/34.0/releasenotes/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-03T08:04:08.946Z'
 tags:
   - firefox

@@ -3,6 +3,7 @@ title: rotundasoftware/parcelify
 author: azu
 layout: post
 itemUrl: 'https://github.com/rotundasoftware/parcelify'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-30T08:09:21.647Z'
 tags:
   - browserify

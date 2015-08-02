@@ -3,6 +3,7 @@ title: Underscore.js
 author: azu
 layout: post
 itemUrl: 'http://underscorejs.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-27T15:35:38.774Z'
 tags:
   - JavaScript

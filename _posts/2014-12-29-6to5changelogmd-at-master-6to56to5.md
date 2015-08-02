@@ -3,6 +3,7 @@ title: 6to5/CHANGELOG.md at master · 6to5/6to5
 author: azu
 layout: post
 itemUrl: 'https://github.com/6to5/6to5/blob/master/CHANGELOG.md#200'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-29T03:07:35.821Z'
 tags:
   - JavaScript

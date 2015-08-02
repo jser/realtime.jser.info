@@ -3,6 +3,7 @@ title: Chrome が 3 歳になりました！ - Google Japan Developer Relations 
 author: azu
 layout: post
 itemUrl: 'http://googledevjp.blogspot.com/2011/09/chrome-3.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/index.json'
 date: '2011-09-30T15:00:00.000Z'
 ---
 Chrome３歳

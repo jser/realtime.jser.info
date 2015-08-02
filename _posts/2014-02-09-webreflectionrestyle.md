@@ -3,6 +3,7 @@ title: WebReflection/restyle
 author: azu
 layout: post
 itemUrl: 'https://github.com/WebReflection/restyle'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-09T07:45:52.553Z'
 tags:
   - JavaScript

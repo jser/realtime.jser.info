@@ -3,6 +3,7 @@ title: 'Don’t Use jquery-latest.js | Official jQuery Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2014/07/03/dont-use-jquery-latest-js/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-04T01:37:09.313Z'
 tags:
   - jQuery

@@ -3,6 +3,7 @@ title: Creating and maintaining your own Bower package
 author: azu
 layout: post
 itemUrl: 'http://bob.yexley.net/creating-and-maintaining-your-own-bower-package/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-09T12:37:19.444Z'
 tags:
   - JavaScript

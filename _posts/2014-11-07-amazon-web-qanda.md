@@ -3,6 +3,7 @@ title: 'Amazon: デザイニングWebアクセシビリティ - アクセシブ�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4862671756?tag=amazon0abac-22'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-07T15:18:18.440Z'
 tags:
   - web

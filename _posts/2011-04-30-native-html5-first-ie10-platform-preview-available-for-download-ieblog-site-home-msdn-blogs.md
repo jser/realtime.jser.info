@@ -3,6 +3,7 @@ title: 'Native HTML5: First IE10 Platform Preview Available for Download - IEBlo
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2011/04/12/native-html5-first-ie10-platform-preview-available-for-download.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
 date: '2011-04-30T15:00:00.000Z'
 ---
 IE10について。

@@ -3,6 +3,7 @@ title: 'Promises and Generators: Control Flow Utopia'
 author: azu
 layout: post
 itemUrl: 'http://pag.forbeslindesay.co.uk/#/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-20T08:26:59.487Z'
 tags:
   - JavaScript

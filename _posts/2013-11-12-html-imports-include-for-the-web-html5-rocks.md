@@ -3,6 +3,7 @@ title: 'HTML Imports: #include for the web - HTML5 Rocks'
 author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/webcomponents/imports/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-12T14:24:50.200Z'
 tags:
   - HTML

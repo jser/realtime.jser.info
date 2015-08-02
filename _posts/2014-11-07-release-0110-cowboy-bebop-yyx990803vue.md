@@ -3,6 +3,7 @@ title: 'Release 0.11.0: Cowboy Bebop · yyx990803/vue'
 author: azu
 layout: post
 itemUrl: 'https://github.com/yyx990803/vue/releases/tag/0.11.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-07T15:31:32.141Z'
 tags:
   - JavaScript

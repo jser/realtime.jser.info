@@ -3,6 +3,7 @@ title: 'Amazon: プログラマの力のためのコードパズル ~JavaScript�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774162531/amazon0abac-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-26T00:34:38.973Z'
 tags:
   - JavaScript

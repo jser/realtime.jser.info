@@ -3,6 +3,7 @@ title: 'Virtual DOMを持つMV*ライブラリのmercuryについて | Web Scrat
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/08/28/mercury/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-28T07:09:54.383Z'
 tags:
   - JavaScript

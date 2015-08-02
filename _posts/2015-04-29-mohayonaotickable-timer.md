@@ -3,6 +3,7 @@ title: mohayonao/tickable-timer
 author: azu
 layout: post
 itemUrl: 'https://github.com/mohayonao/tickable-timer'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-29T14:05:29.263Z'
 tags:
   - JavaScript

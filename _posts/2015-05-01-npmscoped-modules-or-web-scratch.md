@@ -3,6 +3,7 @@ title: 'npmで名前空間を持ったモジュールを公開する方法(scope
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/04/30/npm-namespace/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-01T10:43:20.097Z'
 tags:
   - npm

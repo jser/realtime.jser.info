@@ -3,6 +3,7 @@ title: Isomorphic Survival Guide // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/koichik/isomorphic-survival-guide'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-01T09:44:41.424Z'
 tags:
   - JavaScript

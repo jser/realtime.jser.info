@@ -3,6 +3,7 @@ title: 'Inline SVG vs Icon Fonts [CAGEMATCH] | CSS-Tricks'
 author: azu
 layout: post
 itemUrl: 'http://css-tricks.com/icon-fonts-vs-svg/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-23T06:05:31.858Z'
 tags:
   - 画像

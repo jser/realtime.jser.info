@@ -3,6 +3,7 @@ title: BrowserSync 2.0 - JH
 author: azu
 layout: post
 itemUrl: 'http://www.wearejh.com/news/browsersync-2-0/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-12T12:55:51.095Z'
 tags:
   - JavaScript

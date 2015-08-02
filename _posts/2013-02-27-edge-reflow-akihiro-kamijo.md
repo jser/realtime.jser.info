@@ -3,6 +3,7 @@ title: Edge Reflow プレビュー版公開 - akihiro kamijo
 author: azu
 layout: post
 itemUrl: 'http://cuaoar.jp/2013/02/edge-reflow.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
 date: '2013-02-27T15:00:00.000Z'
 tags:
   - design

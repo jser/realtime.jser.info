@@ -3,6 +3,7 @@ title: 'Amazon: Sass&Compass徹底入門 CSSのベストプラクティスを効
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4798132446/amazon0abac-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-13T01:19:01.290Z'
 tags:
   - Sass

@@ -3,6 +3,7 @@ title: '『Mobile HTML5 - compatibility tables for iPhone, Android, BlackBerry, 
 author: azu
 layout: post
 itemUrl: 'http://mobilehtml5.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/index.json'
 date: '2011-09-30T15:00:00.000Z'
 ---
 モバイルブラウザのHTML5やCSS3,そのたW3C APIの対応状況についてまとめた表

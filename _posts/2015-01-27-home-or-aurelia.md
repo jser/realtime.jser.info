@@ -3,6 +3,7 @@ title: 'Home | Aurelia'
 author: azu
 layout: post
 itemUrl: 'http://aurelia.io/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-27T08:17:29.966Z'
 tags:
   - JavaScript

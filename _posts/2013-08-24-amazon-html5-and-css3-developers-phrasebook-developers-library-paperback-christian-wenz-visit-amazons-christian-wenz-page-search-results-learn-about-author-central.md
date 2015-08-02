@@ -3,6 +3,7 @@ title: "Amazon: HTML5 and CSS3 Developer's Phrasebook (Developer's Library) [Pap
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321776399/amazon0abac-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-24T21:26:26.573Z'
 tags:
   - HTML5

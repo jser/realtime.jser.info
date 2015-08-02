@@ -3,6 +3,7 @@ title: '#FranceJS : Communauté française de promotion de JavaScript'
 author: azu
 layout: post
 itemUrl: 'http://francejs.org/manifeste.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - javascript

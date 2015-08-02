@@ -3,6 +3,7 @@ title: Design Elements - Chrome V8 — Google Developers
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/v8/design'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-27T13:09:44.186Z'
 tags:
   - JavaScript

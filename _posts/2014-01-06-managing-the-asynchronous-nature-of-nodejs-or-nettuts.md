@@ -3,6 +3,7 @@ title: 'Managing the Asynchronous Nature of Node.js | Nettuts+'
 author: azu
 layout: post
 itemUrl: 'http://net.tutsplus.com/tutorials/javascript-ajax/managing-the-asynchronous-nature-of-node-js/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-06T13:44:02.349Z'
 tags:
   - JavaScript

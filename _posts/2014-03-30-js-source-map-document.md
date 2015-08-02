@@ -3,6 +3,7 @@ title: '#JSオジサンで Source Map について話してきました : docume
 author: azu
 layout: post
 itemUrl: 'http://imaya.blog.jp/archives/7169783.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-30T06:20:03.355Z'
 tags:
   - JavaScript

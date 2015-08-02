@@ -3,6 +3,7 @@ title: azer/prova
 author: azu
 layout: post
 itemUrl: 'https://github.com/azer/prova'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-17T02:30:26.112Z'
 tags:
   - browserify

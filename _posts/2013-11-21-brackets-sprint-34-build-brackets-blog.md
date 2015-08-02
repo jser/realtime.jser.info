@@ -3,6 +3,7 @@ title: Brackets Sprint 34 Build – Brackets Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2013/11/20/1240/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-21T01:12:48.153Z'
 tags:
   - JavaScript

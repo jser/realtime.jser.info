@@ -3,6 +3,7 @@ title: 『CommonJS - Plattformübergreifende JavaScript Spezifikationen - Mayflo
 author: azu
 layout: post
 itemUrl: 'http://blog.mayflower.de/archives/860-CommonJS-Plattformuebergreifende-JavaScript-Spezifikationen.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
 date: '2012-04-30T15:00:00.000Z'
 ---
 CommonJSとは何か?

@@ -3,6 +3,7 @@ title: The W3C Mobile Checker
 author: azu
 layout: post
 itemUrl: 'https://validator.w3.org/mobile-alpha/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-04T08:31:51.704Z'
 tags:
   - W3C

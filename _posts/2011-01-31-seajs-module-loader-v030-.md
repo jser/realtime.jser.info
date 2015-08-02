@@ -3,6 +3,7 @@ title: 打造最出色的模块加载框架：SeaJS Module Loader v0.3.0 预览�
 author: azu
 layout: post
 itemUrl: 'http://lifesinger.org/blog/2011/01/seajs-v0-3-0pre/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 モジュールのロードに最適なフレームワークを作成するためには、SeaJS Module Loader v0.3.0 プレビュー版 というタイトルでJavaScriptでのモジュール化について書かれています。

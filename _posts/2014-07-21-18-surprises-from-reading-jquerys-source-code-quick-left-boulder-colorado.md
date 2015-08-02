@@ -3,6 +3,7 @@ title: "18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colo
 author: azu
 layout: post
 itemUrl: 'http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-21T13:14:29.490Z'
 tags:
   - jQuery

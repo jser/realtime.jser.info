@@ -3,6 +3,7 @@ title: srcset と sizes
 author: azu
 layout: post
 itemUrl: 'http://terkel.github.io/srcset-sizes/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-11T05:04:29.476Z'
 tags:
   - HTML

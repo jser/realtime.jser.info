@@ -3,6 +3,7 @@ title: Functional JavaScript
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/ympbyc/5564146'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-20T09:16:38.637Z'
 tags:
   - JavaScript

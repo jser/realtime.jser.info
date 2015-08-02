@@ -3,6 +3,7 @@ title: eatcodeplay/Konsole.js
 author: azu
 layout: post
 itemUrl: 'https://github.com/eatcodeplay/Konsole.js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-17T23:06:58.004Z'
 tags:
   - JavaScript

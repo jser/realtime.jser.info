@@ -3,6 +3,7 @@ title: Mozilla Japan ブログ - Firefox の新しいベータ版をテスト用
 author: azu
 layout: post
 itemUrl: 'http://mozilla.jp/blog/entry/6998/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
 date: '2011-07-31T15:00:00.000Z'
 ---
 Firefox6βがリリースされた。

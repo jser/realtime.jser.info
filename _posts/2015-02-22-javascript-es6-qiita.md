@@ -3,6 +3,7 @@ title: JavaScript - ぼくのかんがえたさいきょうのES6プロジェク
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/mohayonao/items/9b0655b8b4979bffda31'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-22T13:42:12.587Z'
 tags:
   - JavaScript

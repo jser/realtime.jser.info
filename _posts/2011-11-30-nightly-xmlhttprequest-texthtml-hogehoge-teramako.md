@@ -3,6 +3,7 @@ title: Nightly の XMLHttpRequest で text/html がパース可能に！ - hogeh
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/teramako/20111122/p1'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/index.json'
 date: '2011-11-30T15:00:00.000Z'
 ---
 FirefoxのNightlyにXHRのresponsebodyをHTMLパースする機能が加わった。

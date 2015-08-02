@@ -3,6 +3,7 @@ title: new を不当に貶める陰謀と JavaScript におけるクラスの継
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/vividcode/20110514/1305359722'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
 date: '2011-05-31T15:00:00.000Z'
 ---
 new 演算子について。 クラスとインスタンスとオブジェクト

@@ -3,6 +3,7 @@ title: 'Tweene :: JavaScript Animation Proxy'
 author: azu
 layout: post
 itemUrl: 'http://tweene.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-08T08:29:40.811Z'
 tags:
   - JavaScript

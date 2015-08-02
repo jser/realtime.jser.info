@@ -3,6 +3,7 @@ title: 'status.modern.IEの見方 | Web Scratch'
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/10/19/modern-ie/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-19T06:05:05.660Z'
 tags:
   - IE

@@ -3,6 +3,7 @@ title: 'Amazon: TypeScriptリファレンス Ver.1.0対応 [単行本（ソフ�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/484433588X/amazon0abac-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-16T07:17:29.050Z'
 tags:
   - TypeScript

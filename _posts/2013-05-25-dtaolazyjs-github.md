@@ -3,6 +3,7 @@ title: dtao/lazy.js · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/dtao/lazy.js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-25T15:34:19.996Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Change Detection in Angular 2 | Victor Savkin'
 author: azu
 layout: post
 itemUrl: 'http://victorsavkin.com/post/110170125256/change-detection-in-angular-2'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-11T12:29:14.703Z'
 tags:
   - AngularJS

@@ -3,6 +3,7 @@ title: ESLint 0.21.0 released - ESLint - Pluggable JavaScript linter
 author: azu
 layout: post
 itemUrl: 'http://eslint.org/blog/2015/05/eslint-0.21.0-released'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-10T05:53:51.184Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: JavaScript Garden
 author: azu
 layout: post
 itemUrl: 'http://bonsaiden.github.com/JavaScript-Garden/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
 date: '2011-02-28T15:00:00.000Z'
 ---
 JavaScriptの変わってるとこやパフォーマンスや仕組みなどかなり詳細に書かれた内容。

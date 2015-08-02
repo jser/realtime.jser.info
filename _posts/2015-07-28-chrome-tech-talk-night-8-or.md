@@ -3,6 +3,7 @@ title: 'Chrome Tech Talk Night #8 レポート | 株式会社サイバーエー�
 author: azu
 layout: post
 itemUrl: 'https://www.cyberagent.co.jp/techinfo_detail/id=10782'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-28T13:15:01.292Z'
 tags:
   - Chrome

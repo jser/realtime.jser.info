@@ -3,6 +3,7 @@ title: 'Getting Started With Gulp | Travis Maynard'
 author: azu
 layout: post
 itemUrl: 'http://travismaynard.com/writing/getting-started-with-gulp'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-06T05:25:39.613Z'
 tags:
   - gulp

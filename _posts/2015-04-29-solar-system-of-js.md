@@ -3,6 +3,7 @@ title: Solar System of JS
 author: azu
 layout: post
 itemUrl: 'http://shaunlebron.github.io/solar-system-of-js/#0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-29T11:11:26.594Z'
 tags:
   - JavaScript

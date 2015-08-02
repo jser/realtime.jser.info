@@ -3,6 +3,7 @@ title: 『ASCII.jp：ブラウザーにファイルを残せるFile system API�
 author: azu
 layout: post
 itemUrl: 'http://ascii.jp/elem/000/000/686/686064/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
 date: '2012-04-30T15:00:00.000Z'
 ---
 File system APIの使い方について

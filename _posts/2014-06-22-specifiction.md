@@ -3,6 +3,7 @@ title: Specifiction
 author: azu
 layout: post
 itemUrl: 'http://discourse.specifiction.org/t/name-663399-becca-purple-in-css4-color/225'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-22T04:44:54.008Z'
 tags:
   - web

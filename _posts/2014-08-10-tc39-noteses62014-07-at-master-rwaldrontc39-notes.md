@@ -3,6 +3,7 @@ title: tc39-notes/es6/2014-07 at master · rwaldron/tc39-notes
 author: azu
 layout: post
 itemUrl: 'https://github.com/rwaldron/tc39-notes/tree/master/es6/2014-07'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-10T15:17:23.197Z'
 tags:
   - ECMAScript

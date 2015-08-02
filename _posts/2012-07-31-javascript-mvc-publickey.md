@@ -3,6 +3,7 @@ title: JavaScript MVC座談会。遅くならない？ それぞれの特徴は�
 author: azu
 layout: post
 itemUrl: 'http://www.publickey1.jp/blog/12/javascript_mvc_1.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
 date: '2012-07-31T15:00:00.000Z'
 ---
 JavaScriptのMVC系と言われるライブラリについて

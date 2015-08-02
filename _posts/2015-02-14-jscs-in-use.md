@@ -3,6 +3,7 @@ title: JSCS in use
 author: azu
 layout: post
 itemUrl: 'http://varya.me/en/posts/jscs-in-use/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-14T13:40:29.317Z'
 tags:
   - JavaScript

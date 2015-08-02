@@ -3,6 +3,7 @@ title: Using ServiceWorker in Chrome today - JakeArchibald.com
 author: azu
 layout: post
 itemUrl: 'http://jakearchibald.com/2014/using-serviceworker-today/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-25T07:57:38.901Z'
 tags:
   - Chrome

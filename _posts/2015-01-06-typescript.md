@@ -3,6 +3,7 @@ title: 型の国のTypeScript
 author: azu
 layout: post
 itemUrl: 'http://typescript.ninja/typescript-in-definitelyland/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-06T11:56:21.565Z'
 tags:
   - TypeScript

@@ -3,6 +3,7 @@ title: 'ECMAScript 6 modules: the final syntax'
 author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2014/09/es6-modules-final.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-08T12:29:39.517Z'
 tags:
   - JavaScript

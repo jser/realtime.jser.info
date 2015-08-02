@@ -3,6 +3,7 @@ title: Functional Programming in Javascript
 author: azu
 layout: post
 itemUrl: 'http://jhusain.github.io/learnrx/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-19T12:59:30.189Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Milliseconds Matter Modern JavaScript libraries: the isomorphic way'
 author: azu
 layout: post
 itemUrl: 'https://blog.algolia.com/modern-javascript-libraries-the-isomorphic-way/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-10T14:53:43.558Z'
 tags:
   - JavaScript

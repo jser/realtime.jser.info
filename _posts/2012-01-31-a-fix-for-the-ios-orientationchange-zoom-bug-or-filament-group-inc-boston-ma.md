@@ -3,6 +3,7 @@ title: '『A Fix for the iOS Orientationchange Zoom Bug | Filament Group, Inc., 
 author: azu
 layout: post
 itemUrl: 'http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
 date: '2012-01-31T15:00:00.000Z'
 ---
 mobile safariで回転時にズームがおかしくなるバグを修正するJavaScriptライブラリ

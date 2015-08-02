@@ -3,6 +3,7 @@ title: 'Amazon: 体系的に学ぶ 安全なWebアプリケーションの作り
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4797361190/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
 date: '2011-02-28T15:00:00.000Z'
 ---
 2011/3/3発売

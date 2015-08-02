@@ -3,6 +3,7 @@ title: mzabriskie/axios
 author: azu
 layout: post
 itemUrl: 'https://github.com/mzabriskie/axios'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-17T14:58:19.528Z'
 tags:
   - JavaScript

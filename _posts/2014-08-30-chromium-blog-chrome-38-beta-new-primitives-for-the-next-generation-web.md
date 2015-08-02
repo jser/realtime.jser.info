@@ -3,6 +3,7 @@ title: 'Chromium Blog: Chrome 38 Beta: New primitives for the next-generation we
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2014/08/chrome-38-beta-new-primitives-for-next.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-30T13:00:03.861Z'
 tags:
   - Chrome

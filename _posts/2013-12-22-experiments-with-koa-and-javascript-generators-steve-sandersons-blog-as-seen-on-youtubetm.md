@@ -3,6 +3,7 @@ title: Experiments with Koa and JavaScript Generators - Steve Sanderson’s blog
 author: azu
 layout: post
 itemUrl: 'http://blog.stevensanderson.com/2013/12/21/experiments-with-koa-and-javascript-generators/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-22T12:43:52.103Z'
 tags:
   - node.js

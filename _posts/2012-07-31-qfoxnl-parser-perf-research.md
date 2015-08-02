@@ -3,6 +3,7 @@ title: qfox.nl - Parser perf research
 author: azu
 layout: post
 itemUrl: 'http://qfox.nl/weblog/258'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
 date: '2012-07-31T15:00:00.000Z'
 ---
 パーサーなどで次のトークンのcharを取得してtypeを判定する処理について。

@@ -3,6 +3,7 @@ title: Sapporo.jsでJavaScriptの成り立ちについてLTしてきました。
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/badatmath/20110308/1299554852'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
 date: '2011-03-31T15:00:00.000Z'
 ---
 JavaScriptの成り立ちからES5、Harmonyまでの話まで。標準化までの話が中心的

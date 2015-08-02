@@ -3,6 +3,7 @@ title: フレームワークで実践！ JavaScriptテスト入門（4）：Web�
 author: azu
 layout: post
 itemUrl: 'http://www.atmarkit.co.jp/ait/articles/1301/21/news017.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
 date: '2013-01-31T15:00:00.000Z'
 ---
 JSTDとQUnit,Jasmine adapterについて

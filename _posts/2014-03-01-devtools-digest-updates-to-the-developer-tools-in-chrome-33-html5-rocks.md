@@ -3,6 +3,7 @@ title: 'DevTools Digest: Updates to the Developer tools in Chrome 33 - HTML5 Roc
 author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/developertools/chrome-33/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-01T06:18:03.218Z'
 tags:
   - Chrome

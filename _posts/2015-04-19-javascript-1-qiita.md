@@ -3,6 +3,7 @@ title: JavaScriptでフルスクラッチゲーム開発しよう 第1回 準備
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/zukkun/items/4ea9542a6dde45c6a9fd'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-19T15:45:06.200Z'
 tags:
   - game

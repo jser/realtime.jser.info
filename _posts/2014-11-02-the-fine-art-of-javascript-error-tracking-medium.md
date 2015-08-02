@@ -3,6 +3,7 @@ title: The Fine Art of JavaScript Error Tracking — Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/@jico/the-fine-art-of-javascript-error-tracking-bc031f24c659'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-02T06:43:32.939Z'
 tags:
   - JavaScript

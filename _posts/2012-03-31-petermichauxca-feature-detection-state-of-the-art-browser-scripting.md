@@ -3,6 +3,7 @@ title: '『peter.michaux.ca - Feature Detection: State of the Art Browser Script
 author: azu
 layout: post
 itemUrl: 'http://peter.michaux.ca/articles/feature-detection-state-of-the-art-browser-scripting'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/index.json'
 date: '2012-03-31T15:00:00.000Z'
 ---
 ECMAScript仕様のネイティブオブジェクトとブラウザが提供してるホストオブジェクトについて。(2008)

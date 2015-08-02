@@ -3,6 +3,7 @@ title: Testing Clientside JavaScript - Online Training Course for .NET Developer
 author: azu
 layout: post
 itemUrl: 'http://pluralsight.com/training/Courses/TableOfContents/testing-javascript'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - javascript

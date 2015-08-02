@@ -3,6 +3,7 @@ title: 大規模JSプロジェクトのための、モダンなjavascript/coffee
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/mizchi/20120601/1338554309'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
 date: '2012-06-30T15:00:00.000Z'
 ---
 JavaScript/CoffeeScriptのリソースまとめ

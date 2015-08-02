@@ -3,6 +3,7 @@ title: Release 3.0.0 · lodash/lodash
 author: azu
 layout: post
 itemUrl: 'https://github.com/lodash/lodash/releases/tag/3.0.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-27T09:11:18.249Z'
 tags:
   - JavaScript

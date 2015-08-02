@@ -3,6 +3,7 @@ title: nkzawa/hyperd
 author: azu
 layout: post
 itemUrl: 'https://github.com/nkzawa/hyperd'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-12T02:45:07.223Z'
 tags:
   - JavaScript

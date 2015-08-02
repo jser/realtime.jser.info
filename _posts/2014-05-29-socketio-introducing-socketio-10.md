@@ -3,6 +3,7 @@ title: Socket.IO — Introducing Socket.IO 1.0
 author: azu
 layout: post
 itemUrl: 'http://socket.io/blog/introducing-socket-io-1-0/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-29T01:09:01.852Z'
 tags:
   - node.js

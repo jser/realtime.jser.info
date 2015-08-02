@@ -3,6 +3,7 @@ title: 'literateモードが加わった「CoffeeScript 1.5」がリリース - 
 author: azu
 layout: post
 itemUrl: 'http://sourceforge.jp/magazine/13/02/26/0533246'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
 date: '2013-02-27T15:00:00.000Z'
 tags:
   - CoffeeScript

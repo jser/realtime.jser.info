@@ -3,6 +3,7 @@ title: 'VOYAGE GROUP　エンジニアブログ : 今、クライアントサイ
 author: azu
 layout: post
 itemUrl: 'http://tech.voyagegroup.com/archives/8046369.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-09T10:05:08.310Z'
 tags:
   - JavaScript

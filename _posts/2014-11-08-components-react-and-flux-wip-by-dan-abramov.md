@@ -3,6 +3,7 @@ title: 'Components, React and Flux (WIP) by Dan Abramov'
 author: azu
 layout: post
 itemUrl: 'http://slides.com/danabramov/components-react-flux-wip#/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-08T11:34:06.633Z'
 tags:
   - React

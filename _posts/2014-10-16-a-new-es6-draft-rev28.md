@@ -3,6 +3,7 @@ title: 'A new ES6 draft, Rev28'
 author: azu
 layout: post
 itemUrl: 'https://esdiscuss.org/topic/a-new-es6-draft-rev28'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-16T02:53:07.020Z'
 tags:
   - ECMAScript

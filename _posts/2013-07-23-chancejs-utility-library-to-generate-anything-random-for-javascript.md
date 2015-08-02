@@ -3,6 +3,7 @@ title: 'Chance.js: Utility library to generate anything random for JavaScript'
 author: azu
 layout: post
 itemUrl: 'http://chancejs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-23T14:00:46.557Z'
 tags:
   - JavaScript

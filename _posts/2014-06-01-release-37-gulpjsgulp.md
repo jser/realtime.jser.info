@@ -3,6 +3,7 @@ title: Release 3.7 · gulpjs/gulp
 author: azu
 layout: post
 itemUrl: 'https://github.com/gulpjs/gulp/releases/tag/3.7'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-01T08:34:05.104Z'
 tags:
   - gulp

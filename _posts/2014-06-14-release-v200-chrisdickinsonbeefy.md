@@ -3,6 +3,7 @@ title: Release v2.0.0 · chrisdickinson/beefy
 author: azu
 layout: post
 itemUrl: 'https://github.com/chrisdickinson/beefy/releases/tag/v2.0.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-14T03:07:53.543Z'
 tags:
   - JavaScript

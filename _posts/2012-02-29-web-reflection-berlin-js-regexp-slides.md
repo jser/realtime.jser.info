@@ -3,6 +3,7 @@ title: 'Web Reflection: Berlin JS - RegExp Slides'
 author: azu
 layout: post
 itemUrl: 'http://webreflection.blogspot.com/2012/02/berlin-js-regexp-slides.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
 date: '2012-02-29T15:00:00.000Z'
 ---
 JavaScriptの正規表現についてよくまとまったスライド。

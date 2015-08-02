@@ -3,6 +3,7 @@ title: "Shibu's Diary: JavaScriptのメモリリークを10倍速で発見する
 author: azu
 layout: post
 itemUrl: 'http://blog.shibu.jp/article/92030639.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-31T14:07:15.880Z'
 tags:
   - node.js

@@ -3,6 +3,7 @@ title: RequireJS 2.1.2 Released ~ James Burke
 author: azu
 layout: post
 itemUrl: 'http://jrburke.com/2012/11/21/requirejs-2.1.2-released/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
 date: '2012-11-30T15:00:00.000Z'
 ---
 RequireJS 2.1.2リリース。

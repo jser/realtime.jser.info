@@ -3,6 +3,7 @@ title: デジタルプラクティス
 author: azu
 layout: post
 itemUrl: 'https://www.ipsj.or.jp/15dp/dp-index.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
 date: '2011-06-30T15:00:00.000Z'
 ---
 実務の現場でITを実践する皆様に向けた論文誌「デジタルプラクティス」

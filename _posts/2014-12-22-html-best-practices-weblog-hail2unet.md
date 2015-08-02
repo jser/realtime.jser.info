@@ -3,6 +3,7 @@ title: HTML Best Practices - Weblog - Hail2u.net
 author: azu
 layout: post
 itemUrl: 'http://hail2u.net/blog/webdesign/html-best-practices.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-22T08:56:29.296Z'
 tags:
   - HTML

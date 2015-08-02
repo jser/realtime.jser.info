@@ -3,6 +3,7 @@ title: 'Kickstart Your AngularJS Development with Yeoman, Grunt and Bower - Site
 author: azu
 layout: post
 itemUrl: 'http://www.sitepoint.com/kickstart-your-angularjs-development-with-yeoman-grunt-and-bower/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-01T12:38:51.890Z'
 tags:
   - AngularJS

@@ -3,6 +3,7 @@ title: 大規模開発でも小規模開発でも使える TypeScript実践入�
 author: azu
 layout: post
 itemUrl: 'http://gihyo.jp/book/2014/978-4-7741-6711-4'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-29T12:29:46.529Z'
 tags:
   - TypeScript

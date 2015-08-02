@@ -3,6 +3,7 @@ title: A Practical Guide to SVGs on the web
 author: azu
 layout: post
 itemUrl: 'https://svgontheweb.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-22T09:10:48.384Z'
 tags:
   - SVG

@@ -3,6 +3,7 @@ title: Designing Front-End Components
 author: azu
 layout: post
 itemUrl: 'http://ponyfoo.com/articles/designing-front-end-components'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-04T12:58:55.239Z'
 tags:
   - JavaScript

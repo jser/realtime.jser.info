@@ -3,6 +3,7 @@ title: ECMAScript 5 strict mode in Firefox 4 ✩ Mozilla Hacks – the Web devel
 author: azu
 layout: post
 itemUrl: 'http://hacks.mozilla.org/2011/01/ecmascript-5-strict-mode-in-firefox-4/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 ECMAScript 5 strict modeがFirefox4で使えるため、それの解説。

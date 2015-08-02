@@ -3,6 +3,7 @@ title: '『Amazon: Professional Node.js: Building Javascript Based Scalable Soft
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1118185463/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
 date: '2011-10-31T15:00:00.000Z'
 ---
 2012年6月5日発売

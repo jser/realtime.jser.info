@@ -3,6 +3,7 @@ title: "O'Reilly Japan - HTML5クックブック"
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873115474/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
 date: '2012-06-30T15:00:00.000Z'
 ---
 2012年6月22日発売

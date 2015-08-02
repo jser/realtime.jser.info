@@ -3,6 +3,7 @@ title: 'Announcing Orion 9.0 | Orion News'
 author: azu
 layout: post
 itemUrl: 'http://planetorion.org/news/2015/06/language-tooling-goodness-in-orion-9-0/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-25T08:02:58.176Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Release v0.9.0: Release 0.9.0 (2014-09-02) multi-stage sourcemaps · twa
 author: azu
 layout: post
 itemUrl: 'https://github.com/twada/power-assert/releases/tag/v0.9.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-07T07:21:18.141Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: defunctzombie/zuul · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/defunctzombie/zuul'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-03T13:20:45.424Z'
 tags:
   - JavaScript

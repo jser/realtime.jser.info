@@ -3,6 +3,7 @@ title: 'Tridiv | CSS 3D Editor'
 author: azu
 layout: post
 itemUrl: 'http://tridiv.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-22T17:14:36.519Z'
 tags:
   - CSS

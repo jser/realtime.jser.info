@@ -3,6 +3,7 @@ title: A State of Change — On the future of Object.observe
 author: azu
 layout: post
 itemUrl: 'https://markdalgleish.github.io/presentation-a-state-of-change-object-observe/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-31T14:36:57.236Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Amazon: HTML5+JavaScriptによる画像・動画像処理入門 [単行�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4877833218/amazon0abac-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-24T14:17:08.197Z'
 tags:
   - canvas

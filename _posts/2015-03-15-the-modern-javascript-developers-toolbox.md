@@ -3,6 +3,7 @@ title: The Modern JavaScript Developer’s Toolbox
 author: azu
 layout: post
 itemUrl: 'http://www.infoq.com/articles/modern-javascript-toolbox'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-15T09:49:47.613Z'
 tags:
   - JavaScript

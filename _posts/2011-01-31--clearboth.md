@@ -3,6 +3,7 @@ title: '프론트 엔드 개발을 위한 추천 도서 - Clearboth [유니버�
 author: azu
 layout: post
 itemUrl: 'http://www.clearboth.org/wiki/doku.php?id=document:etc:recommend_books'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 韓国のフロントエンジニアに対して行ったアンケートの結果。

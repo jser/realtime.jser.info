@@ -3,6 +3,7 @@ title: 'React: Flux Architecture - Video Tutorial Series @eggheadio'
 author: azu
 layout: post
 itemUrl: 'https://egghead.io/series/react-flux-architecture'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-11T10:49:15.220Z'
 tags:
   - React

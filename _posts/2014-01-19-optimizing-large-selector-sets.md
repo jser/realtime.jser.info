@@ -3,6 +3,7 @@ title: Optimizing large selector sets
 author: azu
 layout: post
 itemUrl: 'https://github.com/blog/1756-optimizing-large-selector-sets'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-19T08:15:48.634Z'
 tags:
   - jQuery

@@ -3,6 +3,7 @@ title: Node-v0.12からデフォルトでES6の一部が使えるようになっ
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/jovi0608/20140418/1397789018'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-19T11:46:07.504Z'
 tags:
   - JavaScript

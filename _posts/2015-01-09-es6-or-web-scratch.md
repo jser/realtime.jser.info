@@ -3,6 +3,7 @@ title: 'ライブラリをES6で書いて公開する所から始めよう | Web
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/01/09/write-es6/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-09T15:02:23.916Z'
 tags:
   - JavaScript

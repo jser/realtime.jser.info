@@ -3,6 +3,7 @@ title: 'Amazon: Eloquent JavaScript: A Modern Introduction to Programming: Marij
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1593272820/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 2011年1月22日発売

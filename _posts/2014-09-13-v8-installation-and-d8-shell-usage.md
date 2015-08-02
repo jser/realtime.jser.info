@@ -3,6 +3,7 @@ title: V8 Installation and d8 shell usage
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/kevincennis/0cd2138c78a07412ef21'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-13T16:32:53.330Z'
 tags:
   - V8

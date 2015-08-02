@@ -3,6 +3,7 @@ title: Backgrid.js
 author: azu
 layout: post
 itemUrl: 'http://wyuenho.github.com/backgrid/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
 date: '2013-01-31T15:00:00.000Z'
 ---
 Grid表示ライブラリ.

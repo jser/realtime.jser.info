@@ -3,6 +3,7 @@ title: 窓の杜 - 【NEWS】Microsoft、「Internet Explorer 9」の初のア�
 author: azu
 layout: post
 itemUrl: 'http://www.forest.impress.co.jp/docs/news/20110615_453279.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
 date: '2011-06-30T15:00:00.000Z'
 ---
 IE9.0.1のリリース。

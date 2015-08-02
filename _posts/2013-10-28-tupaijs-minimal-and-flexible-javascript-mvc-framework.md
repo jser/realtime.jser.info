@@ -3,6 +3,7 @@ title: tupai.js — Minimal and Flexible JavaScript MVC Framework.
 author: azu
 layout: post
 itemUrl: 'http://tupaijs.com/index.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-28T14:12:01.057Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Learn JavaScript & jQuery - a book about interactive front-end web devel
 author: azu
 layout: post
 itemUrl: 'http://www.javascriptbook.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-07T10:38:49.708Z'
 tags:
   - JavaScript

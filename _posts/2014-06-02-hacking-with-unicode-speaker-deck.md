@@ -3,6 +3,7 @@ title: Hacking with Unicode // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/mathiasbynens/hacking-with-unicode'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-02T08:59:49.864Z'
 tags:
   - 文字コード

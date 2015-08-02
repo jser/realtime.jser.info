@@ -3,6 +3,7 @@ title: defunkt/dotjs - GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/defunkt/dotjs'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
 date: '2011-03-31T15:00:00.000Z'
 ---
 サイトのドメイン名と同じ名前のjsファイルをおいて、自動的に読み込んで適応するChrome拡張

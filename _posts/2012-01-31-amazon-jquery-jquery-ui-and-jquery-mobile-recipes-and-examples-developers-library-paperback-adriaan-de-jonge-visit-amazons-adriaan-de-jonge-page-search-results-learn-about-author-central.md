@@ -3,6 +3,7 @@ title: "『Amazon: jQuery, jQuery UI, and jQuery Mobile: Recipes and Examples (D
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321822080/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
 date: '2012-01-31T15:00:00.000Z'
 ---
 2012-08-19発売

@@ -3,6 +3,7 @@ title: 'Build Wars: Gulp vs Grunt'
 author: azu
 layout: post
 itemUrl: 'http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-17T12:44:02.726Z'
 tags:
   - Grunt

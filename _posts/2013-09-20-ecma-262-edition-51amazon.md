@@ -3,6 +3,7 @@ title: 【完全日本語訳＋解説】ECMA-262 Edition 5.1を読む（Amazon�
 author: azu
 layout: post
 itemUrl: 'http://ecma262.info/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-20T04:33:40.450Z'
 tags:
   - ECMAScript

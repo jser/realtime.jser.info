@@ -3,6 +3,7 @@ title: 'Why I use CasperJS for regression testing web applications | Pixelite Ma
 author: azu
 layout: post
 itemUrl: 'http://www.pixelite.co.nz/article/why-i-use-casperjs-regression-testing-web-applications'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
 date: '2013-04-15T13:20:43.805Z'
 tags:
   - webservice

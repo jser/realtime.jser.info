@@ -3,6 +3,7 @@ title: モバイルアプリケーション開発のためのHTML/CSS/JavaScript
 author: azu
 layout: post
 itemUrl: 'http://www.publickey1.jp/blog/11/htmlcssjavascript.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
 date: '2011-02-28T15:00:00.000Z'
 ---
 モバイル対応のJavaScriptライブラリや、Titanium Mobileのようなネイティブアプリケーション作成ツールのまとめ。

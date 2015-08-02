@@ -3,6 +3,7 @@ title: node-browserify/changelog.markdown at 9.0.3 · substack/node-browserify
 author: azu
 layout: post
 itemUrl: 'https://github.com/substack/node-browserify/blob/9.0.3/changelog.markdown'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-21T17:23:32.414Z'
 tags:
   - browserify

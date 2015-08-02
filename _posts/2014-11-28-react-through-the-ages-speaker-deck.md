@@ -3,6 +3,7 @@ title: React Through the Ages // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/zpao/react-through-the-ages'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-28T01:53:15.575Z'
 tags:
   - React

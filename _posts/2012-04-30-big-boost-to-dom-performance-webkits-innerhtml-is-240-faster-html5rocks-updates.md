@@ -3,6 +3,7 @@ title: "Big boost to DOM performance - WebKit's innerHTML is 240% faster - HTML5
 author: azu
 layout: post
 itemUrl: 'http://updates.html5rocks.com/2012/04/Big-boost-to-DOM-performance---WebKit-s-innerHTML-is-240-faster'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
 date: '2012-04-30T15:00:00.000Z'
 ---
 @xharaken によるコミットで、

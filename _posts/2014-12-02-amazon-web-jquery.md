@@ -3,6 +3,7 @@ title: 'Amazon: 改訂版 Webデザイナーのための jQuery入門: 髙津戸
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4774169447?tag=amazon0abac-22'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-02T01:06:58.623Z'
 tags:
   - jQuery

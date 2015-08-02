@@ -3,6 +3,7 @@ title: Release 3.5 “Mount Sharp” · mbostock/d3
 author: azu
 layout: post
 itemUrl: 'https://github.com/mbostock/d3/releases/tag/v3.5.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-10T14:12:05.951Z'
 tags:
   - JavaScript

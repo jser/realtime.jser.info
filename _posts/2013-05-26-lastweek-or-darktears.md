@@ -3,6 +3,7 @@ title: 'Lastweek | DarKtears'
 author: azu
 layout: post
 itemUrl: 'http://darktears.wordpress.com/tag/lastweek/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-26T07:22:48.774Z'
 tags:
   - Chrome

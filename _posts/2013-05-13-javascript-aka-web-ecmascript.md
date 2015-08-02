@@ -3,6 +3,7 @@ title: 'JavaScript, aka. Web ECMAScript'
 author: azu
 layout: post
 itemUrl: 'http://javascript.spec.whatwg.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-13T12:18:19.063Z'
 tags:
   - JavaScript

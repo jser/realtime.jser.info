@@ -3,6 +3,7 @@ title: gfranko/amdclean
 author: azu
 layout: post
 itemUrl: 'https://github.com/gfranko/amdclean'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-31T01:05:20.623Z'
 tags:
   - node.js

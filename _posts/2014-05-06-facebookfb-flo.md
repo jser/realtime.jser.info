@@ -3,6 +3,7 @@ title: facebook/fb-flo
 author: azu
 layout: post
 itemUrl: 'https://github.com/facebook/fb-flo'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-06T04:44:17.655Z'
 tags:
   - browser

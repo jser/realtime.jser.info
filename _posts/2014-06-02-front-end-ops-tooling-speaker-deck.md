@@ -3,6 +3,7 @@ title: Front End Ops Tooling // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/bevacqua/front-end-ops-tooling'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-02T12:58:54.158Z'
 tags:
   - JavaScript

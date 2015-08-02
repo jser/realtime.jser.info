@@ -3,6 +3,7 @@ title: The State of JavaScript in 2015 - Jimmy Breck-McKye
 author: azu
 layout: post
 itemUrl: 'http://www.breck-mckye.com/blog/2014/12/the-state-of-javascript-in-2015'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-01T23:23:25.597Z'
 tags:
   - JavaScript

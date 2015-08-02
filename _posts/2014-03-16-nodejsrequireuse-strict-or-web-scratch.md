@@ -3,6 +3,7 @@ title: 'Node.jsのrequireをインライン化、無駄なuse strictを取り除
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0316/res3719/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-16T05:43:58.119Z'
 tags:
   - JavaScript

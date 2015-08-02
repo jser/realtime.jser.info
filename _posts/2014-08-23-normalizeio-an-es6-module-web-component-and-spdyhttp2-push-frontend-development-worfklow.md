@@ -3,6 +3,7 @@ title: 'normalize.io - an ES6 module, Web Component, and SPDY/HTTP2 Push fronten
 author: azu
 layout: post
 itemUrl: 'https://normalize.github.io/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-23T08:03:46.770Z'
 tags:
   - node.js

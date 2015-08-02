@@ -3,6 +3,7 @@ title: CoffeeScript でクラスベースのオブジェクト指向プログラ
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/kitokitoki/20120701/p1'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
 date: '2012-07-31T15:00:00.000Z'
 ---
 CoffeeScriptのClassについて。

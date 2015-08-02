@@ -3,6 +3,7 @@ title: Getting Literal With ES6 Template Strings
 author: azu
 layout: post
 itemUrl: 'http://updates.html5rocks.com/2015/01/ES6-Template-Strings'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-27T08:19:33.936Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Amazon: JavaScript ライブラリ実践活用〔厳選111〕 (Software 
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774156116/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - javascript

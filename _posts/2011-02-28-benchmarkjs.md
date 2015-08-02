@@ -3,6 +3,7 @@ title: Benchmark.js
 author: azu
 layout: post
 itemUrl: 'http://benchmarkjs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
 date: '2011-02-28T15:00:00.000Z'
 ---
 jsPerfでも使われているベンチマーク計測ライブラリ。ブラウザ、コンソール、node.js、Javaアプレット(nano秒対応)とほとんどの環境に対応している。

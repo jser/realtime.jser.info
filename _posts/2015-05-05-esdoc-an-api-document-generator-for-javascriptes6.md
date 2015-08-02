@@ -3,6 +3,7 @@ title: ESDoc - An API Document Generator For JavaScript(ES6)
 author: azu
 layout: post
 itemUrl: 'https://esdoc.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-05T12:46:37.085Z'
 tags:
   - JavaScript

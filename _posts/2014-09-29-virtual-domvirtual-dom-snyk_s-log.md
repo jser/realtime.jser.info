@@ -3,6 +3,7 @@ title: Virtual DOMのアルゴリズムが知りたくてvirtual-domのコード
 author: azu
 layout: post
 itemUrl: 'http://saneyukis.hatenablog.com/entry/2014/09/03/134858'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-29T15:03:21.054Z'
 tags:
   - VirualDOM

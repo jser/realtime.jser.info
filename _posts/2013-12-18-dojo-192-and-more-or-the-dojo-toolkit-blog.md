@@ -3,6 +3,7 @@ title: 'Dojo 1.9.2 and more | The Dojo Toolkit Blog'
 author: azu
 layout: post
 itemUrl: 'http://dojotoolkit.org/blog/dojo-1-9-2-and-more'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-18T00:35:27.547Z'
 tags:
   - JavaScript

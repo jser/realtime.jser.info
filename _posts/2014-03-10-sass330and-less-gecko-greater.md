@@ -3,6 +3,7 @@ title: 'Sass3.3.0の「&」の扱い - < /gecko >'
 author: azu
 layout: post
 itemUrl: 'http://geckotang.tumblr.com/post/79158530266/sass3-3-0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-10T12:58:43.429Z'
 tags:
   - Sass

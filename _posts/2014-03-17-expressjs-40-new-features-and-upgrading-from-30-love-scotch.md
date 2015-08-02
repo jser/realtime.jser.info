@@ -3,6 +3,7 @@ title: 'ExpressJS 4.0: New Features and Upgrading from 3.0 ♥ Scotch'
 author: azu
 layout: post
 itemUrl: 'http://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-17T12:49:11.993Z'
 tags:
   - node.js

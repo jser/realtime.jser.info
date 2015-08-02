@@ -3,6 +3,7 @@ title: Not Born to Die · Babel
 author: azu
 layout: post
 itemUrl: 'https://babeljs.io/blog/2015/02/15/not-born-to-die'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-16T03:33:21.105Z'
 tags:
   - JavaScript

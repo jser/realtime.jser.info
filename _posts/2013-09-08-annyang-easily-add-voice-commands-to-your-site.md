@@ -3,6 +3,7 @@ title: annyang - Easily add voice commands to your site
 author: azu
 layout: post
 itemUrl: 'https://www.talater.com/annyang/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-08T04:27:26.318Z'
 tags:
   - JavaScript

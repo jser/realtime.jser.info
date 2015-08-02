@@ -3,6 +3,7 @@ title: CORS для тестирования и для жизни. Констан
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/moscowjs/cors-moscowjs-14'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-17T00:45:39.413Z'
 tags:
   - XHR

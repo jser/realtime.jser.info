@@ -3,6 +3,7 @@ title: 'Announcing Recline.JS: a Javascript library for building data applicatio
 author: azu
 layout: post
 itemUrl: 'http://blog.okfn.org/2012/07/05/announcing-recline-js-a-javascript-library-for-building-data-applications-in-the-browser/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
 date: '2012-07-31T15:00:00.000Z'
 ---
 データを表やグラフ、タイムラインやMapsに表示したりするJavaScriptライブラリ。

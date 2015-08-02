@@ -3,6 +3,7 @@ title: Model-View-Intent and the Virtual DOM
 author: azu
 layout: post
 itemUrl: 'http://staltz.com/mvi-freaklies/#/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-29T05:29:40.461Z'
 tags:
   - VirualDOM

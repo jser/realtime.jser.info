@@ -3,6 +3,7 @@ title: 'React v0.12 | React'
 author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2014/10/28/react-v0.12.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-29T02:13:48.942Z'
 tags:
   - React

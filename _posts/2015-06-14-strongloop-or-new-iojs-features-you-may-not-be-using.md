@@ -3,6 +3,7 @@ title: 'StrongLoop | New io.js Features You May Not Be Using'
 author: azu
 layout: post
 itemUrl: 'https://strongloop.com/strongblog/new-io-js-features-you-may-not-be-using/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-14T02:30:18.710Z'
 tags:
   - node.js

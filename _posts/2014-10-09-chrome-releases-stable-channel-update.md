@@ -3,6 +3,7 @@ title: 'Chrome Releases: Stable Channel Update'
 author: azu
 layout: post
 itemUrl: 'http://googlechromereleases.blogspot.com/2014/10/stable-channel-update.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-09T08:17:08.853Z'
 tags:
   - Chrome

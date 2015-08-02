@@ -3,6 +3,7 @@ title: '生WebGL入門:初音ミクの美麗3Dモデルを表示する(前編) �
 author: azu
 layout: post
 itemUrl: 'http://nmi.jp/archives/582'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-08T08:59:30.796Z'
 tags:
   - WebGL

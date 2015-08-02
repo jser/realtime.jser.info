@@ -3,6 +3,7 @@ title: ask11/storage · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/ask11/storage'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-02T02:23:22.134Z'
 tags:
   - JavaScript

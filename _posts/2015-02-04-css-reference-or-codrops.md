@@ -3,6 +3,7 @@ title: 'CSS Reference | Codrops'
 author: azu
 layout: post
 itemUrl: 'http://tympanus.net/codrops/css_reference/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-04T16:05:28.414Z'
 tags:
   - CSS

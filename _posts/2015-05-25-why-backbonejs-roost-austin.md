@@ -3,6 +3,7 @@ title: Why Backbone.js? - Roost Austin
 author: azu
 layout: post
 itemUrl: 'https://roost.bocoup.com/2015/austin/blog/why-backbone/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-25T13:26:07.903Z'
 tags:
   - JavaScript

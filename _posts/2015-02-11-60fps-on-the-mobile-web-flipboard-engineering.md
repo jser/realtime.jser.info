@@ -3,6 +3,7 @@ title: 60fps on the mobile web — Flipboard Engineering
 author: azu
 layout: post
 itemUrl: 'http://engineering.flipboard.com/2015/02/mobile-web/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-11T08:36:16.870Z'
 tags:
   - JavaScript

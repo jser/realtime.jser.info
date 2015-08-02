@@ -3,6 +3,7 @@ title: 'Taming The Unicorn: Easing JavaScript Memory Profiling In Chrome DevTool
 author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/blog/taming-the-unicorn-easing-javascript-memory-profiling-in-devtools/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
 date: '2013-04-13T09:10:53.469Z'
 tags:
   - JavaScript

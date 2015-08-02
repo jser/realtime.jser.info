@@ -3,6 +3,7 @@ title: Effective web performance tuning for smartphone
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/dena_study/effective-web-performance-tuning-for-smartphone'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-20T14:25:07.385Z'
 tags:
   - mobile

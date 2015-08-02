@@ -3,6 +3,7 @@ title: Same-Origin Policy とは何なのか。 - 葉っぱ日記
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/hasegawayosuke/20130330/p1'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-30T08:27:18.701Z'
 tags:
   - HTTP

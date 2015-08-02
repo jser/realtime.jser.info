@@ -3,6 +3,7 @@ title: goodeggs/chai-webdriver
 author: azu
 layout: post
 itemUrl: 'https://github.com/goodeggs/chai-webdriver'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-27T12:36:58.027Z'
 tags:
   - Selenium

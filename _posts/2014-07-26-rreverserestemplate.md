@@ -3,6 +3,7 @@ title: RReverser/estemplate
 author: azu
 layout: post
 itemUrl: 'https://github.com/RReverser/estemplate'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-26T23:37:01.627Z'
 tags:
   - JavaScript

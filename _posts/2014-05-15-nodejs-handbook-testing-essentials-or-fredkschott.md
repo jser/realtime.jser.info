@@ -3,6 +3,7 @@ title: 'Node.js Handbook - Testing Essentials | FredKSchott'
 author: azu
 layout: post
 itemUrl: 'http://fredkschott.com/post/2014/05/nodejs-testing-essentials/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-15T01:10:35.539Z'
 tags:
   - node.js

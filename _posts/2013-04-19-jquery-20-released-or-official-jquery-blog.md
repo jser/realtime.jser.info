@@ -3,6 +3,7 @@ title: 'jQuery 2.0 Released | Official jQuery Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/04/18/jquery-2-0-released/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
 date: '2013-04-19T05:03:41.807Z'
 tags:
   - jQuery

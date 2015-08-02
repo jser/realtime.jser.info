@@ -3,6 +3,7 @@ title: 'Coverage of FutureJS | Lanyrd'
 author: azu
 layout: post
 itemUrl: 'http://lanyrd.com/2014/futurejs/coverage/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-06T08:33:18.864Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Event listeners popup, @media sidebar, Cubic bezier editor + more – Fi
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2014/07/event-listeners-popup-media-sidebar-cubic-bezier-editor-more-firefox-developer-tools-episode-33/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-31T08:55:14.013Z'
 tags:
   - firefox

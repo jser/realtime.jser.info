@@ -3,6 +3,7 @@ title: '▶ "Процесс стандартизации ECMAScript", Серге
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=5HNrQJsv4gU'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-12T22:53:58.854Z'
 tags:
   - ECMAScript

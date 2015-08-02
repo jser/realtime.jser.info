@@ -3,6 +3,7 @@ title: 'Addy Osmani - Google+ - TodoMVC 1.1 Released: Now Includes Kendo UI, Typ
 author: azu
 layout: post
 itemUrl: 'https://plus.google.com/115133653231679625609/posts/6ABtV7ntwPp'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
 date: '2013-02-27T15:00:00.000Z'
 tags:
   - javascript

@@ -3,6 +3,7 @@ title: 'Code smells in CSS | en.ja | Translated Articles for Front End Developer
 author: azu
 layout: post
 itemUrl: 'http://enja.studiomohawk.com/2013/03/24/code-smells-in-css/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-24T10:20:01.272Z'
 tags:
   - css

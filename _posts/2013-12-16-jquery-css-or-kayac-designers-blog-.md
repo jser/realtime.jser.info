@@ -3,6 +3,7 @@ title: "これだけは抑えておきたい！ jQuery や CSS の「イージ�
 author: azu
 layout: post
 itemUrl: 'http://design.kayac.com/topics/2013/11/easing-basics.php'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-16T08:48:49.329Z'
 tags:
   - animation

@@ -3,6 +3,7 @@ title: Browser Platform Status Tracker
 author: azu
 layout: post
 itemUrl: 'http://platformstatustracker.azurewebsites.net/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-15T15:24:30.813Z'
 tags:
   - IE

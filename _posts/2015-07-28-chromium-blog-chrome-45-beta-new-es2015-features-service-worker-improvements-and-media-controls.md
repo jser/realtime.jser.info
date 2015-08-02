@@ -3,6 +3,7 @@ title: 'Chromium Blog: Chrome 45 Beta: New ES2015 features, service worker impro
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/07/chrome-45-beta-new-es2015-features.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-28T08:41:59.304Z'
 tags:
   - Chrome

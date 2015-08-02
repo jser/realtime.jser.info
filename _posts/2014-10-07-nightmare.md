@@ -3,6 +3,7 @@ title: Nightmare
 author: azu
 layout: post
 itemUrl: 'http://www.nightmarejs.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-07T15:06:10.298Z'
 tags:
   - JavaScript

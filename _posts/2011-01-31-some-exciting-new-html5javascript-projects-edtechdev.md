@@ -3,6 +3,7 @@ title: Some Exciting New HTML5/Javascript Projects « EdTechDev
 author: azu
 layout: post
 itemUrl: 'http://edtechdev.wordpress.com/2011/01/14/some-exciting-new-html5javascript-projects/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 最近HotなHTML5/Javascript 関係のプロジェクトをまとめたリンク集

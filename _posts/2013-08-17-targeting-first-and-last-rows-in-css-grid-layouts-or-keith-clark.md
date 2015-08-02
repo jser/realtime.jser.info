@@ -3,6 +3,7 @@ title: 'Targeting first and last rows in CSS grid layouts | Keith Clark'
 author: azu
 layout: post
 itemUrl: 'http://blog.keithclark.co.uk/targeting-first-and-last-rows-in-css-grid-layouts/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-17T02:37:11.295Z'
 tags:
   - CSS

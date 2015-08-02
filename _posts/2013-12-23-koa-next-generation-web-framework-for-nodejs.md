@@ -3,6 +3,7 @@ title: Koa - next generation web framework for node.js
 author: azu
 layout: post
 itemUrl: 'http://koajs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-23T10:30:32.751Z'
 tags:
   - node.js

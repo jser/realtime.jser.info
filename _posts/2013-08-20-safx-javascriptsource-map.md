@@ -3,6 +3,7 @@ title: 'Safx: JavaScriptのSource Mapの内部表現について'
 author: azu
 layout: post
 itemUrl: 'http://safx-dev.blogspot.com/2013/08/javascriptsource-map.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-20T13:03:40.238Z'
 tags:
   - JavaScript

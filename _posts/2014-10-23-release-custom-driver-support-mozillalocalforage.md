@@ -3,6 +3,7 @@ title: Release Custom Driver Support · mozilla/localForage
 author: azu
 layout: post
 itemUrl: 'https://github.com/mozilla/localForage/releases/tag/1.1.1'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-23T01:18:52.234Z'
 tags:
   - JavaScript

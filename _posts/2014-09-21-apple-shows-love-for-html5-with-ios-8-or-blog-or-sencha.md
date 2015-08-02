@@ -3,6 +3,7 @@ title: 'Apple Shows Love for HTML5 with iOS 8 | Blog | Sencha'
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/apple-shows-love-for-html5-with-ios-8'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-21T03:32:14.697Z'
 tags:
   - ios

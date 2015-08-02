@@ -3,6 +3,7 @@ title: TypeScriptの型定義ファイルを共有しよう！ - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/vvakame/items/1980d4b6cc222e03fdcb'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-05T08:45:07.758Z'
 tags:
   - TypeScript

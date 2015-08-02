@@ -3,6 +3,7 @@ title: Model View Madness
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/anm8tr/model-view-madness'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-13T12:06:07.003Z'
 tags:
   - JavaScript

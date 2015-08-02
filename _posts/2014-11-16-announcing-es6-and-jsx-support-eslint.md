@@ -3,6 +3,7 @@ title: Announcing ES6 and JSX Support - ESLint
 author: azu
 layout: post
 itemUrl: 'http://eslint.org/blog/2014/11/es6-jsx-support/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-16T09:02:41.708Z'
 tags:
   - ECMAScript

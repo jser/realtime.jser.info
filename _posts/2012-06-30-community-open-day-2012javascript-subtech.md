@@ -3,6 +3,7 @@ title: Community Open Day 2012でJavaScriptのツールっぽい話をしてき�
 author: azu
 layout: post
 itemUrl: 'http://subtech.g.hatena.ne.jp/mayuki/20120610/1339336779'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
 date: '2012-06-30T15:00:00.000Z'
 ---
 JavaScript対応のIDEについて。

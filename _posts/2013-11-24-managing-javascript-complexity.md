@@ -3,6 +3,7 @@ title: Managing JavaScript Complexity
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/JarrodOverson/complexity-28214103'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-24T08:03:25.690Z'
 tags:
   - JavaScript

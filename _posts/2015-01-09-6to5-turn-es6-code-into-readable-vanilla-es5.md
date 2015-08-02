@@ -3,6 +3,7 @@ title: 6to5 · Turn ES6+ code into readable vanilla ES5
 author: azu
 layout: post
 itemUrl: 'https://6to5.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-09T01:13:49.244Z'
 tags:
   - ECMAScript

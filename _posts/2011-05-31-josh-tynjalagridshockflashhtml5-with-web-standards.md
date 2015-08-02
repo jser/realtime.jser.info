@@ -3,6 +3,7 @@ title: Josh Tynjala「GridshockをFlashからHTML5へ移植してみた」 - ク
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/vwxyz/20110512/1305187760'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
 date: '2011-05-31T15:00:00.000Z'
 ---
 Flash to Canvas(JavaScript)への移植の話

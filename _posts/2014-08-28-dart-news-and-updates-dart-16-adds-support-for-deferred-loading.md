@@ -3,6 +3,7 @@ title: 'Dart News & Updates: Dart 1.6 adds support for deferred loading'
 author: azu
 layout: post
 itemUrl: 'http://news.dartlang.org/2014/08/dart-16-adds-support-for-deferred.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-28T01:11:44.617Z'
 tags:
   - dart

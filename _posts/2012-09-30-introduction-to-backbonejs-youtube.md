@@ -3,6 +3,7 @@ title: Introduction to Backbone.js - YouTube
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=PqtYcHyyWJA'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/index.json'
 date: '2012-09-30T15:00:00.000Z'
 ---
 Backbone.js入門スクリーンキャスト

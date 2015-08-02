@@ -3,6 +3,7 @@ title: 'Why we should stop using Grunt & Gulp'
 author: azu
 layout: post
 itemUrl: 'http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-02T05:00:18.512Z'
 tags:
   - JavaScript

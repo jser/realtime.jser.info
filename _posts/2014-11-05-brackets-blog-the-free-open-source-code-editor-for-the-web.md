@@ -3,6 +3,7 @@ title: 'Brackets Blog - The Free, Open Source Code Editor for the Web'
 author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2014/11/04/brackets-1-0-and-extract-for-brackets-preview-now-available/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-05T03:26:13.567Z'
 tags:
   - JavaScript

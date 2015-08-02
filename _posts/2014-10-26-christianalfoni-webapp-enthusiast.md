@@ -3,6 +3,7 @@ title: christianalfoni WebApp Enthusiast
 author: azu
 layout: post
 itemUrl: 'http://christianalfoni.github.io/javascript/2014/08/20/react-js-and-flux.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-26T07:12:27.543Z'
 tags:
   - JavaScript

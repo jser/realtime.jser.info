@@ -3,6 +3,7 @@ title: "O'Reilly Japan - Backbone.jsアプリケーション開発ガイド"
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116587/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-24T07:17:26.466Z'
 tags:
   - JavaScript

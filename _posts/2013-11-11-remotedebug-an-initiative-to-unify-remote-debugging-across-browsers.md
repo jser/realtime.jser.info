@@ -3,6 +3,7 @@ title: 'RemoteDebug, an initiative to unify remote debugging across browsers.'
 author: azu
 layout: post
 itemUrl: 'http://remotedebug.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-11T13:39:46.071Z'
 tags:
   - browser

@@ -3,6 +3,7 @@ title: Autoprefixer ― CSSのベンダー接頭辞をいろいろする - fragm
 author: azu
 layout: post
 itemUrl: 'http://myakura.hatenablog.com/entry/2013/09/30/035244'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-30T16:42:32.921Z'
 tags:
   - CSS

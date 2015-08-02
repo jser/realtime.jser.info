@@ -3,6 +3,7 @@ title: 'Release v0.8.0: Release 0.8.0 (2014-08-12) · twada/power-assert'
 author: azu
 layout: post
 itemUrl: 'https://github.com/twada/power-assert/releases/tag/v0.8.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-13T05:48:10.620Z'
 tags:
   - JavaScript

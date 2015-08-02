@@ -3,6 +3,7 @@ title: Contracts.js
 author: azu
 layout: post
 itemUrl: 'http://www.contractsjs.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-28T12:17:54.487Z'
 tags:
   - sweet.js

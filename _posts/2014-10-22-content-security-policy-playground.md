@@ -3,6 +3,7 @@ title: Content Security Policy Playground
 author: azu
 layout: post
 itemUrl: 'http://www.cspplayground.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-22T14:25:31.464Z'
 tags:
   - CSP

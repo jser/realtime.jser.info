@@ -3,6 +3,7 @@ title: Kikobeats/acho
 author: azu
 layout: post
 itemUrl: 'https://github.com/Kikobeats/acho#acho'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-14T14:43:58.084Z'
 tags:
   - JavaScript

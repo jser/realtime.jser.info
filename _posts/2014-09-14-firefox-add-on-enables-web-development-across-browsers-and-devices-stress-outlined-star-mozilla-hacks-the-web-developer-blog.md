@@ -3,6 +3,7 @@ title: Firefox Add-on Enables Web Development Across Browsers and Devices ✩ Mo
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2014/09/firefox-tools-adapter/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-14T09:22:27.342Z'
 tags:
   - firefox

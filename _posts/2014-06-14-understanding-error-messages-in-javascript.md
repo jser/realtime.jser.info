@@ -3,6 +3,7 @@ title: Understanding Error Messages in JavaScript
 author: azu
 layout: post
 itemUrl: 'http://www.choskim.me/understanding-error-messages-in-javascript/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-14T06:05:52.702Z'
 tags:
   - JavaScript

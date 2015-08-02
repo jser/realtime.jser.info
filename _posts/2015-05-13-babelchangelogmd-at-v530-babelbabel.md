@@ -3,6 +3,7 @@ title: babel/CHANGELOG.md at v5.3.0 · babel/babel
 author: azu
 layout: post
 itemUrl: 'https://github.com/babel/babel/blob/v5.3.0/CHANGELOG.md#530'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-13T01:40:42.980Z'
 tags:
   - JavaScript

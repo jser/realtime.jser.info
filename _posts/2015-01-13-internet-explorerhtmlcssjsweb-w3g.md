@@ -3,6 +3,7 @@ title: Internet ExplorerのどのバージョンからどのHTML/CSS/JSに対応
 author: azu
 layout: post
 itemUrl: 'https://w3g.jp/blog/ie_supportlist'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-13T12:26:16.244Z'
 tags:
   - IE

@@ -3,6 +3,7 @@ title: dgs700/angular-custom-element
 author: azu
 layout: post
 itemUrl: 'https://github.com/dgs700/angular-custom-element'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-19T03:00:25.141Z'
 tags:
   - AngularJS

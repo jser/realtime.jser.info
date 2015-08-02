@@ -3,6 +3,7 @@ title: I’m writing a book. - JS Testing Recipes
 author: azu
 layout: post
 itemUrl: 'http://jstesting.jcoglan.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-06T08:26:45.095Z'
 tags:
   - JavaScript

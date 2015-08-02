@@ -3,6 +3,7 @@ title: 'FirefoxでJITコンパイルの「正しさ」を担保する”Invalida
 author: azu
 layout: post
 itemUrl: 'http://ledyba.org/2013/02/27181531.php'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-31T08:43:47.435Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: jsでTDD！MochaとChaiとsinon.js入門 - @lxyuma BLOG
 author: azu
 layout: post
 itemUrl: 'http://lxyuma.hatenablog.com/entry/2013/12/15/211637'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-16T12:58:31.958Z'
 tags:
   - JavaScript

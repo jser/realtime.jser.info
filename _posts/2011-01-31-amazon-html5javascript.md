@@ -3,6 +3,7 @@ title: 'Amazon: HTML5+JavaScript アイデア＆実践サンプル: 古籏一浩
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4048704486/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 <a href="http://ascii.jp/elem/000/000/454/454105/" title="ASCII.jp&#xFF1A;&#x53E4;&#x7C4F;&#x4E00;&#x6D69;&#x306E;JavaScript&#x30E9;&#x30DC;">ASCII.jp：古籏一浩のJavaScriptラボ</a>を基にした書籍のようです。

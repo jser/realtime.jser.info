@@ -3,6 +3,7 @@ title: About Javascript prototype — Gist
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/2990054'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
 date: '2012-07-31T15:00:00.000Z'
 ---
 "プロトタイプと、あとクラス、継承、ミックスインと呼ばれている物の説明"

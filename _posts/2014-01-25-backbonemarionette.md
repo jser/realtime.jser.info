@@ -3,6 +3,7 @@ title: 実践Backbone.Marionette 現場の悩みと解決まで
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/ryumatsukano/backbonemarionette'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-25T13:58:37.356Z'
 tags:
   - backbone.js

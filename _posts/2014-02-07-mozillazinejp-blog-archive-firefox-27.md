@@ -3,6 +3,7 @@ title: MozillaZine.jp » Blog Archive » Firefox 27 がリリースされた
 author: azu
 layout: post
 itemUrl: 'http://mozillazine.jp/?p=4308'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-07T16:35:04.810Z'
 tags:
   - firefox

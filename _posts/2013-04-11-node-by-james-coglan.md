@@ -3,6 +3,7 @@ title: '翻訳: ”命令型のコールバック、関数型のプロミス: No
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/okapies/5354929'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
 date: '2013-04-11T14:03:23.238Z'
 tags:
   - JavaScript

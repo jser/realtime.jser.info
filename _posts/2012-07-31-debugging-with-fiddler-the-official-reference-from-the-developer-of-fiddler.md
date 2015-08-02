@@ -3,6 +3,7 @@ title: 'Debugging with Fiddler: The official reference from the developer of Fid
 author: azu
 layout: post
 itemUrl: 'http://fiddler2.com/book/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
 date: '2012-07-31T15:00:00.000Z'
 ---
 Fiddlerの書籍。

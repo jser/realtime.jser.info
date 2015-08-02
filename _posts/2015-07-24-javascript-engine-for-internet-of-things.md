@@ -3,6 +3,7 @@ title: JavaScript engine for Internet of Things
 author: azu
 layout: post
 itemUrl: 'http://samsung.github.io/jerryscript/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-24T08:04:33.808Z'
 tags:
   - JavaScript

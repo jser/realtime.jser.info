@@ -3,6 +3,7 @@ title: 'Release v0.2.0: 0.2.0 · nzakas/eslint'
 author: azu
 layout: post
 itemUrl: 'https://github.com/nzakas/eslint/releases/tag/v0.2.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-02T02:26:11.626Z'
 tags:
   - JavaScript

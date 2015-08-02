@@ -3,6 +3,7 @@ title: Ramda Documentation
 author: azu
 layout: post
 itemUrl: 'http://ramdajs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-30T12:23:35.832Z'
 tags:
   - JavaScript

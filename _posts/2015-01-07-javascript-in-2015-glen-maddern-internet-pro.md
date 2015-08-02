@@ -3,6 +3,7 @@ title: 'JavaScript in 2015 - Glen Maddern: Internet Pro'
 author: azu
 layout: post
 itemUrl: 'http://glenmaddern.com/articles/javascript-in-2015'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-07T12:45:05.253Z'
 tags:
   - JavaScript

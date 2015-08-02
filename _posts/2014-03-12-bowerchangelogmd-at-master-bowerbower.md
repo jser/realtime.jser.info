@@ -3,6 +3,7 @@ title: bower/CHANGELOG.md at master · bower/bower
 author: azu
 layout: post
 itemUrl: 'https://github.com/bower/bower/blob/master/CHANGELOG.md#130---2014-03-10'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-12T02:15:03.760Z'
 tags:
   - Tools

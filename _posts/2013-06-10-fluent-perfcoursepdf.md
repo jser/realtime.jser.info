@@ -3,6 +3,7 @@ title: fluent-perfcourse.pdf
 author: azu
 layout: post
 itemUrl: 'http://www.igvita.com/slides/2013/fluent-perfcourse.pdf'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
 date: '2013-06-10T00:48:47.676Z'
 tags:
   - performance

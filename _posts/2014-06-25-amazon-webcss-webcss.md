@@ -3,6 +3,7 @@ title: 'Amazon: Web制作者のためのCSS設計の教科書 モダンWeb開発
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4844336355?tag=amazon0abac-22'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-25T09:02:27.747Z'
 tags:
   - CSS

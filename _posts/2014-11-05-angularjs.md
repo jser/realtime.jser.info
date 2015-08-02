@@ -3,6 +3,7 @@ title: 'AngularJS についての所感 ::ハブろぐ'
 author: azu
 layout: post
 itemUrl: 'http://havelog.ayumusato.com/develop/javascript/e628-angularjs_thought.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-05T03:11:23.701Z'
 tags:
   - AngularJS

@@ -3,6 +3,7 @@ title: Angular 1.4.0 - jaracimrman-existence
 author: azu
 layout: post
 itemUrl: 'http://angularjs.blogspot.com/2015/05/angular-140-jaracimrman-existence.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-28T07:25:42.138Z'
 tags:
   - AngularJS

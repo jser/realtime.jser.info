@@ -3,6 +3,7 @@ title: Living on the Edge – our next step in helping the web just work - IEBlo
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2014/11/11/living-on-the-edge-our-next-step-in-interoperability.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-16T11:48:16.811Z'
 tags:
   - IE

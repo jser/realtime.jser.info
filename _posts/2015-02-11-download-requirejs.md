@@ -3,6 +3,7 @@ title: Download RequireJS
 author: azu
 layout: post
 itemUrl: 'http://requirejs.org/docs/download.html#2-1-16'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-11T06:58:20.817Z'
 tags:
   - JavaScript

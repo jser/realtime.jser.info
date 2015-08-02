@@ -3,6 +3,7 @@ title: 'そのコード、本当にjQueryが必要ですか？ネイティブ関
 author: azu
 layout: post
 itemUrl: 'http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/jquery-alternative-tips/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-29T02:13:11.057Z'
 tags:
   - jQuery

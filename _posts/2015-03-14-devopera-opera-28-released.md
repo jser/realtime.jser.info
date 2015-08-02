@@ -3,6 +3,7 @@ title: Dev.Opera — Opera 28 released
 author: azu
 layout: post
 itemUrl: 'https://dev.opera.com/blog/opera-28/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-14T05:42:14.508Z'
 tags:
   - Opera

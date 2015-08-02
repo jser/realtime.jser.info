@@ -3,6 +3,7 @@ title: 'DailyJS: JavaScript Developer Survey 2014: Results'
 author: azu
 layout: post
 itemUrl: 'http://dailyjs.com/2014/12/16/javascript-survey-results/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-18T06:06:49.684Z'
 tags:
   - JavaScript

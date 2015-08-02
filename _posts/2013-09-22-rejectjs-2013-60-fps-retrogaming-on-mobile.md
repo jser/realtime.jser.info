@@ -3,6 +3,7 @@ title: Reject.JS 2013 - 60 FPS retrogaming on mobile
 author: azu
 layout: post
 itemUrl: 'http://gmarty.github.io/jsSMS/Reject.JS-2013-Slides/#/intro'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-22T05:42:16.620Z'
 tags:
   - JavaScript

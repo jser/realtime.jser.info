@@ -3,6 +3,7 @@ title: "クロージャーのチュートリアル（What's a Closure?） @ t100
 author: azu
 layout: post
 itemUrl: 'http://t100life.blog121.fc2.com/blog-entry-214.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/index.json'
 date: '2011-09-30T15:00:00.000Z'
 ---
 JavaScriptのクロージャについて学べるサイトWhat's Closure?の翻訳

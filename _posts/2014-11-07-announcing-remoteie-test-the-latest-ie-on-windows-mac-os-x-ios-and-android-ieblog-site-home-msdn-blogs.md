@@ -3,6 +3,7 @@ title: 'Announcing RemoteIE: Test the latest IE on Windows, Mac OS X, iOS and An
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2014/11/02/announcing-remoteie-test-the-latest-ie-on-windows-mac-os-x-ios-and-android.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-07T14:04:08.483Z'
 tags:
   - IE

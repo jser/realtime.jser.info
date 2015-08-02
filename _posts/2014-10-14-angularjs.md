@@ -3,6 +3,7 @@ title: 天使やカイザーと呼ばれて » オレ流AngularJSを使った設
 author: azu
 layout: post
 itemUrl: 'https://www.eisbahn.jp/yoichiro/2014/10/my_angularjs_design_policy.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-14T10:36:42.353Z'
 tags:
   - AngularJS

@@ -3,6 +3,7 @@ title: Release 0.7.0 · airportyh/testem
 author: azu
 layout: post
 itemUrl: 'https://github.com/airportyh/testem/releases/tag/v0.7.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-17T02:50:48.123Z'
 tags:
   - JavaScript

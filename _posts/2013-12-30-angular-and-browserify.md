@@ -3,6 +3,7 @@ title: Angular And Browserify
 author: azu
 layout: post
 itemUrl: 'http://ethanway.com/angular-and-browserify/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-30T11:49:56.944Z'
 tags:
   - AngularJS

@@ -3,6 +3,7 @@ title: ESLint 0.10.0 released - ESLint
 author: azu
 layout: post
 itemUrl: 'http://eslint.org/blog/2014/11/eslint-0.10.0-released/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-28T01:47:28.867Z'
 tags:
   - JavaScript

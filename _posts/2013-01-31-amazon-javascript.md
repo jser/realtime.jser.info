@@ -3,6 +3,7 @@ title: 'Amazon: すべての人に知っておいてほしい JavaScriptの基�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844363123'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
 date: '2013-01-31T15:00:00.000Z'
 ---
 2013年1月23日発売

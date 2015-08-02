@@ -3,6 +3,7 @@ title: WebKit CSS JIT Internals - Constellation Scorpius
 author: azu
 layout: post
 itemUrl: 'http://constellation.github.io/blog/2014/07/14/webkit-css-jit-internals'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-15T12:47:40.279Z'
 tags:
   - CSS

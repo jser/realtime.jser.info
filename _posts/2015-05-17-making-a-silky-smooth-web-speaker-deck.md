@@ -3,6 +3,7 @@ title: Making a Silky Smooth Web // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/paullewis/making-a-silky-smooth-web'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-17T07:54:42.656Z'
 tags:
   - browser

@@ -3,6 +3,7 @@ title: yoshuawuyts/promise-each
 author: azu
 layout: post
 itemUrl: 'https://github.com/yoshuawuyts/promise-each'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-25T15:20:45.143Z'
 tags:
   - Promises

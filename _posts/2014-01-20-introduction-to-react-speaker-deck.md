@@ -3,6 +3,7 @@ title: Introduction to React // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/shuhei/introduction-to-react'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-20T14:11:05.181Z'
 tags:
   - DOM

@@ -3,6 +3,7 @@ title: addyosmani/es6-equivalents-in-es5
 author: azu
 layout: post
 itemUrl: 'https://github.com/addyosmani/es6-equivalents-in-es5'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-21T11:26:58.402Z'
 tags:
   - JavaScript

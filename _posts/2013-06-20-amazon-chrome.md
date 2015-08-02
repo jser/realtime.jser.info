@@ -3,6 +3,7 @@ title: 'Amazon: 開発者のためのChromeガイドブック [単行本（ソ�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844334220/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
 date: '2013-06-20T12:17:59.932Z'
 tags:
   - Chrome

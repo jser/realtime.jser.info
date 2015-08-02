@@ -3,6 +3,7 @@ title: 'Intro | Javascript Challenges'
 author: azu
 layout: post
 itemUrl: 'http://tcorral.github.io/javascript-challenges-book/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-09T12:15:23.440Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: twitter/bower
 author: azu
 layout: post
 itemUrl: 'https://github.com/twitter/bower/tree/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/index.json'
 date: '2012-09-30T15:00:00.000Z'
 ---
 Twitter社製のWeb向けのパッケージマネージャー

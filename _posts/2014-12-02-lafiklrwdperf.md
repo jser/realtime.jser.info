@@ -3,6 +3,7 @@ title: lafikl/RWDPerf
 author: azu
 layout: post
 itemUrl: 'https://github.com/lafikl/RWDPerf'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-02T14:42:14.911Z'
 tags:
   - design

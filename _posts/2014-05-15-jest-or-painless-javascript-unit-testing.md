@@ -3,6 +3,7 @@ title: 'Jest | Painless JavaScript Unit Testing'
 author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/jest/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-15T00:49:41.866Z'
 tags:
   - facebook

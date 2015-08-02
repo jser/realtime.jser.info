@@ -3,6 +3,7 @@ title: 'Release v0.11.0: ES6 support (2015-04-18) · twada/power-assert'
 author: azu
 layout: post
 itemUrl: 'https://github.com/twada/power-assert/releases/tag/v0.11.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-19T04:43:31.788Z'
 tags:
   - JavaScript

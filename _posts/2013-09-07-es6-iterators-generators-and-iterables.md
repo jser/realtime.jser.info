@@ -3,6 +3,7 @@ title: 'ES6 Iterators, Generators, and Iterables'
 author: azu
 layout: post
 itemUrl: 'http://domenic.me/2013/09/06/es6-iterators-generators-and-iterables/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-07T13:30:00.824Z'
 tags:
   - ECMAScript

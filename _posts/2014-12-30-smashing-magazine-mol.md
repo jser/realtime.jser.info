@@ -3,6 +3,7 @@ title: Smashing Magazineのパフォーマンス改善ケースが凄まじい�
 author: azu
 layout: post
 itemUrl: 'http://t32k.me/mol/log/style-class-conference/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-30T12:41:58.578Z'
 tags:
   - JavaScript

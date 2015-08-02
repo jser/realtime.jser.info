@@ -3,6 +3,7 @@ title: 「for やめろ」またはイベントループと nextTick() - Block R
 author: azu
 layout: post
 itemUrl: 'http://jxck.hatenablog.com/entry/for-with-eventloop'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-12T13:53:03.710Z'
 tags:
   - JavaScript

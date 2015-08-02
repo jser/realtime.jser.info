@@ -3,6 +3,7 @@ title: bahmutov/next-update
 author: azu
 layout: post
 itemUrl: 'https://github.com/bahmutov/next-update'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-07T09:17:13.681Z'
 tags:
   - node.js

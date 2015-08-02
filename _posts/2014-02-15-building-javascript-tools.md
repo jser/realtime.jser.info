@@ -3,6 +3,7 @@ title: Building JavaScript Tools
 author: azu
 layout: post
 itemUrl: 'http://gregfranko.com/building-javascript-tools-talk/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-15T15:16:44.288Z'
 tags:
   - JavaScript

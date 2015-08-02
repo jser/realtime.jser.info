@@ -3,6 +3,7 @@ title: hello.js - Javascript API for OAuth2 authentication and REST services
 author: azu
 layout: post
 itemUrl: 'http://adodson.com/hello.js/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-15T11:57:34.119Z'
 tags:
   - JavaScript

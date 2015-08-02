@@ -3,6 +3,7 @@ title: Khan/structuredjs
 author: azu
 layout: post
 itemUrl: 'https://github.com/Khan/structuredjs'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-26T06:48:08.976Z'
 tags:
   - JavaScript

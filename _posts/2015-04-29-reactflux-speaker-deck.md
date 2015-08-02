@@ -3,6 +3,7 @@ title: ReactとFluxのこと // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/geta6/reacttofluxfalsekoto'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-29T05:07:43.883Z'
 tags:
   - React

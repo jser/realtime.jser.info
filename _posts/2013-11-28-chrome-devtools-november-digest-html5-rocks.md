@@ -3,6 +3,7 @@ title: Chrome DevTools November Digest - HTML5 Rocks
 author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/developertools/novdigest/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-28T00:33:27.249Z'
 tags:
   - Chrome

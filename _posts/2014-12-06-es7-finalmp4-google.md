@@ -3,6 +3,7 @@ title: ES7 final.mp4 - Google ドライブ
 author: azu
 layout: post
 itemUrl: 'https://drive.google.com/file/d/0B4PVbLpUIdzoUjdmSkFtVVozQnM/view'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-06T12:58:19.516Z'
 tags:
   - JavaScript

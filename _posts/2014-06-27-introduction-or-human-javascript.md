@@ -3,6 +3,7 @@ title: 'Introduction | Human JavaScript'
 author: azu
 layout: post
 itemUrl: 'http://read.humanjavascript.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-27T03:28:03.335Z'
 tags:
   - JavaScript

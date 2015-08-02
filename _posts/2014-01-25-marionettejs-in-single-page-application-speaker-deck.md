@@ -3,6 +3,7 @@ title: Marionette.js in Single Page Application // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/koba04/marionette-dot-js-in-single-page-application'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-25T13:23:28.125Z'
 tags:
   - backbone.js

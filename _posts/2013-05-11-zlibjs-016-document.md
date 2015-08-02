@@ -3,6 +3,7 @@ title: 'zlib.js 0.1.6 をリリースしました : document'
 author: azu
 layout: post
 itemUrl: 'http://blog.livedoor.jp/imaya_js/archives/6504789.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-11T03:14:06.043Z'
 tags:
   - JavaScript

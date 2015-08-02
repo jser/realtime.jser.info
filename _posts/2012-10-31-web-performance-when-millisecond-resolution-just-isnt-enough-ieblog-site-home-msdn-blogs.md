@@ -3,6 +3,7 @@ title: 'Web Performance: When millisecond resolution just isn’t enough - IEBlo
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2012/10/19/web-performance-when-millisecond-resolution-just-isn-t-enough.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/index.json'
 date: '2012-10-31T15:00:00.000Z'
 ---
 Date.now()とPerformance.now()の違い。

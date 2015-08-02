@@ -3,6 +3,7 @@ title: ウェブパフォーマンスの基礎とこれから
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/kawada_hiroshi/ss-46149727'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-23T12:41:16.917Z'
 tags:
   - web

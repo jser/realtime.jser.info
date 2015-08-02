@@ -3,6 +3,7 @@ title: 'テストできないコードをE2Eテストを使ってリファクタ
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/01/24/testium-e2e-refactoring/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-24T13:18:34.940Z'
 tags:
   - JavaScript

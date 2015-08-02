@@ -3,6 +3,7 @@ title: モダン ブラウザのためのクライアント サイド Web 開発
 author: azu
 layout: post
 itemUrl: 'http://blogs.itmedia.co.jp/chack/2011/10/web-project-sil-7ba0.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
 date: '2011-10-31T15:00:00.000Z'
 ---
 MSによるHTML5 と JavaScript (jQuery, jQuery UI Widgets) などでアプリケーションを構築していく話。

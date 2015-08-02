@@ -3,6 +3,7 @@ title: Release v2.0.0 · eslint/espree
 author: azu
 layout: post
 itemUrl: 'https://github.com/eslint/espree/releases/tag/v2.0.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-05T05:04:53.244Z'
 tags:
   - JavaScript

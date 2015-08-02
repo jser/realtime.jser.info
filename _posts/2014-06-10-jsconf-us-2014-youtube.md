@@ -3,6 +3,7 @@ title: JSConf US 2014 - YouTube
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-10T00:58:18.664Z'
 tags:
   - JavaScript

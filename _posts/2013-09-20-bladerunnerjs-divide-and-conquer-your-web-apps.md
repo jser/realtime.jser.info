@@ -3,6 +3,7 @@ title: 'BladeRunnerJS - Divide & conquer your web apps'
 author: azu
 layout: post
 itemUrl: 'http://bladerunnerjs.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-20T14:48:42.825Z'
 tags:
   - JavaScript

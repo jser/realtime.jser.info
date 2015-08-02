@@ -3,6 +3,7 @@ title: '『Riloadr - A Cross-Browser Framework-Independent Responsive Images Loa
 author: azu
 layout: post
 itemUrl: 'http://css.dzone.com/articles/riloadr-cross-browser'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
 date: '2012-04-30T15:00:00.000Z'
 ---
 画像の遅延ロードライブラリ

@@ -3,6 +3,7 @@ title: 'AngularJS 1.3: a new release approaches | AngularJS'
 author: azu
 layout: post
 itemUrl: 'http://blog.angularjs.org/2013/12/angularjs-13-new-release-approaches.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-15T03:04:05.077Z'
 tags:
   - AngularJS

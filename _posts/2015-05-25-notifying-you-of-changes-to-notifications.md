@@ -3,6 +3,7 @@ title: Notifying you of Changes to Notifications
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2015/05/Notifying-you-of-notificiation-changes'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-25T13:00:27.898Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: Brendan Eich » Blog Archive » From ASM.JS to WebAssembly
 author: azu
 layout: post
 itemUrl: 'https://brendaneich.com/2015/06/from-asm-js-to-webassembly/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-19T06:17:26.432Z'
 tags:
   - WebAssembly

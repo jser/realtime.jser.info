@@ -3,6 +3,7 @@ title: Why I Chose Ember.js
 author: azu
 layout: post
 itemUrl: 'http://ryantablada.com/post/why-i-chose-ember-js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-25T04:17:35.978Z'
 tags:
   - JavaScript

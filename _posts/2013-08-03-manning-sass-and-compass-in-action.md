@@ -3,6 +3,7 @@ title: 'Manning: Sass and Compass in Action'
 author: azu
 layout: post
 itemUrl: 'http://www.manning.com/netherland/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-03T16:12:26.672Z'
 tags:
   - Sass

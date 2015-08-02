@@ -3,6 +3,7 @@ title: ▶ Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf B
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=a8W5VVGO-jA'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-07T15:19:45.568Z'
 tags:
   - JavaScript

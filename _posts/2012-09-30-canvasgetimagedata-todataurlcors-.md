@@ -3,6 +3,7 @@ title: 'canvasのgetImageData(), toDataURL()などにおけるCORSについて -
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/zentoo/20120905/1346858940'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/index.json'
 date: '2012-09-30T15:00:00.000Z'
 ---
 CanvasのSame Originについて。

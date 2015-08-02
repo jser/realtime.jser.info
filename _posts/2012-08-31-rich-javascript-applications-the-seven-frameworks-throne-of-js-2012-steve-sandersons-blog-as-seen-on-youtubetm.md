@@ -3,6 +3,7 @@ title: 'Rich JavaScript Applications – the Seven Frameworks (Throne of JS, 201
 author: azu
 layout: post
 itemUrl: 'http://blog.stevensanderson.com/2012/08/01/rich-javascript-applications-the-seven-frameworks-throne-of-js-2012/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
 date: '2012-08-31T15:00:00.000Z'
 ---
 MVC系フレームワークの比較まとめ。

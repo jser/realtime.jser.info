@@ -3,6 +3,7 @@ title: Sass 3.4 is Released « Sass Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.sass-lang.com/posts/221239-sass-34-is-released'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-19T05:33:09.899Z'
 tags:
   - Sass

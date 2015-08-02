@@ -3,6 +3,7 @@ title: Dev.Opera — Better @font-face with Font Load Events
 author: azu
 layout: post
 itemUrl: 'https://dev.opera.com/articles/better-font-face/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-26T15:17:30.139Z'
 tags:
   - fonts

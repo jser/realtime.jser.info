@@ -3,6 +3,7 @@ title: 'Exploring ES6: Upgrade to the next version of JavaScript'
 author: azu
 layout: post
 itemUrl: 'http://exploringjs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-11T04:28:04.668Z'
 tags:
   - ECMAScript

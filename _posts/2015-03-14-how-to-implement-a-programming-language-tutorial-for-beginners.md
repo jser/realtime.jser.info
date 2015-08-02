@@ -3,6 +3,7 @@ title: How to implement a programming language (tutorial for beginners)
 author: azu
 layout: post
 itemUrl: 'http://lisperator.net/pltut/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-14T05:44:49.326Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: Introduction To React // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/hokaccha/introduction-to-react'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-22T07:30:21.948Z'
 tags:
   - JavaScript

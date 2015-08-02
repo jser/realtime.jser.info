@@ -3,6 +3,7 @@ title: 『Polyfilling The HTML5 Gaps With JavaScript』
 author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/polyfillthehtml5gaps/slides/#1'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
 date: '2011-12-31T15:00:00.000Z'
 ---
 HTML5やES5などに対するPolyfillについてのスライド。

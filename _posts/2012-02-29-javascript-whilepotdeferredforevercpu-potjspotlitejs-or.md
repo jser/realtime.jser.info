@@ -3,6 +3,7 @@ title: 'JavaScript whileループとPot.Deferred.forEverイテレータでCPU使
 author: azu
 layout: post
 itemUrl: 'http://polygon-planet.blogspot.com/2012/02/javascript-whilepotdeferredforevercpu.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
 date: '2012-02-29T15:00:00.000Z'
 ---
 Pot.js 1.13 、 PotLite.js 1.30 リリース

@@ -3,6 +3,7 @@ title: Release v2.0.0 · marionettejs/backbone.marionette
 author: azu
 layout: post
 itemUrl: 'https://github.com/marionettejs/backbone.marionette/releases/tag/v2.0.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-18T04:00:09.268Z'
 tags:
   - backbone.js

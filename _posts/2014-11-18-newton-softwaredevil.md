@@ -3,6 +3,7 @@ title: newton-software/devil
 author: azu
 layout: post
 itemUrl: 'https://github.com/newton-software/devil'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-18T08:31:21.877Z'
 tags:
   - node.js

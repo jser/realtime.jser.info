@@ -3,6 +3,7 @@ title: atMedia.info - CSS Media Query Generator
 author: azu
 layout: post
 itemUrl: 'http://atmedia.info/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-22T13:15:42.159Z'
 tags:
   - browser

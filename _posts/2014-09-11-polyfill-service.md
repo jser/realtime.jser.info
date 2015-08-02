@@ -3,6 +3,7 @@ title: Polyfill service
 author: azu
 layout: post
 itemUrl: 'https://cdn.polyfill.io/v1/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
 date: '2014-09-11T07:25:20.053Z'
 tags:
   - JavaScript

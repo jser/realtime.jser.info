@@ -3,6 +3,7 @@ title: 'HTTPリクエストを減らすために【序章】HTTPリクエスト�
 author: azu
 layout: post
 itemUrl: 'http://t32k.me/mol/log/reduce-http-requests-overview/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-19T12:55:34.790Z'
 tags:
   - HTTP

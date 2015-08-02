@@ -3,6 +3,7 @@ title: 'D3: Data Driven Documents: Pocket Primer: Oswald Campesato: 978193854965
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1938549651/amazon0abac-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-15T00:06:33.710Z'
 tags:
   - JavaScript

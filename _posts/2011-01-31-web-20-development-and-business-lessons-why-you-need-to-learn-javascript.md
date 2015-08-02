@@ -3,6 +3,7 @@ title: 'Web 2.0 Development and Business Lessons: Why You Need to Learn JavaScri
 author: azu
 layout: post
 itemUrl: 'http://www.w2lessons.com/2011/01/why-you-need-to-learn-javascript.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 なぜ今JavaScriptを学ぶ必要があるか?という話。

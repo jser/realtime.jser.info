@@ -3,6 +3,7 @@ title: estree/estree
 author: azu
 layout: post
 itemUrl: 'https://github.com/estree/estree'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-12T22:46:46.664Z'
 tags:
   - ECMAScript

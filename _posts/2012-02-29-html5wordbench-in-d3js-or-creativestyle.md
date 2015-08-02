@@ -3,6 +3,7 @@ title: '『「HTML5+WordBench勉強会 in 神戸」で「d3.js」について発
 author: azu
 layout: post
 itemUrl: 'http://kadoppe.com/archives/2012/02/html5-wordbench-kobe-d3-js.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
 date: '2012-02-29T15:00:00.000Z'
 ---
 "d3jsではじめるデータビジュアライゼーション入門"というスライド。

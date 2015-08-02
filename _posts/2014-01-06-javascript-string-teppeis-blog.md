@@ -3,6 +3,7 @@ title: JavaScript Stringでサロゲートペアを扱う - teppeis blog
 author: azu
 layout: post
 itemUrl: 'http://teppeis.hatenablog.com/entry/2014/01/surrogate-pair-in-javascript'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-06T12:18:09.412Z'
 tags:
   - JavaScript

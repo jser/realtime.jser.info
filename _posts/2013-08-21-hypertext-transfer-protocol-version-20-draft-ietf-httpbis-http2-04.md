@@ -3,6 +3,7 @@ title: Hypertext Transfer Protocol version 2.0 (draft-ietf-httpbis-http2-04) 日
 author: azu
 layout: post
 itemUrl: 'http://summerwind.jp/docs/draft-ietf-httpbis-http2-04/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-21T13:27:38.817Z'
 tags:
   - HTTP

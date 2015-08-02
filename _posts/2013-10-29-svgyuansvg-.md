@@ -3,6 +3,7 @@ title: 今年こそついにSVG元年？まだ間に合う！SVGの学習に役�
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/rikuo/20131028'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-29T06:49:29.481Z'
 tags:
   - SVG

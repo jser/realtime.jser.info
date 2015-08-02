@@ -3,6 +3,7 @@ title: 'DevTools: State Of The Union 2015 // Speaker Deck'
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-21T13:21:13.926Z'
 tags:
   - Chrome

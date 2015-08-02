@@ -3,6 +3,7 @@ title: Collections for JavaScript
 author: azu
 layout: post
 itemUrl: 'http://www.collectionsjs.com/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-17T10:46:42.249Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: decadecity/css-specificity-map
 author: azu
 layout: post
 itemUrl: 'https://github.com/decadecity/css-specificity-map'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-30T08:02:18.719Z'
 tags:
   - CSS

@@ -3,6 +3,7 @@ title: 'Dart News & Updates: Ecma approves the 1st edition of the Dart language 
 author: azu
 layout: post
 itemUrl: 'http://news.dartlang.org/2014/07/ecma-approves-1st-edition-of-dart.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-05T04:23:37.621Z'
 tags:
   - dart

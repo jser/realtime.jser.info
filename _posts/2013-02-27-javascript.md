@@ -3,6 +3,7 @@ title: フロントエンドJavaScriptにおける設計とテスト
 author: azu
 layout: post
 itemUrl: 'http://hokaccha.github.com/slides/javascript_design_and_test/#page1'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
 date: '2013-02-27T15:00:00.000Z'
 tags:
   - javascript

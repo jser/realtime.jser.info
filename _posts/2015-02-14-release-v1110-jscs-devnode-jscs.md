@@ -3,6 +3,7 @@ title: Release v1.11.0 · jscs-dev/node-jscs
 author: azu
 layout: post
 itemUrl: 'https://github.com/jscs-dev/node-jscs/releases/tag/v1.11.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-14T13:33:20.790Z'
 tags:
   - JavaScript

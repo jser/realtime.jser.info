@@ -3,6 +3,7 @@ title: Mozilla Japan ブログ - 高速リリースサイクル移行後初の F
 author: azu
 layout: post
 itemUrl: 'http://mozilla.jp/blog/entry/6763/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
 date: '2011-05-31T15:00:00.000Z'
 ---
 Firefox 次期バージョン (Firefox 5) のベータ版を公開

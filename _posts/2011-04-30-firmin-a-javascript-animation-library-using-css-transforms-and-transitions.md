@@ -3,6 +3,7 @@ title: 'Firmin, a JavaScript animation library using CSS transforms and transiti
 author: azu
 layout: post
 itemUrl: 'http://extralogical.net/projects/firmin/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
 date: '2011-04-30T15:00:00.000Z'
 ---
 CSS transforms と transitions を使ったJavaScriptアニメーションライブラリ

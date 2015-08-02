@@ -3,6 +3,7 @@ title: JSを編集してエディタで保存するとき、JSHint でコーデ�
 author: azu
 layout: post
 itemUrl: 'http://subtech.g.hatena.ne.jp/cho45/20110708/1310121676'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
 date: '2011-07-31T15:00:00.000Z'
 ---
 vimparse.js +JSHintを使ったバリデーション

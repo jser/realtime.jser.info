@@ -3,6 +3,7 @@ title: 'JavaScript - じゃあ this の抜き打ちテストやるぞー - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/KDKTN/items/0b468a07410d757ac609'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-25T13:54:25.850Z'
 tags:
   - JavaScript

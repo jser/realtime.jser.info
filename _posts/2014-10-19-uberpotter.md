@@ -3,6 +3,7 @@ title: uber/potter
 author: azu
 layout: post
 itemUrl: 'https://github.com/uber/potter'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-19T06:03:31.054Z'
 tags:
   - node.js

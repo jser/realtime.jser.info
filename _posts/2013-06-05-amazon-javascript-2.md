@@ -3,6 +3,7 @@ title: 'Amazon: 独習JavaScript 第2版 [大型本]: 高橋 和也, 竹添 直�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4798130842/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
 date: '2013-06-05T06:13:18.078Z'
 tags:
   - JavaScript

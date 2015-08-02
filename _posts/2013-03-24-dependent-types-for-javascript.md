@@ -3,6 +3,7 @@ title: Dependent Types for JavaScript
 author: azu
 layout: post
 itemUrl: 'http://www.infoq.com/presentations/Type-System-JavaScript'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-24T01:42:24.124Z'
 tags:
   - javascript

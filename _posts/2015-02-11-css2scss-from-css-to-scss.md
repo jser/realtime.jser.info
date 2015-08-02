@@ -3,6 +3,7 @@ title: css2scss - from css to scss
 author: azu
 layout: post
 itemUrl: 'http://sebastianpontow.de/css2compass'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-11T06:56:47.432Z'
 tags:
   - CSS

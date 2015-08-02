@@ -3,6 +3,7 @@ title: 'JavaScript Promiseの本を書きました | Web scratch'
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0623/res3943/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-23T03:51:23.532Z'
 tags:
   - JavaScript

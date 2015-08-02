@@ -3,6 +3,7 @@ title: リファクタリングのためのテスト
 author: azu
 layout: post
 itemUrl: 'http://hokaccha.github.io/slides/refactoring/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-15T12:50:18.605Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 'Amazon: かんたんJavaScript (プログラミングの教科書) [単�
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774153656/book042-22/ref=nosim'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/index.json'
 date: '2012-10-31T15:00:00.000Z'
 ---
 2012年11月20日発売

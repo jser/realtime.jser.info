@@ -3,6 +3,7 @@ title: ECMAScript 2015 is now an Ecma Standard
 author: azu
 layout: post
 itemUrl: 'https://esdiscuss.org/topic/ecmascript-2015-is-now-an-ecma-standard'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
 date: '2015-06-23T12:01:59.374Z'
 tags:
   - ECMAScript

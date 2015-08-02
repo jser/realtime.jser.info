@@ -3,6 +3,7 @@ title: yahoo/preceptor
 author: azu
 layout: post
 itemUrl: 'https://github.com/yahoo/preceptor'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-19T08:53:53.324Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: '「Script Junkie | Understanding the Publish/Subscribe Pattern for Great
 author: azu
 layout: post
 itemUrl: 'http://msdn.microsoft.com/en-us/scriptjunkie/hh201955'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
 date: '2011-06-30T15:00:00.000Z'
 ---
 pub/subパターンの理解:

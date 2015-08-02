@@ -3,6 +3,7 @@ title: Building Plugins for React Apps
 author: azu
 layout: post
 itemUrl: 'https://nylas.com/blog/react-plugins'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-28T13:47:26.283Z'
 tags:
   - React

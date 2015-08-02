@@ -3,6 +3,7 @@ title: ECMAScript 6 // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/othree/ecmascript-6'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-20T13:28:05.790Z'
 tags:
   - ECMAScript

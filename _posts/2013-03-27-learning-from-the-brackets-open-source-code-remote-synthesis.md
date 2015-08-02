@@ -3,6 +3,7 @@ title: 'Learning from the Brackets Open Source Code : Remote Synthesis'
 author: azu
 layout: post
 itemUrl: 'http://remotesynthesis.com/post.cfm/learning-from-the-brackets-open-source-code'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - javascript

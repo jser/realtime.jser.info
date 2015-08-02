@@ -3,6 +3,7 @@ title: 'Measuring Client-side JavaScript Test Coverage With Istanbul | Quick Lef
 author: azu
 layout: post
 itemUrl: 'https://quickleft.com/blog/measuring-clientside-javascript-test-coverage-istanbul/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-07T16:03:47.792Z'
 tags:
   - JavaScript

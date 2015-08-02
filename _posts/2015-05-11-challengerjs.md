@@ -3,6 +3,7 @@ title: Challenger.js
 author: azu
 layout: post
 itemUrl: 'http://rileyjshaw.com/challenger/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-11T06:32:55.453Z'
 tags:
   - JavaScript

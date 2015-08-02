@@ -3,6 +3,7 @@ title: Why I am switching to promises
 author: azu
 layout: post
 itemUrl: 'http://spion.github.io/posts/why-i-am-switching-to-promises.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-08T14:48:31.028Z'
 tags:
   - JavaScript

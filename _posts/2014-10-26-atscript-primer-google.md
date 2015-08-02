@@ -3,6 +3,7 @@ title: AtScript Primer - Google ドキュメント
 author: azu
 layout: post
 itemUrl: 'https://docs.google.com/document/d/11YUzC-1d0V1-Q3V0fQ7KSit97HnZoKVygDxpWzEYW0U/preview#'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-26T09:22:33.553Z'
 tags:
   - AngularJS

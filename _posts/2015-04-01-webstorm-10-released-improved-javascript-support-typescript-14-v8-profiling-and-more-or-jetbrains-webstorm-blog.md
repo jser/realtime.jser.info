@@ -3,6 +3,7 @@ title: 'WebStorm 10 released: improved JavaScript support, TypeScript 1.4, V8 pr
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2015/03/webstorm-10-released/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-01T15:18:45.083Z'
 tags:
   - WebStorm

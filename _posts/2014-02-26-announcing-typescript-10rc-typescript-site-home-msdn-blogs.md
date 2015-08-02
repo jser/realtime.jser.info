@@ -3,6 +3,7 @@ title: Announcing TypeScript 1.0RC - TypeScript - Site Home - MSDN Blogs
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/typescript/archive/2014/02/25/announcing-typescript-1-0rc.aspx'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-26T05:15:45.397Z'
 tags:
   - TypeScript

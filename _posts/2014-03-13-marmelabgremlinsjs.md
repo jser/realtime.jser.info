@@ -3,6 +3,7 @@ title: marmelab/gremlins.js
 author: azu
 layout: post
 itemUrl: 'https://github.com/marmelab/gremlins.js'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-13T01:00:17.584Z'
 tags:
   - JavaScript

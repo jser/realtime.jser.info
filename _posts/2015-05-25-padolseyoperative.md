@@ -3,6 +3,7 @@ title: padolsey/operative
 author: azu
 layout: post
 itemUrl: 'https://github.com/padolsey/operative'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-25T15:43:17.355Z'
 tags:
   - webworker

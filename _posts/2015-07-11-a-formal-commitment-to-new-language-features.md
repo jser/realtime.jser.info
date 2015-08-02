@@ -3,6 +3,7 @@ title: A Formal Commitment to New Language Features
 author: azu
 layout: post
 itemUrl: 'http://jshint.com/blog/new-lang-features/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
 date: '2015-07-11T06:51:03.659Z'
 tags:
   - JavaScript

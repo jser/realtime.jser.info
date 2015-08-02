@@ -3,6 +3,7 @@ title: Backbone.jsを使っている人間がVue.jsを触ってみました。 -
 author: azu
 layout: post
 itemUrl: 'http://catcher-in-the-tech.net/801/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-20T12:09:27.600Z'
 tags:
   - JavaScript

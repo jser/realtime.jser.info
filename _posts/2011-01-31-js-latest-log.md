@@ -3,6 +3,7 @@ title: jsのオレオレ演算子 - latest log
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/uupaa/20110123/1295721414'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
 date: '2011-01-31T15:00:00.000Z'
 ---
 JavaScriptで演算子の組み合わせやビット演算などで短く書く方法。

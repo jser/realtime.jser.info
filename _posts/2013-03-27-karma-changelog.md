@@ -3,6 +3,7 @@ title: Karma - Changelog
 author: azu
 layout: post
 itemUrl: 'http://karma-runner.github.com/0.8/about/changelog.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
 date: '2013-03-27T15:00:00.000Z'
 tags:
   - javascript

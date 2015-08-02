@@ -3,6 +3,7 @@ title: maryrosecook/coquette · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/maryrosecook/coquette'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
 date: '2013-05-18T05:12:48.563Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: 『CoffeeScript』
 author: azu
 layout: post
 itemUrl: 'http://coffeescript.org/#changelog'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
 date: '2011-12-31T15:00:00.000Z'
 ---
 CoffeeScript 1.2.0リリース

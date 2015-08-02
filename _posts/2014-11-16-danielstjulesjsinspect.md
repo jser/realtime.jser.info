@@ -3,6 +3,7 @@ title: danielstjules/jsinspect
 author: azu
 layout: post
 itemUrl: 'https://github.com/danielstjules/jsinspect'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
 date: '2014-11-16T13:02:56.605Z'
 tags:
   - JavaScript

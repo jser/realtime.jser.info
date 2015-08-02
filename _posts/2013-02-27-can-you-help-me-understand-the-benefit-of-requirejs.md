@@ -3,6 +3,7 @@ title: Can you help me understand the benefit of require.js?
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/desandro/4686136'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
 date: '2013-02-27T15:00:00.000Z'
 tags:
   - AMD

@@ -3,6 +3,7 @@ title: 'ES6のシンタックスを予習復習(1) ~let, const, arrow function, 
 author: azu
 layout: post
 itemUrl: 'http://1000ch.net/2013/12/26/ES6LetConstArrowFunction/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-29T15:56:25.815Z'
 tags:
   - ECMAScript

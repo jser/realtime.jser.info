@@ -3,6 +3,7 @@ title: 'jQuery 1.11.3 and 2.1.4 Released – iOS Fail-Safe Edition | Official jQ
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2015/04/28/jquery-1-11-3-and-2-1-4-released-ios-fail-safe-edition/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
 date: '2015-04-29T12:37:40.120Z'
 tags:
   - jQuery

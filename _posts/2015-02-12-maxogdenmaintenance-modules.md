@@ -3,6 +3,7 @@ title: maxogden/maintenance-modules
 author: azu
 layout: post
 itemUrl: 'https://github.com/maxogden/maintenance-modules'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-12T09:29:25.475Z'
 tags:
   - JavaScript

@@ -3,6 +3,7 @@ title: rackt/react-a11y · GitHub
 author: azu
 layout: post
 itemUrl: 'https://github.com/rackt/react-a11y'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-14T07:13:23.859Z'
 tags:
   - React

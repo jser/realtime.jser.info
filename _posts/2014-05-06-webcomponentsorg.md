@@ -3,6 +3,7 @@ title: WebComponents.org
 author: azu
 layout: post
 itemUrl: 'http://webcomponents.org/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-06T10:33:34.381Z'
 tags:
   - WebComponents

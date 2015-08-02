@@ -3,6 +3,7 @@ title: 'JavaScriptベースのCSS preprocessorであるAbsurdJS を試してみ�
 author: azu
 layout: post
 itemUrl: 'http://kazu69.net/blog/tec/1814'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-26T06:40:31.928Z'
 tags:
   - JavaScript

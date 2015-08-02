@@ -3,6 +3,7 @@ title: The Refactoring Tales -
 author: azu
 layout: post
 itemUrl: 'http://javascriptplayground.com/the-refactoring-tales/refactoring-tales.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
 date: '2015-01-11T10:12:32.713Z'
 tags:
   - JavaScript

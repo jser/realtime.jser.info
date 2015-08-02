@@ -3,6 +3,7 @@ title: 'Detecting CSS Style Support | Ryan Morr'
 author: azu
 layout: post
 itemUrl: 'http://ryanmorr.com/detecting-css-style-support/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-24T21:50:58.189Z'
 tags:
   - CSS

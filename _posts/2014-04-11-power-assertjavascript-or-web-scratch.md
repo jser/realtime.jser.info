@@ -3,6 +3,7 @@ title: 'power-assertでJavaScriptのテストをする ブラウザ編 | Web scr
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0411/res3820/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-11T05:34:52.660Z'
 tags:
   - JavaScript

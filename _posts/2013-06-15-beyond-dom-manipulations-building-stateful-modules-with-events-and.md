@@ -3,6 +3,7 @@ title: 'Beyond DOM Manipulations: Building Stateful Modules with Events and...'
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/crashlytics/jquery-conf'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
 date: '2013-06-15T13:16:49.108Z'
 tags:
   - backbone.js

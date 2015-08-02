@@ -3,6 +3,7 @@ title: Introducing the JavaScript Internationalization API ✩ Mozilla Hacks –
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2014/12/introducing-the-javascript-internationalization-api/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-12T09:16:46.876Z'
 tags:
   - JavaScript

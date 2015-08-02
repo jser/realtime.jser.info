@@ -3,6 +3,7 @@ title: Snap.svg - Home
 author: azu
 layout: post
 itemUrl: 'http://snapsvg.io/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
 date: '2013-10-24T14:03:40.127Z'
 tags:
   - adobe

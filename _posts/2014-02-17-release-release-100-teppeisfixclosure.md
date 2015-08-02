@@ -3,6 +3,7 @@ title: 'Release Release 1.0.0! · teppeis/fixclosure'
 author: azu
 layout: post
 itemUrl: 'https://github.com/teppeis/fixclosure/releases/tag/1.0.0'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-17T01:32:21.875Z'
 tags:
   - JavaScript
