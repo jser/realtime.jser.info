@@ -3,7 +3,7 @@ layout: default
 ---
 <div class="post">
   <header class="post-header">
-    <h1 class="post-title"><a href="{{ page.itemUrl }}">{{ page.title }}</a></h1>
+    <h1 class="post-title"><a class="item-url" href="{{ page.itemUrl }}">{{ page.title }}</a></h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }} {% if page.editJSONPath %}• <a class="post-meta-edit" href="{{ page.editJSONPath }}">Edit on GitHub</a>{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
     <nav class="post-tags">
       <span>Tags:</span>
@@ -19,5 +19,5 @@ layout: default
     <a href="{{ page.itemUrl }}">{{ page.itemUrl }}</a>
     {{ content }}
   </article>
-
 </div>
+<script src="{{ "/public/js/getEditLine.js" | prepend: site.baseurl }}"></script>
