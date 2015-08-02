@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://projects.mariusgundersen.net/JSconf2013/#/title'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-13T07:48:43.023Z'
+date: '2013-10-13T07:48:43+00:00'
 tags:
   - MVC
   - library

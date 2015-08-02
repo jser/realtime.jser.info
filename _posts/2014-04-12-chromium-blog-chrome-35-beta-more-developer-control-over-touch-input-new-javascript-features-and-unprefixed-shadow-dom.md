@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2014/04/chrome-35-beta-more-developer-control.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-12T06:33:55.846Z'
+date: '2014-04-12T06:33:55+00:00'
 tags:
   - Chrome
 relatedLinks:

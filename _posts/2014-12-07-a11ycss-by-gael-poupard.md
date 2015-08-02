@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ffoodd.github.io/a11y.css/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-07T09:32:51.732Z'
+date: '2014-12-07T09:32:51+00:00'
 tags:
   - CSS
   - アクセシビリティ

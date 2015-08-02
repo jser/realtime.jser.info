@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/typescript/archive/2015/03/05/angular-2-0-built-on-typescript.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-08T15:02:42.332Z'
+date: '2015-03-08T15:02:42+00:00'
 tags:
   - AngularJS
   - TypeScript

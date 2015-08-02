@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ng-learn.org/2014/01/NG-CONF-2014/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-01T16:57:10.153Z'
+date: '2014-02-01T16:57:10+00:00'
 tags:
   - AngularJS
   - イベント

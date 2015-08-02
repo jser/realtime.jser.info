@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4798128457/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-26T00:18:42.415Z'
+date: '2013-04-26T00:18:42+00:00'
 tags:
   - JavaScript
   - book

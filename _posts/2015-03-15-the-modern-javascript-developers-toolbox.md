@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.infoq.com/articles/modern-javascript-toolbox'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-15T09:49:47.613Z'
+date: '2015-03-15T09:49:47+00:00'
 tags:
   - JavaScript
   - 歴史

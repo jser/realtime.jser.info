@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cssshrink.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-26T06:38:11.616Z'
+date: '2014-06-26T06:38:11+00:00'
 tags:
   - CSS
   - Tools

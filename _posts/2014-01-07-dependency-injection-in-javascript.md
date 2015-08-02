@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://krasimirtsonev.com/blog/article/Dependency-injection-in-JavaScript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-07T01:25:24.818Z'
+date: '2014-01-07T01:25:24+00:00'
 tags:
   - JavaScript
   - testing

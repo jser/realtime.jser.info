@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/pazguille/ask'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-21T01:08:53.515Z'
+date: '2013-08-21T01:08:53+00:00'
 tags:
   - JavaScript
   - library

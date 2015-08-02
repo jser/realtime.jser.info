@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.akiroom.com/2012-06/jquery-textarea-caret-position-javascript-library/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-30T15:00:00.000Z'
+date: '2012-06-30T15:00:00+00:00'
 ---
 textareaに表示されてるキャレットの座標を取得できるようにするライブラリ

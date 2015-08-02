@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2013/08/es6-callables.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-19T13:27:47.109Z'
+date: '2013-08-19T13:27:47+00:00'
 tags:
   - JavaScript
   - ECMAScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/03/17/material-flux/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-17T14:07:48.367Z'
+date: '2015-03-17T14:07:48+00:00'
 tags:
   - JavaScript
   - library

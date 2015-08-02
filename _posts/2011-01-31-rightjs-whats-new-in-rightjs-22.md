@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://rightjs.org/tutorials/what-new-in-rjs22'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-31T15:00:00.000Z'
+date: '2011-01-31T15:00:00+00:00'
 ---
 JavaScriptフレームワークであるRightJSの2.2がリリースされました。
 

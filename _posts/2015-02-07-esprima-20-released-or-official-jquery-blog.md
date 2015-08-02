@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2015/02/06/esprima-2-0-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-07T07:33:28.106Z'
+date: '2015-02-07T07:33:28+00:00'
 tags:
   - JavaScript
   - AST

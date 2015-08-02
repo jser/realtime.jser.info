@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://chancejs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-23T14:00:46.557Z'
+date: '2013-07-23T14:00:46+00:00'
 tags:
   - JavaScript
   - library

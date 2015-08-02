@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://builder.japan.zdnet.com/html-css/35032198/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-19T15:42:39.583Z'
+date: '2013-05-19T15:42:39+00:00'
 tags:
   - css
   - performance

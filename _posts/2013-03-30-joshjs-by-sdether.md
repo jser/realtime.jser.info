@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://sdether.github.com/josh.js/index.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-30T11:05:08.660Z'
+date: '2013-03-30T11:05:08+00:00'
 tags:
   - JavaScript
   - console

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://searchengineland.com/tested-googlebot-crawls-javascript-heres-learned-220157'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-17T12:49:43.246Z'
+date: '2015-05-17T12:49:43+00:00'
 tags:
   - JavaScript
   - google

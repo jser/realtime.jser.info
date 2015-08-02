@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920026327.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-16T06:46:48.686Z'
+date: '2014-03-16T06:46:48+00:00'
 tags:
   - JavaScript
   - book

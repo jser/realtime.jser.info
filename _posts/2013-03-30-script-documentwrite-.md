@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://vividcode.hatenablog.com/entry/html/scripting-timing'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-30T17:00:39.534Z'
+date: '2013-03-30T17:00:39+00:00'
 tags:
   - JavaScript
   - DOM

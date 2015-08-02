@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://connect.microsoft.com/IE/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-13T02:25:49.423Z'
+date: '2014-05-13T02:25:49+00:00'
 tags:
   - IE
   - community

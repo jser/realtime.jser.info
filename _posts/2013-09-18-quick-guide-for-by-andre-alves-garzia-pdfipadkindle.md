@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://leanpub.com/quickguidefirefoxosdevelopment'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-18T13:16:12.236Z'
+date: '2013-09-18T13:16:12+00:00'
 tags:
   - firefox
   - OS

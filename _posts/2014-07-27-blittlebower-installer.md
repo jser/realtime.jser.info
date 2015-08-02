@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/blittle/bower-installer'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-27T00:50:15.452Z'
+date: '2014-07-27T00:50:15+00:00'
 tags:
   - web
   - console

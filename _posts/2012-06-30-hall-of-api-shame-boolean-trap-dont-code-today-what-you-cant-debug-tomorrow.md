@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ariya.ofilabs.com/2011/08/hall-of-api-shame-boolean-trap.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-30T15:00:00.000Z'
+date: '2012-06-30T15:00:00+00:00'
 ---
 JavaScriptのメソッドで引数に真偽値を渡す設計の問題について。
 

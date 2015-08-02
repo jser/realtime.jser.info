@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://updates.html5rocks.com/2015/01/virtual-viewport'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-22T08:26:15.924Z'
+date: '2015-01-22T08:26:15+00:00'
 tags:
   - Chrome
   - browser

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ecma262.info/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-20T04:33:40.450Z'
+date: '2013-09-20T04:33:40+00:00'
 tags:
   - ECMAScript
   - book

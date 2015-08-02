@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2014/10/es6-promises-api.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-06T12:35:42.408Z'
+date: '2014-10-06T12:35:42+00:00'
 tags:
   - Promises
   - tutorial

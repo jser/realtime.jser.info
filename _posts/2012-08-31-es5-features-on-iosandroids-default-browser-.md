@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/zentoo/20120819/1345378440'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 iOS/AndroidのECMAScript 5 compatibility tableの調査まとめ

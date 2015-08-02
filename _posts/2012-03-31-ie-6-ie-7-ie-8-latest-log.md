@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://uupaa.hatenablog.com/entry/2012/03/06/204911'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/index.json'
-date: '2012-03-31T15:00:00.000Z'
+date: '2012-03-31T15:00:00+00:00'
 ---
 IE6,7,8 それぞれへの対応が不要になった場合に使えるようになる機能のまとめ

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://1000ch.net/2013/12/26/ES6LetConstArrowFunction/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-29T15:56:25.815Z'
+date: '2013-12-29T15:56:25+00:00'
 tags:
   - ECMAScript
   - tutorial

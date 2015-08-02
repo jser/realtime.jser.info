@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://guybedford.com/practical-workflows-for-es6-modules'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-07T12:58:14.536Z'
+date: '2014-04-07T12:58:14+00:00'
 tags:
   - JavaScript
   - ECMAScript

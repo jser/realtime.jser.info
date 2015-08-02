@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cssdb.co/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-08T12:47:54.686Z'
+date: '2013-04-08T12:47:54+00:00'
 tags:
   - css
   - library

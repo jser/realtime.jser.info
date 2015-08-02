@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://eliperelman.com/fn.js/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-08T06:05:05.929Z'
+date: '2014-02-08T06:05:05+00:00'
 tags:
   - 関数型プログラミング
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://michaelbrooks.ca/deck/jsconf2013/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-01T03:18:36.810Z'
+date: '2013-06-01T03:18:36+00:00'
 tags:
   - node.js
   - testing

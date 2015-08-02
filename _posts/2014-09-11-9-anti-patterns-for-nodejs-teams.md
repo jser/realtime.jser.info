@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/jeharrell/9-antipatterns-for-nodejs-teams'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-11T12:33:40.210Z'
+date: '2014-09-11T12:33:40+00:00'
 tags:
   - JavaScript
   - node.js

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/mizchi/oqian-zi-fen-tifalsepeziyauigaben-dang-nisu-itosi-tutenfalse'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-05T03:56:39.048Z'
+date: '2014-07-05T03:56:39+00:00'
 tags:
   - JavaScript
   - DOM

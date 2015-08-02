@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2012/11/adapting_webkit_site_ie10.shtml'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-30T15:00:00.000Z'
+date: '2012-11-30T15:00:00+00:00'
 ---
 Adapting your WebKit-optimized site for Internet Explorer 10 の翻訳記事.
 

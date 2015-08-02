@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://yeoman.io/blog/performance-optimization.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-06T01:04:38.702Z'
+date: '2014-03-06T01:04:38+00:00'
 tags:
   - web
   - performance

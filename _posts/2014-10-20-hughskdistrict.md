@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/hughsk/district'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-20T13:09:20.960Z'
+date: '2014-10-20T13:09:20+00:00'
 tags:
   - node.js
   - npm

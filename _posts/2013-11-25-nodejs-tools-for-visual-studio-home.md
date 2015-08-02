@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://nodejstools.codeplex.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-25T14:35:30.198Z'
+date: '2013-11-25T14:35:30+00:00'
 tags:
   - node.js
   - IDE

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4774165786?tag=amazon0abac-22'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-16T13:10:32.772Z'
+date: '2014-06-16T13:10:32+00:00'
 tags:
   - JavaScript
   - HTML

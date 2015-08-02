@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://furoshiki.hatenadiary.jp/entry/ie_documentmode'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-25T12:55:32.819Z'
+date: '2013-11-25T12:55:32+00:00'
 tags:
   - IE
   - まとめ

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/brianskold/html5j-2013'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-04T06:31:33.680Z'
+date: '2013-12-04T06:31:33+00:00'
 tags:
   - web
   - animation

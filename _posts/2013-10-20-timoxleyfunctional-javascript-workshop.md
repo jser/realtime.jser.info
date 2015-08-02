@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/timoxley/functional-javascript-workshop'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-20T07:36:29.896Z'
+date: '2013-10-20T07:36:29+00:00'
 tags:
   - 関数型言語
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://knowthen.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-23T02:24:59.769Z'
+date: '2014-11-23T02:24:59+00:00'
 tags:
   - JavaScript
   - node.js

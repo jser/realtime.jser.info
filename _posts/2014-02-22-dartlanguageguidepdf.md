@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.cresc.co.jp/tech/java/Google_Dart/DartLanguageGuide.pdf'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-22T06:52:12.956Z'
+date: '2014-02-22T06:52:12+00:00'
 tags:
   - dart
   - book

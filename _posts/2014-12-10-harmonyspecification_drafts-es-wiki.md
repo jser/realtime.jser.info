@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#december_6_2014_draft_rev_29'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-10T01:33:17.272Z'
+date: '2014-12-10T01:33:17+00:00'
 tags:
   - ECMAScript
   - ReleaseNote

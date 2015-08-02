@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webide/2013/03/webstorm-6-0-released-adds-typescript-debugging-with-source-maps-fresh-ui-and-much-more/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-27T15:00:00.000Z'
+date: '2013-03-27T15:00:00+00:00'
 tags:
   - WebStorm
   - ReleaseNote

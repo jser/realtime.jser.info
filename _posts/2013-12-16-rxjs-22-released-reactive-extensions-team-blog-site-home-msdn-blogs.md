@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/rxteam/archive/2013/12/13/rxjs-2-2-released.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-16T14:24:14.469Z'
+date: '2013-12-16T14:24:14+00:00'
 tags:
   - JavaScript
   - ReleaseNote

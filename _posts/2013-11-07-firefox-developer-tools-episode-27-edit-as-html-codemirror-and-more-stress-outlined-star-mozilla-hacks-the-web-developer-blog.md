@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2013/11/firefox-developer-tools-episode-27-edit-as-html-codemirror-more/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-07T15:55:04.096Z'
+date: '2013-11-07T15:55:04+00:00'
 tags:
   - firefox
   - デバック

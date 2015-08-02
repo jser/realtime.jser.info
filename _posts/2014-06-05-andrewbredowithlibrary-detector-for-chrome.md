@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/andrewbredow/Library-Detector-for-Chrome'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-05T01:30:23.925Z'
+date: '2014-06-05T01:30:23+00:00'
 tags:
   - JavaScript
   - Chrome

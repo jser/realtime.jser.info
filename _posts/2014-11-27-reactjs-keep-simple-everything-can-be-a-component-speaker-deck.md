@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-27T08:10:10.732Z'
+date: '2014-11-27T08:10:10+00:00'
 tags:
   - React
   - スライド

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/@addyosmani/auto-formatting-javascript-code-style-fe0f98a923b8'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-01T07:59:38.365Z'
+date: '2015-04-01T07:59:38+00:00'
 tags:
   - JavaScript
   - Tools

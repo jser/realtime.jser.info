@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/ympbyc/5564146'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-20T09:16:38.637Z'
+date: '2013-05-20T09:16:38+00:00'
 tags:
   - JavaScript
   - 関数型言語

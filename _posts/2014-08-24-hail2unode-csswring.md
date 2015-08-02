@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/hail2u/node-csswring/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-24T12:28:34.680Z'
+date: '2014-08-24T12:28:34+00:00'
 tags:
   - CSS
   - Tools

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://webdesign.tutsplus.com/tutorials/htmlcss-tutorials/all-you-need-to-know-about-the-html5-data-attribute/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 data属性の扱い方について。
 

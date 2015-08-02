@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/vmysla/javascript-asaplatform'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-07T06:16:13.975Z'
+date: '2013-04-07T06:16:13+00:00'
 tags:
   - JavaScript
   - 歴史

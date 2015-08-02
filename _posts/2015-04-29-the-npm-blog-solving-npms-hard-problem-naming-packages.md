@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.npmjs.org/post/116936804365/solving-npms-hard-problem-naming-packages'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-29T16:55:07.856Z'
+date: '2015-04-29T16:55:07+00:00'
 tags:
   - npm
   - node.js

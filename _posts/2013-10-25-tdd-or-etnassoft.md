@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.etnassoft.com/category/tdd-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-25T14:26:12.193Z'
+date: '2013-10-25T14:26:12+00:00'
 tags:
   - JavaScript
   - testing

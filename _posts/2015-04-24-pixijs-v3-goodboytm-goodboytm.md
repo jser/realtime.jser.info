@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.goodboydigital.com/pixi-js-v3/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-24T21:44:10.937Z'
+date: '2015-04-24T21:44:10+00:00'
 tags:
   - game
   - JavaScript

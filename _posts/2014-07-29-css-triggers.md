@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://csstriggers.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-29T04:27:22.380Z'
+date: '2014-07-29T04:27:22+00:00'
 tags:
   - CSS
   - 検索

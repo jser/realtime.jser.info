@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://my.opera.com/karlcow/blog/list-of-elements-attributes-having-url-for-value-in-html5'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-30T15:00:00.000Z'
+date: '2011-06-30T15:00:00+00:00'
 ---
 ダウンロード属性を持ったHTMLタグのまとめを発展させたもの
 

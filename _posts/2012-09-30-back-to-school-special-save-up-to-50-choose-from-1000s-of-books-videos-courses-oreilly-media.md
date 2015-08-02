@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/category/deals/b2s-2012-special.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/index.json'
-date: '2012-09-30T15:00:00.000Z'
+date: '2012-09-30T15:00:00+00:00'
 ---
 Oreilly 全ての電子書籍が50%オフ
 

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://robertnyman.com/2013/02/11/using-formdata-to-send-forms-with-xhr-as-keyvalue-pairs/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-27T15:00:00.000Z'
+date: '2013-02-27T15:00:00+00:00'
 tags:
   - javascript
   - XHR

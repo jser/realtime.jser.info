@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=LJOyrSh1kDU'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-12T14:42:51.441Z'
+date: '2013-04-12T14:42:51+00:00'
 tags:
   - WebStorm
   - AngularJS

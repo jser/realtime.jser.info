@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.nodejs.org/2011/11/25/node-v0-6-3/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/index.json'
-date: '2011-11-30T15:00:00.000Z'
+date: '2011-11-30T15:00:00+00:00'
 ---
 Node.js 0.6.3リリース。
 

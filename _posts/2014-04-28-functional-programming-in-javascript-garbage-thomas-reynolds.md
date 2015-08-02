@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://awardwinningfjords.com/2014/04/21/functional-programming-in-javascript-equals-garbage.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-28T09:16:33.063Z'
+date: '2014-04-28T09:16:33+00:00'
 tags:
   - JavaScript
   - 関数型プログラミング

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://aws.typepad.com/aws/2013/10/developer-preview-aws-sdk-for-javascript.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-09T07:32:27.220Z'
+date: '2013-11-09T07:32:27+00:00'
 tags:
   - JavaScript
   - amazon

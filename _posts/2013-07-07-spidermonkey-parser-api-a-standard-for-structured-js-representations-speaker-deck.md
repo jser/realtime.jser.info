@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/michaelficarra/spidermonkey-parser-api-a-standard-for-structured-js-representations'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-07T04:14:30.653Z'
+date: '2013-07-07T04:14:30+00:00'
 tags:
   - JavaScript
   - firefox

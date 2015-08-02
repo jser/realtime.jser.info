@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://gravit.io/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-29T02:03:11.773Z'
+date: '2014-08-29T02:03:11+00:00'
 tags:
   - JavaScript
   - illust

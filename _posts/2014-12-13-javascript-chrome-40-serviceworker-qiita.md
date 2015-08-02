@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/kinu/items/2abd61b4390f9bbaffc9'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-13T10:24:04.102Z'
+date: '2014-12-13T10:24:04+00:00'
 tags:
   - ServiceWorker
   - JavaScript

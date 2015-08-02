@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://papaparse.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-13T12:49:08.815Z'
+date: '2014-12-13T12:49:08+00:00'
 tags:
   - JavaScript
   - library

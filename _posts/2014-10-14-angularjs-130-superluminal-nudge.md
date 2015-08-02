@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://angularjs.blogspot.com/2014/10/angularjs-130-superluminal-nudge.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-14T09:09:29.061Z'
+date: '2014-10-14T09:09:29+00:00'
 tags:
   - AngularJS
   - ReleaseNote

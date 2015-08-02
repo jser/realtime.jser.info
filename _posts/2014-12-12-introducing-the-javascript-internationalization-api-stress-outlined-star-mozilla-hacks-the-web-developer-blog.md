@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2014/12/introducing-the-javascript-internationalization-api/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-12T09:16:46.876Z'
+date: '2014-12-12T09:16:46+00:00'
 tags:
   - JavaScript
   - i18n

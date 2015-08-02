@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/yahoo/blink-diff'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-11T14:00:40.528Z'
+date: '2015-04-11T14:00:40+00:00'
 tags:
   - 画像
   - testing

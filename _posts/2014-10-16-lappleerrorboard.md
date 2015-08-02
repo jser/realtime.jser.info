@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Lapple/ErrorBoard'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-16T13:40:49.296Z'
+date: '2014-10-16T13:40:49+00:00'
 tags:
   - JavaScript
   - debug

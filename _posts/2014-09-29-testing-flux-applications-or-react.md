@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2014/09/24/testing-flux-applications.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-29T13:48:41.233Z'
+date: '2014-09-29T13:48:41+00:00'
 tags:
   - JavaScript
   - testing

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://sadah.hatenablog.com/entry/2014/06/30/211944'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-01T05:13:37.857Z'
+date: '2014-07-01T05:13:37+00:00'
 tags:
   - CSS
   - fonts

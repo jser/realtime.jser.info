@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/travishorn/npm-package-store'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-06T11:58:44.755Z'
+date: '2014-11-06T11:58:44+00:00'
 tags:
   - npm
   - Tools

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://michalbe.blogspot.com/2013/03/javascript-less-known-parts-bitwise.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-25T06:48:45.490Z'
+date: '2013-03-25T06:48:45+00:00'
 tags:
   - JavaScript
 ---

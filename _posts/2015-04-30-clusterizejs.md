@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://nexts.github.io/Clusterize.js/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-30T04:11:25.208Z'
+date: '2015-04-30T04:11:25+00:00'
 tags:
   - JavaScript
   - library

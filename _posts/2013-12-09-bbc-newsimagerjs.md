@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/BBC-News/Imager.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-09T13:44:38.584Z'
+date: '2013-12-09T13:44:38+00:00'
 tags:
   - JavaScript
   - library

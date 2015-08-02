@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920029205.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-26T00:24:31.601Z'
+date: '2014-02-26T00:24:31+00:00'
 tags:
   - WebGL
   - book

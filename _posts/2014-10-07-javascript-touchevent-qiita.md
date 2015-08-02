@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/damele0n/items/dc312bbf66da1d46dd6f'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-07T15:09:38.766Z'
+date: '2014-10-07T15:09:38+00:00'
 tags:
   - mobile
   - JavaScript

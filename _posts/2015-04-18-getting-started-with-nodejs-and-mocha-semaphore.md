@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-18T06:38:42.128Z'
+date: '2015-04-18T06:38:42+00:00'
 tags:
   - node.js
   - testing

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-04T07:11:27.527Z'
+date: '2013-08-04T07:11:27+00:00'
 tags:
   - AngularJS
   - tutorial

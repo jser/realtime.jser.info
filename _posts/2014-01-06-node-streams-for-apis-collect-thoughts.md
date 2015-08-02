@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.drewolson.org/blog/2014/01/04/node-streams-for-apis'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-06T13:29:07.090Z'
+date: '2014-01-06T13:29:07+00:00'
 tags:
   - node.js
 ---

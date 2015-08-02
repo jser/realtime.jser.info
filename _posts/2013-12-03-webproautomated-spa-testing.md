@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/webpro/Automated-SPA-Testing'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-03T14:29:36.622Z'
+date: '2013-12-03T14:29:36+00:00'
 tags:
   - JavaScript
   - testing

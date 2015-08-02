@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hujimi.seesaa.net/article/307606956.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 JavaScriptでzlib,gzip,zipのデータを圧縮・展開するjsziptools 2.3.0リリース.
 

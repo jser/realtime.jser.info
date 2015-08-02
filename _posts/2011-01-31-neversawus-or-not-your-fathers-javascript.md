@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://neversaw.us/2011/1/16/not-your-fathers-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-31T15:00:00.000Z'
+date: '2011-01-31T15:00:00+00:00'
 ---
 最近のエンジン向け(主にNode.jsを対象)にJavaScriptのベストプラクティスを書いている。
 

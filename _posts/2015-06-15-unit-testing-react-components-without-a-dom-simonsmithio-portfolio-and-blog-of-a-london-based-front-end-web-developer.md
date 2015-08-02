@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://simonsmith.io/unit-testing-react-components-without-a-dom/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-15T09:25:44.862Z'
+date: '2015-06-15T09:25:44+00:00'
 tags:
   - React
   - DOM

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'https://groups.google.com/a/dartlang.org/group/misc/browse_thread/thread/6d8c441b2a1288f7'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-31T15:00:00.000Z'
+date: '2011-12-31T15:00:00+00:00'
 ---
 DartVMを内蔵したChromiumが公開された

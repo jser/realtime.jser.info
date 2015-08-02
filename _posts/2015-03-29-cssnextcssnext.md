@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/cssnext/cssnext'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-29T05:59:34.561Z'
+date: '2015-03-29T05:59:34+00:00'
 tags:
   - CSS
   - Tools

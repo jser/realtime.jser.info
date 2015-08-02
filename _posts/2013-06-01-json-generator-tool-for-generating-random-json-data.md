@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.json-generator.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-01T02:48:34.235Z'
+date: '2013-06-01T02:48:34+00:00'
 tags:
   - JSON
   - webservice

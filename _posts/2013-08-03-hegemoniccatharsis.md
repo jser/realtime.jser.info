@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/hegemonic/catharsis'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-03T11:53:42.822Z'
+date: '2013-08-03T11:53:42+00:00'
 tags:
   - JavaScript
   - JSDoc

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://net.tutsplus.com/tutorials/javascript-ajax/what-they-didnt-tell-you-about-es5s-array-extras/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 ES5で追加されたArrayメソッドについて.
 

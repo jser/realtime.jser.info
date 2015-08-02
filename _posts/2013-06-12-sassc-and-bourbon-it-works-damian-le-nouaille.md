@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.damln.com/log/sassc-and-bourbon-it-works/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-12T01:45:53.523Z'
+date: '2013-06-12T01:45:53+00:00'
 tags:
   - Sass
   - console

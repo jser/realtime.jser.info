@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/lettertwo/controllable-react-components'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-18T03:44:31.836Z'
+date: '2015-04-18T03:44:31+00:00'
 tags:
   - React
   - スライド

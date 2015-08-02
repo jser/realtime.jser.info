@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://teppeis.hatenablog.com/entry/2014/01/surrogate-pair-in-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-06T12:18:09.412Z'
+date: '2014-01-06T12:18:09+00:00'
 tags:
   - JavaScript
   - firefox

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://docs.google.com/present/view?id=0AUVUbfole2fwZHM3aHNyc18wZmR0cThtZnM&hl=en_US&pli=1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-31T15:00:00.000Z'
+date: '2011-12-31T15:00:00+00:00'
 ---
 File API、Blobについてのスライド
 

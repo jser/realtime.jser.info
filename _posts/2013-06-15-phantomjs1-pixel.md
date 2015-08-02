@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ameblo.jp/ca-1pixel/entry-11549761391.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-15T09:08:35.920Z'
+date: '2013-06-15T09:08:35+00:00'
 tags:
   - JavaScript
   - webkit

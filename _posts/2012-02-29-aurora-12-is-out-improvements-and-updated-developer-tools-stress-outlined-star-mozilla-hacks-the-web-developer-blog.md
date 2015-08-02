@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hacks.mozilla.org/2012/02/aurora-12-is-out-improvements-and-updated-developer-tools/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-29T15:00:00.000Z'
+date: '2012-02-29T15:00:00+00:00'
 ---
 Aurora(Firefox) 12のアップデート内容。
 

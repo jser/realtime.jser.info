@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://raynos.github.io/nodeconfeu2014-talk/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-14T09:30:21.416Z'
+date: '2014-09-14T09:30:21+00:00'
 tags:
   - JavaScript
   - node.js

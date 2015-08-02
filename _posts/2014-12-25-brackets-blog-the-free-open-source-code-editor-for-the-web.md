@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2014/12/18/brackets-1-1-and-extract-for-brackets-0-6-now-available/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-25T11:56:51.629Z'
+date: '2014-12-25T11:56:51+00:00'
 tags:
   - editor
   - ReleaseNote

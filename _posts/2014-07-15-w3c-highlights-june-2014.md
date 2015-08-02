@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.w3.org/2014/06/w3c-highlights/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-15T09:26:18.756Z'
+date: '2014-07-15T09:26:18+00:00'
 tags:
   - W3C
   - ReleaseNote

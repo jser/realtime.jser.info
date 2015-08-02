@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://desandro.github.io/imagesloaded/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-30T12:39:04.450Z'
+date: '2013-05-30T12:39:04+00:00'
 tags:
   - JavaScript
   - 画像

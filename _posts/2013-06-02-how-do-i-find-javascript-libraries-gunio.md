@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://gun.io/blog/finding-javascript-libraries/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-02T10:29:32.177Z'
+date: '2013-06-02T10:29:32+00:00'
 tags:
   - JavaScript
   - library

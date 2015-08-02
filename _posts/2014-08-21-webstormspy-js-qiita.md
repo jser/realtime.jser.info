@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/laco0416/items/985044f0019ebef6cb2c'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-21T05:41:46.863Z'
+date: '2014-08-21T05:41:46+00:00'
 tags:
   - WebStorm
   - Tools

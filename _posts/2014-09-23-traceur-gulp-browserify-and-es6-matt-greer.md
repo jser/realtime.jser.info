@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.mattgreer.org/articles/traceur-gulp-browserify-es6/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-23T07:17:26.830Z'
+date: '2014-09-23T07:17:26+00:00'
 tags:
   - JavaScript
   - gulp

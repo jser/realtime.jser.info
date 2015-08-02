@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jakearchibald/es6-promise/releases/tag/1.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-29T14:37:32.659Z'
+date: '2014-04-29T14:37:32+00:00'
 tags:
   - JavaScript
   - Promises

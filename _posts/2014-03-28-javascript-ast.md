@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://azu.github.io/slide/JSojisan/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-28T03:41:38.603Z'
+date: '2014-03-28T03:41:38+00:00'
 tags:
   - JavaScript
   - AST

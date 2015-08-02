@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774163260/amazon0abac-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-09T10:55:52.482Z'
+date: '2014-02-09T10:55:52+00:00'
 tags:
   - d3.js
   - book

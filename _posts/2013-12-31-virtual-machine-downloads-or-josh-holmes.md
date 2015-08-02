@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.joshholmes.com/blog/2013/12/18/virtual-machine-downloads/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-31T07:15:40.291Z'
+date: '2013-12-31T07:15:40+00:00'
 tags:
   - IE
   - ReleaseNote

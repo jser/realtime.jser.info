@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2015/03/webstorm-10-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-01T15:18:45.083Z'
+date: '2015-04-01T15:18:45+00:00'
 tags:
   - WebStorm
   - ReleaseNote

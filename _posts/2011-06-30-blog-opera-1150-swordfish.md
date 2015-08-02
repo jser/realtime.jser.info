@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://genroubou.blog24.fc2.com/blog-entry-286.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-30T15:00:00.000Z'
+date: '2011-06-30T15:00:00+00:00'
 ---
 Opera 11.50の更新内容詳細

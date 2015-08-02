@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/groupon-testium/testium/releases/tag/v2.5.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-27T07:17:54.374Z'
+date: '2015-01-27T07:17:54+00:00'
 tags:
   - E2E
   - testing

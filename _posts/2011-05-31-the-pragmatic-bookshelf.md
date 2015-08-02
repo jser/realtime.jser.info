@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://pragprog.com/news/rails-sale-40-off'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
-date: '2011-05-31T15:00:00.000Z'
+date: '2011-05-31T15:00:00+00:00'
 ---
 RailsConfに併せてRails関係の書籍が40%セール
 
