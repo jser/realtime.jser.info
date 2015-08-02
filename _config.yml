@@ -18,6 +18,6 @@ exclude:
   - "vendor"
   - "node_modules"
 # Build settings
-markdown: kramdown
+markdown: redcarpet
 exclude:
     - node_modules
