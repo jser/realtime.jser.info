@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2014/08/07/stay-up-to-date-with-internet-explorer.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-10T14:39:47.215Z'
+date: '2014-08-10T14:39:47+00:00'
 tags:
   - IE
   - ReleaseNote

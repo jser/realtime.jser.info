@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/slightlyoff/async-local-storage'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-03T12:34:10.321Z'
+date: '2013-06-03T12:34:10+00:00'
 tags:
   - JavaScript
   - library

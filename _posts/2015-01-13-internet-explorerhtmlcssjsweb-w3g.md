@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://w3g.jp/blog/ie_supportlist'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-13T12:26:16.244Z'
+date: '2015-01-13T12:26:16+00:00'
 tags:
   - IE
   - まとめ

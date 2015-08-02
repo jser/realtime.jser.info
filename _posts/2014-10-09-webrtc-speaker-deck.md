@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/yosuke_furukawa/webrtc-gai-yao-karazhong-falseshi-zu-mimade'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-09T02:06:15.630Z'
+date: '2014-10-09T02:06:15+00:00'
 tags:
   - WebRTC
   - スライド

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://plus.google.com/u/0/103969044621963378195/posts/af6Fg972tGQ'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 WebSocketの歴史
 

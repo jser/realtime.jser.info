@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/kiwanami/20130905/1378353853'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-07T12:24:44.218Z'
+date: '2013-09-07T12:24:44+00:00'
 tags:
   - CSS
   - document

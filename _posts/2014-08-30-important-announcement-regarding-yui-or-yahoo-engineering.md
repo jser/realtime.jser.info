@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://yahooeng.tumblr.com/post/96098168666/important-announcement-regarding-yui'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-30T13:36:41.641Z'
+date: '2014-08-30T13:36:41+00:00'
 tags:
   - YUI
   - ReleaseNote

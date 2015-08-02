@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.ponyfoo.com/2013/10/25/event-emitter-obey-and-report'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-26T08:06:45.112Z'
+date: '2013-10-26T08:06:45+00:00'
 tags:
   - JavaScript
   - event

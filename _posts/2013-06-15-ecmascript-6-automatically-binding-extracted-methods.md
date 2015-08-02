@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2013/06/auto-binding.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-15T08:19:55.949Z'
+date: '2013-06-15T08:19:55+00:00'
 tags:
   - ECMA
   - JavaScript

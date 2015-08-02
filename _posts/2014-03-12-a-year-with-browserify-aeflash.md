@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://aeflash.com/2014-03/a-year-with-browserify.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-12T09:22:57.233Z'
+date: '2014-03-12T09:22:57+00:00'
 tags:
   - browserify
   - まとめ

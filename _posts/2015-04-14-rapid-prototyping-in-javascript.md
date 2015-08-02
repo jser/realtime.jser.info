@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mattdesl.svbtle.com/rapid-prototyping'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-14T13:43:08.002Z'
+date: '2015-04-14T13:43:08+00:00'
 tags:
   - JavaScript
   - debug

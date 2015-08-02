@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://css3test.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-29T15:00:00.000Z'
+date: '2012-02-29T15:00:00+00:00'
 ---
 CSS3の実装有無(動作は関係なし)を調べるツール
 

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2013/11/webstorm-7-0-2-is-available/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-12T05:08:39.221Z'
+date: '2013-11-12T05:08:39+00:00'
 tags:
   - WebStorm
   - ReleaseNote

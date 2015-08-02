@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/endangeredmassa/bond'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-14T01:17:02.443Z'
+date: '2014-01-14T01:17:02+00:00'
 tags:
   - JavaScript
   - library

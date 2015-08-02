@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://johnkpaul.github.io/presentations/jsconf-br/es6-now/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-28T06:47:39.097Z'
+date: '2014-04-28T06:47:39+00:00'
 tags:
   - ECMAScript
   - JavaScript

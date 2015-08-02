@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tv.jetbrains.net/videocontent/webstorm-7-overview-video'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-02T13:51:55.607Z'
+date: '2013-10-02T13:51:55+00:00'
 tags:
   - WebStorm
   - TypeScript

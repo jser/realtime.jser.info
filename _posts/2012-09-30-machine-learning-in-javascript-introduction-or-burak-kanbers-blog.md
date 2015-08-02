@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/index.json'
-date: '2012-09-30T15:00:00.000Z'
+date: '2012-09-30T15:00:00+00:00'
 ---
 JavaScriptで機械学習についての記事シリーズ。
 

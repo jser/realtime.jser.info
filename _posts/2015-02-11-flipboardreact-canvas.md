@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/flipboard/react-canvas'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-11T06:12:26.039Z'
+date: '2015-02-11T06:12:26+00:00'
 tags:
   - React
   - canvas

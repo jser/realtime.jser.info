@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2013/09/javascript-unicode.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-25T13:38:28.319Z'
+date: '2013-09-25T13:38:28+00:00'
 tags:
   - JavaScript
   - 文字コード

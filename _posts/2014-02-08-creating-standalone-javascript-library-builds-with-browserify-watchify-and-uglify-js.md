@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://learnjs.io/blog/2014/02/06/creating-js-library-builds-with-browserify-and-other-npm-modules/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-08T05:52:21.602Z'
+date: '2014-02-08T05:52:21+00:00'
 tags:
   - browserify
   - tutorial

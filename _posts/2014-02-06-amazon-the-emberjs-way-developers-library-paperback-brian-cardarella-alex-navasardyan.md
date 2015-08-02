@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321994531/amazon0abac-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-06T06:31:32.973Z'
+date: '2014-02-06T06:31:32+00:00'
 tags:
   - JavaScript
   - MVC

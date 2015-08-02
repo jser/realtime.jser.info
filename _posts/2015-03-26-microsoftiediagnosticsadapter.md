@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Microsoft/IEDiagnosticsAdapter'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-26T13:19:07.982Z'
+date: '2015-03-26T13:19:07+00:00'
 tags:
   - Chrome
   - IE

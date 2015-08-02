@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://vimeo.com/88952704'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-16T07:34:26.625Z'
+date: '2014-03-16T07:34:26+00:00'
 tags:
   - JavaScript
   - MVC

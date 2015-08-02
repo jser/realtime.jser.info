@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://net.tutsplus.com/tutorials/javascript-ajax/handlebars-js-a-behind-the-scenes-look/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-05T13:26:45.114Z'
+date: '2013-08-05T13:26:45+00:00'
 tags:
   - JavaScript
   - DOM

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://nthmaster.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 :nth-childと:nth-of-typeについて視覚的に学べるサイト

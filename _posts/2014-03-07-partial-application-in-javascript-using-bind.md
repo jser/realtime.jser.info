@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://passy.svbtle.com/partial-application-in-javascript-using-bind'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-07T07:36:55.290Z'
+date: '2014-03-07T07:36:55+00:00'
 tags:
   - JavaScript
 relatedLinks:

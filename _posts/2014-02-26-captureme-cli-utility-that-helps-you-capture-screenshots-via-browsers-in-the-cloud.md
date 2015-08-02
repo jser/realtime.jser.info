@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://vesln.github.io/captureme/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-26T00:05:52.781Z'
+date: '2014-02-26T00:05:52+00:00'
 tags:
   - node.js
   - スクリーンショット

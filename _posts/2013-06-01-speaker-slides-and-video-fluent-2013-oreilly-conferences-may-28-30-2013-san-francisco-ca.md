@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://fluentconf.com/fluent2013/public/schedule/proceedings'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-01T11:09:35.201Z'
+date: '2013-06-01T11:09:35+00:00'
 tags:
   - event
   - JavaScript

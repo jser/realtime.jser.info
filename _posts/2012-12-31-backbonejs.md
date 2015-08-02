@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://havelog.ayumusato.com/develop/others/e537-translate_backbone_annotated_source.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 Backbone.jsのコードコメントの翻訳
 

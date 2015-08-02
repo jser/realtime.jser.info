@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/cebartling/javascript-38057372'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-18T08:16:52.254Z'
+date: '2014-08-18T08:16:52+00:00'
 tags:
   - JavaScript
   - testing

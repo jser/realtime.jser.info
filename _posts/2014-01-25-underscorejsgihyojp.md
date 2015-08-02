@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://gihyo.jp/dev/serial/01/underscorejs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-25T05:52:45.512Z'
+date: '2014-01-25T05:52:45+00:00'
 tags:
   - JavaScript
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/slightlyoff/NavigationController'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-10T13:18:28.345Z'
+date: '2013-06-10T13:18:28+00:00'
 tags:
   - HTML5
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873115733/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-31T15:00:00.000Z'
+date: '2012-07-31T15:00:00+00:00'
 ---
 2012年08月10日発売
 

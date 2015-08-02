@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ruben.verborgh.org/blog/2012/12/31/asynchronous-error-handling-in-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-31T15:00:00.000Z'
+date: '2013-01-31T15:00:00+00:00'
 ---
 JavaScriptでの非同期で起きたエラー処理について。
 

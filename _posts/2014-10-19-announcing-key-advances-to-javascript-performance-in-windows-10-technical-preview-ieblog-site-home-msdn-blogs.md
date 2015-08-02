@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2014/10/09/announcing-key-advances-to-javascript-performance-in-windows-10-technical-preview.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T13:29:35.311Z'
+date: '2014-10-19T13:29:35+00:00'
 tags:
   - IE
   - JavaScript

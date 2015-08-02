@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wingolog.org/archives/2013/05/08/generators-in-v8'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-11T04:55:13.771Z'
+date: '2013-05-11T04:55:13+00:00'
 tags:
   - JavaScript
 ---

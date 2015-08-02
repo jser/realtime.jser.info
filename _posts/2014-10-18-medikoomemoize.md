@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/medikoo/memoize'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-18T06:41:58.343Z'
+date: '2014-10-18T06:41:58+00:00'
 tags:
   - JavaScript
   - library

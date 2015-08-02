@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2013/05/webstorm-7-eap/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-02T14:16:35.988Z'
+date: '2013-06-02T14:16:35+00:00'
 tags:
   - WebStorm
   - ReleaseNote

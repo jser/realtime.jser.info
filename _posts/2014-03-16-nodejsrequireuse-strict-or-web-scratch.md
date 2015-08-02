@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0316/res3719/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-16T05:43:58.119Z'
+date: '2014-03-16T05:43:58+00:00'
 tags:
   - JavaScript
   - AST

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://polygon-planet.blogspot.com/2012/02/javascriptpotjspotlitejs.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-29T15:00:00.000Z'
+date: '2012-02-29T15:00:00+00:00'
 ---
 Pot.js 1.14 と PotLite.js 1.31 リリースPot.js + PotLite.js リファレンス が完成

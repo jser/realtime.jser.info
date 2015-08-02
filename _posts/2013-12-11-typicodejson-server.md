@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/typicode/json-server'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-11T06:59:30.109Z'
+date: '2013-12-11T06:59:30+00:00'
 tags:
   - JSON
   - HTTP

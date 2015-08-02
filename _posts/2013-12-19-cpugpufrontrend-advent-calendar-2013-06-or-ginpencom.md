@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2013/12/06/hardware-acceleration/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-19T12:11:56.999Z'
+date: '2013-12-19T12:11:56+00:00'
 tags:
   - CSS
   - animation

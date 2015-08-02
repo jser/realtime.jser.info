@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2015/03/10/react-v0.13.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-11T04:12:10.785Z'
+date: '2015-03-11T04:12:10+00:00'
 tags:
   - React
   - ReleaseNote

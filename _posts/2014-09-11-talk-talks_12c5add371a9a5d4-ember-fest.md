@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://emberfest.eu/talks/talks_12C5ADD371A9A5D4'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-11T12:55:12.132Z'
+date: '2014-09-11T12:55:12+00:00'
 tags:
   - JavaScript
   - Tools

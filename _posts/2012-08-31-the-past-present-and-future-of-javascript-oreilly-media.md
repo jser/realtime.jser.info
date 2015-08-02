@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://oreillynet.com/oreilly/javascript/radarreports/past-present-future-javascript.csp'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 JavaScriptの過去/現在/未来について書かれた無料の電子書籍
 

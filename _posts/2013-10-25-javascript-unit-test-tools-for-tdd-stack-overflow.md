@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://stackoverflow.com/questions/300855/javascript-unit-test-tools-for-tdd'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-25T13:05:21.967Z'
+date: '2013-10-25T13:05:21+00:00'
 tags:
   - JavaScript
   - testing

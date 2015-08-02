@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tympanus.net/Development/AnimatedSVGIcons/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-08T13:35:04.931Z'
+date: '2013-11-08T13:35:04+00:00'
 tags:
   - SVG
   - animation

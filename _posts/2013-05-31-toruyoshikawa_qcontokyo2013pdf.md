@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.qcontokyo.com/data_2013/ToruYoshikawa_QConTokyo2013.pdf'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-31T03:40:03.544Z'
+date: '2013-05-31T03:40:03+00:00'
 tags:
   - WebRTC
   - スライド

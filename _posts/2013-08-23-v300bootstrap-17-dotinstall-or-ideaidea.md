@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.ideaxidea.com/archives/2013/08/bootstrap_v3_added.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-23T00:38:36.862Z'
+date: '2013-08-23T00:38:36+00:00'
 tags:
   - 動画
   - CSS

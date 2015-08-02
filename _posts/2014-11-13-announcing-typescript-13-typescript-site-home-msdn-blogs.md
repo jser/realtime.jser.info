@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/typescript/archive/2014/11/12/announcing-typescript-1-3.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-13T00:43:49.554Z'
+date: '2014-11-13T00:43:49+00:00'
 tags:
   - TypeScript
   - ReleaseNote

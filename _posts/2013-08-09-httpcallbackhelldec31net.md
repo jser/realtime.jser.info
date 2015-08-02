@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://callbackhell.dec31.net/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-09T00:09:20.981Z'
+date: '2013-08-09T00:09:20+00:00'
 tags:
   - JavaScript
   - 翻訳

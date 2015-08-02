@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://webrtc-security.github.io/report_ja/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-02T13:00:35.295Z'
+date: '2015-08-02T13:00:35+00:00'
 tags:
   - JavaScript
   - WebRTC

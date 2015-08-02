@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/ma2/20120107/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
-date: '2012-01-31T15:00:00.000Z'
+date: '2012-01-31T15:00:00+00:00'
 ---
 Batman.jsについての紹介記事翻訳

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://flippinawesome.org/2014/05/12/rethinking-dom-traversal/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-15T14:48:08.178Z'
+date: '2014-05-15T14:48:08+00:00'
 tags:
   - JavaScript
   - DOM

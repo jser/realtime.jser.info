@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/fundamentals/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-08T03:27:51.441Z'
+date: '2014-06-08T03:27:51+00:00'
 tags:
   - google
   - tutorial

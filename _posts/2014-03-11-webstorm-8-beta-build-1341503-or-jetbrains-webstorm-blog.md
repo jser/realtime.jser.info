@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/03/webstorm-8-beta/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-11T01:46:02.359Z'
+date: '2014-03-11T01:46:02+00:00'
 tags:
   - WebStorm
   - ReleaseNote

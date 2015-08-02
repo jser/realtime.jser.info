@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lxyuma.hatenablog.com/entry/2014/02/03/000904'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-03T05:42:40.520Z'
+date: '2014-02-03T05:42:40+00:00'
 tags:
   - JavaScript
   - DOM

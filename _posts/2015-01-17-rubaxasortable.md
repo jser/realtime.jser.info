@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/RubaXa/Sortable'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-17T07:35:00.821Z'
+date: '2015-01-17T07:35:00+00:00'
 tags:
   - JavaScript
   - library

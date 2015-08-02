@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/twistdigital/es6-promisify'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-27T05:12:34.108Z'
+date: '2014-08-27T05:12:34+00:00'
 tags:
   - node.js
   - JavaScript

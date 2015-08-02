@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.rebeccamurphey.com/modern-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
-date: '2011-04-30T15:00:00.000Z'
+date: '2011-04-30T15:00:00+00:00'
 ---
 Is JavaScript the New Perl?への反応記事
 

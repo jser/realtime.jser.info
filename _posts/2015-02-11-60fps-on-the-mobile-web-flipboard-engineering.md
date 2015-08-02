@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://engineering.flipboard.com/2015/02/mobile-web/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-11T08:36:16.870Z'
+date: '2015-02-11T08:36:16+00:00'
 tags:
   - JavaScript
   - canvas

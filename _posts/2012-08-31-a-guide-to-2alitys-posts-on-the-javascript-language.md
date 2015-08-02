@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2012/08/guide-jslang.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 Dr.AxelのJavaScriptについての記事目次。
 

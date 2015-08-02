@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://blog.joocode.com/browsers/12-things-about-the-webkit-inspector-i-didnt-know/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 Web InspectorのTips

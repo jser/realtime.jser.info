@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lab.sonicmoov.com/development/1312/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-28T14:01:02.700Z'
+date: '2013-11-28T14:01:02+00:00'
 tags:
   - TypeScript
 ---

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://dailyjs.com/2011/01/14/arbor-mug-i-ristretto/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+dailyjs+%28DailyJS%29&utm_content=livedoor'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-31T15:00:00.000Z'
+date: '2011-01-31T15:00:00+00:00'
 ---
 JVM向けのJavaScriptコンパイラーであるMugの特徴を述べています。
 

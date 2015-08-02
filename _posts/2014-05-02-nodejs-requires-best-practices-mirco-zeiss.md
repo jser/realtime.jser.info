@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.mircozeiss.com/node-js-require-s-best-practices/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-02T04:43:48.922Z'
+date: '2014-05-02T04:43:48+00:00'
 tags:
   - node.js
   - Tips

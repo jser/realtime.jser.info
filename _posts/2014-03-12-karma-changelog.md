@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://karma-runner.github.io/0.12/about/changelog.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-12T01:57:33.775Z'
+date: '2014-03-12T01:57:33+00:00'
 tags:
   - JavaScript
   - browser

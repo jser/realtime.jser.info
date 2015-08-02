@@ -3,16 +3,21 @@ layout: default
 ---
 
 <div class="home">
+  <h1 class="page-heading">リアルタイム版<a href="http://jser.info/" title="JSer.info">JSer.info</a></h1>
 
-  <h1 class="page-heading">Posts</h1>
-
+  <p class="follow">
+      <a href="https://twitter.com/jser_info" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @jser_info</a>
+      <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+      </p>
+  <p class="follow">
+      <a href='http://cloud.feedly.com/#subscription%2Ffeed%2Fhttp%3A%2F%2Frealtime.jser.info%2Ffeed.xml' target='blank'><img id='feedlyFollow' src='http://s3.feedly.com/img/follows/feedly-follow-rectangle-volume-medium_2x.png' alt='follow us in feedly' width='71' height='28'></a>
+  </p>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
   <ul class="post-list">
     {% for post in site.posts limit:100 %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
+        <span class="post-meta">{{ post.date | date: "%Y年%m月%d日 %H:%M" }}</span>
         <h2>
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>

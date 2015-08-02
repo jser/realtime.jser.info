@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hail2u.net/blog/webdesign/css-font-loading-font-face-observer-and-web-font-loader.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-06T13:31:52.304Z'
+date: '2015-04-06T13:31:52+00:00'
 tags:
   - fonts
   - CSS

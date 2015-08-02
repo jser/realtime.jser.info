@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://saucelabs.com/javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-14T12:11:09.865Z'
+date: '2013-09-14T12:11:09+00:00'
 tags:
   - JavaScript
   - testing

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.myth.io/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-22T08:44:50.091Z'
+date: '2013-12-22T08:44:50+00:00'
 tags:
   - CSS
   - Tools

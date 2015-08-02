@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/andrejewski/seth'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-14T09:00:14.219Z'
+date: '2014-07-14T09:00:14+00:00'
 tags:
   - JavaScript
   - library

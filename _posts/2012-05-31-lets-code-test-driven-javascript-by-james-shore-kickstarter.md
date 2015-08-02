@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.kickstarter.com/projects/188988365/lets-code-test-driven-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/index.json'
-date: '2012-05-31T15:00:00.000Z'
+date: '2012-05-31T15:00:00+00:00'
 ---
 Let's Play TDDシリーズ
 

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2011/01/12/announcing-yui-3-3-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-31T15:00:00.000Z'
+date: '2011-01-31T15:00:00+00:00'
 ---
 YUI 3.3.0がリリース

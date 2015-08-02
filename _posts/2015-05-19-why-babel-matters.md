@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://codemix.com/blog/why-babel-matters'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-19T13:12:48.910Z'
+date: '2015-05-19T13:12:48+00:00'
 tags:
   - JavaScript
 ---

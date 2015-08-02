@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/andyearnshaw/Intl.js/releases/tag/v0.1.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-11T09:57:51.232Z'
+date: '2014-01-11T09:57:51+00:00'
 tags:
   - JavaScript
   - ECMAScript

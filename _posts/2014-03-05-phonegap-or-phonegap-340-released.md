@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://phonegap.com/blog/2014/03/04/phonegap-3-4-release/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-05T13:11:43.782Z'
+date: '2014-03-05T13:11:43+00:00'
 tags:
   - PhoneGap
   - ReleaseNote

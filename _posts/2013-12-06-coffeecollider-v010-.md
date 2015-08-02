@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mohayonao.hatenablog.com/entry/2013/12/06/103028'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-06T05:48:39.226Z'
+date: '2013-12-06T05:48:39+00:00'
 tags:
   - CoffeeScript
   - music

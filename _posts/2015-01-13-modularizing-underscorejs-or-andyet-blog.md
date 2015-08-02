@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.andyet.com/2015/01/07/modularizing-underscorejs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-13T11:08:52.268Z'
+date: '2015-01-13T11:08:52+00:00'
 tags:
   - JavaScript
   - npm

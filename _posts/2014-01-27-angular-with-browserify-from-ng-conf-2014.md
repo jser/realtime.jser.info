@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://benclinkinbeard.com/posts/angular-with-browserify-from-ng-conf-2014/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-27T06:08:09.332Z'
+date: '2014-01-27T06:08:09+00:00'
 tags:
   - AngularJS
   - browserify

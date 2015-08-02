@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://frends.kr/topics/webfont-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-28T15:00:00.000Z'
+date: '2011-02-28T15:00:00+00:00'
 ---
 @font-faceでのWebフォントについて。
 

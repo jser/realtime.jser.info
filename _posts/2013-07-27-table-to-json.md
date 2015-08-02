@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lightswitch05.github.io/table-to-json/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-27T11:49:12.394Z'
+date: '2013-07-27T11:49:12+00:00'
 tags:
   - HTML
   - JSON

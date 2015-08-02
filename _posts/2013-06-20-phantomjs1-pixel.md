@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ameblo.jp/ca-1pixel/entry-11555224680.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-20T02:41:50.012Z'
+date: '2013-06-20T02:41:50+00:00'
 tags:
   - JavaScript
   - testing

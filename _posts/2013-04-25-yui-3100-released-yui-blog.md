@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2013/04/24/yui-3-10-0-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-25T00:22:26.679Z'
+date: '2013-04-25T00:22:26+00:00'
 tags:
   - Yahoo
   - JavaScript

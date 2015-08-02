@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tjvantoll.com/2013/04/15/list-of-pseudo-elements-to-style-form-controls'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-18T00:53:05.375Z'
+date: '2013-04-18T00:53:05+00:00'
 tags:
   - css
   - browser

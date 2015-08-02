@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mizchi/bower-build'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-19T11:54:52.828Z'
+date: '2014-08-19T11:54:52+00:00'
 tags:
   - JavaScript
   - Tools

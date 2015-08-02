@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/six-steps-for-approaching-the-next-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-16T13:28:04.184Z'
+date: '2015-06-16T13:28:04+00:00'
 tags:
   - JavaScript
   - ECMAScript

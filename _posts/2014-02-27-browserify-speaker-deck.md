@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/hitsujiwool/browserifykotohazime'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-27T05:15:21.883Z'
+date: '2014-02-27T05:15:21+00:00'
 tags:
   - browserify
   - スライド

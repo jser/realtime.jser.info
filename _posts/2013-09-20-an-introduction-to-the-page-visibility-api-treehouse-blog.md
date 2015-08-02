@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.teamtreehouse.com/an-introduction-to-the-page-visibility-api'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-20T01:20:17.358Z'
+date: '2013-09-20T01:20:17+00:00'
 tags:
   - JavaScript
   - 動画

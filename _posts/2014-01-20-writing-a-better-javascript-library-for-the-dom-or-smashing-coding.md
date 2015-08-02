@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://coding.smashingmagazine.com/2014/01/13/better-javascript-library-for-the-dom/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-20T09:33:18.764Z'
+date: '2014-01-20T09:33:18+00:00'
 tags:
   - JavaScript
   - DOM

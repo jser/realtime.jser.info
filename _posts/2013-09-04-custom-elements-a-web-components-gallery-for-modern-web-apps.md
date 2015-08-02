@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://customelements.io/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-04T12:53:04.650Z'
+date: '2013-09-04T12:53:04+00:00'
 tags:
   - WebComponents
   - 検索

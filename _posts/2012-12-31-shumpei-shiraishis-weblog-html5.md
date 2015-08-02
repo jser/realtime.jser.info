@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.shumpei.net/2012/12/html5-cr.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 HTML5とCanvas 2D Contextの仕様が勧告候補になり、大きな変更がない段階になった.
 

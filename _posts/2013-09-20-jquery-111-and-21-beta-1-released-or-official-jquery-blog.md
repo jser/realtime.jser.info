@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/09/19/jquery-1-11-and-2-1-beta-1-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-20T00:54:58.507Z'
+date: '2013-09-20T00:54:58+00:00'
 tags:
   - jQuery
   - ReleaseNote

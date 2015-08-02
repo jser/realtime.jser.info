@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://spacetelescope.github.io/understanding-json-schema/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-03T14:48:08.143Z'
+date: '2014-12-03T14:48:08+00:00'
 tags:
   - JSON
   - book

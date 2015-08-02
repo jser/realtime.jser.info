@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://bassistance.de/2014/12/01/jquery-foundation-2014-roundup/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-04T07:35:11.970Z'
+date: '2014-12-04T07:35:11+00:00'
 tags:
   - jQuery
   - まとめ

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/javascript-scene/javascript-scene-tech-survey-d2449a529ed'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-25T08:15:05.032Z'
+date: '2015-06-25T08:15:05+00:00'
 tags:
   - JavaScript
 ---

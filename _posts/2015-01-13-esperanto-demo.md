@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://esperantojs.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-13T13:57:56.967Z'
+date: '2015-01-13T13:57:56+00:00'
 tags:
   - JavaScript
   - ECMAScript

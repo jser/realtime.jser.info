@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Baggz/Amanda'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/index.json'
-date: '2011-11-30T15:00:00.000Z'
+date: '2011-11-30T15:00:00+00:00'
 ---
 JSONスキーマのバリデーションを行えるJavaScriptライブラリ
 

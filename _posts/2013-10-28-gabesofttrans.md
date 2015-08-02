@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/gabesoft/trans'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-28T00:50:12.029Z'
+date: '2013-10-28T00:50:12+00:00'
 tags:
   - JavaScript
   - JSON

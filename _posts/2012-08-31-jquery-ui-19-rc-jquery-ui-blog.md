@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jqueryui.com/2012/08/jquery-ui-1-9-rc/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 jQuery UI 1.9 RC リリース

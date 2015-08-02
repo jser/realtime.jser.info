@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.mozilla.org/en-US/firefox/11.0/releasenotes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/index.json'
-date: '2012-03-31T15:00:00.000Z'
+date: '2012-03-31T15:00:00+00:00'
 ---
 FIrefox 11のリリースノート

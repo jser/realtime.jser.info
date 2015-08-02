@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/typescript/archive/2013/08/06/announcing-0-9-1.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-07T09:15:51.200Z'
+date: '2013-08-07T09:15:51+00:00'
 tags:
   - TypeScript
   - ReleaseNote

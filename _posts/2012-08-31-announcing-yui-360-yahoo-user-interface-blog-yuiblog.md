@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2012/08/01/announcing-yui-3-6-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 YUI3.6.0リリース。

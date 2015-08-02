@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://webreflection.blogspot.com/2014/08/pointerevents-no-more.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-18T06:03:06.596Z'
+date: '2014-08-18T06:03:06+00:00'
 tags:
   - Chrome
   - event

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developer.mozilla.org/ja/docs/Tools/Debugger/How_to/Debug_eval_sources'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-14T02:43:03.450Z'
+date: '2015-04-14T02:43:03+00:00'
 tags:
   - firefox
   - sourcemap

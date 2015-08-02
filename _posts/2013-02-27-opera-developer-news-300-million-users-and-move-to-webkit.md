@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-27T15:00:00.000Z'
+date: '2013-02-27T15:00:00+00:00'
 tags:
   - Opera
   - ReleaseNote

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/lukehoban/es6features'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-04T13:57:16.632Z'
+date: '2014-03-04T13:57:16+00:00'
 tags:
   - ECMAScript
   - JavaScript

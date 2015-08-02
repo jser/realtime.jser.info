@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://engineer.dena.jp/2013/05/migration-from-jsdoc2-to-jsdoc3.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-09T05:00:28.815Z'
+date: '2013-05-09T05:00:28+00:00'
 tags:
   - JavaScript
   - document

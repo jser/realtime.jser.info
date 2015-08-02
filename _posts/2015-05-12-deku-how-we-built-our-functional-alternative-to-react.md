@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://segment.com/blog/deku-our-functional-alternative-to-react/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-12T06:57:01.103Z'
+date: '2015-05-12T06:57:01+00:00'
 tags:
   - JavaScript
   - DOM

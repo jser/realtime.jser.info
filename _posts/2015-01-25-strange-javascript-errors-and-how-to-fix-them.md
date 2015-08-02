@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://davidwalsh.name/fix-javascript-errors'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-25T15:51:38.574Z'
+date: '2015-01-25T15:51:38+00:00'
 tags:
   - JavaScript
   - debug

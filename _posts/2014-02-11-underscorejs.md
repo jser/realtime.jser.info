@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://underscorejs.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-11T04:54:59.609Z'
+date: '2014-02-11T04:54:59+00:00'
 tags:
   - JavaScript
   - library

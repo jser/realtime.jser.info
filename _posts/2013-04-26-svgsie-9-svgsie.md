@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/dhrname/20130425/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-26T13:16:06.506Z'
+date: '2013-04-26T13:16:06+00:00'
 tags:
   - SVG
   - JavaScript

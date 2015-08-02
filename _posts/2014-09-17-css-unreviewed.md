@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://takenspc.hatenablog.com/entry/2014/09/16/152157'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-17T04:58:00.409Z'
+date: '2014-09-17T04:58:00+00:00'
 tags:
   - CSS
   - webkit

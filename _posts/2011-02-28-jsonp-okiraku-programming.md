@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/NeoCat/20110206/1296934235'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-28T15:00:00.000Z'
+date: '2011-02-28T15:00:00+00:00'
 ---
 JSONPのエラーをキャッチするためにiframeを利用して読み込む方法。
 

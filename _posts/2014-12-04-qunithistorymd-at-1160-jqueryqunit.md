@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jquery/qunit/blob/1.16.0/History.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-04T14:32:37.103Z'
+date: '2014-12-04T14:32:37+00:00'
 tags:
   - JavaScript
   - testing

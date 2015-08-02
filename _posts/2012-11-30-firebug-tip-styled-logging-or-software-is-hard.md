@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.softwareishard.com/blog/firebug/firebug-tip-styled-logging/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-30T15:00:00.000Z'
+date: '2012-11-30T15:00:00+00:00'
 ---
 Firebugのコンソールに出力するログにCSSを適応したり、logImageで画像を表示する

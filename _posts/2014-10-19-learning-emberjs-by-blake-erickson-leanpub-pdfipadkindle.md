@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://leanpub.com/learningemberjs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T06:07:37.572Z'
+date: '2014-10-19T06:07:37+00:00'
 tags:
   - JavaScript
   - library

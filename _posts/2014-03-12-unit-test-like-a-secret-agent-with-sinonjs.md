@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://elijahmanor.com/unit-test-like-a-secret-agent-with-sinon-js/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-12T02:03:37.381Z'
+date: '2014-03-12T02:03:37+00:00'
 tags:
   - JavaScript
   - testing

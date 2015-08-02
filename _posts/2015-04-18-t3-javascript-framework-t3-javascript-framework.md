@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://t3js.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-18T10:31:57.373Z'
+date: '2015-04-18T10:31:57+00:00'
 tags:
   - JavaScript
   - library

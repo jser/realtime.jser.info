@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/hokaccha/13301/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-04T05:37:39.695Z'
+date: '2015-03-04T05:37:39+00:00'
 tags:
   - JavaScript
   - React

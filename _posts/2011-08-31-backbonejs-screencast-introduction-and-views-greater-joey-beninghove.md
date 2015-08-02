@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://joeybeninghove.com/2011/08/16/backbone-screencast-introduction-views/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/index.json'
-date: '2011-08-31T15:00:00.000Z'
+date: '2011-08-31T15:00:00+00:00'
 ---
 Backbone.jsのスクリーンキャスト(1h)

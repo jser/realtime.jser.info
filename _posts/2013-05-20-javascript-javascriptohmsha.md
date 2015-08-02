@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ssl.ohmsha.co.jp/cgi-bin/menu.cgi?ISBN=978-4-87311-621-1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-20T12:41:42.468Z'
+date: '2013-05-20T12:41:42+00:00'
 tags:
   - JavaScript
   - book

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://bugrammer.hateblo.jp/entry/2013/10/26/231517'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-28T12:35:19.302Z'
+date: '2013-10-28T12:35:19+00:00'
 tags:
   - JavaScript
   - altJS

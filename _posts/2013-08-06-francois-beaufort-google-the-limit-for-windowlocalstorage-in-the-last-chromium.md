@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://plus.google.com/100132233764003563318/posts/S5Q9HqDB8bh'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-06T01:06:02.892Z'
+date: '2013-08-06T01:06:02+00:00'
 tags:
   - Chrome
   - DOM

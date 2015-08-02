@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://dfkaye.github.io/2014/03/04/tdd-boilerplate/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-25T15:36:30.517Z'
+date: '2014-03-25T15:36:30+00:00'
 tags:
   - JavaScript
   - testing

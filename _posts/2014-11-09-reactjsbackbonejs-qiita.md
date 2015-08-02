@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/derui@github/items/864113f694b77eca685d'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-09T11:16:03.351Z'
+date: '2014-11-09T11:16:03+00:00'
 tags:
   - React
   - backbone.js

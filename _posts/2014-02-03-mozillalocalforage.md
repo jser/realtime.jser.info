@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mozilla/localForage'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-03T12:34:17.627Z'
+date: '2014-02-03T12:34:17+00:00'
 tags:
   - JavaScript
   - library

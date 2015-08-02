@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://pepabo.github.io/docs/frontend/standard.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-26T13:46:42.848Z'
+date: '2014-11-26T13:46:42+00:00'
 tags:
   - JavaScript
   - CSS

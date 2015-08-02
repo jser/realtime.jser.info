@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/thlorenz/replpad'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-31T15:00:00.000Z'
+date: '2013-01-31T15:00:00+00:00'
 ---
 jsファイルを監視して変更をreplに渡して実行できるCLIツール.
 

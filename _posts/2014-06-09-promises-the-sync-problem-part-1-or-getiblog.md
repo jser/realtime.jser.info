@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.getify.com/promises-part-1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-09T07:47:02.349Z'
+date: '2014-06-09T07:47:02+00:00'
 tags:
   - JavaScript
   - Promises

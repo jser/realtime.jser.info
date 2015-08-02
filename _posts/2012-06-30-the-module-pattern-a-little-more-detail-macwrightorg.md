@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://macwright.org/2012/06/04/the-module-pattern.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-30T15:00:00.000Z'
+date: '2012-06-30T15:00:00+00:00'
 ---
 JavaScriptのモジュールパターンについて。コード例を元に解説、利点や不利な点を細かく書いてる

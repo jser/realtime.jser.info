@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://teppeis.hatenablog.com/entry/typescript-0.9.1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-08T04:51:36.270Z'
+date: '2013-08-08T04:51:36+00:00'
 tags:
   - TypeScript
   - ReleaseNote

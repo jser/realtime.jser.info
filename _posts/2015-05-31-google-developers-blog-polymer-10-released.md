@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://googledevelopers.blogspot.com/2015/05/polymer-10-released.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-31T08:27:32.650Z'
+date: '2015-05-31T08:27:32+00:00'
 tags:
   - WebComponents
   - library

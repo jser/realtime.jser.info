@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.polymer-project.org/releases/2014/09/18/release-0.4.1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-23T06:09:44.962Z'
+date: '2014-09-23T06:09:44+00:00'
 tags:
   - JavaScript
   - WebComponents

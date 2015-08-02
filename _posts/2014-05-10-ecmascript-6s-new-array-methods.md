@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2014/05/es6-array-methods.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-10T02:51:42.016Z'
+date: '2014-05-10T02:51:42+00:00'
 tags:
   - JavaScript
   - ECMAScript

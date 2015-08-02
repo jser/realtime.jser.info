@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://momdo.github.io/html-aria/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-20T12:46:02.066Z'
+date: '2015-04-20T12:46:02+00:00'
 tags:
   - HTML
   - WAI-ARIA

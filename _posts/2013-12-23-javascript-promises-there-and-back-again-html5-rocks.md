@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/es6/promises/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-23T09:12:45.391Z'
+date: '2013-12-23T09:12:45+00:00'
 tags:
   - JavaScript
   - Promise

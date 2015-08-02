@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://colonelpanic.net/2014/08/using-pdf-js-web-worker-cross-domain-cors/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-11T09:08:42.229Z'
+date: '2014-08-11T09:08:42+00:00'
 tags:
   - JavaScript
   - webworker

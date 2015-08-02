@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://my.opera.com/ODIN/blog/2011/06/28/opera-11-50-released-speed-dial-extensions-improved-standards-support'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-30T15:00:00.000Z'
+date: '2011-06-30T15:00:00+00:00'
 ---
 Opera 11.50リリース
 

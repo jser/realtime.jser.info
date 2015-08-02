@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://vuejs.org/2014/07/29/vue-next/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-29T13:28:08.071Z'
+date: '2014-07-29T13:28:08+00:00'
 tags:
   - JavaScript
   - ReleaseNote

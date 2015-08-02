@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jlongster.com/Writing-Your-First-Sweet.js-Macro'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-08T07:34:13.685Z'
+date: '2014-02-08T07:34:13+00:00'
 tags:
   - sweet.js
   - tutorial

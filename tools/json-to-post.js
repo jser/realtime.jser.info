@@ -14,7 +14,7 @@ function pickFromMatter(item) {
         itemUrl: item.url,
         // e.g.) data/2015/08/index.json
         editJSONPath: "https://github.com/jser/jser.info/edit/gh-pages/data/" + moment.utc(item.date).format("YYYY/MM") + "/index.json",
-        date: item.date
+        date: moment.utc(item.date).format()
     };
     if (item.tags && item.tags.length > 0) {
         object.tags = item.tags;

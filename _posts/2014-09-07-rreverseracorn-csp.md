@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/RReverser/acorn-csp'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-07T07:40:21.910Z'
+date: '2014-09-07T07:40:21+00:00'
 tags:
   - JavaScript
   - library

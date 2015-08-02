@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://g200kg.github.io/web-audio-api-ja/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-31T11:58:02.516Z'
+date: '2013-10-31T11:58:02+00:00'
 tags:
   - WebPlatformAPI
   - sound

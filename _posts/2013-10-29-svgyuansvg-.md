@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/rikuo/20131028'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-29T06:49:29.481Z'
+date: '2013-10-29T06:49:29+00:00'
 tags:
   - SVG
   - tutorial

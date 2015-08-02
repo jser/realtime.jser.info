@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/petkaantonov/bluebird/releases/tag/v2.7.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-15T21:17:07.781Z'
+date: '2015-01-15T21:17:07+00:00'
 tags:
   - Promises
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://prune.io/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-18T05:24:51.772Z'
+date: '2013-12-18T05:24:51+00:00'
 tags:
   - github
   - browser

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://kolodny.github.io/blog/blog/2014/05/19/unoptimize-devtools-for-easy-debugging'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-20T05:28:07.913Z'
+date: '2014-05-20T05:28:07+00:00'
 tags:
   - V8
   - Chrome

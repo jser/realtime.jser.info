@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://azimi.me/2015/07/30/non-blocking-async-json-parse.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-02T05:37:25.506Z'
+date: '2015-08-02T05:37:25+00:00'
 tags:
   - JavaScript
   - JSON

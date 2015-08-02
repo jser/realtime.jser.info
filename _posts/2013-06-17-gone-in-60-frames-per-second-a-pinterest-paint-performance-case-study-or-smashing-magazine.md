@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.smashingmagazine.com/2013/06/10/pinterest-paint-performance-case-study/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-17T13:52:20.042Z'
+date: '2013-06-17T13:52:20+00:00'
 tags:
   - デバック
   - browser

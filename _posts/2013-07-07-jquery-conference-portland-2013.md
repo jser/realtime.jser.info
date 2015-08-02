@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://events.jquery.org/2013/portland/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-07T06:16:30.617Z'
+date: '2013-07-07T06:16:30+00:00'
 tags:
   - jQuery
   - スライド

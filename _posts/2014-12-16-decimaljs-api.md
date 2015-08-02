@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mikemcl.github.io/decimal.js/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-16T07:46:02.514Z'
+date: '2014-12-16T07:46:02+00:00'
 tags:
   - JavaScript
   - library

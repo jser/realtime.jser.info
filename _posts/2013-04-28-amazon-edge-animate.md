@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4883378586/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-28T23:32:09.629Z'
+date: '2013-04-28T23:32:09+00:00'
 tags:
   - HTML5
   - animation

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://groups.google.com/forum/#!msg/nwjs-general/NJA-Up4MFug/1jmBPjzklSUJ'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-07T13:47:02.254Z'
+date: '2015-03-07T13:47:02+00:00'
 tags:
   - node-webkit
   - ReleaseNote

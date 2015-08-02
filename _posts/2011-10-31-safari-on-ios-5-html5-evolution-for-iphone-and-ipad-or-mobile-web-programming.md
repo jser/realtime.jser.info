@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.mobilexweb.com/blog/ios-5-iphone-and-ipad-html5'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
-date: '2011-10-31T15:00:00.000Z'
+date: '2011-10-31T15:00:00+00:00'
 ---
 iOS5でのmobile safariの更新内容。
 

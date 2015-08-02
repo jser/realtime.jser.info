@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://bocoup.com/weblog/breaking-rules-in-tests/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-21T13:25:01.491Z'
+date: '2014-07-21T13:25:01+00:00'
 tags:
   - JavaScript
   - testing

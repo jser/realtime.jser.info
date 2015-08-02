@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=djQh8XKRzRg'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-03T14:04:40.419Z'
+date: '2014-06-03T14:04:40+00:00'
 tags:
   - WebComponents
   - 動画

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://javascripter.hatenablog.com/entry/2012/12/30/232842'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 Deferred/Promisesの仕組みと概念について。メソッドチェーンでつなげる書き方、処理を非同期的に拡張することとフローコントールとの違いについて

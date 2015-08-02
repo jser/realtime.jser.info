@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/trek/pretender'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-11T12:16:48.585Z'
+date: '2014-08-11T12:16:48+00:00'
 tags:
   - JavaScript
   - library

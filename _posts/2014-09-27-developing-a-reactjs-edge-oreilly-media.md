@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781939902122.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-27T11:41:45.958Z'
+date: '2014-09-27T11:41:45+00:00'
 tags:
   - VirualDOM
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.asial.co.jp/1165'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-17T08:45:29.727Z'
+date: '2013-06-17T08:45:29+00:00'
 tags:
   - JavaScript
   - スライド

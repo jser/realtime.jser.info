@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2013/06/04/yui-3-10-2-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-05T00:48:53.311Z'
+date: '2013-06-05T00:48:53+00:00'
 tags:
   - JavaScript
   - library

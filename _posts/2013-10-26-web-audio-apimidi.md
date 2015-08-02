@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://imaya.github.io/slide/webaudio/#1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-26T07:27:03.878Z'
+date: '2013-10-26T07:27:03+00:00'
 tags:
   - JavaScript
   - sound

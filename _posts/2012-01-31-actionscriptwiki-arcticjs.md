@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www40.atwiki.jp/spellbound/pages/1780.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
-date: '2012-01-31T15:00:00.000Z'
+date: '2012-01-31T15:00:00+00:00'
 ---
 DeNAのArctic.jsのサンプルコード集

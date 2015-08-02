@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/01/webstorm-8-eap/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-16T01:51:45.218Z'
+date: '2014-01-16T01:51:45+00:00'
 tags:
   - WebStorm
   - ReleaseNote

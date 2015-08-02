@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://blog.getfirebug.com/2011/04/01/firebug-1-8a1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
-date: '2011-04-30T15:00:00.000Z'
+date: '2011-04-30T15:00:00+00:00'
 ---
 Firebug1.8ではRequireJSを使ってモジュール管理している

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2015/01/full_time_ssl_website_quick_start.shtml'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-22T03:27:50.046Z'
+date: '2015-01-22T03:27:50+00:00'
 tags:
   - HTTP
   - SSL

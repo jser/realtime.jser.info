@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://efendibooks.com/minibooks/testing-with-coffeescript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 JasmineとCoffeeScriptを使ったテストについての50ページほどの電子書籍(Free)
 

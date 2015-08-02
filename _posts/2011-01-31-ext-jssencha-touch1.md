@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://blog.xole.net/article.php?id=766'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-31T15:00:00.000Z'
+date: '2011-01-31T15:00:00+00:00'
 ---
 Ext JS＆Sencha Touch勉強会

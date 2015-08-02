@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.mobilexweb.com/blog/ios-7-1-safari-minimal-ui-bugs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-14T01:18:06.353Z'
+date: '2014-03-14T01:18:06+00:00'
 tags:
   - ios
   - safari

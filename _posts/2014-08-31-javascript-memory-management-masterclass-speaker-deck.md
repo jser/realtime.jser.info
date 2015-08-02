@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/addyosmani/javascript-memory-management-masterclass'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-31T12:05:01.809Z'
+date: '2014-08-31T12:05:01+00:00'
 tags:
   - V8
   - JavaScript

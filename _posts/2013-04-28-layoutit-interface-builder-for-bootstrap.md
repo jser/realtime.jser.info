@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.layoutit.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-28T08:11:41.894Z'
+date: '2013-04-28T08:11:41+00:00'
 tags:
   - css
   - JavaScript

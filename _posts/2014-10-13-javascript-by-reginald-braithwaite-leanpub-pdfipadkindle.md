@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://leanpub.com/javascript-spessore'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-13T12:36:15.992Z'
+date: '2014-10-13T12:36:15+00:00'
 tags:
   - JavaScript
   - book

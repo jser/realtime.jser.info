@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/tricknotes/clean-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-31T15:00:00.000Z'
+date: '2011-12-31T15:00:00+00:00'
 ---
 綺麗なJavaScriptを書くためには...というスライド @  Sapporo.js
 

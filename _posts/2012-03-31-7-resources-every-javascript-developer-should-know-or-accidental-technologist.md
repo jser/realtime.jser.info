@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://accidentaltechnologist.com/javascript/7-resources-every-javascript-developer-should-know/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/index.json'
-date: '2012-03-31T15:00:00.000Z'
+date: '2012-03-31T15:00:00+00:00'
 ---
 JavaScriptについてリソースとなるサイト紹介

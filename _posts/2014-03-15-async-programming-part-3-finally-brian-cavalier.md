@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://briancavalier.github.io/async-programming-part-3-finally'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-15T13:36:26.480Z'
+date: '2014-03-15T13:36:26+00:00'
 tags:
   - Promises
   - debug

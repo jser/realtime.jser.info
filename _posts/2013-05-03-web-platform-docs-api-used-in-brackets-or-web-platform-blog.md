@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.webplatform.org/2013/05/web-platform-docs-in-brackets/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-03T05:39:19.796Z'
+date: '2013-05-03T05:39:19+00:00'
 tags:
   - WebAPI
   - DOM

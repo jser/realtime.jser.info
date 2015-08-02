@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://net.tutsplus.com/tutorials/javascript-ajax/building-apps-with-the-yeoman-workflow/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-22T13:40:21.079Z'
+date: '2013-07-22T13:40:21+00:00'
 tags:
   - JavaScript
   - Tools

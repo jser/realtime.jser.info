@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/ariya/supersonic-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-07T08:36:08.408Z'
+date: '2014-09-07T08:36:08+00:00'
 tags:
   - JavaScript
   - performance

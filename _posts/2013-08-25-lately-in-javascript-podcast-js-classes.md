@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.jsclasses.org/blog/category/podcast/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-25T13:37:41.948Z'
+date: '2013-08-25T13:37:41+00:00'
 tags:
   - JavaScript
   - podcast

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/bloomberg/brisket'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-29T03:14:37.757Z'
+date: '2015-03-29T03:14:37+00:00'
 tags:
   - JavaScript
   - backbone.js

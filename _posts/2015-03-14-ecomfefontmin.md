@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/ecomfe/fontmin'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-14T07:07:26.710Z'
+date: '2015-03-14T07:07:26+00:00'
 tags:
   - node.js
   - fonts

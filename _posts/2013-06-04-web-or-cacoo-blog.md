@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.cacoo.com/ja/2013/06/03/web-paint-performance/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-04T12:52:28.180Z'
+date: '2013-06-04T12:52:28+00:00'
 tags:
   - JavaScript
   - canvas

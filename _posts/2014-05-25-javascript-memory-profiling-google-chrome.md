@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developer.chrome.com/devtools/docs/javascript-memory-profiling'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-25T15:23:50.406Z'
+date: '2014-05-25T15:23:50+00:00'
 tags:
   - Chrome
   - debug

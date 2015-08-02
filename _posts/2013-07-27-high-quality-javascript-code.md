@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/denodell/highquality-javascript-code'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-27T02:33:40.240Z'
+date: '2013-07-27T02:33:40+00:00'
 tags:
   - JavaScript
   - スライド

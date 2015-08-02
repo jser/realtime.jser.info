@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.teamtreehouse.com/brief-introduction-svg'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-04T02:09:29.401Z'
+date: '2015-01-04T02:09:29+00:00'
 tags:
   - SVG
   - 動画

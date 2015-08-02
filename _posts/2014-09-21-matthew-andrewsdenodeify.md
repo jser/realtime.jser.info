@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/matthew-andrews/denodeify/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-21T07:41:37.599Z'
+date: '2014-09-21T07:41:37+00:00'
 tags:
   - JavaScript
   - Promises

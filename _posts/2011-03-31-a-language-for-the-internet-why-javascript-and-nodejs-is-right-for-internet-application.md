@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/sh1mmer/a-language-for-the-internet-why-javascript-and-nodejs-is-right-for-internet-application'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-31T15:00:00.000Z'
+date: '2011-03-31T15:00:00+00:00'
 ---
 YahooのTomさん(オライリーからNode.js本出す人)のNode.jsについてのスライド。
 

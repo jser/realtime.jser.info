@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://fhemberger.github.io/talks/nodejs-in-production/#/cover'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-13T14:19:49.819Z'
+date: '2014-04-13T14:19:49+00:00'
 tags:
   - node.js
   - Tools

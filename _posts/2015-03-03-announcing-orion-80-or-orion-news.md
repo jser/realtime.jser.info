@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://planetorion.org/news/2015/02/announcing-orion-8-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-03T06:11:10.294Z'
+date: '2015-03-03T06:11:10+00:00'
 tags:
   - JavaScript
   - IDE

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.w3.org/blog/news/archives/4430'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-25T02:17:46.844Z'
+date: '2015-02-25T02:17:46+00:00'
 tags:
   - JavaScript
   - event

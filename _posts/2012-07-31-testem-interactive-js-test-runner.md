@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tobyho.com/2012/06/24/testem-interactive-js-test-runner/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-31T15:00:00.000Z'
+date: '2012-07-31T15:00:00+00:00'
 ---
 インタラクティブにテストを実行できるのを目的にあげてるテスティングフレームワークTestemがリリース。 JsTDやBusterJSのような仕組み、CLIで見えるテスト結果の表示、保存を自動監視してテスト実行、アダプタでテスライブラリ構文に対応。
 

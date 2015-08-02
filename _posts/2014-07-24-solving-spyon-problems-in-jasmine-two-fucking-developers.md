@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://twofuckingdevelopers.com/2014/07/solving-spyon-problems-in-jasmine/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-24T08:19:09.481Z'
+date: '2014-07-24T08:19:09+00:00'
 tags:
   - jasmine
   - testing

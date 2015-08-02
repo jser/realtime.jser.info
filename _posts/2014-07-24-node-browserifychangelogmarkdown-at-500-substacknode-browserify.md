@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/substack/node-browserify/blob/5.0.0/changelog.markdown'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-24T01:04:23.917Z'
+date: '2014-07-24T01:04:23+00:00'
 tags:
   - browserify
   - ReleaseNote

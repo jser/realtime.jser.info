@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/VOYAGE_GROUP/flux-react'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-26T08:23:49.198Z'
+date: '2014-12-26T08:23:49+00:00'
 tags:
   - React
   - Flux

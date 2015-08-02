@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://arv.github.io/ngeurope/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-26T08:57:19.239Z'
+date: '2014-10-26T08:57:19+00:00'
 tags:
   - ECMAScript
   - JavaScript

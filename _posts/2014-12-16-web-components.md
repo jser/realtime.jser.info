@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.h2.dion.ne.jp/~defghi/webc/webc.htm'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-16T12:36:23.781Z'
+date: '2014-12-16T12:36:23+00:00'
 tags:
   - WebComponents
   - tutorial

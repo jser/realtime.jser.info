@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/azer/memdiff'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-17T05:37:22.483Z'
+date: '2014-03-17T05:37:22+00:00'
 tags:
   - JavaScript
   - testing

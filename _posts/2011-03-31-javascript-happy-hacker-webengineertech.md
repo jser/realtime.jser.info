@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/yutakikuchi/20110305/1299318337'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-31T15:00:00.000Z'
+date: '2011-03-31T15:00:00+00:00'
 ---
 JavaScriptでの正規表現のまとめ。
 

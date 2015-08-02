@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://kumatchs.blogspot.com/2012/10/nodeamd.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/index.json'
-date: '2012-10-31T15:00:00.000Z'
+date: '2012-10-31T15:00:00+00:00'
 ---
 node/browser両方で使えるモジュール定義の方法について
 

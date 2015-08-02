@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/paypal/bootstrap-accessibility-plugin'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-31T12:02:49.403Z'
+date: '2014-01-31T12:02:49+00:00'
 tags:
   - CSS
   - JavaScript

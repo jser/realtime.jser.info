@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://geckotang.tumblr.com/post/79158530266/sass3-3-0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-10T12:58:43.429Z'
+date: '2014-03-10T12:58:43+00:00'
 tags:
   - Sass
 ---

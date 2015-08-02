@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://braythwayt.com/2013/10/01/javascript-allonge-is-free.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-02T04:35:10.618Z'
+date: '2013-10-02T04:35:10+00:00'
 tags:
   - JavaScript
   - book

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.stevensanderson.com/2013/10/08/knockout-3-0-release-candidate-available/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-09T01:06:21.101Z'
+date: '2013-10-09T01:06:21+00:00'
 tags:
   - JavaScript
   - MVC

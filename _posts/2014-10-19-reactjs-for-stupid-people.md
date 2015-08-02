@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.andrewray.me/reactjs-for-stupid-people/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T11:37:32.185Z'
+date: '2014-10-19T11:37:32+00:00'
 tags:
   - JavaScript
   - React

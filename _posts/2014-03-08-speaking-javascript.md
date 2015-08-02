@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://speakingjs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-08T03:47:34.825Z'
+date: '2014-03-08T03:47:34+00:00'
 tags:
   - JavaScript
   - book

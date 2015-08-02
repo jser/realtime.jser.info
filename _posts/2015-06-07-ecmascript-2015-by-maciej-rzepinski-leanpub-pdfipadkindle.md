@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://leanpub.com/ecmascript2015es6guide'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-07T14:11:32.492Z'
+date: '2015-06-07T14:11:32+00:00'
 tags:
   - JavaScript
   - ECMAScript

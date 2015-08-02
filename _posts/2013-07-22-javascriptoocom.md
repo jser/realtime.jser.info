@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.javascriptoo.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-22T00:40:56.275Z'
+date: '2013-07-22T00:40:56+00:00'
 tags:
   - JavaScript
   - library

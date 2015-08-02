@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/othree/module-amd-requirejs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/index.json'
-date: '2012-05-31T15:00:00.000Z'
+date: '2012-05-31T15:00:00+00:00'
 ---
 モジュールパターンの書き方とその利点、また大規模なアプリケーションになるとそのモジュールが多くなり複雑化する。
 
