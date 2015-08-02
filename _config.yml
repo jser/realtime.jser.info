@@ -20,3 +20,5 @@ exclude:
 # Build settings
 permalink: pretty
 markdown: redcarpet
+sass:
+    sass_dir: css
