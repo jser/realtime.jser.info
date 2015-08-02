@@ -18,6 +18,14 @@ layout: default
   <article class="post-content">
     <a href="{{ page.itemUrl }}">{{ page.itemUrl }}</a>
     {{ content }}
+      {% if page.relatedLinks %}
+      <h2>関連URL</h2>
+      <ul>
+      {% for relatedLink in page.relatedLinks %}
+      <li class="related-link"><a href="{{ relatedLink.url }}">{{ relatedLink.title }}</a></li>
+      {% endfor %}
+      </ul>
+      {% endif %}
   </article>
 </div>
 <script src="{{ "/public/js/getEditLine.js" | prepend: site.baseurl }}"></script>

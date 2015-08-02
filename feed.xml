@@ -12,10 +12,18 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.posts limit:10 %}
-      {% capture itemLintTag %}<a href="{{ post.itemUrl }}">{{ post.itemUrl }}</a><br />{% endcapture %}
+      {% capture itemLinkTag %}<a href="{{ post.itemUrl }}">{{ post.itemUrl }}</a><br />{% endcapture %}
+      {% capture relatedLinkTag %}{% if post.relatedLinks %}
+      <h2>関連URL</h2>
+      <ul>
+          {% for relatedLink in post.relatedLinks %}
+          <li class="related-link"><a href="{{ relatedLink.url }}">{{ relatedLink.title }}</a></li>
+          {% endfor %}
+      </ul>
+      {% endif %}{% endcapture %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <description>{{ itemLintTag | xml_escape }}{{ post.content | xml_escape }}</description>
+        <description>{{ itemLinkTag | xml_escape }}{{ post.content | xml_escape }}{{ relatedLinkTag | xml_escape}}</description>
         <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
         <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
