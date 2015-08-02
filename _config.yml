@@ -18,4 +18,5 @@ exclude:
   - "vendor"
   - "node_modules"
 # Build settings
+permalink: pretty
 markdown: redcarpet
