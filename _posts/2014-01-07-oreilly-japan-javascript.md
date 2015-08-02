@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116600/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-07T03:33:06.377Z'
+date: '2014-01-07T03:33:06+00:00'
 tags:
   - JavaScript
   - 関数型言語

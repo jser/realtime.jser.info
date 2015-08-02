@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/spy-js/spy-js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-21T12:55:03.312Z'
+date: '2013-09-21T12:55:03+00:00'
 tags:
   - node.js
   - Tools

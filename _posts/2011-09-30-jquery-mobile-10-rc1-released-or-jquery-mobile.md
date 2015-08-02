@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2011/09/29/jquery-mobile-1-0rc1-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/index.json'
-date: '2011-09-30T15:00:00.000Z'
+date: '2011-09-30T15:00:00+00:00'
 ---
 jQuery Mobile 1.0RC1がリリース。
 

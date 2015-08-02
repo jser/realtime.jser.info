@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.inserthtml.com/2012/01/css4-selectors/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-29T15:00:00.000Z'
+date: '2012-02-29T15:00:00+00:00'
 ---
 CSS4セレクターについて

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://hideaki-t.blogspot.com/2011/01/netbeans-691javascript.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-31T15:00:00.000Z'
+date: '2011-01-31T15:00:00+00:00'
 ---
 jrunscriptを使ってNetBeans上でJavaScriptを実行する手順解説

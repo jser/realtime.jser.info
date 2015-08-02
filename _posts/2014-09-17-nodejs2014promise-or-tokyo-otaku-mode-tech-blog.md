@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.otakumode.com/2014/09/17/nodejs-promise/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-17T06:25:09.580Z'
+date: '2014-09-17T06:25:09+00:00'
 tags:
   - JavaScript
   - node.js

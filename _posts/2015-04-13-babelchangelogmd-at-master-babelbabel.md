@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/babel/babel/blob/master/CHANGELOG.md#510'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-13T13:24:19.594Z'
+date: '2015-04-13T13:24:19+00:00'
 tags:
   - JavaScript
   - Tools

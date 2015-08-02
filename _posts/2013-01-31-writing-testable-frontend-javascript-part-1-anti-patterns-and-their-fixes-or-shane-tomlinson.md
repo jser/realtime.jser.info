@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-31T15:00:00.000Z'
+date: '2013-01-31T15:00:00+00:00'
 ---
 アンチパターンのコード例を元にテストしやすいJavaScriptの書き方について.
 

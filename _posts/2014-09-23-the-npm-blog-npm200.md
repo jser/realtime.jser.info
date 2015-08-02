@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.npmjs.org/post/98131109725/npm-2-0-0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-23T06:20:00.879Z'
+date: '2014-09-23T06:20:00+00:00'
 tags:
   - npm
   - ReleaseNote

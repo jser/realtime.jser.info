@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Jam3/jam3-lesson-module-basics'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-02T06:10:50.900Z'
+date: '2015-04-02T06:10:50+00:00'
 tags:
   - JavaScript
   - node.js

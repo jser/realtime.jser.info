@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.windows.com/buildingapps/2014/09/17/winjs-everywhere/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-21T07:24:28.005Z'
+date: '2014-09-21T07:24:28+00:00'
 tags:
   - JavaScript
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.yearofmoo.com/2013/09/advanced-testing-and-debugging-in-angularjs.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-28T06:38:29.979Z'
+date: '2013-09-28T06:38:29+00:00'
 tags:
   - JavaScript
   - AngularJS

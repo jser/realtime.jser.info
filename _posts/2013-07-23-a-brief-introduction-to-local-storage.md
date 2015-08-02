@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/garyfromchina/a-brief-introduction-to-local-storage'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-23T14:41:07.707Z'
+date: '2013-07-23T14:41:07+00:00'
 tags:
   - JavaScript
   - スライド

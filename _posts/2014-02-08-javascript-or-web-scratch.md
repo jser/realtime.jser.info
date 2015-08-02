@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0209/res3658/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-08T16:32:59.876Z'
+date: '2014-02-08T16:32:59+00:00'
 tags:
   - JavaScript
   - library

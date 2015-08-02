@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://blog.getfirebug.com/2013/08/21/firebug-1-12-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-22T00:39:26.430Z'
+date: '2013-08-22T00:39:26+00:00'
 tags:
   - Firebug
   - ReleaseNote

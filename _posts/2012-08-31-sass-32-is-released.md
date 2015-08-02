@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://chriseppstein.github.com/blog/2012/08/23/sass-3-2-is-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 Sass 3.2の機能紹介や変更点。
 

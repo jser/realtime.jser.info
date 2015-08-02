@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://engineering.shapesecurity.com/2015/01/a-technical-comparison-of-shift-and.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-12T14:06:35.555Z'
+date: '2015-01-12T14:06:35+00:00'
 tags:
   - JavaScript
   - AST

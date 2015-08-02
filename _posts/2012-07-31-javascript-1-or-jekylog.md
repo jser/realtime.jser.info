@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://fingaholic.github.com/posts/2012-06-27-stateful-javascript.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-31T15:00:00.000Z'
+date: '2012-07-31T15:00:00+00:00'
 ---
 ステートフルJavaScriptの備忘録を章ごとに書かれてる
 

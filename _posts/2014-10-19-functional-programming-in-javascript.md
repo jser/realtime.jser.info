@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jhusain.github.io/learnrx/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T12:59:30.189Z'
+date: '2014-10-19T12:59:30+00:00'
 tags:
   - JavaScript
   - 関数型プログラミング

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/yoya/20130628/quic'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-01T15:12:14.985Z'
+date: '2013-07-01T15:12:14+00:00'
 tags:
   - QUIC
   - まとめ

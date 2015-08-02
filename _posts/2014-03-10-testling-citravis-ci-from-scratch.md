@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://yosuke-furukawa.hatenablog.com/entry/2014/03/08/115537'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-10T07:17:34.579Z'
+date: '2014-03-10T07:17:34+00:00'
 tags:
   - browserify
   - testing

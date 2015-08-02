@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://extensiblewebmanifesto.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-17T13:50:35.320Z'
+date: '2013-06-17T13:50:35+00:00'
 tags:
   - WebAPI
 ---

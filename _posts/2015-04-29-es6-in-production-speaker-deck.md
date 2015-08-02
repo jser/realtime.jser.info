@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/pazguille/es6-in-production'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-29T05:03:17.251Z'
+date: '2015-04-29T05:03:17+00:00'
 tags:
   - JavaScript
   - ECMAScript

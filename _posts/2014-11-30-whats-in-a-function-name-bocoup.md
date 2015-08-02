@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://bocoup.com/weblog/whats-in-a-function-name/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-30T06:40:03.350Z'
+date: '2014-11-30T06:40:03+00:00'
 tags:
   - JavaScript
 ---

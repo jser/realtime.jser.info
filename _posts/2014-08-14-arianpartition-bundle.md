@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/arian/partition-bundle'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-14T00:43:49.830Z'
+date: '2014-08-14T00:43:49+00:00'
 tags:
   - browserify
   - plugin

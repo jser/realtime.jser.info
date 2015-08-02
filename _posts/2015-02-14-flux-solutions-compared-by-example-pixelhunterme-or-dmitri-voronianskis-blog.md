@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-14T13:13:45.639Z'
+date: '2015-02-14T13:13:45+00:00'
 tags:
   - Flux
   - サンプル

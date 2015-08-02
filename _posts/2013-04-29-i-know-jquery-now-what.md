@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://remysharp.com/2013/04/19/i-know-jquery-now-what/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-29T11:26:37.196Z'
+date: '2013-04-29T11:26:37+00:00'
 tags:
   - jQuery
   - JavaScript

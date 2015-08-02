@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://enchantjs.com/ja/2012/12/released-enchant-js-v0-6-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 enchant.js v0.6.2リリース.
 

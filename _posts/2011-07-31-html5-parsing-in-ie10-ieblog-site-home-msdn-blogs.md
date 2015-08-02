@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie/archive/2011/07/06/html5-parsing-in-ie10.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-31T15:00:00.000Z'
+date: '2011-07-31T15:00:00+00:00'
 ---
 IE10pp2の更新された動作(一部)について
 

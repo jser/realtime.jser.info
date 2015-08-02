@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://globaldev.co.uk/2013/09/es6-part-1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-06T11:06:28.599Z'
+date: '2013-10-06T11:06:28+00:00'
 tags:
   - ECMAScript
   - JavaScript

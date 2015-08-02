@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/nicjansma/usertiming.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-19T00:41:56.817Z'
+date: '2014-02-19T00:41:56+00:00'
 tags:
   - JavaScript
   - performance

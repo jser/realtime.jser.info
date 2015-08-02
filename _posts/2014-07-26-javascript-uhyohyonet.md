@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://uhyohyo.net/javascript/index.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-26T23:26:18.210Z'
+date: '2014-07-26T23:26:18+00:00'
 tags:
   - JavaScript
   - DOM

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wp.serpere.info/archives/2050'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-31T15:00:00.000Z'
+date: '2011-01-31T15:00:00+00:00'
 ---
 jQuery 1.5 beta1で追加された
 

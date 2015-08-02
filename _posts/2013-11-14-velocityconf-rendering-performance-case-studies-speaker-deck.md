@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/addyosmani/velocityconf-rendering-performance-case-studies'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-14T01:02:16.979Z'
+date: '2013-11-14T01:02:16+00:00'
 tags:
   - performance
   - browser

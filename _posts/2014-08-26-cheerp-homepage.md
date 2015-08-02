@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://leaningtech.com/cheerp/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-26T09:32:32.765Z'
+date: '2014-08-26T09:32:32+00:00'
 tags:
   - C++
   - JavaScript

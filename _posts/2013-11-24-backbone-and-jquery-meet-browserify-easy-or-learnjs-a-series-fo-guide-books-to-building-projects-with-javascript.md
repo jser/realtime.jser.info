@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://learnjs.io/blog/2013/11/23/backbone-jquery-browserify/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-24T06:53:34.591Z'
+date: '2013-11-24T06:53:34+00:00'
 tags:
   - node.js
   - backbone.js

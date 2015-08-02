@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://es6.ruanyifeng.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-30T12:27:10.162Z'
+date: '2014-04-30T12:27:10+00:00'
 tags:
   - JavaScript
   - ECMAScript

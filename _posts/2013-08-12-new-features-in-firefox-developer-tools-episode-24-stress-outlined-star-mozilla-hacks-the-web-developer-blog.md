@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2013/07/new-features-in-firefox-developer-tools-episode-24/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-12T13:08:07.610Z'
+date: '2013-08-12T13:08:07+00:00'
 tags:
   - firefox
   - デバック

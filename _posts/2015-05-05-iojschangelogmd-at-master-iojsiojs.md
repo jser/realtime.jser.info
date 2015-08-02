@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/iojs/io.js/blob/master/CHANGELOG.md#2015-05-04-version-200-rvagg'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-05T12:28:26.710Z'
+date: '2015-05-05T12:28:26+00:00'
 tags:
   - node.js
   - ReleaseNote

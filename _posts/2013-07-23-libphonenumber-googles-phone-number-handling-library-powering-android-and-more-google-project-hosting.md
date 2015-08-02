@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://code.google.com/p/libphonenumber/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-23T13:36:33.975Z'
+date: '2013-07-23T13:36:33+00:00'
 tags:
   - google
   - library

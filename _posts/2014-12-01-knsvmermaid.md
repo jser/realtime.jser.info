@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/knsv/mermaid'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-01T02:12:15.077Z'
+date: '2014-12-01T02:12:15+00:00'
 tags:
   - 図
   - JavaScript

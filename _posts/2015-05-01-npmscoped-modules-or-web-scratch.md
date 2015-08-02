@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/04/30/npm-namespace/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-01T10:43:20.097Z'
+date: '2015-05-01T10:43:20+00:00'
 tags:
   - npm
   - node.js

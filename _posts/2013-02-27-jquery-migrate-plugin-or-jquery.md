@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://myjquery.blog.fc2.com/blog-entry-15.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-27T15:00:00.000Z'
+date: '2013-02-27T15:00:00+00:00'
 tags:
   - jQuery
   - document

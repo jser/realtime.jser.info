@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://theintern.github.io/leadfoot/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-04T04:29:47.725Z'
+date: '2014-07-04T04:29:47+00:00'
 tags:
   - webdriver
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://weblogs.asp.net/dwahlin/archive/2013/07/30/angularjs-in-60-ish-minutes-the-ebook.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-31T03:29:01.362Z'
+date: '2013-07-31T03:29:01+00:00'
 tags:
   - AngularJS
   - ebook

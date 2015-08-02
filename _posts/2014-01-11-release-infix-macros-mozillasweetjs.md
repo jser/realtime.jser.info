@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mozilla/sweet.js/releases/tag/v0.4.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-11T09:02:21.814Z'
+date: '2014-01-11T09:02:21+00:00'
 tags:
   - JavaScript
   - ReleaseNote

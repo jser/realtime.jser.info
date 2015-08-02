@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/playlist?list=PLeFZWzLJpZcdASzt41r-ThpvFfNCQSRTS&feature=c4-feed-u'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-07T07:38:15.746Z'
+date: '2014-03-07T07:38:15+00:00'
 tags:
   - HTML5
   - 動画

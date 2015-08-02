@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lea.verou.me/humble-border-radius/#for-browser'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-28T02:01:36.611Z'
+date: '2013-06-28T02:01:36+00:00'
 tags:
   - css
   - browser

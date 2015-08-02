@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/zendesk/cross-storage'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-07T08:00:17.213Z'
+date: '2014-09-07T08:00:17+00:00'
 tags:
   - JavaScript
   - Promises

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://docs.google.com/presentation/d/1XvZdAF29Fgn19GCjDhHhlsECJAfOR49tpUFWrbtQAwU/edit#slide=id.g3840fe06e_00'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-14T15:33:38.939Z'
+date: '2014-05-14T15:33:38+00:00'
 tags:
   - JavaScript
   - Chrome

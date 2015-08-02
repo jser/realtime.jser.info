@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/visualstudio/archive/2014/07/23/node-js-tools-for-visual-studio-1-0-beta-2-available.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-25T00:32:26.772Z'
+date: '2014-07-25T00:32:26+00:00'
 tags:
   - node.js
   - IDE

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/reddit/reddit-mobile/issues/247'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-06T13:19:46.671Z'
+date: '2015-07-06T13:19:46+00:00'
 tags:
   - performance
   - mobile

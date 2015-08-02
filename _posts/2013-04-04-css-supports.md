@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://davidwalsh.name/css-supports'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-04T00:32:52.723Z'
+date: '2013-04-04T00:32:52+00:00'
 tags:
   - css
   - tutorial

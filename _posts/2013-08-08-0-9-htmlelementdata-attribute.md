@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://0-9.tumblr.com/post/57660015287/data-attribute-use-case'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-08T03:28:10.658Z'
+date: '2013-08-08T03:28:10+00:00'
 tags:
   - DOM
   - JavaScript

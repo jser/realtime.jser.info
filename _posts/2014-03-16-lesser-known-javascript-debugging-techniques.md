@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://amasad.me/2014/03/09/lesser-known-javascript-debugging-techniques/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-16T10:36:36.428Z'
+date: '2014-03-16T10:36:36+00:00'
 tags:
   - JavaScript
   - event

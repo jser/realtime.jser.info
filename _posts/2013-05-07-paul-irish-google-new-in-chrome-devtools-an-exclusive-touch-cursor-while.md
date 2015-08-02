@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://plus.google.com/+PaulIrish/posts/ZNsF3t8h2WX'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-07T12:07:53.269Z'
+date: '2013-05-07T12:07:53+00:00'
 tags:
   - Chrome
   - デバック

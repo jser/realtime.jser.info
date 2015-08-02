@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://constellation.github.com/slides/contents/20121118/modules.html#1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-30T15:00:00.000Z'
+date: '2012-11-30T15:00:00+00:00'
 ---
 Esprima ,Escodegen ,Esmangle についてのスライド
 

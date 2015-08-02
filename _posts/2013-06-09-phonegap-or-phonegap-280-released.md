@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://phonegap.com/blog/2013/06/07/pg-280-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-09T06:45:43.402Z'
+date: '2013-06-09T06:45:43+00:00'
 tags:
   - mobile
   - ReleaseNote

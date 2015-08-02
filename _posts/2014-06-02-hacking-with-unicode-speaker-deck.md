@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/mathiasbynens/hacking-with-unicode'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-02T08:59:49.864Z'
+date: '2014-06-02T08:59:49+00:00'
 tags:
   - 文字コード
   - JavaScript

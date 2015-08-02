@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://babeljs.io/blog/2015/03/31/5.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-03T07:54:21.152Z'
+date: '2015-04-03T07:54:21+00:00'
 tags:
   - JavaScript
   - Tools

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://compass-style.org/blog/2014/08/15/omg-compass-1-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-16T14:07:08.245Z'
+date: '2014-08-16T14:07:08+00:00'
 tags:
   - Sass
   - library

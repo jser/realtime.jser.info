@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.getfirebug.com/2011/03/23/firebug-lite-1-3-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-31T15:00:00.000Z'
+date: '2011-03-31T15:00:00+00:00'
 ---
 Firebug Lite 1.3.2のリリース。
 

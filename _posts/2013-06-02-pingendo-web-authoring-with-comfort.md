@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.pingendo.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-02T09:27:53.913Z'
+date: '2013-06-02T09:27:53+00:00'
 tags:
   - HTML
   - design

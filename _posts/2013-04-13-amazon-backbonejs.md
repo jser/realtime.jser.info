@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4899773501/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-13T03:29:55.927Z'
+date: '2013-04-13T03:29:55+00:00'
 tags:
   - backbone.js
   - book

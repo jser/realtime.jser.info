@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.windows.com/msedgedev/2015/05/05/introducing-microsoft-edge-dev/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-06T06:47:16.458Z'
+date: '2015-05-06T06:47:16+00:00'
 tags:
   - MSEdge
   - browser

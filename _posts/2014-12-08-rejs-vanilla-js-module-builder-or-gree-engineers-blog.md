@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://labs.gree.jp/blog/2014/12/12311/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-08T10:38:18.541Z'
+date: '2014-12-08T10:38:18+00:00'
 tags:
   - JavaScript
   - Tools

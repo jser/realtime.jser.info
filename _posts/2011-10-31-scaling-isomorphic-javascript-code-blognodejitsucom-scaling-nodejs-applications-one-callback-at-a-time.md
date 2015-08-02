@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.nodejitsu.com/scaling-isomorphic-javascript-code'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
-date: '2011-10-31T15:00:00.000Z'
+date: '2011-10-31T15:00:00+00:00'
 ---
 JavaScriptのMVCベースなデザインパターンを図を用いて解説
 

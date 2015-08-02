@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/resources/essentialjsdesignpatterns/book/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-29T15:00:00.000Z'
+date: '2012-02-29T15:00:00+00:00'
 ---
 JavaScriptで学ぶデザインパターンの電子書籍。
 

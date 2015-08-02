@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/danielstjules/jsinspect'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-16T13:02:56.605Z'
+date: '2014-11-16T13:02:56+00:00'
 tags:
   - JavaScript
   - console

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://summerwind.jp/docs/draft-ietf-httpbis-http2-04/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-21T13:27:38.817Z'
+date: '2013-08-21T13:27:38+00:00'
 tags:
   - HTTP
   - spec

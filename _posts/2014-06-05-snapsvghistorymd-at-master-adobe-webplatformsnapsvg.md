@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/adobe-webplatform/Snap.svg/blob/master/history.md#030'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-05T01:25:01.088Z'
+date: '2014-06-05T01:25:01+00:00'
 tags:
   - SVG
   - library

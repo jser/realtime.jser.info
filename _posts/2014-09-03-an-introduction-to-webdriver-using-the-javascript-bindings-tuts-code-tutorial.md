@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://code.tutsplus.com/tutorials/an-introduction-to-webdriver-using-the-javascript-bindings--cms-21855'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-03T14:38:52.586Z'
+date: '2014-09-03T14:38:52+00:00'
 tags:
   - Selenium
   - webdriver

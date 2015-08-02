@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://techlife.cookpad.com/entry/2015/02/02/094607'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-04T13:04:35.134Z'
+date: '2015-02-04T13:04:35+00:00'
 tags:
   - ECMAScript
   - JavaScript

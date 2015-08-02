@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://dailyjs.com/2011/12/15/javascript-survey-results/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-31T15:00:00.000Z'
+date: '2011-12-31T15:00:00+00:00'
 ---
 DailyJSで行われいたJavaScript開発者向けのアンケート結果発表
 

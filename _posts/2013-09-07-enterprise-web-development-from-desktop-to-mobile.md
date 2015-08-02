@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://enterprisewebbook.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-07T15:53:53.517Z'
+date: '2013-09-07T15:53:53+00:00'
 tags:
   - JavaScript
   - web

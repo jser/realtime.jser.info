@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/classmethod/ss-23437633'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-28T02:56:55.667Z'
+date: '2013-06-28T02:56:55+00:00'
 tags:
   - DOM
   - css

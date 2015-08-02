@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cyokodog.github.io/JS_STUDY/web-audio/presen/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-07T08:58:47.781Z'
+date: '2015-05-07T08:58:47+00:00'
 tags:
   - JavaScript
   - audio

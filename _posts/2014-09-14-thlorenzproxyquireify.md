@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/thlorenz/proxyquireify'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-14T08:25:35.055Z'
+date: '2014-09-14T08:25:35+00:00'
 tags:
   - browserify
   - plugin

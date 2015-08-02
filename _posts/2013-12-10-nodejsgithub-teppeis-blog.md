@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://teppeis.hatenablog.com/entry/2013/12/node-github'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-10T14:52:47.105Z'
+date: '2013-12-10T14:52:47+00:00'
 tags:
   - TravisCI
   - node.js

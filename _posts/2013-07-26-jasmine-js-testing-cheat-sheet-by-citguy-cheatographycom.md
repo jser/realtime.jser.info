@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.cheatography.com/citguy/cheat-sheets/jasmine-js-testing/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-26T08:05:18.950Z'
+date: '2013-07-26T08:05:18+00:00'
 tags:
   - jasmine
   - チートシート

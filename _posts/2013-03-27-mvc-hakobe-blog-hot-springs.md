@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hakobe932.hatenablog.com/entry/2013/03/22/010357'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-27T15:00:00.000Z'
+date: '2013-03-27T15:00:00+00:00'
 tags:
   - javascript
   - MVC

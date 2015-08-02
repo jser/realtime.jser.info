@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://developer.cybozu.co.jp/tech/?p=7089'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-12T09:25:20.622Z'
+date: '2014-05-12T09:25:20+00:00'
 tags:
   - JavaScript
   - testing

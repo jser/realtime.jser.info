@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tastejs.roon.io/todomvc-1-2'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-10T05:53:18.146Z'
+date: '2013-08-10T05:53:18+00:00'
 tags:
   - JavaScript
   - MVC

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-15T07:17:23.103Z'
+date: '2014-02-15T07:17:23+00:00'
 tags:
   - Grunt
   - Tips

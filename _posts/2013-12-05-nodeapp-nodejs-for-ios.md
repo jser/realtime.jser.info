@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://nodeapp.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-05T12:36:50.733Z'
+date: '2013-12-05T12:36:50+00:00'
 tags:
   - ios
   - node.js

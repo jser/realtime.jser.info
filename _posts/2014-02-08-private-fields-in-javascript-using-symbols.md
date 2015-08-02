@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://curiosity-driven.org/private-fields-using-symbols'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-08T05:58:23.023Z'
+date: '2014-02-08T05:58:23+00:00'
 tags:
   - JavaScript
   - ECMAScript

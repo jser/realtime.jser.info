@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/vjeux/oscon-react-architecture'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-13T07:10:36.439Z'
+date: '2014-09-13T07:10:36+00:00'
 tags:
   - JavaScript
   - DOM

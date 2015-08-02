@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2012/12/01/jquery-core-func/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-31T15:00:00.000Z'
+date: '2012-12-31T15:00:00+00:00'
 ---
 jQueryの$の5つの動作について

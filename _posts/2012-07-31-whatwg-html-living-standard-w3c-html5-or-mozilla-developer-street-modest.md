@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://dev.mozilla.jp/2012/07/administrivia-update-on-the-relationship-between-the-whatwg-html-living-standard-and-the-w3c-html5-specification/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-31T15:00:00.000Z'
+date: '2012-07-31T15:00:00+00:00'
 ---
 WHATWGとW3CのHTML5ブランチと仕様策定のエディタについて
 

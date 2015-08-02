@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/mischah/js-linting-en'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-19T05:30:24.017Z'
+date: '2014-03-19T05:30:24+00:00'
 tags:
   - JavaScript
   - Tools

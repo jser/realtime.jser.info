@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2014/12/es6-proxies.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-16T11:16:24.257Z'
+date: '2014-12-16T11:16:24+00:00'
 tags:
   - JavaScript
   - ECMAScript

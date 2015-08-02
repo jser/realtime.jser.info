@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/azu/browser-javascript-resource'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-21T13:44:57.792Z'
+date: '2015-07-21T13:44:57+00:00'
 tags:
   - browser
   - JavaScript

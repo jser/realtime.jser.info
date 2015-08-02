@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.risingstack.com/from-angularjs-to-react-the-isomorphic-way/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-08T10:42:55.860Z'
+date: '2014-09-08T10:42:55+00:00'
 tags:
   - JavaScript
   - AngularJS

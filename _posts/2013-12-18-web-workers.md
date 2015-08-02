@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lab.sonicmoov.com/development/web-workers/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-18T08:02:12.866Z'
+date: '2013-12-18T08:02:12+00:00'
 tags:
   - webworker
 ---

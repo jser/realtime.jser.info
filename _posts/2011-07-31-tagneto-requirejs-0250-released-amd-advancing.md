@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tagneto.blogspot.com/2011/07/requirejs-0250-released-amd-advancing.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-31T15:00:00.000Z'
+date: '2011-07-31T15:00:00+00:00'
 ---
 RequireJS 0.25.0リリース
 

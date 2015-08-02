@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://please-sleep.cou929.nu/trying-browserify.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-10T10:20:18.813Z'
+date: '2014-11-10T10:20:18+00:00'
 tags:
   - JavaScript
   - browserify

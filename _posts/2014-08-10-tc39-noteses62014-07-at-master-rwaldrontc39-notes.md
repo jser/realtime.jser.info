@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/rwaldron/tc39-notes/tree/master/es6/2014-07'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-10T15:17:23.197Z'
+date: '2014-08-10T15:17:23+00:00'
 tags:
   - ECMAScript
   - 資料

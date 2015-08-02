@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.igvita.com/2012/08/28/web-performance-power-tool-http-archive-har/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T15:00:00.000Z'
+date: '2012-08-31T15:00:00+00:00'
 ---
 通信時のデータを記録するHTTP Archive (HAR)について。
 

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://unformedbuilding.com/articles/mcss-ja/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-21T14:58:15.314Z'
+date: '2013-12-21T14:58:15+00:00'
 tags:
   - CSS
   - document

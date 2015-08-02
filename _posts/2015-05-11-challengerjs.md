@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://rileyjshaw.com/challenger/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-11T06:32:55.453Z'
+date: '2015-05-11T06:32:55+00:00'
 tags:
   - JavaScript
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/famous/famous'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-13T12:56:08.347Z'
+date: '2014-04-13T12:56:08+00:00'
 tags:
   - HTML5
   - JavaScript

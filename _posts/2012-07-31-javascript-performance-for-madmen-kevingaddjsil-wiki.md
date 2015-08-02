@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/kevingadd/JSIL/wiki/JavaScript-Performance-For-Madmen'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-31T15:00:00.000Z'
+date: '2012-07-31T15:00:00+00:00'
 ---
 JavaScriptエンジン/ブラウザ毎の最適化Tipsやプロファイルを取るツールについて

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/nishantdp/jsprime-bhusa13new'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-04T08:00:26.492Z'
+date: '2013-08-04T08:00:26+00:00'
 tags:
   - JavaScript
   - DOM

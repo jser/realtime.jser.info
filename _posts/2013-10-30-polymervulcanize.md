@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Polymer/vulcanize'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-30T07:35:05.160Z'
+date: '2013-10-30T07:35:05+00:00'
 tags:
   - WebComponents
   - Tools

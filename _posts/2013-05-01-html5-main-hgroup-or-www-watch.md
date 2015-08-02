@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2013/04/add_main_html5_cr.shtml'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-01T15:34:49.614Z'
+date: '2013-05-01T15:34:49+00:00'
 tags:
   - HTML5
 ---

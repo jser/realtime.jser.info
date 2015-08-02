@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://docs.google.com/document/d/1LPaPA30bLUB_publLIMF0RlhdnPx_ePXm7oW02iiT6o/preview'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-07T15:57:25.308Z'
+date: '2014-02-07T15:57:25+00:00'
 tags:
   - jQuery
   - browser

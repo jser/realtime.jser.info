@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://dev.opera.com/articles/introduction-to-indexeddb/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-20T12:28:19.392Z'
+date: '2014-05-20T12:28:19+00:00'
 tags:
   - JavaScript
   - tutorial

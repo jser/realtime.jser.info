@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/hail2u/1303613'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-20T13:32:56.446Z'
+date: '2013-04-20T13:32:56+00:00'
 tags:
   - css
   - Tools

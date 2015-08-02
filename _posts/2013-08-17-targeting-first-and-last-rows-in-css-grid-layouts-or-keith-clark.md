@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.keithclark.co.uk/targeting-first-and-last-rows-in-css-grid-layouts/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-17T02:37:11.295Z'
+date: '2013-08-17T02:37:11+00:00'
 tags:
   - CSS
   - tutorial

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/studiomohawk/cssi-css-investigation'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-13T08:58:40.481Z'
+date: '2014-11-13T08:58:40+00:00'
 tags:
   - CSS
   - スライド

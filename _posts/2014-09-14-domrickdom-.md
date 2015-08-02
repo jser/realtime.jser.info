@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/hasegawayosuke/20140912/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-14T09:26:27.799Z'
+date: '2014-09-14T09:26:27+00:00'
 tags:
   - JavaScript
   - DOM

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-15T12:11:50.844Z'
+date: '2014-09-15T12:11:50+00:00'
 tags:
   - d3.js
   - DOM
