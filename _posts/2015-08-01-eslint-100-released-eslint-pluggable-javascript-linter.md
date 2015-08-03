@@ -9,6 +9,9 @@ tags:
   - JavaScript
   - Tools
   - ReleaseNote
+relatedLinks:
+  - title: ESLint 1.0.0新ルールまとめ - Qiita
+    url: 'http://qiita.com/armorik83/items/228b97bee25aa33c9850'
 ---
 ESLint 1.0.0リリース。
 ES6の対応改善、`--reset`がデフォルトに
