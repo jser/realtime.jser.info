@@ -9,4 +9,4 @@ tags:
   - JavaScript
   - ECMAScript
 ---
-ES.nextのDecoratorの仕組みとユースケースについて
+ES.nextで提案されているDecoratorの仕組みとユースケースについて
