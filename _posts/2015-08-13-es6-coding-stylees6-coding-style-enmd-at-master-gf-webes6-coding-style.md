@@ -10,4 +10,4 @@ tags:
   - ECMAScript
 ---
 ES6コーディングスタイルガイド。
-Destructuringの使いすぎに注意やES5での書き方をES6風に書けるケースについて比較、moduleの`*`や`as`について書かれている。
+Destructuringの使いすぎへの注意、ES5での書き方をES6の機能でキレイに書けるケースについて比較、moduleの`*`や`as`について書かれている。
