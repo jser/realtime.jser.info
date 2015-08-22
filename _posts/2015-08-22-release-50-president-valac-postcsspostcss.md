@@ -10,7 +10,7 @@ tags:
   - library
   - ReleaseNote
 ---
-CSSを変換を扱うPostCSS 5.0リリース。
+CSSの変換を扱うPostCSS 5.0リリース。
 `safe`オプションが別プロジェクトへ、
 `parser`や`stringifier`などもオプション化、
 SCSSのパースにも対応するなど
