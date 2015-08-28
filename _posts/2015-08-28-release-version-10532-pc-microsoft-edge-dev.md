@@ -11,4 +11,4 @@ tags:
 ---
 Microsoft Edge 10532リリース。
 Pointer Lock、Canvas blending modesのサポート、asm.jsとES6 Classesがデフォルトで有効に。
-またArrow Function、Destructuringがフラグ付きで導入された
+またAsync Function、Destructuringがフラグ付きで導入された
