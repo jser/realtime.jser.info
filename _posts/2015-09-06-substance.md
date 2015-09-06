@@ -11,4 +11,3 @@ tags:
   - library
 ---
 WYSIWYGエディタライブラリ。
-う
