@@ -10,4 +10,4 @@ tags:
   - library
   - Electron
 ---
-ElectronとPolymerをベースとしてエディタ向けのフレームワーク
+ElectronとPolymerをベースとしたエディタ向けのフレームワーク
