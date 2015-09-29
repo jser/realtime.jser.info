@@ -9,4 +9,4 @@ tags:
   - JavaScript
   - webworker
 ---
-Web Workerを使ったサンプルを使いながらWeb Workerについて解説しているスライド
+Web Workerを使ったサンプルと共にWeb Workerについて解説しているスライド
