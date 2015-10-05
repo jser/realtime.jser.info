@@ -8,7 +8,6 @@ date: '2015-10-05T06:49:42+00:00'
 tags:
   - JavaScript
   - library
-  - Electron
 ---
 Ember.js 2.1と2.2βリリース。
 
