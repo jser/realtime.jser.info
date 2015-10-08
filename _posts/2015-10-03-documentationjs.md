@@ -10,4 +10,4 @@ tags:
   - document
 ---
 JSDocと同じフォーマットをサポートしたドキュメント生成ツール。
-JSON、HTML、Markdownとして出力出来る
+JSON、HTML、Markdownとして出力できる。
