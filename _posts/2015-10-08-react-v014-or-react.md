@@ -1,0 +1,16 @@
+---
+title: 'React v0.14 | React'
+author: azu
+layout: post
+itemUrl: 'http://facebook.github.io/react/blog/2015/10/07/react-v0.14.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
+date: '2015-10-08T09:12:03+00:00'
+tags:
+  - React
+  - ReleaseNote
+relatedLinks:
+  - title: React.js v0.14 changes - blog.koba04.com
+    url: 'http://blog.koba04.com/post/2015/09/22/react-js-v014-changes/'
+---
+React 0.14の正式版リリース。
+`react`と`react-dom`へのパッケージの分割、`refs`の仕様変更、ステートレスコンポーネントの追加、react-toolsが非推奨となるなど
