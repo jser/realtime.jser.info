@@ -8,6 +8,9 @@ date: '2015-10-13T08:18:45+00:00'
 tags:
   - node.js
   - ReleaseNote
+relatedLinks:
+  - title: 'add CLI option to syntax check script by bahamas10 · Pull Request #2411 · nodejs/node'
+    url: 'https://github.com/nodejs/node/pull/2411'
 ---
-Node.js 0.4.2リリース。
+Node.js 4.2.0リリース。
 "Argon"というコードネームでLTS版(長期間サポート)を初リリース、コマンドラインオプションにシンタックスチェックだけを行う`--check`を追加
