@@ -8,7 +8,7 @@ date: '2015-10-13T12:28:03+00:00'
 tags:
   - JavaScript
   - library
-  - Electron
+  - ReleaseNote
 ---
 Knockout 3.4.0RCリリース。
 `ko.isPureComputed`、`ko.onError`の追加、Observableのパフォーマンス改善など
