@@ -11,5 +11,5 @@ tags:
   - debug
 ---
 FirebugとFirefox開発者ツールについて。
-Firefbug 3ではFirefox開発者ツール上で動くものとなる。
+Firebug 3ではFirefox開発者ツール上で動くものとなる。
 HAR exportやServer側からconsole APIを利用できるChrome Loggerのプロトコルに対応するなど
