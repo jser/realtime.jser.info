@@ -10,4 +10,5 @@ tags:
   - JavaScript
   - 動画
 ---
-async/awaitについてのスクリーンキャスト
+async/awaitについてのスクリーンキャスト。
+PromiseでGitHub APIを叩くものを書いて、それをasync/awaitに書き換えながら紹介している
