@@ -8,6 +8,9 @@ date: '2015-10-30T07:35:57+00:00'
 tags:
   - babel
   - ReleaseNote
+relatedLinks:
+  - title: babel/CHANGELOG.md at master · babel/babel
+    url: 'https://github.com/babel/babel/blob/master/CHANGELOG.md#600'
 ---
 Babel 6.0.0リリース。
 まだ関連プラグインが追いついていないため扱いに注意。
