@@ -15,4 +15,4 @@ relatedLinks:
     url: 'http://donejs.com/'
 ---
 JavaScriptMVCの後継であるDoneJSリリース。
-DoneJSの特徴についての紹介されてる
+DoneJSの特徴について紹介されてる
