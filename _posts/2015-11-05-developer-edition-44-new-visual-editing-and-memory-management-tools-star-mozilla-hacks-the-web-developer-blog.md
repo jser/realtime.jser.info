@@ -8,6 +8,11 @@ date: '2015-11-05T07:35:45+00:00'
 tags:
   - firefox
   - debug
+relatedLinks:
+  - title: 'Developer Edition 44：新しいスタイル調整機能とメモリー管理ツール | Mozilla Japan ブログ'
+    url: 'http://www.mozilla.jp/blog/entry/10510/'
+  - title: dummy
+    url: 'http://dummy'
 ---
 Firefox 44での開発者ツールについて。
 アニメーションパネル、 pixel rulers、メモリ消費量のスナップショット、WebSocketのデバッグ機能の追加など
