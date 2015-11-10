@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-31T15:00:00+00:00'
 ---
 2012年4月16日発売
-
 Stoyan StefanovのObject-Oriented JavaScript翻訳本
-
 https://www.packtpub.com/object-oriented-javascript-applications-libraries/book

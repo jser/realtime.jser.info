@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 "一貫性のあるCSSらしいCSSを書くための原則"
-
 CSS/Sassのコーディングルール

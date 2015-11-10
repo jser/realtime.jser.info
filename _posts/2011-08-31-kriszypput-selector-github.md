@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/inde
 date: '2011-08-31T15:00:00+00:00'
 ---
 DOM要素を作成、操作するライブラリ。
-
 CSSセレクタのような感じで、DOMを操作できる

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 AMDとは何か? AMDモジュールとそれの利用方法。
-
 ビルドによる最適化、AMDモジュールローダーのライブラリ紹介、AMDに対する議論について。広くAMDについてまとまった記事

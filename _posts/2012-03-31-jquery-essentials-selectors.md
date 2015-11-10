@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-31T15:00:00+00:00'
 ---
 jQueryのセレクタについてのスライド。
-
 セレクタがどういう要素を選択するかを左右に結果と並べて表示してるので分かりやすい

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 2011年6月24日
-
-    14歳からシリーズ
+14歳からシリーズ

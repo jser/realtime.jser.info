@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/inde
 date: '2012-09-30T15:00:00+00:00'
 ---
 型付き配列(Typed Array)について翻訳記事
-
 型付き配列ビューと異なる型データを持てるDataViewについて、エンディアンについて、またTyped Arrayを使うAPIについて

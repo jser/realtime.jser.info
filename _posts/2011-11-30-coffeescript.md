@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/inde
 date: '2011-11-30T15:00:00+00:00'
 ---
 CoffeeScript 1.1.3リリース
-
 superが呼べるように、0b10のような2進数表記のサポートなど

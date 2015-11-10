@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 Ecprimaを使ったJavaScriptのパースについてのスライド
-
 それを利用した整形や、コードカバレッジやJSHint等のツール、Orionのコード補完についての解説。
-
 また、Esprimaでコードから生成したASTからコードにするEscodegenなどについて等

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 2011/12/8発売
-
 授業の演習本みたいな感じ
-
 http://www.amazon.co.jp/dp/487783818X/ の新版

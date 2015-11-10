@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-31T15:00:00+00:00'
 ---
 2012年3月16日発売
-
 Supercharged JavaScript Graphicsの翻訳本
-
 jQueryMobile+PhoneGapについてが追加されてる。

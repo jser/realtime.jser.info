@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 ローカルにコンソール用のサーバを立てて、トラッキング用コードを埋めたサイトにモバイル端末からアクセスして、コンソールからの変更をアクセスしてる画面に反映させる。
-
 JSConsoleににている感じ

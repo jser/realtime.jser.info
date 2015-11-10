@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 jQuery Mobile 1.1.0 RC2リリース。
-
 position:fixed対応, jQuery 1.7.2はまだ未対応

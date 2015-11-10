@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 def.js のような演算子のオーバロードに見せかける方法についての解説
-
 valueOfとtoStringの上書き

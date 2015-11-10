@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-31T15:00:00+00:00'
 ---
 PhantomJS 1.5リリース
-
 LinuxでX11なしに使えるようになった。
-
 REPL、Remoteデバッグ、エラーハンドリングが強化された

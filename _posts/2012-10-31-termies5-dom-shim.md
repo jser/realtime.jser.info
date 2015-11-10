@@ -7,5 +7,3 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 IE6+向けにES5,6、DOM4のメソッド等のshimを提供するライブラリ
-
-

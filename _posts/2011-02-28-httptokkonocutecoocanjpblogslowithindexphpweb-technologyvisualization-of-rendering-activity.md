@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 リフローなどの時間をGUIで確認できるツールについての紹介
-
 dynaTrace(IE,Firefox向けベータもでた)とSpeedTracer(Webkit)を使ってリフローの観測

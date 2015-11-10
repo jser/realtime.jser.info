@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 MVC系フレームワークの比較まとめ。
-
 機能別、Who/What/Why/Where/Whenの項目で書かれてる

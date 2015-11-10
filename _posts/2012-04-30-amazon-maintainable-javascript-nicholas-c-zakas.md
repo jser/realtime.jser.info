@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 2012年6月22日発売
-
 Nicholas C. ZakasによるチームでのメンテナンスしやすいJavaScriptについての書籍
-
 http://shop.oreilly.com/product/0636920025245.do

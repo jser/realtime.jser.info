@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 WebStorm/PhpStorm一周年
-
-    年内に3.0が予定されていて、LESS/SASSのサポート改善とQUnit/CoffeeScript/Node.jsがサポートされる予定。
+年内に3.0が予定されていて、LESS/SASSのサポート改善とQUnit/CoffeeScript/Node.jsがサポートされる予定。

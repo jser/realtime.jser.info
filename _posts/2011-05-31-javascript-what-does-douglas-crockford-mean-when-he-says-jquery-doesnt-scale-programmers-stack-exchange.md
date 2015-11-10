@@ -7,11 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 ダグラス様はなんでjQueryはスケールできないと言ったのか？という質問、議論
-
-    jQueryは単独のアプリ、ページには優れているけど、
-
-    アプリケーションフレームワークではないので、jQueryスニペットを集めて使ってるとスケールできない。
-
-    そのためbackbone.js, knockout.js,Sammy.jsなどのフレームワークを合わせて使うのが良いのではないか...とかそういう話です。
-
-
+jQueryは単独のアプリ、ページには優れているけど、
+アプリケーションフレームワークではないので、jQueryスニペットを集めて使ってるとスケールできない。
+そのためbackbone.js, knockout.js,Sammy.jsなどのフレームワークを合わせて使うのが良いのではないか...とかそういう話です。

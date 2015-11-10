@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/inde
 date: '2012-05-31T15:00:00+00:00'
 ---
 2012年5月22日発売
-
 WebGLについての書籍

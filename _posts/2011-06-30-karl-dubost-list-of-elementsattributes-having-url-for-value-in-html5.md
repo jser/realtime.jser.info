@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 ダウンロード属性を持ったHTMLタグのまとめを発展させたもの
-
 http://gent.ilcore.com/2011/05/list-of-ways-html-can-download-resource.html
-
 hrefのように受動的だけどURLを属性値に指定できるものをまとめている。

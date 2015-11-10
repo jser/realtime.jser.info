@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 WebkitのXSSフィルターがデザインされ直した。スクリプトの実行をみるよりもHTMLトークナイザーのはき出したものを解析するような方向。
-
 Webkitも<input type="number">をサポート

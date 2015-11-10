@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/inde
 date: '2011-08-31T15:00:00+00:00'
 ---
 typeofについてのまとめ。
-
 型チェック

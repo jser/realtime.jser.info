@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 var URL = window.URL || window.webkitURL;
-
 のようなコードをグローバル空間で実行した場合にエラーが起きる事について

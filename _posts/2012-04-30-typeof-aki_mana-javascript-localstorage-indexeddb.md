@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 NCZOnlineの"The performance of localStorage revisited"について。
-
 localStorageとIndexedDBの使い分けについて

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/inde
 date: '2011-09-30T15:00:00+00:00'
 ---
 ECMAScript,JavaScriptバージョンの年表
-
 メソッド、機能の対応バージョン表
-
 JavaScriptも実装ごとに網羅されていてすごい

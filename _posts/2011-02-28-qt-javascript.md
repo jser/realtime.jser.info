@@ -7,5 +7,3 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 Qt でGoogleのV8 JavaScript エンジンの利用について研究を行っているそうです。
-
-

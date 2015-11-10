@@ -7,11 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 ES5についてのスライド
-
 - Object.create nullを渡した場合についても
-
 - defineProperty
-
 getOwnPropertyDescriptor, getOwnPropertyNames, Object.keysや
-
 Array, bind, など追加されたものについてES3での後方互換実装を交えて解説していてとてもわかりやすい

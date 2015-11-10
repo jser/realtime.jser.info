@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 CoffeeScript 1.4.0リリース。
-
 CoffeeScript compiler の修正が中心

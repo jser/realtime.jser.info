@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 jQuery1.9移行のロードマップ。
-
 コア機能の分離、2.0でIE6-8のサポート終了

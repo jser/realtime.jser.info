@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 非同期JavaScriptについて.
-
 コールバック、イベントリスナーon/trigger、Flow Control Library、Promise それぞれのメリット・デメリットをまとめてる

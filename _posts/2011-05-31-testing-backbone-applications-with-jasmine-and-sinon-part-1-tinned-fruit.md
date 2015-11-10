@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 jasmine+sinon。sinonのspyやfakeの使い方
-
-    Backnone.jsで作ったアプリのテスト
+Backnone.jsで作ったアプリのテスト

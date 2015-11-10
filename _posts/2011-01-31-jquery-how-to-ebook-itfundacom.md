@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 jQueryのHow To電子書籍。
-
 電子書籍、ソースコード、チュートリアル動画と分かれた販売形態を取っている

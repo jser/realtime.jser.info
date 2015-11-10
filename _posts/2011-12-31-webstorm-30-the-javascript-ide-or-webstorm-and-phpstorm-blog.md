@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 JavaScriptを中心にWeb開発向けIDEのWebStorm 3.0がリリースされた。
-
 NodeやJSLint(JSHint)、CoffeeScript対応やGIthubのレポジトリ作成や,gistへ投稿などgit系の対応も増えています。

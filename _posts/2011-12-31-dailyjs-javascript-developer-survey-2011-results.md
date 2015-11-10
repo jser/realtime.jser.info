@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 DailyJSで行われいたJavaScript開発者向けのアンケート結果発表
-
 QUnitよりJasmineを使っている人が多いのが意外だった

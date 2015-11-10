@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/inde
 date: '2011-04-30T15:00:00+00:00'
 ---
 IE10について。
-
-CSS3 Multi-column Layout/CSS3 Grid Layout/CSS3 Flexible Box Layout/CSS3 Gradients/ES5 Strict Mode | CSS3 Transitions /CSS3 3D Transforms 
+CSS3 Multi-column Layout/CSS3 Grid Layout/CSS3 Flexible Box Layout/CSS3 Gradients/ES5 Strict Mode | CSS3 Transitions /CSS3 3D Transforms

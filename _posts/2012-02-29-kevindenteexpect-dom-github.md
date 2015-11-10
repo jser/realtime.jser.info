@@ -7,9 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/inde
 date: '2012-02-29T15:00:00+00:00'
 ---
 expect.js に対してDOMに関するアサーションを補助するライブラリ
-
 - https://github.com/LearnBoost/expect.js
-
 jasmine-jquery が元ネタのような感じ。
-
-

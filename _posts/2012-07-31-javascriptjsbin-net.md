@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 HTML/CSS/JavaScript等のオンラインエディタのJSBinがアップデートで、CoffeeScriptやSassなどにも対応したり、外部貼り付けにも対応した。
-
 またRemote rendering等の機能もついた
-
 http://kachibito.net/web-service/jsbin-update.html

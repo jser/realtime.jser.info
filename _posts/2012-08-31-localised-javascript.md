@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 JavaScriptを英語以外の言語に変換するライブラリ。
-
 キーワードとか関数を日本語にしたりできる。

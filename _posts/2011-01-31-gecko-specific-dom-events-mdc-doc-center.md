@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 Gecko 2.0からMozAfterPaint はデフォルトで発生しなくなった。
-
 dom.send_after_paint_to_content を trueにすることで今まで通りイベントが発生する

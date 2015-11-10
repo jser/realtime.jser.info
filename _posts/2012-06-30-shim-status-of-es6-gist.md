@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 ES6のshimについてのまとめ
-
 互換性のための回避策が取れる機能と、追加されたシンタックスなどのできない機能について

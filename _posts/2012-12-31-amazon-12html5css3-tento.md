@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 2013年1月9日発売
-
 はじめてプログラミングに触れる小中学生向けの書籍
-
 http://tento.doorblog.jp/archives/6157313.html

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 2011年7月15日発売
-
 Head FirstシリーズのHTML5本
-
--<a href="http://oreilly.com/catalog/0636920010906/" title="Head First HTML5 - O&apos;Reilly Media">Head First HTML5 - O'Reilly Media</a>
+-[Head First HTML5 - O'Reilly Media](http://oreilly.com/catalog/0636920010906/ "Head First HTML5 - O'Reilly Media")

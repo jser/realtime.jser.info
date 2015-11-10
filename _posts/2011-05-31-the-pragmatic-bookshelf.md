@@ -7,9 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 RailsConfに併せてRails関係の書籍が40%セール
-
-    HTML5/CSS3/JavaScript/CoffeeScriptもある。
-
-    -<a href="http://pragprog.com/titles/pg_js/pragmatic-guide-to-javascript">Pragmatic Guide to JavaScript</a>
-
-    -<a href="http://pragprog.com/titles/tbcoffee/coffeescript">CoffeeScript: Accelerated JavaScript Development</a>
+HTML5/CSS3/JavaScript/CoffeeScriptもある。
+-[Pragmatic Guide to JavaScript](http://pragprog.com/titles/pg_js/pragmatic-guide-to-javascript)
+-[CoffeeScript: Accelerated JavaScript Development](http://pragprog.com/titles/tbcoffee/coffeescript)

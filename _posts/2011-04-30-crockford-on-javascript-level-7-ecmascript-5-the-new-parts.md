@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/inde
 date: '2011-04-30T15:00:00+00:00'
 ---
 ダグラス様。
-
 ES5で追加されたメソッドなどの紹介、またそれをES3のコードで表現。
-
 Property DescriptorやStrict Modeについても

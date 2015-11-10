@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 2012年９月24日発売
-
 SitePointのCoffeeScript本
-
 http://shop.oreilly.com/product/9780987247827.do

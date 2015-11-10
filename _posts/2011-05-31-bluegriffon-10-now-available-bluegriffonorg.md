@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 HTML 5、CSS 3 対応の WYSIWYG HTML エディターであるBlueGriffon 1.0がリリースされました。
-
-    Firefoxと同じレンダリングエンジン(Gecko)を使用している。
+Firefoxと同じレンダリングエンジン(Gecko)を使用している。

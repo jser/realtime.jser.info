@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/inde
 date: '2012-11-30T15:00:00+00:00'
 ---
 Sencha Touch 2.1 リリース
-
 グラフ、devicePixelRatioを使ったretina対応、Sencha Cmdに Code Generation等のアップデート

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 2011年12月22日 発売
-
 jQuery Mobile: Up and Running では無い方のjQuery Mobile本の日本語版

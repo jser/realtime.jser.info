@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 HTML5 Boilerplate 4.0.0リリース。
-
 MITライセンスの追加、console.logラッパーの変更、構造の整理等

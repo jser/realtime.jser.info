@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/inde
 date: '2011-07-31T15:00:00+00:00'
 ---
 2011年12月30日発売
-
 iOS上でのJavaScriptについての書籍

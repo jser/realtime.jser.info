@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/inde
 date: '2012-09-30T15:00:00+00:00'
 ---
 CSS3アニメーションとjQueryを使ったアニメーションの比較
-
 メモリや処理にかかる時間等のリソース的にはCSS3の方がスマート

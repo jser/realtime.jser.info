@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/inde
 date: '2011-09-30T15:00:00+00:00'
 ---
 2011年9月20日発売。
-
 Ext JSについての書籍
-
 https://www.xenophy.com/service/ext_js_guide/

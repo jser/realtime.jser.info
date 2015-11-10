@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/inde
 date: '2012-05-31T15:00:00+00:00'
 ---
 Chrome Developer Toolsの使い方。
-
 スクリーンショット豊富な解説

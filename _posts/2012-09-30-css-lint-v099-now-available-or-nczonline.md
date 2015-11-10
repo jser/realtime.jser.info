@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/inde
 date: '2012-09-30T15:00:00+00:00'
 ---
 CSS Lint v0.9.9リリース.
-
 ignoreルールを指定できるようになった

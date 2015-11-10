@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 2012年6月21日発売
-
 Foundation HTML5 Canvasの翻訳本
-
 http://www.amazon.com/dp/1430232919/

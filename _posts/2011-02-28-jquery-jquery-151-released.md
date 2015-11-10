@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 jQuery1.5が正式リリース。
-
 IE9RCをサポートや$.ajax()周りにオプションが追加された

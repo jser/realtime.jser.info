@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/inde
 date: '2011-03-31T15:00:00+00:00'
 ---
 2011年8月24日発売
-
 著者はDoodle-jsの方とActionScript 3.0アニメーションで有名なKeith Peters氏

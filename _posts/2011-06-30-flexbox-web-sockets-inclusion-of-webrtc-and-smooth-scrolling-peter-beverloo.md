@@ -7,15 +7,9 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 SpellCheck API, Media Stream APIが実装。
-
 WebSocket protocol (-09)の実装を開始。
-
 JSONPのパフォーマンスを改善。
-
 Web Audio APIで非同期デコードをサポート。
-
 スムーススクロールをサポート。
-
 CSPをchrome://flagsから設定可能に。
-
 など

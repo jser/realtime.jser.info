@@ -7,11 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/inde
 date: '2012-09-30T15:00:00+00:00'
 ---
 最近仕様に関するスライド(myakura)
-
 FlexBox、CSS Selector Level4、Cascading Variables、@supports,@document等
-
 Event Constructors、Mutation Observers、Timing API、Web Components
-
-
-
-

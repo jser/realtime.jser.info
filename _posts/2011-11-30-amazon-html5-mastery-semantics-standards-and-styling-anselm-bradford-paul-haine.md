@@ -7,7 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/inde
 date: '2011-11-30T15:00:00+00:00'
 ---
 2011年10月24日発売
-
 HTML5やCSS3などについての書籍
-
-

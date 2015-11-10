@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/inde
 date: '2011-03-31T15:00:00+00:00'
 ---
 JavaScriptでの正規表現のまとめ。
-
 例コードがぞれぞれの要素毎にある。

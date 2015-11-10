@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/inde
 date: '2012-01-31T15:00:00+00:00'
 ---
 Device APIについてのスライド。
-
 WAC、omtp、W3C Device APIs、Mozilla Web API、PhoneGapについて それぞれの目標としたことや仕様などについて書かれてる。

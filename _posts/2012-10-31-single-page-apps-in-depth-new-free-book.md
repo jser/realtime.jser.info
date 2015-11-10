@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 single page appについての無料ebook。
-
 ウェブアプリのアーキテクチャー概要、メンテナンス、テストについて、モジュールとTDD、MVC、model dataとevent通知、Colllection、キャッシュ、テンプレート等

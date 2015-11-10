@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 jQuery 1.6.1 RC 1 がリリース。
-
-    .attr(),.prop()のまとめが載ってる
+.attr(),.prop()のまとめが載ってる

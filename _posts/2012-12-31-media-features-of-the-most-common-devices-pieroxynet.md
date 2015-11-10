@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 モバイル/スマートフォン/タブレット端末の画面情報のまとめ。
-
 画面サイズ、解像度、アスペクト比
-
 device-pixel-ratioの値等

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/inde
 date: '2012-11-30T15:00:00+00:00'
 ---
 RequireJS 2.1.2リリース。
-
 r.jsがブラウザ上で動作するようになった。
-
 uglify2等を使って最適化するときにSourceMapを吐き出すオプション、optimizerのspeed optionの追加等

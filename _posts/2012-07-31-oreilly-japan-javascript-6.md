@@ -7,9 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 2012年08月10日発売
-
 JavaScript(サイ本) 第6版の日本語版
-
 JavaScriptリファレンスも同時に発売
-
 http://bit.ly/Mtowlb

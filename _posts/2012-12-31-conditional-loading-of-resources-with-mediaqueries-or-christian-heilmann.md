@@ -7,5 +7,3 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 mediaqueryでCSSファイルを分岐しても読み込まれてしまうので、data属性にurlを書いてlazy loadする仕組みについて。
-
-

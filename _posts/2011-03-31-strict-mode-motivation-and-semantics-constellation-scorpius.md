@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/inde
 date: '2011-03-31T15:00:00+00:00'
 ---
 strict modeの概念とは何か
-
 static解析につながる話

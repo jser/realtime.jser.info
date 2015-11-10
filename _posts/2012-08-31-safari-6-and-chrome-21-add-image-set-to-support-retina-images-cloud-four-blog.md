@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 Webkit系にprefix付き実装されたimage-setについて。
-
 デバイスピクセル比によって出す画像を変える。
-
 http://myakura.hatenablog.com/entry/2012/03/23/040058 も参照

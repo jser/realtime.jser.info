@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/inde
 date: '2011-04-30T15:00:00+00:00'
 ---
 Internet Explorer(R) 9 日本語版の提供日について
-
 4/26 0時に提供開始

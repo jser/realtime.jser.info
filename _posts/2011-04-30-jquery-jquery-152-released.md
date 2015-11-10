@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/inde
 date: '2011-04-30T15:00:00+00:00'
 ---
 jQuery1.5.2リリース。
-
 主にbugfix

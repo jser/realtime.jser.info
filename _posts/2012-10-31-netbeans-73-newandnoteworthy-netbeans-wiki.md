@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 NetBeans 7.3リリース
-
 JavaScriptデバッガー、Embedded Webkit ブラウザ、Chrome連携、JsTestDriverと連携したTest Runner等

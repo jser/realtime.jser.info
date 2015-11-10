@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 依存関係解決、非同期ローダ。
-
 コマンドラインのビルドツールが付いていて一つのminifyされたファイルにまとめることもできる。

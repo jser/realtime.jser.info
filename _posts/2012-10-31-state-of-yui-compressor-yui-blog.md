@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 YUI CompressorからUglifyJS、CSSMinベースのツールへ移行
-
 https://github.com/yui/yuglify
-
 YUI CompressorはGithubで公開

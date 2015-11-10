@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 JamというAMDを利用したクライアントサイドのパッケージマネージャーがでてきた件に関連して、NPM 、JAM、 RequireJS、 Browserify 、Enderのそれぞれの説明。
-
 またJamにコミットしてる人がそれらの目的がどう違うか、またRequireJSを使う事について書かれてる

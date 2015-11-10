@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 IE9RCのdocumentの再定義についてとナビ子記法の導入について
-
--<a href="http://handsout.jp/slide/1883" title="2&#x5206;&#x3067;&#x308F;&#x304B;&#x308B; uupaa.js &#x306E; Debug Navigation :: handsOut.jp">2分でわかる uupaa.js の Debug Navigation :: handsOut.jp</a>
+-[2分でわかる uupaa.js の Debug Navigation :: handsOut.jp](http://handsout.jp/slide/1883 "2分でわかる uupaa.js の Debug Navigation :: handsOut.jp")

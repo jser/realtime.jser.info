@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 mixinをES5で書く場合について。
-
 definePropertyの第三引数でディスクリプタもコピーする
-
 Object.defineProperty(receiver, property, Object.getOwnPropertyDescriptor(supplier, property));

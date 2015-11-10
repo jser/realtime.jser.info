@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/inde
 date: '2012-02-29T15:00:00+00:00'
 ---
 2012年4月24日発売
-
 元々は2011年9月20日発売予定だったけど、正式に決まったみたい
-
 http://htmlcssjavascript.com/javascript/professional-jquery/

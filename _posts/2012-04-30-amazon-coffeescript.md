@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 2012年5月26日発売
-
 CoffeeScriptについての書籍.
-
 著者 http://codezine.jp/author/1288

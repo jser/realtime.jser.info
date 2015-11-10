@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 Date.now()とPerformance.now()の違い。
-
 iframe等複数のコンテキストがカラム計測ではPerformance.now()は相対的にも単純に計測できる

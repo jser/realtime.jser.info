@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 JavaScriptの基本、特性みたいな感じ。
-
 スライドがテンポよくできていて読みやすい。

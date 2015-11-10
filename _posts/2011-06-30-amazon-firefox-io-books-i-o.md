@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 2011年 5月25日発売
-
 Firefoxのマニュアル本
-
 http://www.kohgakusha.co.jp/books/detail/978-4-7775-1603-2

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 2011年10月24日発売。
-
 Beginning HTML with CSS and XHTMLの続編みたいなものなのかな。
-
 http://www.apress.com/web-development/html/9781430238768

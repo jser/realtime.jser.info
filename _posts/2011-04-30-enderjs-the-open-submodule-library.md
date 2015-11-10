@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/inde
 date: '2011-04-30T15:00:00+00:00'
 ---
 jQueryライクだけど、1/4ほどのサイズのライブラリ。
-
 クラス、CSSセレクタ、非同期ローダ、ajax、アニメーション

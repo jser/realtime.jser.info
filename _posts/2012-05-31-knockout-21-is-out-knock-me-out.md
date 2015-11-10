@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/inde
 date: '2012-05-31T15:00:00+00:00'
 ---
 Knockout 2.1リリース
-
 http://blog.stevensanderson.com/2012/05/09/knockout-2-1-0-released/

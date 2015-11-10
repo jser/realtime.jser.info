@@ -7,11 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/inde
 date: '2011-11-30T15:00:00+00:00'
 ---
 2011年11月25日発売
-
 Test-Driven JavaScript Development
-
 http://tddjs.com/
-
 の翻訳本。
-
-

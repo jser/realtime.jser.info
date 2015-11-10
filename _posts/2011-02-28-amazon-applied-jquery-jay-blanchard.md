@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 2011年8月25日発売
-
 著者はjQueryコミュニティとかで活動している人みたいです

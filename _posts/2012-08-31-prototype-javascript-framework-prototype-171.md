@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 Prototype.js 1.7.1リリース
-
 dom.jsの書き直しやES5への互換性等。
-
 Prototype.jsの今後についても書かれてる。

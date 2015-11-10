@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/inde
 date: '2012-01-31T15:00:00+00:00'
 ---
 2012年1月31日発売
-
 Titanium Mobile本
-
 http://www.shuwasystem.co.jp/products/7980html/3231.html

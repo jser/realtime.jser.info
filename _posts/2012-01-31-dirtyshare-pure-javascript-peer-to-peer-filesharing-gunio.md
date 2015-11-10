@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/inde
 date: '2012-01-31T15:00:00+00:00'
 ---
 JavaScriptでP2Pのファイルのやり取りを実装。
-
 今はまだ中央サーバにWebSocketsでやっているが、いづれはWebRTCを使ってピュアP2Pにしていくとの事

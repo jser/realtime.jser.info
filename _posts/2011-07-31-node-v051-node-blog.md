@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/inde
 date: '2011-07-31T15:00:00+00:00'
 ---
 Node.js 0.5.1(開発版)リリース。
-
 今回からWindowsバイナリもリリースされてる。

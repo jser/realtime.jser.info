@@ -7,7 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/inde
 date: '2011-07-31T15:00:00+00:00'
 ---
 2012年1月16日発売
-
 著者のサイト http://www.larryullman.com/
-
-

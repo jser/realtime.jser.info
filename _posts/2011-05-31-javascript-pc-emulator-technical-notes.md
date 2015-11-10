@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 QEMU の作者が JavaScript で書いた PC エミュレータを作った技術解説とか。
-
-    デモでLinuxがブラウザ上で動いてる…
+デモでLinuxがブラウザ上で動いてる…

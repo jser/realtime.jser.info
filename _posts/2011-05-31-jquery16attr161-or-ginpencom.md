@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 jQueryの1.6.1の変更点についての詳細
-
-    .attr()の後方互換性について
+.attr()の後方互換性について

@@ -6,4 +6,4 @@ itemUrl: 'http://blog.dynatrace.com/2012/10/31/dynatrace-browser-diagnostics-now
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/index.json'
 date: '2012-10-31T15:00:00+00:00'
 ---
-dynaTrace  Firefox 15 & 16をサポート
+dynaTrace Firefox 15 & 16をサポート

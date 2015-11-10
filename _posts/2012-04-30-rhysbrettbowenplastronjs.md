@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 Closure Library 、 Closure Compiler と一緒に使うMVCライブラリ。
-
 goog.require('mvc.Model');

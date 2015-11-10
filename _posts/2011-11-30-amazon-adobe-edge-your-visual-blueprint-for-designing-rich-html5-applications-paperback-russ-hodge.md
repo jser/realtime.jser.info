@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/inde
 date: '2011-11-30T15:00:00+00:00'
 ---
 2012年3月22日発売
-
 HTML,CSS,JSでアニメーションやインタラクションを作成するオーサリングツールのAdobe Edgeについての書籍

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/inde
 date: '2012-11-30T15:00:00+00:00'
 ---
 Firebug 1.11β1リリース。
-
 window.postMessage()のmassage eventを監視してログを出せるようになった

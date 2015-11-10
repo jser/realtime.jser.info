@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 Zepto.jsのver0.4が公開された。
-
-<q>New in v0.4 JSONP, better .find, .each, .closest; new .eq, .size, .parent, .parents, .removeAttr, .val (basic), function args to .html, .attr; adjacency methods now take Zepto objects </q>
+<q>New in v0.4 JSONP, better .find, .each, .closest; new .eq, .size, .parent, .parents, .removeAttr, .val (basic), function args to .html, .attr; adjacency methods now take Zepto objects</q>

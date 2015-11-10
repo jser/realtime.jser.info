@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 jQuery1.6正式リリース。
-
-    attr周りは書き直しが入って大きく変化した。CSSで相対値の指定ができるようになった。data()のパフォーマンス改善:。.prop(), .removeProp(),focusセレクタの実装
+attr周りは書き直しが入って大きく変化した。CSSで相対値の指定ができるようになった。data()のパフォーマンス改善:。.prop(), .removeProp(),focusセレクタの実装

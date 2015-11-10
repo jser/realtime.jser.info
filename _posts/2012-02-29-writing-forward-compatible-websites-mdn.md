@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/inde
 date: '2012-02-29T15:00:00+00:00'
 ---
 "新しいバージョンのブラウザが公開されても壊れることのない Web サイトを記述する方法" についての翻訳ページ。
-
 HTMLやCSS、JavaScriptについて書かれている。

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 ブラウザを常に最新にする理由やWebである利点などについてわかりやすい説明をしている絵本的なもの
-
 Chrome以外についてもWeb技術に関して優しい説明になってるので、どうしてそうしないとダメなのかと疑問に思ってる人に読んでもらいたい

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/inde
 date: '2012-01-31T15:00:00+00:00'
 ---
 PhantomJSを使ってヘッドレスなWebページの解析ができるツール。
-
 CACHE MANIFESTの生成やページのパフォーマンス解析をCLIが行える

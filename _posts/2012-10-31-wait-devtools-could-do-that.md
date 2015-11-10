@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 WebInspectorについてのスライド。
-
 ネットワークタイムライン、HAR形式、WebSocket Frames、DOMのレンダリング、ヒープスナップショットでのメモリリーク調査、CSSプロファイラ、audit pluginやカスタマイズ、リモートデバッグ、--enable-benchmarkingでのより深い調査

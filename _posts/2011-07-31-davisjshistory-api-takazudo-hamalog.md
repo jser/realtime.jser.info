@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/inde
 date: '2011-07-31T15:00:00+00:00'
 ---
 Ajax遷移とHistory APIを合わせた実例。
-
 Davis.jsを使って遷移を監視させる

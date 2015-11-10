@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/inde
 date: '2011-04-30T15:00:00+00:00'
 ---
 Readability をCoffeeScriptで書き直しながら仕組みを見てみる。DOMの木構造からトライアンドエラー方式で本文を見つけている。
-
 実行環境としてのPhantomJSの評価

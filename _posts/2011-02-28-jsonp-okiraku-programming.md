@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 JSONPのエラーをキャッチするためにiframeを利用して読み込む方法。
-
 scriptタグのonerrorが実行されないブラウザでも対応できる。

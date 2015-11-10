@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/inde
 date: '2011-08-31T15:00:00+00:00'
 ---
 jQuery Mobile β2リリース
-
 キャッシュやプリフェッチ、UIの変更、コードのクリーンアップ、指摘されていたXSSの修正など多くの変更が含まれてる

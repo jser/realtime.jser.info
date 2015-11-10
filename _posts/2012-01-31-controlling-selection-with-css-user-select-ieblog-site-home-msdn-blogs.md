@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/inde
 date: '2012-01-31T15:00:00+00:00'
 ---
 IE10 pp4でuser-selectによる選択の制御ができるようになった。
-
 -ms-user-select についての解説

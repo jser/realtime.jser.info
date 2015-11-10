@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/inde
 date: '2011-08-31T15:00:00+00:00'
 ---
 2011年9月30日発売
-
 メンツが教授で構成されてて教科書みたい
-
 http://www.coronasha.co.jp/np/isbn/9784339024579/

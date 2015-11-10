@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 高機能なHTML(5)+CSS+JavaScript対応IDEのWebStormのバージョン2.0の特徴が掲載された。
-
-すぐに試したい方は<a href="http://confluence.jetbrains.net/display/WI/Web+IDE+EAP" title="EAP">EAP</a>を見るといいかと思います。
-
--<a href="http://efcl.info/2010/1027/res2023/" title="&#x6700;&#x5F37;&#x306E;JavaScript IDE &#x300C;WebStorm&#x300D;&#x3092;&#x4F7F;&#x3063;&#x3066;&#x307F;&#x305F; | Web scratch">最強のJavaScript IDE 「WebStorm」を使ってみた | Web scratch</a>
+すぐに試したい方は[EAP](http://confluence.jetbrains.net/display/WI/Web+IDE+EAP "EAP")を見るといいかと思います。
+-[最強のJavaScript IDE 「WebStorm」を使ってみた | Web scratch](http://efcl.info/2010/1027/res2023/ "最強のJavaScript IDE 「WebStorm」を使ってみた | Web scratch")

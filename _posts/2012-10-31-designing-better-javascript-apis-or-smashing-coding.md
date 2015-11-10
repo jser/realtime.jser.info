@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 jQueryのInterfaceを参考に、JavaScriptのAPIデザインを良くするにはどうするかという記事。
-
 引数の扱いやエラーハンドリング、非同期、デバッグしやすいAPI、ドキュメントなどについて

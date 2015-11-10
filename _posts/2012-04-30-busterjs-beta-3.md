@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 Buster.JS β3リリース。
-
 assert.typeOfの廃止、autotestが動作するように、JSTDのdocコメントをプラグインでサポート、BDDスタイルの改善、他Bugfix等

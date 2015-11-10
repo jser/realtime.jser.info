@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 CommonJSとは何か?
-
 CommonJSの仕様決定のプロセス、CommonJSモジュールの仕様について、他の主要な仕様の紹介

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 2012年6月15日発売
-
 HTML5に関するセキュリティ本
-
 http://shreeraj.blogspot.jp/

@@ -7,9 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 Firefox 次期バージョン (Firefox 5) のベータ版を公開
-
-    Firefox5ではCSSアニメーションが実装された。
-
-    5 週間ごとに次のバージョンをリリースするため、今年中に9までリリース予定
-
-    -https://wiki.mozilla.org/RapidRelease#Merge_Dates
+Firefox5ではCSSアニメーションが実装された。
+5 週間ごとに次のバージョンをリリースするため、今年中に9までリリース予定
+-https://wiki.mozilla.org/RapidRelease#Merge_Dates

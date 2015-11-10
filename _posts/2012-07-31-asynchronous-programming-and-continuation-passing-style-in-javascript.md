@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 非同期とコールバックについての話
-
 直接的なコードから、CPSなコードへ書き換える方法について例を上げながら解説。
-
 制御フローの比較、CSPと例外処理、スタックとトランポリン

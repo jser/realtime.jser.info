@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 Dojo 1.7についてのスライド
-
 AMDモジュールの非同期ロードについてかなり詳細に書かれている。
-
 またDojo Mobileについて

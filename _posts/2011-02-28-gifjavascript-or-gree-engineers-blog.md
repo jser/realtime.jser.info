@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 GIF画像をJSONとして読み込んで、JavaScriptでGIFヘッダーを見てフレームごとにデータスキームURIに変換してimgタグで表示。アニメーションGIFはCanvasのフレーム操作を利用して表示
-
--<a href="http://blog.livedoor.jp/dankogai/archives/51067688.html" title="404 Blog Not Found:javascript - Yet Another Base64 transcoder">404 Blog Not Found:javascript - Yet Another Base64 transcoder</a>
+-[404 Blog Not Found:javascript - Yet Another Base64 transcoder](http://blog.livedoor.jp/dankogai/archives/51067688.html "404 Blog Not Found:javascript - Yet Another Base64 transcoder")

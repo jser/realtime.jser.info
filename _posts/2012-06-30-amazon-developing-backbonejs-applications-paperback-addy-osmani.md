@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 2012年12月22日発売
-
 Backbone.js本
-
 http://shop.oreilly.com/product/0636920025344.do

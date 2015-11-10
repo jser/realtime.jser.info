@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/inde
 date: '2012-11-30T15:00:00+00:00'
 ---
 jQueryでdeprecatedとなっているAPIについて。
-
 $.browser,.size(),$.sub(),.live() / .die(), form系の独自CSSセレクタ, $.get()のコールバックまわり

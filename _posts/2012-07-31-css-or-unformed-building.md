@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 CSS等のリソース集
-
 仕様、バグ、対応、ブラウザ、Q&A

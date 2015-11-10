@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/inde
 date: '2012-05-31T15:00:00+00:00'
 ---
 Backbone.jsについてのスライド。
-
 それぞれの機能について解説と実例のサイト紹介、TIpsなどまとまってる

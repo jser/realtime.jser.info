@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 2つの配列の型について。
-
 配列っぽいオブジェクトのduck testingで判定の罠とArray.isArrayについて。また判定して弾くだけでは結局利用はできないので、Array.fromを使った正確な変換について

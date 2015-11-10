@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 2011年7月15日発売
-
 Head FirstシリーズのjQuery本
-
--<a href="http://oreilly.com/catalog/0636920012740" title="Head First jQuery - O&apos;Reilly Media">Head First jQuery - O'Reilly Media</a>
+-[Head First jQuery - O'Reilly Media](http://oreilly.com/catalog/0636920012740 "Head First jQuery - O'Reilly Media")

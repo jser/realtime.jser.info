@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/inde
 date: '2012-09-30T15:00:00+00:00'
 ---
 Twitter社製のWeb向けのパッケージマネージャー
-
 HTML/CSS/JSのパッケージ管理を行うNode製のツール。
-
 Jam, Volo, Enderよりも低いレベルのコンポーネント

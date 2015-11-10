@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/inde
 date: '2012-05-31T15:00:00+00:00'
 ---
 JavaScriptのテスト時のパターンをまとめたもの。
-
 初期化動作やイベントのstub化やjQuery、非同期テストをSinonJSのFakeを使って同期化、DOMやCSSのテストについて。stub化できないオブジェクトについて

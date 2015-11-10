@@ -7,5 +7,3 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 Mac OS向けのエディタとして有名なmiのWindows版αがリリースされています。
-
-

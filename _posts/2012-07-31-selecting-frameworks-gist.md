@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 "Journey Through The JavaScript MVC Jungle"
-
 MVC系フレームワークについてのまとめ。
-
 それぞれの特徴/長所/短所について

@@ -7,11 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/inde
 date: '2011-11-30T15:00:00+00:00'
 ---
 Opera 11.60でDOM Event constructorsをサポート。
-
 initEventなど引数がたくさんあるものをコンストラクタにオブジェクトを渡して指定できるようにする
-
 http://javascript.g.hatena.ne.jp/edvakf/20110624/1308925355
-
 Webkitも実装済み
-
 http://bit.ly/vVBcPW

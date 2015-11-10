@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 HTML5とCanvas 2D Contextの仕様が勧告候補になり、大きな変更がない段階になった.
-
 HTML5の勧告と次のバージョンについて

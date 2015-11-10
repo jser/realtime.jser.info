@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/inde
 date: '2012-05-31T15:00:00+00:00'
 ---
 widgets系のJavaScriptラッパーのキャッシュ問題に対して、自己更新を入れる方法について
-
 location.reload(true);の更新を利用

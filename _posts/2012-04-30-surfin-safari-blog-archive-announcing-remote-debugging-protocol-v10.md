@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 WebkitのRemote Debugging Protocol v1.0が公開。
-
 JSON-RPCを使ってWeb Inspectorとやり取りするAPI

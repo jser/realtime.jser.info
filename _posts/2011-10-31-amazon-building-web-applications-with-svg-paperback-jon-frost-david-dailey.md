@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/inde
 date: '2011-10-31T15:00:00+00:00'
 ---
 2012年3月22日発売
-
 SVG本 http://shop.oreilly.com/product/0790145329448.do

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 fast test - mock,stub,spyを使ってAsyncなテストを書かない. ネイティブのDOM APIを直接テストしないで、wrapperしてテスト、 $.ajaxにspyOnしてcallされてるかのテスト、テンプレートのテストをfixturesを使ってテスト
-
 Backboneのevent、view function、routes、modelsのテスト方法について
-
 jasmine-fixture、jasmine-stealth、jasmine-jquery、http://tryjasmine.com の紹介

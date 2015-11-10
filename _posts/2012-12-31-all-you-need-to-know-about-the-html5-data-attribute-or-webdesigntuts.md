@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 data属性の扱い方について。
-
 どういう時に使うか、CSSから利用する方法、jQueryのdataメソッドについて

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 Dojo 1.8リリース
-
 ドキュメントページを改善、request,router,promiseやUIコンポーネントの追加等

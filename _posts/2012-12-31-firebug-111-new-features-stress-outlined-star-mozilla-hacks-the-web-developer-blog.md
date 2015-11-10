@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 Firebug 1.11の新しい機能についてのまとめ。
-
 SPDY対応、performance-timing、CSS Selectorでの検索、postMessageログ、関数呼び出しのログ、$,$$の変更、自動補完

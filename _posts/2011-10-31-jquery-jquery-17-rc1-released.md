@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/inde
 date: '2011-10-31T15:00:00+00:00'
 ---
 jQuery 1.7 RC1リリース
-
 Event周りの修正が多い

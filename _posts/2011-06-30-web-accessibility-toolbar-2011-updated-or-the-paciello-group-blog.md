@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 Web Accessibility Toolbar 2011アップデート。
-
 http://accessibility.mitsue.co.jp/archives/000286.html

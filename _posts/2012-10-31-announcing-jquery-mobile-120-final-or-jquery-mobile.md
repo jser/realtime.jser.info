@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 jQuery Mobile 1.2.0リリース.
-
 popup UIの追加、vmouse eventsのstandalone化、jQuery1.8.xのサポート、location.hrefを利用したXSSのsecurity fix等

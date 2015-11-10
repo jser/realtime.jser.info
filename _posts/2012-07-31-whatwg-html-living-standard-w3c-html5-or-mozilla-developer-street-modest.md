@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 WHATWGとW3CのHTML5ブランチと仕様策定のエディタについて
-
 https://dev.mozilla.jp/2012/07/html5-and-html-next/ と一緒に

@@ -7,9 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 Closure Library の機能紹介、入門などについてのスライド
-
 USTREAMの録画
-
 http://www.ustream.tv/recorded/15523165
-
-

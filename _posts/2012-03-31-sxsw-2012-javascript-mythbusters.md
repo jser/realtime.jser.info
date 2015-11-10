@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-31T15:00:00+00:00'
 ---
 JavaScriptのパフォーマンスに関する検証.
-
 それぞれjsperfにベンチマークのテストを書いて、実際に動かして確認することの大切さについて。
-
 Plausible/Busted/Confirmed

@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-30T15:00:00+00:00'
 ---
 実務の現場でITを実践する皆様に向けた論文誌「デジタルプラクティス」
-
 面白い論文、IT系、経営者とかプログラムやソフトウェアの話とかいろいろ。

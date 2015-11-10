@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 RequreJSなどの依存関係の管理などをするためのモジュール管理ライブラリについてのまとめ。
-
-    CommonJSのModules/AsynchronousDefinition (AMD)についても解説されていてとてもよいまとめ
+CommonJSのModules/AsynchronousDefinition (AMD)についても解説されていてとてもよいまとめ

@@ -7,11 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/inde
 date: '2011-04-30T15:00:00+00:00'
 ---
 node.jsの入門ガイド
-
 -Beginner Guide
-
 -Style Guide
-
 -Community Guide
-
 -Convincing The Boss Guide

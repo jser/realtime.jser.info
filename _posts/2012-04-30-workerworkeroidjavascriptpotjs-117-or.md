@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 Pot.js 1.17 と PotLite.js 1.34 リリース
-
 関数をWebWorkerとして実行する機能

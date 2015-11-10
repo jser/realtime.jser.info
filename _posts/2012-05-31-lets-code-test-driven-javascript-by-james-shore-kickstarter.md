@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/inde
 date: '2012-05-31T15:00:00+00:00'
 ---
 Let's Play TDDシリーズ
-
 http://jamesshore.com/Blog/Lets-Play/
-
 JavaScript版について、Kickstarterで資金募集

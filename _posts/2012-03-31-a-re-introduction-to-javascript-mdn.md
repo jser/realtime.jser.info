@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-31T15:00:00+00:00'
 ---
 再紹介JavaScriptの翻訳がついに完了
-
 JavaScriptの機能を文法ベースに学べる

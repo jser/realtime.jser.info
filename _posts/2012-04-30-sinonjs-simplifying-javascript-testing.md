@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-30T15:00:00+00:00'
 ---
 Sinon.JSについてのスライド。
-
 spy,stub,mock,Fake, 他のテストライブラリへの﻿Integrationについて

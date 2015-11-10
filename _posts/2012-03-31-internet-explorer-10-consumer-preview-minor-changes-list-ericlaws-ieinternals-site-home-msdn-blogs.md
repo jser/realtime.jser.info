@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-31T15:00:00+00:00'
 ---
 IE 10 Consumer Preview での変更点について。
-
 Compatibility Cookbookもあわせて
-
 http://msdn.microsoft.com/library/hh801219.aspx

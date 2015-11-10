@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/inde
 date: '2012-02-29T15:00:00+00:00'
 ---
 Object.keysを使った列挙のfor(-in)ループのパフォーマンスについて。
-
 https://twitter.com/#!/Constellation/statuses/165687957787918336

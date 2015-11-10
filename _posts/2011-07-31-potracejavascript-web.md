@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/inde
 date: '2011-07-31T15:00:00+00:00'
 ---
 "potraceとはラスター画像からSVG等のベクター画像を作成するソフト"
-
 C→ActionScript→JavaScript

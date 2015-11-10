@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 ブラウザのバグを見つけた場合の報告までの手引き.
-
 主要ブラウザの報告ガイドラインと報告先がまとまってる

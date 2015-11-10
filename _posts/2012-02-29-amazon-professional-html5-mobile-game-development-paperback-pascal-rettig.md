@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/inde
 date: '2012-02-29T15:00:00+00:00'
 ---
 2012年9月4日発売
-
 iOS,Android、WP7を対象にしたmobile gameについての書籍。
-
 著者 http://cykod.com/

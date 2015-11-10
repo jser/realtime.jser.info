@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/inde
 date: '2012-10-31T15:00:00+00:00'
 ---
 2012年10月26日発売
-
 Node.js本
-
 http://meso.hatenablog.com/entry/20101201/1291180243

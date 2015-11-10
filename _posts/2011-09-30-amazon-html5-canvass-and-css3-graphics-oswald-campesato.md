@@ -7,7 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/inde
 date: '2011-09-30T15:00:00+00:00'
 ---
 2012年1月15日発売
-
 Canvas/CSS3/SVGを使ったグラフィカルな表現についての書籍
-
-

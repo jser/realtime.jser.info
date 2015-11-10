@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/inde
 date: '2011-11-30T15:00:00+00:00'
 ---
 JavaScriptでのミスや混乱しやすい所
-
 varなしの変数宣言/callback関数の使い方/this/ループとイベントハンドラでのミス/重たい処理でUIスレッドが固まる/コンパイラのない生活/JavaScriptのOOPの理解をしていない

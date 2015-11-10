@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-31T15:00:00+00:00'
 ---
 micro event emitter ライブラリ
-
 Observer Pattern的なbind/unbind/triggerを提供するシンプルなライブラリ

@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-31T15:00:00+00:00'
 ---
 2011年12月7日発売
-
 JavaScriptの基礎にも触れながら、jQueryを覚えていけるような書籍
-
 http://hamalog.tumblr.com/post/13682600794/web-jquery

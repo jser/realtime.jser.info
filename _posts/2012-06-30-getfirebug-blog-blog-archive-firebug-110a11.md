@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 Firebug 1.10a11リリース
-
 Firecookieを取り込んでCookiesパネルが追加された。
-
 Roadmap https://getfirebug.com/wiki/index.php/Firebug_Roadmap

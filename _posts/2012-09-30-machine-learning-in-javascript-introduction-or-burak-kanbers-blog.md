@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/inde
 date: '2012-09-30T15:00:00+00:00'
 ---
 JavaScriptで機械学習についての記事シリーズ。
-
 JavaScriptでやる理由はページに埋め込むの簡単な事や幅広い人が触ってる言語だから。

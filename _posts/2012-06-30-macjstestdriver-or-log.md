@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 JsTestDriverの導入方法について。
-
 参加(jsdokusho)メンバーの記事にも色々書かれてる

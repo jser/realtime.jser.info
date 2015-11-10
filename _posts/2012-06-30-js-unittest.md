@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-30T15:00:00+00:00'
 ---
 JavaScriptのテストを書く7つの理由
-
 使用するテストフレームワークについて
-
 モックの用語説明(spy,stub,mock,fake)

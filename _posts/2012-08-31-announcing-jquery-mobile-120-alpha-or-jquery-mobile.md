@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 jQuery Mobile 1.2.0αリリース
-
 Popup APIの追加、折りたたみリスト、vmouse eventがダウンロードビルダーでstandaloneとして使えるように

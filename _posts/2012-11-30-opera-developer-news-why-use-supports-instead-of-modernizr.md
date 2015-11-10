@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/inde
 date: '2012-11-30T15:00:00+00:00'
 ---
 @supportsとModernizrの関係について.
-
 @supportsがサポートされてない場合にModernizrを読み込む方法について

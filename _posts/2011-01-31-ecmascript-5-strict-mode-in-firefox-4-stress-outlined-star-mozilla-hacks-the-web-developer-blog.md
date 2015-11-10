@@ -7,9 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 ECMAScript 5 strict modeがFirefox4で使えるため、それの解説。
-
 "use strict";でstrict modeにして、strict mode時にエラーになるいろいろな例が掲載されている。
-
--<a href="http://azu_re.scrapi.jp/scraps/251" title="&quot;use strict&quot;; in Firefox4 | TwitScratch">&quot;use strict&quot;; in Firefox4 | TwitScratch</a>
-
-
+-["use strict"; in Firefox4 | TwitScratch](http://azu_re.scrapi.jp/scraps/251 ""use strict"; in Firefox4 | TwitScratch")

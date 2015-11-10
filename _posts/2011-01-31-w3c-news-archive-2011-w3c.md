@@ -7,7 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 "W3C Introduces an HTML5 Logo "
-
 HTML5のロゴ画像が決定されたそうだ。
-
-

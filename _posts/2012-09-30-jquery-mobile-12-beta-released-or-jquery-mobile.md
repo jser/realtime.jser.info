@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/inde
 date: '2012-09-30T15:00:00+00:00'
 ---
 jQuery Mobile 1.2 Betaリリース。
-
 mobile safari/Android Browserで読み込むだけでXSSができる脆弱性が修正されてる
-
 http://masatokinugawa.l0.cm/2012/09/jquery-mobile-location.href-xss.html

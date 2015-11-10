@@ -7,7 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 JSONの仕様について
-
-    "JSON: The JavaScript subset that isn’t?Timeless" の話
-
-
+"JSON: The JavaScript subset that isn’t?Timeless" の話

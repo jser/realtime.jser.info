@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 最近HotなHTML5/Javascript 関係のプロジェクトをまとめたリンク集
-
 かなり幅広い分野が紹介されています

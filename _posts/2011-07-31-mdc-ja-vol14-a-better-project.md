@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/inde
 date: '2011-07-31T15:00:00+00:00'
 ---
 MDCの翻訳ドキュメントについての月刊通信
-
 MDCにはFirefox以外でもWebなどに関する新しいドキュメントが多い。

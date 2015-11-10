@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 JavaScript Enlightenment のオライリー本
-
 元は有料電子書籍で今は無料で配布されてる
-
 http://javascriptenlightenment.com/

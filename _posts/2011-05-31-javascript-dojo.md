@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 循環参照によるメモリリークを避ける.
-
-    sIEve を使って孤立ノードを調べる方法
+sIEve を使って孤立ノードを調べる方法

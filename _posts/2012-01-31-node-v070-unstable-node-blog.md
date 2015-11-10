@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/inde
 date: '2012-01-31T15:00:00+00:00'
 ---
 Node.jsの開発版 0.7.0リリース。
-
 V8も3.8.6にアップデート

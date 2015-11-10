@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/inde
 date: '2011-03-31T15:00:00+00:00'
 ---
 Firebug Lite 1.3.2のリリース。
-
 互換性とブラウザとの結合性強化
-
 “Disable XHR Listener” というオプションがついた

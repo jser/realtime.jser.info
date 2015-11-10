@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 Yeti 0.2.9リリース。
-
 タイムアウトの設定、YUI Test Coverageの結果表示ができるように

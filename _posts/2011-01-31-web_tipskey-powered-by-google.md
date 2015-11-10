@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 iPhoneやAndroidといったモバイル端末向けのサイト作成のTips集
-
 CSS3の活用や画面サイズの最適化やHoly Grailハックの解説などを紹介しているスライド

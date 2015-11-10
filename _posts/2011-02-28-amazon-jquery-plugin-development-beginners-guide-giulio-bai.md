@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 jQueryプラグイン開発入門本
-
--<a href="https://www.packtpub.com/jquery-plugin-development-beginners-guide/book#in_detail" title="jQuery Plugin Development Beginner&apos;s Guide Book &amp; eBook | Packt Publishing Technical &amp; IT Book Store">jQuery Plugin Development Beginner's Guide Book &amp; eBook | Packt Publishing Technical &amp; IT Book Store</a>
+-[jQuery Plugin Development Beginner's Guide Book & eBook | Packt Publishing Technical & IT Book Store](https://www.packtpub.com/jquery-plugin-development-beginners-guide/book#in_detail "jQuery Plugin Development Beginner's Guide Book & eBook | Packt Publishing Technical & IT Book Store")

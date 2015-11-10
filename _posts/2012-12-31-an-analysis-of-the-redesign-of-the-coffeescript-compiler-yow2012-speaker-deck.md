@@ -7,9 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-31T15:00:00+00:00'
 ---
 新しいCoffeeScriptコンパイラの設計デザインについて.
-
 inputからoutputまで流れ.
-
 Spidermonkey ASTをIR(中間表現)とすることで、それに関するツール(esprima等)との連携が得られるメリットが有る。
-
 http://constellation.github.com/slides/contents/20121118/modules.html

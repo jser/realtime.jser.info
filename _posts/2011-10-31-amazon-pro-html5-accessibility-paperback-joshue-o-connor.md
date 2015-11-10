@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/inde
 date: '2011-10-31T15:00:00+00:00'
 ---
 2012年3月26日発売
-
 HTML5のアクセシビリティについての書籍。WAI-ARIA

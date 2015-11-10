@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-31T15:00:00+00:00'
 ---
 JVM向けのJavaScriptコンパイラーであるMugの特徴を述べています。
-
 CommonJS modulesを採用指定事やRhinoに比べて高速に動作するのが特徴

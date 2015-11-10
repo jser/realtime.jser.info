@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/inde
 date: '2011-05-31T15:00:00+00:00'
 ---
 元々JavaScriptMVCにあったテストフレームワークのFuncUnitの紹介。
-
-    Selenium,EnvJS,QUnit,jQuery,Synなど既存のものを組み合わせてできている
+Selenium,EnvJS,QUnit,jQuery,Synなど既存のものを組み合わせてできている

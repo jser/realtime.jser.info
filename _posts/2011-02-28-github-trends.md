@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/inde
 date: '2011-02-28T15:00:00+00:00'
 ---
 GitHubのトレンドをRSS配信。
-
--<a href="https://github.com/languages/" title="Top Languages - GitHub">Top Languages - GitHub</a>
+-[Top Languages - GitHub](https://github.com/languages/ "Top Languages - GitHub")

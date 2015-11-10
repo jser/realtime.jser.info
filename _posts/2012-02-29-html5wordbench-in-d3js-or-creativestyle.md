@@ -7,5 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/inde
 date: '2012-02-29T15:00:00+00:00'
 ---
 "d3jsではじめるデータビジュアライゼーション入門"というスライド。
-
 d3.jsを使って棒グラフを書くことについての紹介

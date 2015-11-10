@@ -7,7 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T15:00:00+00:00'
 ---
 Event Emitterライブラリ。
-
 on/once/trigger/set(like trigger)/pipe/clear.
-
 Meta Eventやドット区切りのSub Eventsもサポートしてる

@@ -7,9 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/inde
 date: '2011-07-31T15:00:00+00:00'
 ---
 "JavaScriptライブラリユーザーからJavaScript開発者へ"という電子書籍。
-
 PDFフォーマットで$15で販売
-
 一部関連:
-
 http://net.tutsplus.com/tutorials/javascript-ajax/fully-understanding-the-this-keyword/
