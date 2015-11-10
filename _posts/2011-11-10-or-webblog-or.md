@@ -1,0 +1,9 @@
+---
+title: 'ベンダー接頭辞は有害か | Web標準Blog | ミツエーリンクス'
+author: azu
+layout: post
+itemUrl: 'http://standards.mitsue.co.jp/archives/001532.html'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/index.json'
+date: '2011-11-10T15:00:00+00:00'
+---
+ベンダープレフィックス周りで定期的に起きている議論
