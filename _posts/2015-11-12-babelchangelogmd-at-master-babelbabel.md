@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Babel 6.1.4リリース。
-`babel/regsiter`が`babel-register`というパッケージに分離、ブラウザ向けの`babel-browser`パッケージの追加、バグ修正など
+`babel/register`が`babel-register`というパッケージに分離、ブラウザ向けの`babel-browser`パッケージの追加、バグ修正など
