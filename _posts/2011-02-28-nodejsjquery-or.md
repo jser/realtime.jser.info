@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://sakuratan.biz/archives/3393'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-28T06:05:00+00:00'
+date: '2011-02-28T15:00:00+00:00'
 ---
 node.jsとjQueryを使ってスクレイピングを行う解説

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://discover-devtools.codeschool.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-30T20:42:00+00:00'
+date: '2013-03-30T14:37:31+00:00'
 tags:
   - Chrome
   - デバック

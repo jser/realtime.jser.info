@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/bartaz/impress.js/tree/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
-date: '2012-01-31T06:35:00+00:00'
+date: '2012-01-31T15:00:00+00:00'
 ---
 prezi.com ライクなスライドフレームワーク。CSS3のtransforms and transitionsを使って回転や3D表現などをしている

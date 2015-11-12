@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie_jp/archive/2013/02/27/10397523.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-27T06:54:00+00:00'
+date: '2013-02-27T15:00:00+00:00'
 tags:
   - IE
   - ReleaseNote
