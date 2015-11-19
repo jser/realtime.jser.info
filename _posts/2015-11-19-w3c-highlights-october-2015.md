@@ -13,6 +13,6 @@ relatedLinks:
     url: 'https://www.edx.org/school/w3cx'
 ---
 2015年10月のW3Cハイライト。
-WGの議論場としてdiscourse、リポジトリ管理にGitHubを使うケースが増えた。
+WGの議論場としてDiscourse、リポジトリ管理にGitHubを使うケースが増えた。
 W3C Document Licenseが作られた。
-MOOCsであるとedXと連携してオンライン講座を開設するなど
+MOOCsのプラットフォームであるedXと連携してオンライン講座を開設するなど
