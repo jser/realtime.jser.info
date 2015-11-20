@@ -11,5 +11,5 @@ tags:
   - library
   - ReleaseNote
 ---
-JavaScriptテストフレームワークのjest 0.8.0リリース。
+JavaScriptテストフレームワークのJest 0.8.0リリース。
 jasmine 2に対応
