@@ -3,7 +3,7 @@
 var yaml = require("js-yaml");
 var items = require("../_data/items.json");
 var moment = require("moment");
-var slug = require("slug");
+var slugg = require("slugg");
 var path = require("path");
 var fs = require("fs");
 function pickFromMatter(item) {
@@ -33,17 +33,9 @@ function createPost(item) {
     String(item.content) + "\n").replace(/[\n\r]/g, '\n');
 }
 function creteSafeSlug(item) {
-    var options = {
-        replacement: '-',
-        symbols: true,
-        remove: /[.]/g,
-        lower: true,
-        charmap: slug.charmap,
-        multicharmap: slug.multicharmap
-    };
-    var slugForItem = slug(item.title, options);
+    var slugForItem = slugg(item.title);
     if (slugForItem.length <= 1) {
-        slugForItem = slug(item.url, options);
+        slugForItem = slugg(item.url);
     }
     // avoid ENAMETOOLONG
     if (slugForItem.length > 200) {
