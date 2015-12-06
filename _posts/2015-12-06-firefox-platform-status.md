@@ -10,6 +10,9 @@ tags:
   - browser
   - WebPlatformAPI
   - まとめ
+relatedLinks:
+  - title: azu/browser-javascript-resource
+    url: 'https://github.com/azu/browser-javascript-resource'
 ---
 Firefoxの機能ごとの実装状況をまとめたステータスページ。
 データはGitHubで管理されている
