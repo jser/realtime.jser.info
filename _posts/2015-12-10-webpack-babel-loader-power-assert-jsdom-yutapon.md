@@ -9,5 +9,5 @@ tags:
   - JavaScript
   - 設定
 ---
-BabelによるビルドとMochaでのテスト校正についての記事。
+BabelによるビルドとMochaでのテスト構成についての記事。
 Webpackの設定、jsdomを使ったユニットテストについて
