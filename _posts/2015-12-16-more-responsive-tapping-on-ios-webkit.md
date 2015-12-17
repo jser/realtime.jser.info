@@ -13,5 +13,5 @@ relatedLinks:
   - title: '300ms tap delay, gone away | Web Updates - Google Developers'
     url: 'https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away'
 ---
-iOSのWebKItでもタップの350ms遅延が解消される。
-viewportのwidthなど特定の条件では遅延なくなる。
+iOSのWebKitでもタップの350ms遅延が解消される。
+viewportのwidthなど特定の条件では遅延がなくなる。
