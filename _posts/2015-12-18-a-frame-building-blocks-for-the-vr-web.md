@@ -10,4 +10,4 @@ tags:
   - HTML
   - WebComponents
 ---
-WebVRをCustome Elementのタグを書くだけで出来るライブラリ
+WebVRをCustom Elementのタグを書くだけで出来るライブラリ
