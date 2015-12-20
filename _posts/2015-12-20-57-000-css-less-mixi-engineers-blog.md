@@ -14,4 +14,4 @@ relatedLinks:
     url: 'http://www.slideshare.net/sugibigmuff/dmmstudy-night'
 ---
 -webkit- prefixから標準への書き換えを行った話。
-CSS:fixme で標準記法へ直し、Autporefixerでプリフィック対応し、Lessを使い構造的に管理しやすくしていく
+CSS:fixmeで標準記法へ直し、Autoprefixerでプレフィックス対応し、Lessを使い構造的に管理しやすくしていく
