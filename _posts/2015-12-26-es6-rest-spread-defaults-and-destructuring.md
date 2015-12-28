@@ -12,5 +12,5 @@ relatedLinks:
   - title: sebmarkbage/ecmascript-rest-spread
     url: 'https://github.com/sebmarkbage/ecmascript-rest-spread'
 ---
-spread oeprator、rest parameter、デフォルト引数について。
+spread operator、rest parameter、デフォルト引数について。
 デフォルト引数での評価、`Function#apply`ではなく`...`を使う方法、Destructuringの使い方についてなど
