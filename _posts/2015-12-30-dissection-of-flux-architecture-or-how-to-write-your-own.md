@@ -10,6 +10,6 @@ tags:
   - JavaScript
 relatedLinks:
   - title: krasimir/fluxiny
-    URL: 'https://github.com/krasimir/fluxiny'
+    url: 'https://github.com/krasimir/fluxiny'
 ---
 fluxinyという高階関数をベースとした小さなFlux実装を見ていきながらFluxについて学ぶ。
