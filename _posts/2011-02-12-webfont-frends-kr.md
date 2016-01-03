@@ -1,0 +1,25 @@
+---
+title: 'Webfont 사용하기 | FRENDS.KR'
+author: azu
+layout: post
+itemUrl: 'http://frends.kr/topics/webfont-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
+date: '2011-02-12T08:35:00+00:00'
+---
+@font-faceでのWebフォントについて。
+それぞれのブラウザごとのFont Type対応表
+Daum_Regular.ttfの場合のフォントサイズ比較
+レンダリングの違いではWindowsの場合ブラウザによってまちまちな描画になっている。
+→結論としてWiindowsできれいなフォント表示するには画像かフラッシュを使う
+web fontsの比較(ライブラリやPHPやFlashを使ったもの)
+-[Comparison of web fonts solutions | SocialCompare - Comparisons community](http://socialcompare.com/en/comparison/comparison-of-web-fonts-solutions-7d0b3w9 "Comparison of web fonts solutions | SocialCompare - Comparisons community")
+で、この中で一番よかったのは[Cufón](https://github.com/sorccu/cufon/wiki/about "Cufón")というJavaScriptライブラリ。(フォントサイズは大きくなるのが欠点)
+サイズは大きくなるけど、フォントサブセット(使うものだけ埋め込む)gzip圧縮する(mod_gzip使用)と、220kbぐらいになりブラウザ間の際はほとんどなくなった。
+結論
+1.WindowsではCufónを使い、Mac / Linuxでは@font-faceを使う
+2.プラットフォームで分けるのが面倒なら[Cufón](https://github.com/sorccu/cufon/wiki/about "Cufón")を使う
+3\. 1,2がいやならFlashを使う
+@font-faceの利用にする場合に読んでおくべきURL
+# http://paulirish.com/2009/fighting-the-font-face-fout/
+# http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/ http://paulirish.com/2009/bulletproof-font-face-implementation-syntax/
+# http://paulirish.com/2010/font-face-gotchas/ http://paulirish.com/2010/font-face-gotchas/

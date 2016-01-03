@@ -1,0 +1,9 @@
+---
+title: 'ブラウザ デフォルトCSSのチートシートを作ってみた。(力尽きた) : Web Design KOJIKA17'
+author: azu
+layout: post
+itemUrl: 'http://kojika17.com/2011/03/browsers-default-css.php'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
+date: '2011-03-16T16:13:00+00:00'
+---
+ブラウザのデフォルトCSSをまとめたチートシートの公開

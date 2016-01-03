@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ledyba.org/2013/02/27181531.php'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-31T08:43:47+00:00'
+date: '2013-03-31T09:00:00+00:00'
 tags:
   - JavaScript
 ---

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lostechies.com/derickbailey/2013/03/25/marionettejs-v1-0-now-with-stickers/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-30T13:38:37+00:00'
+date: '2013-03-30T14:33:00+00:00'
 tags:
   - backbone.js
   - library
