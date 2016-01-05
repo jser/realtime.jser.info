@@ -14,6 +14,6 @@ relatedLinks:
   - title: 'Webkit! RESOLVED FIXED - otsukare'
     url: 'http://www.otsukare.info/2016/01/04/webkit-resolved-fixed'
 ---
-IEやWebKitにも存在する`innterText`は仕様と相互互換性がなかった。
-WebKitを前提するモバイルサイトで多く使われているため、Firefoxでも実装することとなった。
+IEやWebKitにも存在する`innerText`は仕様と相互互換性がなかった。
+WebKitを前提とするモバイルサイトで多く使われているため、Firefoxでも実装することとなった。
 同時に仕様とテストケースを書いたという話
