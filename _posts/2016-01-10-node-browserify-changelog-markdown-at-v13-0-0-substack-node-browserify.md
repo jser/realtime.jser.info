@@ -10,5 +10,5 @@ tags:
   - ReleaseNote
 ---
 Browserify 13.0.0リリース。
-`buffer`モジュールが更新されため、`buffer.toArrayBuffer()`は削除された。
+`buffer`モジュールが更新されたため、`buffer.toArrayBuffer()`は削除された。
 `buffer`のパフォーマンス改善など
