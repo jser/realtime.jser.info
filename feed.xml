@@ -33,7 +33,7 @@ layout: null
         {% for cat in post.categories %}
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
-        <source url="{{ post.itemUrl }}">{{ post.title }}</source>
+        <source url="{{ post.itemUrl }}">{{ post.title | xml_escape}}</source>
       </item>
     {% endfor %}
   </channel>
