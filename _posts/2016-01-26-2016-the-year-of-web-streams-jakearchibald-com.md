@@ -9,4 +9,4 @@ tags:
   - JavaScript
 ---
 Fetch with Streamについて。
-readable stream、transform streamを使ったMPEG to GIFの礼
+readable stream、transform streamを使ったMPEG to GIFの例
