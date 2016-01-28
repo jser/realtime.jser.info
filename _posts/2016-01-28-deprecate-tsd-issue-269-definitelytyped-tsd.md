@@ -14,5 +14,5 @@ relatedLinks:
   - title: vvakame/dtsm - TypeScript
     url: 'https://github.com/vvakame/dtsm'
 ---
-TypeScriptの型定義ファイルをサポートするツールであるtsdが非推奨となった。
+TypeScriptの型定義ファイルを管理するツールであるtsdが非推奨となった。
 代わりにtypingsを利用することが推奨されている。
