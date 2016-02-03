@@ -20,6 +20,8 @@ exclude:
   - "node_modules"
 # Build settings
 permalink: pretty
-markdown: redcarpet
+markdown:    kramdown
+highlighter: rouge
+lsi:         false
 sass:
   sass_dir: public/_scss
