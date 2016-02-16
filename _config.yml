@@ -23,5 +23,7 @@ permalink: pretty
 markdown:    kramdown
 highlighter: rouge
 lsi:         false
+# ビルドがタイムアウトするので
+limit_posts: 1000
 sass:
   sass_dir: public/_scss
