@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 ESLint 2.2.0リリース
-`// eslint-disable-line`のサポート
+`// eslint-disable-next-line`のサポート
