@@ -11,6 +11,8 @@ tags:
 relatedLinks:
   - title: 'V8 JavaScript Engine: Experimental support for WebAssembly in V8'
     url: 'http://v8project.blogspot.jp/2016/03/experimental-support-for-webassembly.html'
+  - title: 'Previewing WebAssembly experiments in Microsoft Edge | Microsoft Edge Dev Blog'
+    url: 'https://blogs.windows.com/msedgedev/2016/03/15/previewing-webassembly-experiments/'
 ---
 WebAssemblyの仕様、ブラウザの実装のステータスについて。
-最初のbinary formatドラフト仕様がでており、FirefoxとChromeのNightlyで試験的なサポートがされている。
+最初のbinary formatドラフト仕様がでており、Firefox、Chrome、ChackraCoreのNightlyで試験的な実装がされている。

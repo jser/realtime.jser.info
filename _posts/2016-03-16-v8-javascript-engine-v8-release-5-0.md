@@ -8,9 +8,6 @@ date: '2016-03-16T07:10:35+00:00'
 tags:
   - V8
   - ReleaseNote
-relatedLinks:
-  - title: Dummy
-    url: 'http://example.com/'
 ---
 V8 5.0リリース。
 RegExp Unicode flagのサポート、RegExpのwell-known symbolsをサポート、`Object.keys()`やrest parameterの速度改善など
