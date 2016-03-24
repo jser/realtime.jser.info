@@ -8,5 +8,8 @@ date: '2016-03-24T16:16:42+00:00'
 tags:
   - JavaScript
   - book
+relatedLinks:
+  - title: 'hootlex/the-majesty-of-vuejs: educational'
+    url: 'https://github.com/hootlex/the-majesty-of-vuejs'
 ---
 Vue.jsについての書籍
