@@ -2,7 +2,7 @@
 title: The Sad State of the Backbone Ecosystem
 author: azu
 layout: post
-itemUrl: 'http://benmccormick.org/'
+itemUrl: 'http://benmccormick.org/2016/03/07/the-sad-state-of-the-backbone-ecosystem/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
 date: '2016-03-29T00:25:43+00:00'
 tags:
