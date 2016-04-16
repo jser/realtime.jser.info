@@ -11,8 +11,11 @@ tags:
 relatedLinks:
   - title: 'Collecting and Iterating, the ES6 Way - HTML5Rocks Updates'
     url: 'http://updates.html5rocks.com/2014/08/Collecting-and-Iterating-the-ES6-Way'
-  - title: 'Easier ArrayBuffer <-> String conversion with the Encoding API - HTML5Rocks Updates'
-    url: 'http://updates.html5rocks.com/2014/08/Easier-ArrayBuffer---String-conversion-with-the-Encoding-API'
+  - title: >-
+      Easier ArrayBuffer <-> String conversion with the Encoding API -
+      HTML5Rocks Updates
+    url: >-
+      http://updates.html5rocks.com/2014/08/Easier-ArrayBuffer---String-conversion-with-the-Encoding-API
 ---
 Chrome 38βリリース。
 picture要素、Map/Set、for...of、Symbol、Math周りの追加。

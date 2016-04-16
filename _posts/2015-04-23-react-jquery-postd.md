@@ -1,5 +1,5 @@
 ---
-title: '【翻訳】ReactをjQueryの数行に要約する | POSTD'
+title: 【翻訳】ReactをjQueryの数行に要約する | POSTD
 author: azu
 layout: post
 itemUrl: 'http://postd.cc/boiling-react-down-to-a-few-lines-in-jquery/'

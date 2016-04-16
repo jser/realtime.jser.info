@@ -1,8 +1,9 @@
 ---
-title: 'そのコード、本当にjQueryが必要ですか？ネイティブ関数の代替えTips集 | ゆっくりと…'
+title: そのコード、本当にjQueryが必要ですか？ネイティブ関数の代替えTips集 | ゆっくりと…
 author: azu
 layout: post
-itemUrl: 'http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/jquery-alternative-tips/'
+itemUrl: >-
+  http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/jquery-alternative-tips/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-29T02:13:11+00:00'
 tags:

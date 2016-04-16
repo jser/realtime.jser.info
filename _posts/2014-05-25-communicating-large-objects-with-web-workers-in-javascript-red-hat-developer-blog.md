@@ -1,8 +1,11 @@
 ---
-title: 'Communicating Large Objects with Web Workers in javascript | Red Hat Developer Blog'
+title: >-
+  Communicating Large Objects with Web Workers in javascript | Red Hat Developer
+  Blog
 author: azu
 layout: post
-itemUrl: 'http://developerblog.redhat.com/2014/05/20/communicating-large-objects-with-web-workers-in-javascript/'
+itemUrl: >-
+  http://developerblog.redhat.com/2014/05/20/communicating-large-objects-with-web-workers-in-javascript/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
 date: '2014-05-25T15:27:59+00:00'
 tags:

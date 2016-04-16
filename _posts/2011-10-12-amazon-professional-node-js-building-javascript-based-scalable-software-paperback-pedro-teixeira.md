@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Professional Node.js: Building Javascript Based Scalable Software [Paperback]: Pedro Teixeira』'
+title: >-
+  『Amazon: Professional Node.js: Building Javascript Based Scalable Software
+  [Paperback]: Pedro Teixeira』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1118185463/book042-22/ref=nosim'

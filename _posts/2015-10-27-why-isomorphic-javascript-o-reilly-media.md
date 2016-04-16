@@ -1,5 +1,5 @@
 ---
-title: "Why Isomorphic JavaScript? - O'Reilly Media"
+title: Why Isomorphic JavaScript? - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.com/web-platform/free/why-isomorphic-javascript.csp'

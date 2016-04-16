@@ -1,5 +1,5 @@
 ---
-title: 'The npm Blog — npm private modules are here!'
+title: The npm Blog — npm private modules are here!
 author: azu
 layout: post
 itemUrl: 'http://blog.npmjs.org/post/116379479775/npm-private-modules-are-here'

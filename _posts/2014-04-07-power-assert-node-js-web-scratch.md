@@ -1,5 +1,5 @@
 ---
-title: 'power-assertの使い方 Node.js編 | Web scratch'
+title: power-assertの使い方 Node.js編 | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0406/res3809/'

@@ -1,5 +1,5 @@
 ---
-title: 'React v0.13 RC | React'
+title: React v0.13 RC | React
 author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2015/02/24/react-v0.13-rc1.html'

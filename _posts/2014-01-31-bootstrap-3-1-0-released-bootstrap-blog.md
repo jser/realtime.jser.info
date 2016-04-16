@@ -12,7 +12,9 @@ tags:
 relatedLinks:
   - title: Release v3.1.0 · twbs/bootstrap
     url: 'https://github.com/twbs/bootstrap/releases/tag/v3.1.0'
-  - title: 'Note about the license change from Apache to MIT by marclaporte · Pull Request #9075 · twbs/bootstrap'
+  - title: >-
+      Note about the license change from Apache to MIT by marclaporte · Pull
+      Request #9075 · twbs/bootstrap
     url: 'https://github.com/twbs/bootstrap/pull/9075'
 ---
 Bootstrap 3.1.0リリース。

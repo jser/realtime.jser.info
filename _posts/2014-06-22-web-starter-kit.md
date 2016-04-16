@@ -10,7 +10,9 @@ tags:
   - web
   - Tools
 relatedLinks:
-  - title: 'Chromium Blog: Web Fundamentals and Web Starter Kit: Resources for Modern Web Development'
+  - title: >-
+      Chromium Blog: Web Fundamentals and Web Starter Kit: Resources for Modern
+      Web Development
     url: 'http://blog.chromium.org/2014/06/web-fundamentals-and-web-starter-kit.html'
 ---
 Web Fundamentalsのプラクティスを実際に行うのを補助する初期セット/boilerplate。

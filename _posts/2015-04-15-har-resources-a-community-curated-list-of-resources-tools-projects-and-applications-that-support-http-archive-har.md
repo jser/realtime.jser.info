@@ -1,5 +1,7 @@
 ---
-title: 'HAR Resources | A community curated list of resources, tools, projects and applications that support HTTP Archive (HAR)'
+title: >-
+  HAR Resources | A community curated list of resources, tools, projects and
+  applications that support HTTP Archive (HAR)
 author: azu
 layout: post
 itemUrl: 'https://ahmadnassri.github.io/har-resources'

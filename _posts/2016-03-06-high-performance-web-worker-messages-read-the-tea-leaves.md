@@ -1,5 +1,5 @@
 ---
-title: 'High-performance Web Worker messages | Read the Tea Leaves'
+title: High-performance Web Worker messages | Read the Tea Leaves
 author: azu
 layout: post
 itemUrl: 'http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/'
@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: How fast are web workers? ★ Mozilla Hacks – the Web developer blog
     url: 'https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/'
-  - title: 'Fast legoization | Better world by better software'
+  - title: Fast legoization | Better world by better software
     url: 'https://glebbahmutov.com/blog/fast-legoization/'
 ---
 単純なデータ転送についてのWeb Workerのパフォーマンステスト。

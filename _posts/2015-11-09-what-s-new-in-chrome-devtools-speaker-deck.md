@@ -1,5 +1,5 @@
 ---
-title: "What's new in Chrome DevTools? // Speaker Deck"
+title: What's new in Chrome DevTools? // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools'

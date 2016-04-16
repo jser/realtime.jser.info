@@ -1,5 +1,5 @@
 ---
-title: 'Automated testing in Yahoo Mail | Yahoo Engineering'
+title: Automated testing in Yahoo Mail | Yahoo Engineering
 author: azu
 layout: post
 itemUrl: 'http://yahooeng.tumblr.com/post/115664629471/automated-testing-in-yahoo-mail'

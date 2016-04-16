@@ -1,5 +1,5 @@
 ---
-title: 'Backbone with ES6 | Mike Fowler'
+title: Backbone with ES6 | Mike Fowler
 author: azu
 layout: post
 itemUrl: 'http://mikefowler.me/2014/06/11/backbone-with-es6/'

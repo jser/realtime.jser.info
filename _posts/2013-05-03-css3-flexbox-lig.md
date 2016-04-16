@@ -1,5 +1,5 @@
 ---
-title: '今こそ未来！CSS3のFlexboxを基本から理解して、使い倒そう！ | 株式会社LIG'
+title: 今こそ未来！CSS3のFlexboxを基本から理解して、使い倒そう！ | 株式会社LIG
 author: azu
 layout: post
 itemUrl: 'http://liginc.co.jp/web/html-css/css/21024'

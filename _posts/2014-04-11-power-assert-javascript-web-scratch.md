@@ -1,5 +1,5 @@
 ---
-title: 'power-assertでJavaScriptのテストをする ブラウザ編 | Web scratch'
+title: power-assertでJavaScriptのテストをする ブラウザ編 | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0411/res3820/'

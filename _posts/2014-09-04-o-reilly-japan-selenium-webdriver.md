@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - 実践 Selenium WebDriver"
+title: O'Reilly Japan - 実践 Selenium WebDriver
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116952/'

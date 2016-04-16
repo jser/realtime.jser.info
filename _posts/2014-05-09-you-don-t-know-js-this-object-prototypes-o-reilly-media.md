@@ -1,5 +1,5 @@
 ---
-title: "You Don't Know JS: this & Object Prototypes - O'Reilly Media"
+title: 'You Don''t Know JS: this & Object Prototypes - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920033738.do'

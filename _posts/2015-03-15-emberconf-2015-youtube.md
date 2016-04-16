@@ -2,7 +2,8 @@
 title: EmberConf 2015 - YouTube
 author: azu
 layout: post
-itemUrl: 'https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU#emberconf'
+itemUrl: >-
+  https://www.youtube.com/playlist?list=PLE7tQUdRKcyacwiUPs0CjPYt6tJub4xXU#emberconf
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-15T09:31:25+00:00'
 tags:

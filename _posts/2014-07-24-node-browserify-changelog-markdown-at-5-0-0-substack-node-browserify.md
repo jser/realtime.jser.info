@@ -9,8 +9,11 @@ tags:
   - browserify
   - ReleaseNote
 relatedLinks:
-  - title: node-browserify/doc/changelog/5_0.markdown at master · substack/node-browserify
-    url: 'https://github.com/substack/node-browserify/blob/master/doc/changelog/5_0.markdown'
+  - title: >-
+      node-browserify/doc/changelog/5_0.markdown at master ·
+      substack/node-browserify
+    url: >-
+      https://github.com/substack/node-browserify/blob/master/doc/changelog/5_0.markdown
   - title: substack/labeled-stream-splicer
     url: 'https://github.com/substack/labeled-stream-splicer'
 ---

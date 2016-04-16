@@ -1,5 +1,5 @@
 ---
-title: 'status.modern.IEの見方 | Web Scratch'
+title: status.modern.IEの見方 | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/10/19/modern-ie/'

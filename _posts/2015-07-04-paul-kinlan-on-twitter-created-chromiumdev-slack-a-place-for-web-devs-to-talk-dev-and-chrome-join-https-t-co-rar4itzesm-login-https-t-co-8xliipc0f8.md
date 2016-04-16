@@ -1,5 +1,8 @@
 ---
-title: 'Paul Kinlan on Twitter: "Created @ChromiumDev slack. A place for web devs to talk dev and chrome Join ☞ https://t.co/RAr4iTzesM Login ☞ https://t.co/8xLiIpC0F8"'
+title: >-
+  Paul Kinlan on Twitter: "Created @ChromiumDev slack. A place for web devs to
+  talk dev and chrome Join ☞ https://t.co/RAr4iTzesM Login ☞
+  https://t.co/8xLiIpC0F8"
 author: azu
 layout: post
 itemUrl: 'https://twitter.com/Paul_Kinlan/status/598494432321773569'

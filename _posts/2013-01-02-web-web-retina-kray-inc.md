@@ -1,5 +1,5 @@
 ---
-title: 'Webサイト＆WebアプリのRetina対応方法まとめ | KRAY Inc'
+title: Webサイト＆WebアプリのRetina対応方法まとめ | KRAY Inc
 author: azu
 layout: post
 itemUrl: 'http://kray.jp/blog/retina-web/'

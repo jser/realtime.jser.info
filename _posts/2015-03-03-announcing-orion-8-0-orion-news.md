@@ -1,5 +1,5 @@
 ---
-title: 'Announcing Orion 8.0 | Orion News'
+title: Announcing Orion 8.0 | Orion News
 author: azu
 layout: post
 itemUrl: 'http://planetorion.org/news/2015/02/announcing-orion-8-0/'

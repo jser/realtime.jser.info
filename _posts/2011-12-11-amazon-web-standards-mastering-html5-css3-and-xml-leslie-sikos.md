@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Web Standards: Mastering Html5, Css3, and Xml [ペーパーバック]: Leslie Sikos』'
+title: >-
+  『Amazon: Web Standards: Mastering Html5, Css3, and Xml [ペーパーバック]: Leslie
+  Sikos』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/1430240415/book042-22/ref=nosim'

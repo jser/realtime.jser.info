@@ -1,5 +1,7 @@
 ---
-title: 'JavaScriptで実装されたJavaScriptエンジン「Narcissus」をFirefoxで利用するためのアドオン「Zaphod 1.2」、Mozilla Labsがリリース - SourceForge.JP Magazine : オープンソースの話題満載'
+title: >-
+  JavaScriptで実装されたJavaScriptエンジン「Narcissus」をFirefoxで利用するためのアドオン「Zaphod
+  1.2」、Mozilla Labsがリリース - SourceForge.JP Magazine : オープンソースの話題満載
 author: azu
 layout: post
 itemUrl: 'http://sourceforge.jp/magazine/11/07/28/0931214'

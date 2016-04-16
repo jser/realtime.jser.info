@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - メンテナブルJavaScript"
+title: O'Reilly Japan - メンテナブルJavaScript
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116105/'

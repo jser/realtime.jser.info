@@ -10,7 +10,9 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: 'Release Underscore 1.7.0 by akre54 · Pull Request #1799 · jashkenas/underscore'
+  - title: >-
+      Release Underscore 1.7.0 by akre54 · Pull Request #1799 ·
+      jashkenas/underscore
     url: 'https://github.com/jashkenas/underscore/pull/1799#issuecomment-53577944'
 ---
 Underscore 1.7.0 リリース。

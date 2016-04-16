@@ -1,5 +1,5 @@
 ---
-title: 'Opera Developer News - Hello Opera 12!'
+title: Opera Developer News - Hello Opera 12!
 author: azu
 layout: post
 itemUrl: 'http://my.opera.com/ODIN/blog/hello-opera-12'

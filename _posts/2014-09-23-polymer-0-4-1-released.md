@@ -1,5 +1,5 @@
 ---
-title: 'Polymer 0.4.1 Released!'
+title: Polymer 0.4.1 Released!
 author: azu
 layout: post
 itemUrl: 'http://blog.polymer-project.org/releases/2014/09/18/release-0.4.1/'

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - library
 relatedLinks:
-  - title: "【翻訳】あなたが求めていたリアクティブプログラミング入門 - ninjinkun's diary"
+  - title: 【翻訳】あなたが求めていたリアクティブプログラミング入門 - ninjinkun's diary
     url: 'http://ninjinkun.hatenablog.com/entry/introrxja'
 ---
 リアクティブプログラミングにおけるストリームの実装ライブラリと、ストリームについての解説。

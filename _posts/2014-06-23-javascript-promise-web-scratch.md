@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Promiseの本を書きました | Web scratch'
+title: JavaScript Promiseの本を書きました | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0623/res3943/'

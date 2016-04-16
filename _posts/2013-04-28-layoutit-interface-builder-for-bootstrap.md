@@ -1,5 +1,5 @@
 ---
-title: 'LayoutIt! - Interface Builder for Bootstrap'
+title: LayoutIt! - Interface Builder for Bootstrap
 author: azu
 layout: post
 itemUrl: 'http://www.layoutit.com/'

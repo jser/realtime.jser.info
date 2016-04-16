@@ -1,5 +1,5 @@
 ---
-title: 'Cross-platform app development with HTML5 | Kendo UI Survey'
+title: Cross-platform app development with HTML5 | Kendo UI Survey
 author: azu
 layout: post
 itemUrl: 'http://www.kendoui.com/surveys/global-developer-survey-2013.aspx'

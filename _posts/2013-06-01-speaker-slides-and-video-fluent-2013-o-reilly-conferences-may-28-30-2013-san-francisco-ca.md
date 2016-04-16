@@ -1,5 +1,7 @@
 ---
-title: "Speaker Slides and Video: Fluent 2013 - O'Reilly Conferences, May 28 - 30, 2013, San Francisco, CA"
+title: >-
+  Speaker Slides and Video: Fluent 2013 - O'Reilly Conferences, May 28 - 30,
+  2013, San Francisco, CA
 author: azu
 layout: post
 itemUrl: 'http://fluentconf.com/fluent2013/public/schedule/proceedings'

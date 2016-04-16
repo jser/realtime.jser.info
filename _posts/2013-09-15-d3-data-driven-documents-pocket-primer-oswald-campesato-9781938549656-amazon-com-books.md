@@ -1,5 +1,7 @@
 ---
-title: 'D3: Data Driven Documents: Pocket Primer: Oswald Campesato: 9781938549656: Amazon.com: Books'
+title: >-
+  D3: Data Driven Documents: Pocket Primer: Oswald Campesato: 9781938549656:
+  Amazon.com: Books
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1938549651/amazon0abac-22/ref=nosim'

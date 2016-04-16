@@ -1,5 +1,5 @@
 ---
-title: "Web Audio API - O'Reilly Media"
+title: Web Audio API - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920025948.do'

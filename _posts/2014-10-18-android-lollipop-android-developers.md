@@ -1,5 +1,5 @@
 ---
-title: 'Android Lollipop | Android Developers'
+title: Android Lollipop | Android Developers
 author: azu
 layout: post
 itemUrl: 'http://developer.android.com/about/versions/lollipop.html#WebView'

@@ -1,5 +1,5 @@
 ---
-title: 'Getting Started With Gulp | Travis Maynard'
+title: Getting Started With Gulp | Travis Maynard
 author: azu
 layout: post
 itemUrl: 'http://travismaynard.com/writing/getting-started-with-gulp'

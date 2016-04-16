@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Migrate 1.1.1 Released | Official jQuery Blog'
+title: jQuery Migrate 1.1.1 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/02/16/jquery-migrate-1-1-1-released/'

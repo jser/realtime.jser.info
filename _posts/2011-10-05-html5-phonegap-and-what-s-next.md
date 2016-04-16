@@ -1,5 +1,5 @@
 ---
-title: "HTML5, PhoneGap and What's Next"
+title: 'HTML5, PhoneGap and What''s Next'
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/m0bz/html5-phonegap-and-whats-next'

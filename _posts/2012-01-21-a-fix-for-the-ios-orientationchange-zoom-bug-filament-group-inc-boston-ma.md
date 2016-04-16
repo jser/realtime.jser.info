@@ -1,5 +1,7 @@
 ---
-title: '『A Fix for the iOS Orientationchange Zoom Bug | Filament Group, Inc., Boston, MA』'
+title: >-
+  『A Fix for the iOS Orientationchange Zoom Bug | Filament Group, Inc., Boston,
+  MA』
 author: azu
 layout: post
 itemUrl: 'http://filamentgroup.com/lab/a_fix_for_the_ios_orientationchange_zoom_bug/'

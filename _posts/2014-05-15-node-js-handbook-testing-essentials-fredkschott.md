@@ -1,5 +1,5 @@
 ---
-title: 'Node.js Handbook - Testing Essentials | FredKSchott'
+title: Node.js Handbook - Testing Essentials | FredKSchott
 author: azu
 layout: post
 itemUrl: 'http://fredkschott.com/post/2014/05/nodejs-testing-essentials/'

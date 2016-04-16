@@ -1,5 +1,5 @@
 ---
-title: 'Compass 1.0 is Released! | Compass Documentation'
+title: Compass 1.0 is Released! | Compass Documentation
 author: azu
 layout: post
 itemUrl: 'http://compass-style.org/blog/2014/08/15/omg-compass-1-0/'

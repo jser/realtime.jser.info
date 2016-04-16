@@ -1,5 +1,7 @@
 ---
-title: 'WebStorm 10 released: improved JavaScript support, TypeScript 1.4, V8 profiling, and more | JetBrains WebStorm Blog'
+title: >-
+  WebStorm 10 released: improved JavaScript support, TypeScript 1.4, V8
+  profiling, and more | JetBrains WebStorm Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2015/03/webstorm-10-released/'
@@ -9,7 +11,7 @@ tags:
   - WebStorm
   - ReleaseNote
 relatedLinks:
-  - title: "What's new in WebStorm 10"
+  - title: What's new in WebStorm 10
     url: 'https://www.jetbrains.com/webstorm/whatsnew/'
 ---
 WebStorm 10リリース。

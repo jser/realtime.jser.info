@@ -1,5 +1,5 @@
 ---
-title: 'WebStorm 10 EAP | JetBrains WebStorm Blog'
+title: WebStorm 10 EAP | JetBrains WebStorm Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2015/02/webstorm-10-eap/'

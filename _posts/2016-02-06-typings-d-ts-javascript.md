@@ -1,5 +1,5 @@
 ---
-title: 'typings で d.ts の管理をする | スマホ神 – JavaScript 受託開発 –'
+title: typings で d.ts の管理をする | スマホ神 – JavaScript 受託開発 –
 author: azu
 layout: post
 itemUrl: 'http://smart.ataglance.jp/2016-02-04-manage-dts-by-typings/'

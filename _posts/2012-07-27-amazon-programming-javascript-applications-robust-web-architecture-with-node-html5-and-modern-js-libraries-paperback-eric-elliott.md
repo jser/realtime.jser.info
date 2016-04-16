@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Programming JavaScript Applications: Robust Web Architecture With Node, HTML5, and Modern JS Libraries [Paperback]: Eric Elliott'
+title: >-
+  Amazon: Programming JavaScript Applications: Robust Web Architecture With
+  Node, HTML5, and Modern JS Libraries [Paperback]: Eric Elliott
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1449320945/book042-22/ref=nosim'

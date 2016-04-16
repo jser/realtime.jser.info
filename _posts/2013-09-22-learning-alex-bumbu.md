@@ -1,5 +1,5 @@
 ---
-title: 'Learning | alex bumbu'
+title: Learning | alex bumbu
 author: azu
 layout: post
 itemUrl: 'http://bumbu.ru/learning/'

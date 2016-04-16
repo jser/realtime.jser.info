@@ -1,5 +1,5 @@
 ---
-title: 'HTML5 Drag and dropを実装してみよう | Dress Cording'
+title: HTML5 Drag and dropを実装してみよう | Dress Cording
 author: azu
 layout: post
 itemUrl: 'http://dresscording.com/blog/html5/drag_drop.html'

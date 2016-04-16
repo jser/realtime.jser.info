@@ -1,5 +1,5 @@
 ---
-title: 'qooxdoo 2.0 released | qooxdoo News'
+title: qooxdoo 2.0 released | qooxdoo News
 author: azu
 layout: post
 itemUrl: 'http://news.qooxdoo.org/qooxdoo-2-0-released'

@@ -1,5 +1,5 @@
 ---
-title: 'Introducing Gladius 0.2 | Mozilla Labs'
+title: Introducing Gladius 0.2 | Mozilla Labs
 author: azu
 layout: post
 itemUrl: 'http://blog.mozilla.org/labs/2012/06/introducing-gladius-0-2/'

@@ -1,5 +1,5 @@
 ---
-title: '『Dojo 1.7.1 is Released! | The Dojo Toolkit Blog』'
+title: 『Dojo 1.7.1 is Released! | The Dojo Toolkit Blog』
 author: azu
 layout: post
 itemUrl: 'http://dojotoolkit.org/blog/dojo-1-7-1-is-released'

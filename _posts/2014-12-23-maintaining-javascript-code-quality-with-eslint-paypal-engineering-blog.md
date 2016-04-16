@@ -1,8 +1,9 @@
 ---
-title: 'Maintaining JavaScript Code Quality with ESLint | PayPal Engineering Blog'
+title: Maintaining JavaScript Code Quality with ESLint | PayPal Engineering Blog
 author: azu
 layout: post
-itemUrl: 'https://www.paypal-engineering.com/2014/12/12/maintaining-javascript-code-quality-with-eslint/'
+itemUrl: >-
+  https://www.paypal-engineering.com/2014/12/12/maintaining-javascript-code-quality-with-eslint/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-23T08:52:12+00:00'
 tags:

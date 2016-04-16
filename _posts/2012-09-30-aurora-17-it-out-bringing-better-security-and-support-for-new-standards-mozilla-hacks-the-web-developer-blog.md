@@ -1,5 +1,7 @@
 ---
-title: 'Aurora 17 it out, bringing better security and support for new standards ✩ Mozilla Hacks – the Web developer blog'
+title: >-
+  Aurora 17 it out, bringing better security and support for new standards ✩
+  Mozilla Hacks – the Web developer blog
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2012/08/aurora-17-is-out/'

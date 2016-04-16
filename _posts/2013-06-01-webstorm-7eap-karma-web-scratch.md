@@ -1,5 +1,5 @@
 ---
-title: 'WebStorm 7EAPのkarma連携について | Web scratch'
+title: WebStorm 7EAPのkarma連携について | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/0601/res3292/'

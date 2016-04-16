@@ -1,5 +1,5 @@
 ---
-title: "Bug-org 730760 laying out and rendering shouldn't halt by"
+title: Bug-org 730760 laying out and rendering shouldn't halt by
 author: azu
 layout: post
 itemUrl: 'http://www.d-toybox.com/studio/weblog/show.php?mode=single;id=2012022800'

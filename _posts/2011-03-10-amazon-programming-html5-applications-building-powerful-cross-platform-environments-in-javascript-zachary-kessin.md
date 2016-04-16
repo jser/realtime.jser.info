@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Programming HTML5 Applications: Building Powerful Cross-Platform Environments in Javascript: Zachary Kessin'
+title: >-
+  Amazon: Programming HTML5 Applications: Building Powerful Cross-Platform
+  Environments in Javascript: Zachary Kessin
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1449399088/book042-22/ref=nosim'

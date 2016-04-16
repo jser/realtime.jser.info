@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 35 Beta: More developer control over touch input, new JavaScript features, and unprefixed Shadow DOM'
+title: >-
+  Chromium Blog: Chrome 35 Beta: More developer control over touch input, new
+  JavaScript features, and unprefixed Shadow DOM
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2014/04/chrome-35-beta-more-developer-control.html'
@@ -9,7 +11,8 @@ tags:
   - Chrome
 relatedLinks:
   - title: タッチ操作向けサイト構築のガイドライン - IEBlog 日本語 - Site Home - MSDN Blogs
-    url: 'http://blogs.msdn.com/b/ie_ja/archive/2012/04/28/guidelines-for-building-touch-friendly-sites.aspx'
+    url: >-
+      http://blogs.msdn.com/b/ie_ja/archive/2012/04/28/guidelines-for-building-touch-friendly-sites.aspx
   - title: JavaScript - ナウでヤングな CSS Font Loading - Qiita
     url: 'http://qiita.com/damele0n/items/6afc5160cf7ea8b15787'
 ---

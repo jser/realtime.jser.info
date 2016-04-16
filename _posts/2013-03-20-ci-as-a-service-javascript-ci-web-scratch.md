@@ -1,5 +1,5 @@
 ---
-title: 'CI as a Service – ブラウザを使ったJavaScriptのテストをCIサービスで動かす方法のまとめ | Web scratch'
+title: CI as a Service – ブラウザを使ったJavaScriptのテストをCIサービスで動かす方法のまとめ | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/0321/res3234/'

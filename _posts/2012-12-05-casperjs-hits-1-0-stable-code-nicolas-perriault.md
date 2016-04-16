@@ -1,5 +1,5 @@
 ---
-title: 'CasperJS hits 1.0 stable | Code | Nicolas Perriault'
+title: CasperJS hits 1.0 stable | Code | Nicolas Perriault
 author: azu
 layout: post
 itemUrl: 'https://nicolas.perriault.net/code/2012/casperjs-hits-1-0-stable/'

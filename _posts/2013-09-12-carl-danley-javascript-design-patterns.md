@@ -1,5 +1,5 @@
 ---
-title: 'Carl Danley | JavaScript Design Patterns'
+title: Carl Danley | JavaScript Design Patterns
 author: azu
 layout: post
 itemUrl: 'http://carldanley.com/javascript-design-patterns/'

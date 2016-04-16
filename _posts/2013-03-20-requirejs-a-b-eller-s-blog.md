@@ -1,5 +1,5 @@
 ---
-title: "RequireJSを活用したキャッシュ防止、A/Bテスト、画像事前読込など - eller's blog"
+title: RequireJSを活用したキャッシュ防止、A/Bテスト、画像事前読込など - eller's blog
 author: azu
 layout: post
 itemUrl: 'http://eller86.hatenablog.jp/entry/2013/03/20/004648'

@@ -1,5 +1,5 @@
 ---
-title: 'Syncfusion Ebooks | TypeScript Succinctly'
+title: Syncfusion Ebooks | TypeScript Succinctly
 author: azu
 layout: post
 itemUrl: 'http://www.syncfusion.com/resources/techportal/ebooks/typescript'

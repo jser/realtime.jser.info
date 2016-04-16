@@ -1,5 +1,5 @@
 ---
-title: "What are Generators? | Flippin' Awesome"
+title: What are Generators? | Flippin' Awesome
 author: azu
 layout: post
 itemUrl: 'http://flippinawesome.org/2013/06/24/what-are-generators/'

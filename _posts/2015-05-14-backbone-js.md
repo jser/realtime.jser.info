@@ -10,9 +10,11 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: 'Use Function("return this") to get global? · Issue #2152 · jashkenas/underscore'
+  - title: >-
+      Use Function("return this") to get global? · Issue #2152 ·
+      jashkenas/underscore
     url: 'https://github.com/jashkenas/underscore/issues/2152'
-  - title: 'ES6 moduleのtop levelにある`this`の値は何になるのか? | Web Scratch'
+  - title: ES6 moduleのtop levelにある`this`の値は何になるのか? | Web Scratch
     url: 'http://efcl.info/2015/05/06/this-is-es6-module/'
 ---
 Backbone.js 1.2.0リリース

@@ -1,5 +1,7 @@
 ---
-title: "JSといえばjQueryだったWebデザイナーが、Reactを1年間使って感じたメリット | dwango creators' blog（ドワンゴクリエイターズブログ）"
+title: >-
+  JSといえばjQueryだったWebデザイナーが、Reactを1年間使って感じたメリット | dwango creators'
+  blog（ドワンゴクリエイターズブログ）
 author: azu
 layout: post
 itemUrl: 'http://creator.dwango.co.jp/3413.html'

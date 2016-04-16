@@ -1,5 +1,5 @@
 ---
-title: 'Testing in Node.js | Nettuts+'
+title: Testing in Node.js | Nettuts+
 author: azu
 layout: post
 itemUrl: 'http://net.tutsplus.com/tutorials/javascript-ajax/testing-in-node-js/'

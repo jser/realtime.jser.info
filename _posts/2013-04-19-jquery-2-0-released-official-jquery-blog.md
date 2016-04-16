@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 2.0 Released | Official jQuery Blog'
+title: jQuery 2.0 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/04/18/jquery-2-0-released/'

@@ -10,7 +10,7 @@ tags:
   - CSS
   - スライド
 relatedLinks:
-  - title: 'Фронтенд разработка без боли|лекция в KLЮTCH | VK'
+  - title: Фронтенд разработка без боли|лекция в KLЮTCH | VK
     url: 'http://vk.com/event69759919'
 ---
 "痛みをとはないフロントエンド開発" 

@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Cookbook, 2nd Edition - O'Reilly Media"
+title: 'JavaScript Cookbook, 2nd Edition - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920033455.do'

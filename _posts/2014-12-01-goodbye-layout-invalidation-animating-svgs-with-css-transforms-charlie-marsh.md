@@ -1,5 +1,7 @@
 ---
-title: 'Goodbye, Layout Invalidation: Animating SVGs With CSS Transforms | Charlie Marsh'
+title: >-
+  Goodbye, Layout Invalidation: Animating SVGs With CSS Transforms | Charlie
+  Marsh
 author: azu
 layout: post
 itemUrl: 'http://www.princeton.edu/~crmarsh/svg-performance/'

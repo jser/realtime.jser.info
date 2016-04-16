@@ -1,5 +1,5 @@
 ---
-title: 'The Pragmatic Bookshelf | Async JavaScript'
+title: The Pragmatic Bookshelf | Async JavaScript
 author: azu
 layout: post
 itemUrl: 'http://pragprog.com/book/tbajs/async-javascript'

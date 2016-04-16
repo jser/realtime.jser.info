@@ -1,5 +1,5 @@
 ---
-title: 'Operadores Bitwise en Javascript | EtnasSoft'
+title: Operadores Bitwise en Javascript | EtnasSoft
 author: azu
 layout: post
 itemUrl: 'http://www.etnassoft.com/2012/06/06/operadores-bitwise-en-javascript/'

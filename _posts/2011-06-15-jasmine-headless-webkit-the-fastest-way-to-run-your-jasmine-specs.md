@@ -1,5 +1,5 @@
 ---
-title: 'jasmine-headless-webkit -- The fastest way to run your Jasmine specs!'
+title: jasmine-headless-webkit -- The fastest way to run your Jasmine specs!
 author: azu
 layout: post
 itemUrl: 'http://johnbintz.github.com/jasmine-headless-webkit/'

@@ -1,5 +1,5 @@
 ---
-title: 'A Complete Guide to SVG Fallbacks | CSS-Tricks'
+title: A Complete Guide to SVG Fallbacks | CSS-Tricks
 author: azu
 layout: post
 itemUrl: 'https://css-tricks.com/a-complete-guide-to-svg-fallbacks/'

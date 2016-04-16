@@ -1,5 +1,5 @@
 ---
-title: '初心者でも絶対わかる、WebGLプログラミング＜基礎知識編＞ | HTML5Experts.jp'
+title: 初心者でも絶対わかる、WebGLプログラミング＜基礎知識編＞ | HTML5Experts.jp
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/yomotsu/2897/'

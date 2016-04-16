@@ -1,5 +1,5 @@
 ---
-title: "typeOf 'aki_mana' : JavaScript : localStorage と IndexedDB"
+title: 'typeOf ''aki_mana'' : JavaScript : localStorage と IndexedDB'
 author: azu
 layout: post
 itemUrl: 'http://blog.livedoor.jp/aki_mana/archives/6155372.html'

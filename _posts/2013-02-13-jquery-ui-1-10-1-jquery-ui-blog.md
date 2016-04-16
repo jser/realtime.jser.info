@@ -1,5 +1,5 @@
 ---
-title: 'jQuery UI 1.10.1 | jQuery UI Blog'
+title: jQuery UI 1.10.1 | jQuery UI Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jqueryui.com/2013/02/jquery-ui-1-10-1/'

@@ -9,7 +9,7 @@ tags:
   - React
   - スライド
 relatedLinks:
-  - title: 'Forms | React'
+  - title: Forms | React
     url: 'http://facebook.github.io/react/docs/forms.html#controlled-components'
   - title: matthewwithanm/react-controllables
     url: 'https://github.com/matthewwithanm/react-controllables'

@@ -1,5 +1,5 @@
 ---
-title: 'Firebug & DevTools Integration ★ Mozilla Hacks – the Web developer blog'
+title: Firebug & DevTools Integration ★ Mozilla Hacks – the Web developer blog
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2015/10/firebug-devtools-integration/'

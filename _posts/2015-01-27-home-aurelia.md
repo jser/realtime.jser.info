@@ -1,5 +1,5 @@
 ---
-title: 'Home | Aurelia'
+title: Home | Aurelia
 author: azu
 layout: post
 itemUrl: 'http://aurelia.io/'

@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - セレクタ、詳細度、カスケード"
+title: O'Reilly Japan - セレクタ、詳細度、カスケード
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116037/'

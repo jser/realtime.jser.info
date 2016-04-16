@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Sams Teach Yourself jQuery Mobile in 24 Hours (Sams Teach Yourself -- Hours) [Paperback]: Phillip Dutson』'
+title: >-
+  『Amazon: Sams Teach Yourself jQuery Mobile in 24 Hours (Sams Teach Yourself --
+  Hours) [Paperback]: Phillip Dutson』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0672335948/book042-22/ref=nosim'

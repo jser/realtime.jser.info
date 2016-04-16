@@ -1,5 +1,7 @@
 ---
-title: 'Kinoma now shipping JavaScript 6th Edition (ES6) support | Kinoma Notes - Blog of Kinoma team'
+title: >-
+  Kinoma now shipping JavaScript 6th Edition (ES6) support | Kinoma Notes - Blog
+  of Kinoma team
 author: azu
 layout: post
 itemUrl: 'http://blog.kinoma.com/2015/10/es6_support/'

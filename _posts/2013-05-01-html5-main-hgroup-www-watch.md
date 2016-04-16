@@ -1,5 +1,5 @@
 ---
-title: 'HTML5 勧告候補に main 要素が追加、hgroup 要素は予定通り削除 | WWW WATCH'
+title: HTML5 勧告候補に main 要素が追加、hgroup 要素は予定通り削除 | WWW WATCH
 author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2013/04/add_main_html5_cr.shtml'

@@ -1,5 +1,5 @@
 ---
-title: "ES5: Strict Mode < Rob Sayre's Mozilla Blog"
+title: 'ES5: Strict Mode < Rob Sayre''s Mozilla Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.mozilla.com/rob-sayre/2011/01/12/es5-strict-mode/'

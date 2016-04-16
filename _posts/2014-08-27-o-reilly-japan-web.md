@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - モダンWeb"
+title: O'Reilly Japan - モダンWeb
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116921/'

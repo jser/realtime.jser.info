@@ -1,5 +1,5 @@
 ---
-title: "BackBone Model Unit Testing with Jasmine | Ken Tabor's Dev Articles"
+title: BackBone Model Unit Testing with Jasmine | Ken Tabor's Dev Articles
 author: azu
 layout: post
 itemUrl: 'http://blog.katworksgames.com/2013/03/30/bb_model_test_jasmine/'

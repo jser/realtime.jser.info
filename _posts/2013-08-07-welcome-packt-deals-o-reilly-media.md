@@ -1,5 +1,5 @@
 ---
-title: "Welcome Packt - Deals - O'Reilly Media"
+title: Welcome Packt - Deals - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/category/deals/packt.do'

@@ -1,5 +1,5 @@
 ---
-title: '『ウェブデザイナのためのRuby入門 | CSS Radar | For Frond End Developers』'
+title: 『ウェブデザイナのためのRuby入門 | CSS Radar | For Frond End Developers』
 author: azu
 layout: post
 itemUrl: 'http://css.studiomohawk.com/tool/2011/05/14/ruby_for_designer_frontend_dev/'

@@ -1,5 +1,5 @@
 ---
-title: 'Say "Hello" to Lo-Dash - Kit Cambridge'
+title: Say "Hello" to Lo-Dash - Kit Cambridge
 author: azu
 layout: post
 itemUrl: 'http://kitcambridge.github.com/blog/say-hello-to-lo-dash/'

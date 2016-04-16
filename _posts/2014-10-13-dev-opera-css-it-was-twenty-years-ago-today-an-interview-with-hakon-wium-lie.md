@@ -1,5 +1,7 @@
 ---
-title: 'Dev.Opera — CSS: It was twenty years ago today — an interview with Håkon Wium Lie'
+title: >-
+  Dev.Opera — CSS: It was twenty years ago today — an interview with Håkon Wium
+  Lie
 author: azu
 layout: post
 itemUrl: 'https://dev.opera.com/articles/css-twenty-years-hakon/'

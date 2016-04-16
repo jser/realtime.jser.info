@@ -1,5 +1,8 @@
 ---
-title: 'naomiaro/waveform-playlist: Multitrack Web Audio editor and player with canvas waveform preview. Set cues, fades and shift multiple tracks in time. Project inspired by Audacity.'
+title: >-
+  naomiaro/waveform-playlist: Multitrack Web Audio editor and player with canvas
+  waveform preview. Set cues, fades and shift multiple tracks in time. Project
+  inspired by Audacity.
 author: azu
 layout: post
 itemUrl: 'https://github.com/naomiaro/waveform-playlist'

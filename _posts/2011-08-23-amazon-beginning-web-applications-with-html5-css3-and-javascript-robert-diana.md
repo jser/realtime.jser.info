@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Beginning Web Applications: With HTML5, CSS3, and JavaScript: Robert Diana』'
+title: >-
+  『Amazon: Beginning Web Applications: With HTML5, CSS3, and JavaScript: Robert
+  Diana』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1430240806'

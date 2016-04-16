@@ -1,5 +1,5 @@
 ---
-title: 'Release Release 1.0.0! · teppeis/fixclosure'
+title: Release Release 1.0.0! · teppeis/fixclosure
 author: azu
 layout: post
 itemUrl: 'https://github.com/teppeis/fixclosure/releases/tag/1.0.0'

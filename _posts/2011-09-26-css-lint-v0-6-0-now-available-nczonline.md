@@ -1,5 +1,5 @@
 ---
-title: 'CSS Lint v0.6.0 now available | NCZOnline'
+title: CSS Lint v0.6.0 now available | NCZOnline
 author: azu
 layout: post
 itemUrl: 'http://www.nczonline.net/blog/2011/09/03/css-lint-v0-6-0-now-available/'

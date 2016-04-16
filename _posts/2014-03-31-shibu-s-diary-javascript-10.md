@@ -1,5 +1,5 @@
 ---
-title: "Shibu's Diary: JavaScriptのメモリリークを10倍速で発見する"
+title: 'Shibu''s Diary: JavaScriptのメモリリークを10倍速で発見する'
 author: azu
 layout: post
 itemUrl: 'http://blog.shibu.jp/article/92030639.html'

@@ -1,5 +1,5 @@
 ---
-title: "What's New in JavaScript"
+title: What's New in JavaScript
 author: azu
 layout: post
 itemUrl: 'https://msdn.microsoft.com/en-us/library/ie/br212465(v=vs.94).aspx'

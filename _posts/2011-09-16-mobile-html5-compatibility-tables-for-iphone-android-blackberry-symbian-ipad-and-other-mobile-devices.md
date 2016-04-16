@@ -1,5 +1,7 @@
 ---
-title: '『Mobile HTML5 - compatibility tables for iPhone, Android, BlackBerry, Symbian, iPad and other mobile devices』'
+title: >-
+  『Mobile HTML5 - compatibility tables for iPhone, Android, BlackBerry, Symbian,
+  iPad and other mobile devices』
 author: azu
 layout: post
 itemUrl: 'http://mobilehtml5.org/'

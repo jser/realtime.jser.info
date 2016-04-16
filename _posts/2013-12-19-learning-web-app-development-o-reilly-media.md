@@ -1,5 +1,5 @@
 ---
-title: "Learning Web App Development - O'Reilly Media"
+title: Learning Web App Development - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920030621.do'

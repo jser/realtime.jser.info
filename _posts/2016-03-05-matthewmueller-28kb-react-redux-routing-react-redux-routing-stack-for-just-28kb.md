@@ -1,5 +1,7 @@
 ---
-title: 'matthewmueller/28kb-react-redux-routing: React + Redux + Routing Stack for just 28kb'
+title: >-
+  matthewmueller/28kb-react-redux-routing: React + Redux + Routing Stack for
+  just 28kb
 author: azu
 layout: post
 itemUrl: 'https://github.com/matthewmueller/28kb-react-redux-routing'

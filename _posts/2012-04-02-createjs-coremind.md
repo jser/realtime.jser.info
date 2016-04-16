@@ -1,5 +1,5 @@
 ---
-title: 'CreateJSでゲームを作った感想 | Coremind'
+title: CreateJSでゲームを作った感想 | Coremind
 author: azu
 layout: post
 itemUrl: 'http://coremind.jp/blog/archives/44'

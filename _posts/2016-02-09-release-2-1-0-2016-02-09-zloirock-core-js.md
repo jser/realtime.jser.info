@@ -12,7 +12,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: decorators/metadata.md at master · jonathandturner/decorators
-    url: 'https://github.com/jonathandturner/decorators/blob/master/specs/metadata.md'
+    url: >-
+      https://github.com/jonathandturner/decorators/blob/master/specs/metadata.md
 ---
 core-js 2.1.0リリース。
 ES5 polyfillの分離。

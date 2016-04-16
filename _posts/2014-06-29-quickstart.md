@@ -11,7 +11,7 @@ tags:
   - JavaScript
   - Tools
 relatedLinks:
-  - title: 'Node.jsで書いてQuickStartを使ってブラウザで実行する話 | Web scratch'
+  - title: Node.jsで書いてQuickStartを使ってブラウザで実行する話 | Web scratch
     url: 'http://efcl.info/2014/0629/res3956/'
 ---
 BrowserifyみたいにCommonJSで書いたものをビルド出来るツール。 ビルドだけじゃなくてローダとしても使えるようになってるため、開発時は毎回のビルドをしなくても利用できる。

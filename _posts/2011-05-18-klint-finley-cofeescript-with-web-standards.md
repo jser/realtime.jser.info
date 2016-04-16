@@ -1,5 +1,7 @@
 ---
-title: Klint Finley「CofeeScriptクリエータへのインタビュー」 - クライアント・サイド・スクリプティング with Web Standards
+title: >-
+  Klint Finley「CofeeScriptクリエータへのインタビュー」 - クライアント・サイド・スクリプティング with Web
+  Standards
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/vwxyz/20110510/1305021189'

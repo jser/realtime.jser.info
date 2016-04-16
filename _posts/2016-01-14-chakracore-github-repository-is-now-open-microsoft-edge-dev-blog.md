@@ -1,5 +1,5 @@
 ---
-title: 'ChakraCore GitHub repository is now open | Microsoft Edge Dev Blog'
+title: ChakraCore GitHub repository is now open | Microsoft Edge Dev Blog
 author: azu
 layout: post
 itemUrl: 'https://blogs.windows.com/msedgedev/2016/01/13/chakracore-now-open/'

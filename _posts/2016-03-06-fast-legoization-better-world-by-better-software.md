@@ -1,5 +1,5 @@
 ---
-title: 'Fast legoization | Better world by better software'
+title: Fast legoization | Better world by better software
 author: azu
 layout: post
 itemUrl: 'https://glebbahmutov.com/blog/fast-legoization/'

@@ -1,5 +1,5 @@
 ---
-title: 'StrongLoop | New io.js Features You May Not Be Using'
+title: StrongLoop | New io.js Features You May Not Be Using
 author: azu
 layout: post
 itemUrl: 'https://strongloop.com/strongblog/new-io-js-features-you-may-not-be-using/'

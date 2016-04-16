@@ -1,5 +1,7 @@
 ---
-title: "don't code today what you can't debug tomorrow: PhantomJS: minimalistic headless WebKit-based JavaScript-driven tool"
+title: >-
+  don't code today what you can't debug tomorrow: PhantomJS: minimalistic
+  headless WebKit-based JavaScript-driven tool
 author: azu
 layout: post
 itemUrl: 'http://ariya.blogspot.com/2011/01/phantomjs-minimalistic-headless-webkit.html'

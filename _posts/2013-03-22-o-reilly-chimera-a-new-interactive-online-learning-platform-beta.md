@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Chimera - A new interactive online learning platform (beta)"
+title: O'Reilly Chimera - A new interactive online learning platform (beta)
 author: azu
 layout: post
 itemUrl: 'http://chimera.labs.oreilly.com/books/1230000000545/'

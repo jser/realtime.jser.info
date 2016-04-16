@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: JavaScript Creativity: Exploring the Modern Capabilities of JavaScript and HTML5 [Paperback]: Shane Hudson'
+title: >-
+  Amazon: JavaScript Creativity: Exploring the Modern Capabilities of JavaScript
+  and HTML5 [Paperback]: Shane Hudson
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1430259442/amazon0abac-22/ref=nosim'

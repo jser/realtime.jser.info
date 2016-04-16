@@ -1,5 +1,5 @@
 ---
-title: 'HTTPリクエストを減らすために【序章】HTTPリクエストは甘え | MOL'
+title: HTTPリクエストを減らすために【序章】HTTPリクエストは甘え | MOL
 author: azu
 layout: post
 itemUrl: 'http://t32k.me/mol/log/reduce-http-requests-overview/'

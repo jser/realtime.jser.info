@@ -1,5 +1,7 @@
 ---
-title: Unit testing React components without a DOM – simonsmith.io – Portfolio and blog of a London based front-end web developer
+title: >-
+  Unit testing React components without a DOM – simonsmith.io – Portfolio and
+  blog of a London based front-end web developer
 author: azu
 layout: post
 itemUrl: 'http://simonsmith.io/unit-testing-react-components-without-a-dom/'

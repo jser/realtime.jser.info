@@ -10,7 +10,7 @@ tags:
   - library
   - アクセシビリティ
 relatedLinks:
-  - title: '▶ React.js Conf 2015 - Hype! - YouTube'
+  - title: ▶ React.js Conf 2015 - Hype! - YouTube
     url: 'https://www.youtube.com/watch?v=z5e7kWSHWTg#t=631'
 ---
 React Elementにアクセシビリティ的な問題がないかを警告してくれるライブラリ。

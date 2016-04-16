@@ -1,5 +1,5 @@
 ---
-title: 'Talk talks_12C5ADD371A9A5D4 - Ember Fest!'
+title: Talk talks_12C5ADD371A9A5D4 - Ember Fest!
 author: azu
 layout: post
 itemUrl: 'https://emberfest.eu/talks/talks_12C5ADD371A9A5D4'

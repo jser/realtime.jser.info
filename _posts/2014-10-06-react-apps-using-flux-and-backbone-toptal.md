@@ -1,8 +1,9 @@
 ---
-title: 'React Apps Using Flux and Backbone | Toptal'
+title: React Apps Using Flux and Backbone | Toptal
 author: azu
 layout: post
-itemUrl: 'http://www.toptal.com/front-end/simple-data-flow-in-react-applications-using-flux-and-backbone'
+itemUrl: >-
+  http://www.toptal.com/front-end/simple-data-flow-in-react-applications-using-flux-and-backbone
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-06T13:11:18+00:00'
 tags:

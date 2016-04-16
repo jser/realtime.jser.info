@@ -1,5 +1,5 @@
 ---
-title: '『Internet Explorer の自動アップグレードについて | TechNet』'
+title: 『Internet Explorer の自動アップグレードについて | TechNet』
 author: azu
 layout: post
 itemUrl: 'http://technet.microsoft.com/ja-jp/ie/hh859701'

@@ -9,7 +9,7 @@ tags:
   - Selenium
   - testing
 relatedLinks:
-  - title: 'Chai Webdriver | Bites from Good Eggs'
+  - title: Chai Webdriver | Bites from Good Eggs
     url: 'http://bites.goodeggs.com/open_source/chai-webdriver/'
 ---
 selenium-webdriverのassertionをchaiで書けるようにしたChai asertionライブラリ。

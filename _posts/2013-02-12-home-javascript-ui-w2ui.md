@@ -1,5 +1,5 @@
 ---
-title: 'Home | JavaScript UI - w2ui'
+title: Home | JavaScript UI - w2ui
 author: azu
 layout: post
 itemUrl: 'http://w2ui.com/web/home'

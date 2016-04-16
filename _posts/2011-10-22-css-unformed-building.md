@@ -1,5 +1,5 @@
 ---
-title: 'CSS アニメーションの基礎 | Unformed Building'
+title: CSS アニメーションの基礎 | Unformed Building
 author: azu
 layout: post
 itemUrl: 'http://unformedbuilding.com/articles/learn-about-css-animation/'

@@ -10,9 +10,9 @@ tags:
   - backbone.js
   - library
 relatedLinks:
-  - title: 'Ampersand.js - Backbone.jsに対抗する"フレームワークらしくない"フレームワーク'
+  - title: Ampersand.js - Backbone.jsに対抗する"フレームワークらしくない"フレームワーク
     url: 'http://www.infoq.com/jp/news/2014/07/ampersandjs'
-  - title: 'Introducing Ampersand.js | Blog'
+  - title: Introducing Ampersand.js | Blog
     url: 'http://blog.andyet.com/2014/06/25/introducing-ampersand-js'
 ---
 HumanJSの作者によるJavaScriptアプリ向けのフレームワーク。

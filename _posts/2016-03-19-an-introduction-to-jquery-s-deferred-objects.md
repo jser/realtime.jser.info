@@ -1,5 +1,5 @@
 ---
-title: "An Introduction to jQuery's Deferred Objects"
+title: An Introduction to jQuery's Deferred Objects
 author: azu
 layout: post
 itemUrl: 'http://www.sitepoint.com/introduction-jquery-deferred-objects/'

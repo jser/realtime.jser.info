@@ -1,5 +1,5 @@
 ---
-title: '『IndexedDBに関する覚書 (2011年12月版) | mzsm.me』'
+title: 『IndexedDBに関する覚書 (2011年12月版) | mzsm.me』
 author: azu
 layout: post
 itemUrl: 'http://mzsm.me/2011/12/16/indexeddb-201112/'

@@ -1,5 +1,5 @@
 ---
-title: "Const なんとかさん関連のツール群をつかうと、簡単に EcmaScript target の言語をつくれる! - tokuhirom's blog."
+title: Const なんとかさん関連のツール群をつかうと、簡単に EcmaScript target の言語をつくれる! - tokuhirom's blog.
 author: azu
 layout: post
 itemUrl: 'http://blog.64p.org/entry/2012/09/08/090729'

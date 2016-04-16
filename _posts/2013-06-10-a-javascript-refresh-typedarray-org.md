@@ -1,5 +1,5 @@
 ---
-title: 'A JavaScript refresh | TypedArray.org'
+title: A JavaScript refresh | TypedArray.org
 author: azu
 layout: post
 itemUrl: 'http://typedarray.org/javascript-refresh/'

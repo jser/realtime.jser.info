@@ -9,8 +9,11 @@ tags:
   - JavaScript
   - WebPlatformAPI
 relatedLinks:
-  - title: W3C vs. WhatWG HTML5 Specs - Differences Documented -Telerik Developer Network
-    url: 'http://developer.telerik.com/featured/w3c-vs-whatwg-html5-specs-differences-documented/'
+  - title: >-
+      W3C vs. WhatWG HTML5 Specs - Differences Documented -Telerik Developer
+      Network
+    url: >-
+      http://developer.telerik.com/featured/w3c-vs-whatwg-html5-specs-differences-documented/
 ---
 Web Notifications APIの`events`周りの仕様がW3CとWHATWGで異なるが、それぞれのブラウザの実装はどうなっているかについて。
 

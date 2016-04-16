@@ -1,5 +1,5 @@
 ---
-title: 'Selenium Testing Tools Definitive Guide | Packt Publishing'
+title: Selenium Testing Tools Definitive Guide | Packt Publishing
 author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/selenium-testing-tools-definitive-guide/book'

@@ -1,5 +1,5 @@
 ---
-title: "SVG Text Layout - O'Reilly Media"
+title: SVG Text Layout - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920043072.do'

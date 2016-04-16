@@ -1,5 +1,8 @@
 ---
-title: JavaScript - IndexedDbをActiveRecord+Promiseっぽく扱えてJSONSchemaでバリデーションできてnodeでもオンメモリで動いてくORMみたいな何か作ってみた - Qiita
+title: >-
+  JavaScript -
+  IndexedDbをActiveRecord+Promiseっぽく扱えてJSONSchemaでバリデーションできてnodeでもオンメモリで動いてくORMみたいな何か作ってみた
+  - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/mizchi/items/bd8befaffa8fe9f32522'

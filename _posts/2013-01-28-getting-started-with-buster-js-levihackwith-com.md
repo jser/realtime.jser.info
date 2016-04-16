@@ -1,5 +1,5 @@
 ---
-title: 'Getting Started With Buster.js | Levihackwith.com'
+title: Getting Started With Buster.js | Levihackwith.com
 author: azu
 layout: post
 itemUrl: 'http://www.levihackwith.com/getting-started-with-buster-js/'

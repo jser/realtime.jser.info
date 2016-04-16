@@ -1,5 +1,5 @@
 ---
-title: "Fastersite: Chrome's 10 Caches"
+title: 'Fastersite: Chrome''s 10 Caches'
 author: azu
 layout: post
 itemUrl: 'http://gent.ilcore.com/2011/02/chromes-10-caches.html'

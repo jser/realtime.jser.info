@@ -1,5 +1,5 @@
 ---
-title: "rejs – Vanilla JS Module Builderの紹介 | GREE Engineers' Blog"
+title: rejs – Vanilla JS Module Builderの紹介 | GREE Engineers' Blog
 author: azu
 layout: post
 itemUrl: 'http://labs.gree.jp/blog/2014/12/12311/'

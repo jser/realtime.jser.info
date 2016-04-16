@@ -1,5 +1,5 @@
 ---
-title: 'Differences Between CSS2.1 and CSS3+ | Impressive Webs'
+title: Differences Between CSS2.1 and CSS3+ | Impressive Webs
 author: azu
 layout: post
 itemUrl: 'http://www.impressivewebs.com/differences-between-css2-and-css3/'

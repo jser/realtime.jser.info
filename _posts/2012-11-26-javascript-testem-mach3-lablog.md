@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptのテストツール「testem」が素晴らしいぞ | Mach3.laBlog'
+title: JavaScriptのテストツール「testem」が素晴らしいぞ | Mach3.laBlog
 author: azu
 layout: post
 itemUrl: 'http://blog.mach3.jp/2012/10/js-testem-script.html'

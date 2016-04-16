@@ -9,9 +9,9 @@ tags:
   - firefox
   - ReleaseNote
 relatedLinks:
-  - title: 'Firefox 40 サイト互換性情報 - Mozilla | MDN'
+  - title: Firefox 40 サイト互換性情報 - Mozilla | MDN
     url: 'https://developer.mozilla.org/ja/Firefox/Releases/40/Site_Compatibility'
-  - title: 'Firefox 40 for developers - Mozilla | MDN'
+  - title: Firefox 40 for developers - Mozilla | MDN
     url: 'https://developer.mozilla.org/ja/Firefox/Releases/40'
 ---
 Firefox 40リリース。

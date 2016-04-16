@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: HTML5 Games - Creating Fun with HTML5, CSS3 and WebGL: Jacob Seidelin』'
+title: >-
+  『Amazon: HTML5 Games - Creating Fun with HTML5, CSS3 and WebGL: Jacob
+  Seidelin』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1119975085/book042-22/ref=nosim'

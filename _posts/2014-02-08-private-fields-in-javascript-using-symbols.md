@@ -11,8 +11,9 @@ tags:
 relatedLinks:
   - title: Symbol でプライベートな値を作る - hogehoge @teramako
     url: 'http://d.hatena.ne.jp/teramako/20130317/p3'
-  - title: 'Private instance members with weakmaps in JavaScript | NCZOnline'
-    url: 'http://www.nczonline.net/blog/2014/01/21/private-instance-members-with-weakmaps-in-javascript/'
+  - title: Private instance members with weakmaps in JavaScript | NCZOnline
+    url: >-
+      http://www.nczonline.net/blog/2014/01/21/private-instance-members-with-weakmaps-in-javascript/
 ---
 ES6 Symbols を使った真なプライベート変数の作り方について。
 

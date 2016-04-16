@@ -1,5 +1,5 @@
 ---
-title: "Shumpei Shiraishi's Weblog: ついにHTML5が勧告候補に！そしてそれが意味するもの"
+title: 'Shumpei Shiraishi''s Weblog: ついにHTML5が勧告候補に！そしてそれが意味するもの'
 author: azu
 layout: post
 itemUrl: 'http://blog.shumpei.net/2012/12/html5-cr.html'

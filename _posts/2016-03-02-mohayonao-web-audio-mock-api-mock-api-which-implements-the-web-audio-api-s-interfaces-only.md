@@ -1,5 +1,7 @@
 ---
-title: "mohayonao/web-audio-mock-api: mock API which implements the Web Audio API's interfaces only"
+title: >-
+  mohayonao/web-audio-mock-api: mock API which implements the Web Audio API's
+  interfaces only
 author: azu
 layout: post
 itemUrl: 'https://github.com/mohayonao/web-audio-mock-api'

@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Version and Plugin Usage Report | BuiltWith Blog'
+title: jQuery Version and Plugin Usage Report | BuiltWith Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.builtwith.com/2011/10/31/jquery-version-and-usage-report/'

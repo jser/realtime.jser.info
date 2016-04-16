@@ -1,5 +1,5 @@
 ---
-title: "ES6 Module Transpiler - Tomorrow's JavaScript module syntax today"
+title: ES6 Module Transpiler - Tomorrow's JavaScript module syntax today
 author: azu
 layout: post
 itemUrl: 'http://corner.squareup.com/2013/02/es6-module-transpiler.html'

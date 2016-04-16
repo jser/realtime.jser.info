@@ -1,5 +1,5 @@
 ---
-title: "『Understanding JavaScript OOP — Sorella's Basement』"
+title: 『Understanding JavaScript OOP — Sorella's Basement』
 author: azu
 layout: post
 itemUrl: 'http://killdream.github.com/blog/2011/10/understanding-javascript-oop/'

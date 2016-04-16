@@ -1,5 +1,5 @@
 ---
-title: 'Browserify dependencies in depth! | TEJI TECH BLOG'
+title: Browserify dependencies in depth! | TEJI TECH BLOG
 author: azu
 layout: post
 itemUrl: 'http://www.tejitak.com/blog/?p=1468'

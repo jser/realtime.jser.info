@@ -1,5 +1,5 @@
 ---
-title: '『最速な JavaScript のリファレンスマニュアルサイトをつくった - ”>TokuLog 改メ tokuhirom’s blog』'
+title: 『最速な JavaScript のリファレンスマニュアルサイトをつくった - ”>TokuLog 改メ tokuhirom’s blog』
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/tokuhirom/20120114/1326500882'

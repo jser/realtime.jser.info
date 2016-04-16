@@ -1,5 +1,5 @@
 ---
-title: 'A Complete Guide to the Table Element | CSS-Tricks'
+title: A Complete Guide to the Table Element | CSS-Tricks
 author: azu
 layout: post
 itemUrl: 'http://css-tricks.com/complete-guide-table-element/'

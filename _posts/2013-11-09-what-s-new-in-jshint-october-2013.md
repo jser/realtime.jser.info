@@ -1,5 +1,5 @@
 ---
-title: "What's new in JSHint (October, 2013)"
+title: 'What''s new in JSHint (October, 2013)'
 author: azu
 layout: post
 itemUrl: 'http://jshint.com/blog/new-in-jshint-oct-2013/'

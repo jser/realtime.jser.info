@@ -1,5 +1,5 @@
 ---
-title: '『dochub | Instant Documentation Search』'
+title: 『dochub | Instant Documentation Search』
 author: azu
 layout: post
 itemUrl: 'http://dochub.io/#css/'

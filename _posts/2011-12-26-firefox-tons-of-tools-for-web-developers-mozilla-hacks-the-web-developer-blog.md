@@ -1,5 +1,7 @@
 ---
-title: 'Firefox – tons of tools for web developers! ✩ Mozilla Hacks – the Web developer blog'
+title: >-
+  Firefox – tons of tools for web developers! ✩ Mozilla Hacks – the Web
+  developer blog
 author: azu
 layout: post
 itemUrl: 'http://hacks.mozilla.org/2011/11/firefox-tons-of-tools-for-web-developers/'

@@ -1,5 +1,7 @@
 ---
-title: 'DevTools Digest - Chrome 35: Updates to the Developer Tools in Chrome 35 - HTML5 Rocks'
+title: >-
+  DevTools Digest - Chrome 35: Updates to the Developer Tools in Chrome 35 -
+  HTML5 Rocks
 author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/developertools/chrome-35/'

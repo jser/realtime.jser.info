@@ -1,5 +1,5 @@
 ---
-title: 'Release the docs!'
+title: Release the docs!
 author: azu
 layout: post
 itemUrl: 'http://sassdoc.com/'

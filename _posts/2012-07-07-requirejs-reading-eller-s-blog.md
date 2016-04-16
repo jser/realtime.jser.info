@@ -1,5 +1,5 @@
 ---
-title: "requirejs reading - eller's blog"
+title: requirejs reading - eller's blog
 author: azu
 layout: post
 itemUrl: 'http://eller86.hatenablog.jp/entry/2012/07/22/142704'

@@ -10,6 +10,7 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: 'Chromium Blog: Chrome 38 Beta: New primitives for the next-generation web'
-    url: 'http://blog.chromium.org/2014/08/chrome-38-beta-new-primitives-for-next.html'
+    url: >-
+      http://blog.chromium.org/2014/08/chrome-38-beta-new-primitives-for-next.html
 ---
 Chrome 38リリース

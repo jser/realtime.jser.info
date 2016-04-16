@@ -1,8 +1,9 @@
 ---
-title: 'Software is hard | Script Execution Analysis in Firefox 4'
+title: Software is hard | Script Execution Analysis in Firefox 4
 author: azu
 layout: post
-itemUrl: 'http://www.softwareishard.com/blog/firebug/script-execution-analysis-in-firefox-4/'
+itemUrl: >-
+  http://www.softwareishard.com/blog/firebug/script-execution-analysis-in-firefox-4/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
 date: '2011-03-01T04:17:00+00:00'
 ---

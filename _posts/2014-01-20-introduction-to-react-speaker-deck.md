@@ -11,7 +11,7 @@ tags:
   - library
   - スライド
 relatedLinks:
-  - title: 'React | A JavaScript library for building user interfaces'
+  - title: React | A JavaScript library for building user interfaces
     url: 'http://facebook.github.io/react/'
 ---
 Facebookによって開発されてるVirtual DOMライブラリのReactについてのスライド。

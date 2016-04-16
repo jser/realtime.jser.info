@@ -1,5 +1,5 @@
 ---
-title: 'Tridiv | CSS 3D Editor'
+title: Tridiv | CSS 3D Editor
 author: azu
 layout: post
 itemUrl: 'http://tridiv.com/'

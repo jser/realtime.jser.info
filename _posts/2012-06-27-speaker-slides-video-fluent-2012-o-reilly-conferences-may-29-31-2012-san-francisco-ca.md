@@ -1,5 +1,7 @@
 ---
-title: "Speaker Slides & Video: Fluent 2012 - O'Reilly Conferences, May 29 - 31, 2012, San Francisco, CA"
+title: >-
+  Speaker Slides & Video: Fluent 2012 - O'Reilly Conferences, May 29 - 31, 2012,
+  San Francisco, CA
 author: azu
 layout: post
 itemUrl: 'http://fluentconf.com/fluent2012/public/schedule/proceedings'

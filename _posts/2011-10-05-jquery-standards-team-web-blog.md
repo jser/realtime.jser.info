@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Standards Teamが発足 | Web標準Blog | ミツエーリンクス'
+title: jQuery Standards Teamが発足 | Web標準Blog | ミツエーリンクス
 author: azu
 layout: post
 itemUrl: 'http://standards.mitsue.co.jp/archives/001530.html'

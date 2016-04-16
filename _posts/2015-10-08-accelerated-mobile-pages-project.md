@@ -9,8 +9,11 @@ tags:
   - HTML
   - spec
 relatedLinks:
-  - title: 'Official Google Blog: Introducing the Accelerated Mobile Pages Project, for a faster, open mobile web'
-    url: 'https://googleblog.blogspot.jp/2015/10/introducing-accelerated-mobile-pages.html'
+  - title: >-
+      Official Google Blog: Introducing the Accelerated Mobile Pages Project,
+      for a faster, open mobile web
+    url: >-
+      https://googleblog.blogspot.jp/2015/10/introducing-accelerated-mobile-pages.html
   - title: Accelerated Mobile Pages – A new approach to web performance
     url: 'https://www.ampproject.org/how-it-works/'
   - title: AMP HTML (Accelerated Mobile Pages) demo - YouTube

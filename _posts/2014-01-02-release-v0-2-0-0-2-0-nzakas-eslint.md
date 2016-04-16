@@ -11,7 +11,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: 0.2.0 · 72d0fce · nzakas/eslint
-    url: 'https://github.com/nzakas/eslint/commit/72d0fce14428716f82f5526a0a3097c50b491e97'
+    url: >-
+      https://github.com/nzakas/eslint/commit/72d0fce14428716f82f5526a0a3097c50b491e97
 ---
 eslint 0.2.0リリース。
 ルールの追加等

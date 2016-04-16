@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - アクセシビリティハンドブック"
+title: O'Reilly Japan - アクセシビリティハンドブック
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873115993/'

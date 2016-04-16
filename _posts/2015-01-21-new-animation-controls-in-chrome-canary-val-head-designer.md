@@ -1,5 +1,5 @@
 ---
-title: 'New animation controls in Chrome Canary | Val Head - Designer'
+title: New animation controls in Chrome Canary | Val Head - Designer
 author: azu
 layout: post
 itemUrl: 'http://www.valhead.com/2015/01/06/quick-tip-chrome-animation-controls/'

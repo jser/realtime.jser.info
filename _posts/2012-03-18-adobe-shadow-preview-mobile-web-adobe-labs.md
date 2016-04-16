@@ -1,5 +1,5 @@
 ---
-title: 'Adobe Shadow | preview mobile web - Adobe Labs'
+title: Adobe Shadow | preview mobile web - Adobe Labs
 author: azu
 layout: post
 itemUrl: 'http://labs.adobe.com/technologies/shadow/'

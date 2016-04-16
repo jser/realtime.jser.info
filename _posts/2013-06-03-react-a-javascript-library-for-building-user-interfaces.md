@@ -1,5 +1,5 @@
 ---
-title: 'React | A JavaScript library for building user interfaces'
+title: React | A JavaScript library for building user interfaces
 author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/'

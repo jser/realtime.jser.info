@@ -1,5 +1,5 @@
 ---
-title: 'モバイルブラウザで動くWebアプリケーションのキャッシュ戦略 | HTML5Experts.jp'
+title: モバイルブラウザで動くWebアプリケーションのキャッシュ戦略 | HTML5Experts.jp
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/kyo_ago/2466/'

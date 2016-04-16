@@ -1,5 +1,5 @@
 ---
-title: 'Web Audio API 解説 - 01.前説 | g200kg Music & Software'
+title: Web Audio API 解説 - 01.前説 | g200kg Music & Software
 author: azu
 layout: post
 itemUrl: 'http://www.g200kg.com/jp/docs/webaudio/'

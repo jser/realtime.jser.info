@@ -1,5 +1,5 @@
 ---
-title: 'Modern Web Observer | an E-Mail Newsletter from appendTo'
+title: Modern Web Observer | an E-Mail Newsletter from appendTo
 author: azu
 layout: post
 itemUrl: 'http://appendto.com/'

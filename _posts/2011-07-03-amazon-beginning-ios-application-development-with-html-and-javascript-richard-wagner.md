@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Beginning iOS Application Development with HTML and JavaScript: Richard Wagner』'
+title: >-
+  『Amazon: Beginning iOS Application Development with HTML and JavaScript:
+  Richard Wagner』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1118159004'

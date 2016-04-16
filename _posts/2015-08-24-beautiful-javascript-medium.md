@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - book
 relatedLinks:
-  - title: "Beautiful JavaScript - O'Reilly Media"
+  - title: Beautiful JavaScript - O'Reilly Media
     url: 'http://shop.oreilly.com/product/0636920030706.do'
 ---
 Beautiful JavaScript リリース。

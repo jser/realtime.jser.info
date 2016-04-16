@@ -1,5 +1,5 @@
 ---
-title: 'AngularJS 日本語リファレンス | js STUDIO'
+title: AngularJS 日本語リファレンス | js STUDIO
 author: azu
 layout: post
 itemUrl: 'http://js.studio-kingdom.com/angularjs'

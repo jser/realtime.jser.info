@@ -1,5 +1,5 @@
 ---
-title: 'ESLint 0.1.0がリリースされたので、JSHintとの違いやプラグインの書き方について | Web scratch'
+title: ESLint 0.1.0がリリースされたので、JSHintとの違いやプラグインの書き方について | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/1104/res3465/'

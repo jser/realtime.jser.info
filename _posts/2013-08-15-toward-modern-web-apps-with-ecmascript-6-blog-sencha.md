@@ -1,5 +1,5 @@
 ---
-title: 'Toward Modern Web Apps with ECMAScript 6 | Blog | Sencha'
+title: Toward Modern Web Apps with ECMAScript 6 | Blog | Sencha
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6/'

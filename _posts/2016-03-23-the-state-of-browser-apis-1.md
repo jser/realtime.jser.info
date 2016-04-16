@@ -9,7 +9,9 @@ tags:
   - JavaScript
   - WebPlatformAPI
 relatedLinks:
-  - title: 'AurelioDeRosa/HTML5-API-demos: A repository where you can find information about many JavaScript and HTML5 APIs.'
+  - title: >-
+      AurelioDeRosa/HTML5-API-demos: A repository where you can find information
+      about many JavaScript and HTML5 APIs.
     url: 'https://github.com/AurelioDeRosa/HTML5-API-demos'
 ---
 現在ブラウザで使える色々な新しいAPIについての紹介

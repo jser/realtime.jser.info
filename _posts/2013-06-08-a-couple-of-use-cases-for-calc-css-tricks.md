@@ -1,5 +1,5 @@
 ---
-title: 'A Couple of Use Cases for Calc() | CSS-Tricks'
+title: A Couple of Use Cases for Calc() | CSS-Tricks
 author: azu
 layout: post
 itemUrl: 'http://css-tricks.com/a-couple-of-use-cases-for-calc/'

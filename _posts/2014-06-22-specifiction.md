@@ -10,7 +10,9 @@ tags:
   - spec
   - community
 relatedLinks:
-  - title: 'Move The Web Forward | Guide to getting involved with standards and browser development'
+  - title: >-
+      Move The Web Forward | Guide to getting involved with standards and
+      browser development
     url: 'http://movethewebforward.org/'
 ---
 Web標準をよりオープンに議論/フィードバックすることを目的にした場所

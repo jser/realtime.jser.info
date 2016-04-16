@@ -1,5 +1,5 @@
 ---
-title: "Developing a React.js Edge - O'Reilly Media"
+title: Developing a React.js Edge - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781939902122.do'

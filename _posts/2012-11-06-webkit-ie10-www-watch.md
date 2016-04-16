@@ -1,5 +1,5 @@
 ---
-title: 'Webkit に最適化されたサイトを IE10 に適応させるためのガイド | WWW WATCH'
+title: Webkit に最適化されたサイトを IE10 に適応させるためのガイド | WWW WATCH
 author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2012/11/adapting_webkit_site_ie10.shtml'

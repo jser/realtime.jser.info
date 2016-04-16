@@ -1,5 +1,5 @@
 ---
-title: 'Journey to the Promises Land | LinkedIn Engineering'
+title: Journey to the Promises Land | LinkedIn Engineering
 author: azu
 layout: post
 itemUrl: 'http://engineering.linkedin.com/javascript/journey-promises-land'

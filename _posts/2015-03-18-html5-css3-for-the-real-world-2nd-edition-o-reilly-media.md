@@ -1,5 +1,5 @@
 ---
-title: "HTML5 & CSS3 For The Real World, 2nd Edition - O'Reilly Media"
+title: 'HTML5 & CSS3 For The Real World, 2nd Edition - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9780987467485.do'

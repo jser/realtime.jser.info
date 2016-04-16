@@ -1,5 +1,5 @@
 ---
-title: 'Asynchronous Iterative & Recursive Patterns for Node.js - Part 1'
+title: Asynchronous Iterative & Recursive Patterns for Node.js - Part 1
 author: azu
 layout: post
 itemUrl: 'http://mostafa-samir.github.io/async-iterative-patterns-pt1/'

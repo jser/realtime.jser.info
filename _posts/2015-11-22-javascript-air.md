@@ -10,7 +10,8 @@ tags:
   - podcast
 relatedLinks:
   - title: Introducing JavaScript Air — Medium
-    url: 'https://medium.com/@kentcdodds/introducing-javascript-air-46700561f38d#.v9ty44vkg'
+    url: >-
+      https://medium.com/@kentcdodds/introducing-javascript-air-46700561f38d#.v9ty44vkg
 ---
 JavaScriptポッドキャスト。
 Hangoutsでのライブ配信も行う。

@@ -1,8 +1,11 @@
 ---
-title: Introducing Aurora 11 with tons of new features and improvements ✩ Mozilla Hacks – the Web developer blog
+title: >-
+  Introducing Aurora 11 with tons of new features and improvements ✩ Mozilla
+  Hacks – the Web developer blog
 author: azu
 layout: post
-itemUrl: 'http://hacks.mozilla.org/2011/12/introducing-aurora-11-with-tons-of-new-features-and-improvements/'
+itemUrl: >-
+  http://hacks.mozilla.org/2011/12/introducing-aurora-11-with-tons-of-new-features-and-improvements/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
 date: '2011-12-05T02:20:00+00:00'
 ---

@@ -1,5 +1,7 @@
 ---
-title: 'StrongLoop | Generators in Node.js: Common Misconceptions and Three Good Use Cases'
+title: >-
+  StrongLoop | Generators in Node.js: Common Misconceptions and Three Good Use
+  Cases
 author: azu
 layout: post
 itemUrl: 'http://strongloop.com/strongblog/how-to-generators-node-js-yield-use-cases/'

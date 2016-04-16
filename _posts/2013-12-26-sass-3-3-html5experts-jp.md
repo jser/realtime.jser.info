@@ -1,5 +1,5 @@
 ---
-title: 'Sass 3.3で追加された「関数」や「変更点」のまとめ解説 | HTML5Experts.jp'
+title: Sass 3.3で追加された「関数」や「変更点」のまとめ解説 | HTML5Experts.jp
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/kosei27/3850/'

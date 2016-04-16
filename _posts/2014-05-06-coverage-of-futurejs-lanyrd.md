@@ -1,5 +1,5 @@
 ---
-title: 'Coverage of FutureJS | Lanyrd'
+title: Coverage of FutureJS | Lanyrd
 author: azu
 layout: post
 itemUrl: 'http://lanyrd.com/2014/futurejs/coverage/'

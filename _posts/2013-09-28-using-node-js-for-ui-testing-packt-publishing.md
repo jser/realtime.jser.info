@@ -1,5 +1,5 @@
 ---
-title: 'Using Node.js for UI Testing | Packt Publishing'
+title: Using Node.js for UI Testing | Packt Publishing
 author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/testing-nodejs-web-uis/book'

@@ -1,5 +1,5 @@
 ---
-title: 'A Fond Farewell to YUI | Blog | Sencha'
+title: A Fond Farewell to YUI | Blog | Sencha
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/a-fond-farewell-to-yui/'
@@ -10,7 +10,7 @@ tags:
   - 歴史
   - library
 relatedLinks:
-  - title: 'YUI との別れを惜しむ | 株式会社ゼノフィ'
+  - title: YUI との別れを惜しむ | 株式会社ゼノフィ
     url: 'https://www.xenophy.com/sencha-blog/11463'
   - title: 'Enterprise Web Development: From Desktop to Mobile'
     url: 'http://enterprisewebbook.com/'

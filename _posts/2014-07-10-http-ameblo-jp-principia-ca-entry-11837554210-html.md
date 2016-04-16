@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - Tools
 relatedLinks:
-  - title: 'ESLint 0.1.0がリリースされたので、JSHintとの違いやプラグインの書き方について | Web Scratch'
+  - title: ESLint 0.1.0がリリースされたので、JSHintとの違いやプラグインの書き方について | Web Scratch
     url: 'http://efcl.info/2013/1104/res3465/'
 ---
 ESLintを使ったプラグイン(独自のLintルール)の書き方について。

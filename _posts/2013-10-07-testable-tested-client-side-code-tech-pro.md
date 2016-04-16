@@ -1,5 +1,5 @@
 ---
-title: 'Testable & Tested Client-side Code - Tech.Pro'
+title: Testable & Tested Client-side Code - Tech.Pro
 author: azu
 layout: post
 itemUrl: 'http://tech.pro/tutorial/1589/testable--tested-client-side-code'

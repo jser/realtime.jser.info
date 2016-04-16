@@ -1,5 +1,5 @@
 ---
-title: 'An Intro To Using npm and ES6 Modules for Front End Development | Wes Bos'
+title: An Intro To Using npm and ES6 Modules for Front End Development | Wes Bos
 author: azu
 layout: post
 itemUrl: 'http://wesbos.com/javascript-modules/'

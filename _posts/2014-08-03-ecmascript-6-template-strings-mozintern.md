@@ -1,5 +1,5 @@
 ---
-title: 'EcmaScript 6 Template Strings | mozintern'
+title: EcmaScript 6 Template Strings | mozintern
 author: azu
 layout: post
 itemUrl: 'http://mozintern.wordpress.com/2014/07/31/ecmascript-6-template-strings-2/'

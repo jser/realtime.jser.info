@@ -1,5 +1,5 @@
 ---
-title: "総行数57,000の巨大CSS群をLessに書き換えた軌跡 - mixi Engineers' Blog"
+title: '総行数57,000の巨大CSS群をLessに書き換えた軌跡 - mixi Engineers'' Blog'
 author: azu
 layout: post
 itemUrl: 'http://alpha.mixi.co.jp/entry/2015/12/20/000000'

@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: CSS3 Solutions: Essential Techniques for CSS3 Developers [Paperback]: Marco Casario, Nathalie Wormser』'
+title: >-
+  『Amazon: CSS3 Solutions: Essential Techniques for CSS3 Developers [Paperback]:
+  Marco Casario, Nathalie Wormser』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/143024335X/book042-22/ref=nosim'

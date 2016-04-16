@@ -10,8 +10,11 @@ tags:
   - ReleaseNote
   - JavaScript
 relatedLinks:
-  - title: 'Chromium Blog: Chrome 35 Beta: More developer control over touch input, new JavaScript features, and unprefixed Shadow DOM'
-    url: 'http://blog.chromium.org/2014/04/chrome-35-beta-more-developer-control.html'
+  - title: >-
+      Chromium Blog: Chrome 35 Beta: More developer control over touch input,
+      new JavaScript features, and unprefixed Shadow DOM
+    url: >-
+      http://blog.chromium.org/2014/04/chrome-35-beta-more-developer-control.html
 ---
 Chrom35リリース。
 Promiseの実装、フラグ付でWeakMaps/WeakSetsの追加、Shadow-DOMのprefixがなくなった。

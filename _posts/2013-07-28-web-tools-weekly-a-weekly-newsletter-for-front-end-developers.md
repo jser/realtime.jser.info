@@ -1,5 +1,5 @@
 ---
-title: 'Web Tools Weekly | A weekly newsletter for front-end developers'
+title: Web Tools Weekly | A weekly newsletter for front-end developers
 author: azu
 layout: post
 itemUrl: 'http://webtoolsweekly.com/'

@@ -1,5 +1,5 @@
 ---
-title: "Viewing Chrome's paint cycle « Paul Irish"
+title: Viewing Chrome's paint cycle « Paul Irish
 author: azu
 layout: post
 itemUrl: 'http://paulirish.com/2011/viewing-chromes-paint-cycle/'

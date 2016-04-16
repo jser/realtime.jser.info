@@ -1,5 +1,5 @@
 ---
-title: "『O'Reilly Japan - HTML5 ファイルシステムAPI』"
+title: 『O'Reilly Japan - HTML5 ファイルシステムAPI』
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873115399/'

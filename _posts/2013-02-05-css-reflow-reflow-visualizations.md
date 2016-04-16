@@ -1,5 +1,5 @@
 ---
-title: 'CSS Reflow | Reflow Visualizations'
+title: CSS Reflow | Reflow Visualizations
 author: azu
 layout: post
 itemUrl: 'http://cssreflow.com/'

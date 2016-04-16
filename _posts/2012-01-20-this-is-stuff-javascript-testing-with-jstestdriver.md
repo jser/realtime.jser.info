@@ -2,7 +2,8 @@
 title: 'This is Stuff: JavaScript Testing with JSTestDriver'
 author: azu
 layout: post
-itemUrl: 'http://meri-stuff.blogspot.com/2012/01/javascript-testing-with-jstestdriver.html'
+itemUrl: >-
+  http://meri-stuff.blogspot.com/2012/01/javascript-testing-with-jstestdriver.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
 date: '2012-01-20T20:00:00+00:00'
 ---

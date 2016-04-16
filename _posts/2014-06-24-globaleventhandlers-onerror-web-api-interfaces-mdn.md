@@ -1,5 +1,5 @@
 ---
-title: 'GlobalEventHandlers.onerror - Web API Interfaces | MDN'
+title: GlobalEventHandlers.onerror - Web API Interfaces | MDN
 author: azu
 layout: post
 itemUrl: 'https://developer.mozilla.org/en-US/docs/Web/API/GlobalEventHandlers.onerror'

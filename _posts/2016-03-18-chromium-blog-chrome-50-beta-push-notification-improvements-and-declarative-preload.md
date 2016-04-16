@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 50 Beta: Push notification improvements and declarative preload'
+title: >-
+  Chromium Blog: Chrome 50 Beta: Push notification improvements and declarative
+  preload
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2016/03/chrome-50-beta-push-notification.html'
@@ -9,8 +11,11 @@ tags:
   - Chrome
   - ReleaseNote
 relatedLinks:
-  - title: 'DOMTokenList Validation Added in Chrome 50 | Web Updates - Google Developers'
-    url: 'https://developers.google.com/web/updates/2016/03/domtokenlist-validation-added-in-chrome-50?hl=en'
+  - title: >-
+      DOMTokenList Validation Added in Chrome 50 | Web Updates - Google
+      Developers
+    url: >-
+      https://developers.google.com/web/updates/2016/03/domtokenlist-validation-added-in-chrome-50?hl=en
   - title: 'Preload: What Is It Good For? – Smashing Magazine'
     url: 'https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/'
 ---

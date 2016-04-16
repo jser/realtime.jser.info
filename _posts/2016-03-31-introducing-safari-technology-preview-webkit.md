@@ -1,5 +1,5 @@
 ---
-title: 'Introducing Safari Technology Preview | WebKit'
+title: Introducing Safari Technology Preview | WebKit
 author: azu
 layout: post
 itemUrl: 'https://webkit.org/blog/6017/introducing-safari-technology-preview/'

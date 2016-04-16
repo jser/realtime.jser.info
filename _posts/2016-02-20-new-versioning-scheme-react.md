@@ -1,5 +1,5 @@
 ---
-title: 'New Versioning Scheme | React'
+title: New Versioning Scheme | React
 author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html'

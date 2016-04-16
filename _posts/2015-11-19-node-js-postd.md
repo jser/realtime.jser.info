@@ -1,5 +1,5 @@
 ---
-title: 'Node.jsのセキュリティ・チェックリスト | プログラミング | POSTD'
+title: Node.jsのセキュリティ・チェックリスト | プログラミング | POSTD
 author: azu
 layout: post
 itemUrl: 'http://postd.cc/node-js-security-checklist/'

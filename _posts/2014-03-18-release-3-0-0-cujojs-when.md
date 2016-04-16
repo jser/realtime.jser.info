@@ -14,7 +14,8 @@ relatedLinks:
   - title: 'Twitter / cujojs: when.js 2.3.0: promise.tap(), ...'
     url: 'https://twitter.com/cujojs/status/365856710520344577'
   - title: when/docs/api.md at master · cujojs/when
-    url: 'https://github.com/cujojs/when/blob/master/docs/api.md#upgrading-to-30-from-2x'
+    url: >-
+      https://github.com/cujojs/when/blob/master/docs/api.md#upgrading-to-30-from-2x
 ---
 Promises/A+ の実装であるwhen.js 3.0.0リリース。
 抜本的に書き換えてパフォーマンスの改善、APIの追加、ES6 Promise shimとして使えるモジュールの追加。

@@ -1,5 +1,5 @@
 ---
-title: '『携帯サイトを簡単にスマートフォン対応するsparrow.jsについて | 株式会社シンメトリック公式ブログ - 携帯開発から生まれる技術情報』'
+title: 『携帯サイトを簡単にスマートフォン対応するsparrow.jsについて | 株式会社シンメトリック公式ブログ - 携帯開発から生まれる技術情報』
 author: azu
 layout: post
 itemUrl: 'http://symple.jp/124.html'

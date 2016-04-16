@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 40 Beta: Powerful Offline and Lightspeed Loading with Service Workers'
+title: >-
+  Chromium Blog: Chrome 40 Beta: Powerful Offline and Lightspeed Loading with
+  Service Workers
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2014/12/chrome-40-beta-powerful-offline-and.html'

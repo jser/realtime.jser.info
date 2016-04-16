@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Front-End Architecture: A Modern Blueprint for Scalable and Sustainable Design Systems: Micah Godbolt'
+title: >-
+  Amazon: Front-End Architecture: A Modern Blueprint for Scalable and
+  Sustainable Design Systems: Micah Godbolt
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/dp/1491926783'

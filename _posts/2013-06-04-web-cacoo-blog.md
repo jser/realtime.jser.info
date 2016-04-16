@@ -1,5 +1,5 @@
 ---
-title: 'Web描画パフォーマンスの改善 | Cacoo Blog'
+title: Web描画パフォーマンスの改善 | Cacoo Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.cacoo.com/ja/2013/06/03/web-paint-performance/'

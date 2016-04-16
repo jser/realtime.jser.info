@@ -1,5 +1,5 @@
 ---
-title: 'Sass でもう一度 CSS を楽しく! - terkel.jp'
+title: Sass でもう一度 CSS を楽しく! - terkel.jp
 author: azu
 layout: post
 itemUrl: 'http://terkel.jp/archives/2011/03/sass-makes-css-fun-again/'

@@ -1,5 +1,5 @@
 ---
-title: 'Announcing Sencha Ext JS 5 | Blog | Sencha'
+title: Announcing Sencha Ext JS 5 | Blog | Sencha
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/announcing-sencha-ext-js-5/'

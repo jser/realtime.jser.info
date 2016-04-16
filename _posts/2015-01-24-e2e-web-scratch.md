@@ -1,5 +1,5 @@
 ---
-title: 'テストできないコードをE2Eテストを使ってリファクタリングしよう | Web Scratch'
+title: テストできないコードをE2Eテストを使ってリファクタリングしよう | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/01/24/testium-e2e-refactoring/'

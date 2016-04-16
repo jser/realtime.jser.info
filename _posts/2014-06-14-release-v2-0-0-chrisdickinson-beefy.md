@@ -11,7 +11,9 @@ tags:
   - Tools
   - ReleaseNote
 relatedLinks:
-  - title: 'Beefy 2 -- The Beefening by chrisdickinson · Pull Request #40 · chrisdickinson/beefy'
+  - title: >-
+      Beefy 2 -- The Beefening by chrisdickinson · Pull Request #40 ·
+      chrisdickinson/beefy
     url: 'https://github.com/chrisdickinson/beefy/pull/40'
 ---
 Browserifyでの開発補助ツール(自動ビルド、更新)であるbeefy 2.0.0がリリース。

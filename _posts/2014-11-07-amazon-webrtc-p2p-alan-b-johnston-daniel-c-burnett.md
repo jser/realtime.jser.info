@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: WebRTC ブラウザベースのP2P技術: Alan B. Johnston, Daniel C. Burnett, 日本電信電話株式会社 内田直樹(監訳)'
+title: >-
+  Amazon: WebRTC ブラウザベースのP2P技術: Alan B. Johnston, Daniel C. Burnett, 日本電信電話株式会社
+  内田直樹(監訳)
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4897979587?tag=amazon0abac-22'

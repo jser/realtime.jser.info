@@ -1,5 +1,7 @@
 ---
-title: 'danigb/tonal: Music tonal elements —pitches, chords, scales, keys— in Javascript'
+title: >-
+  danigb/tonal: Music tonal elements —pitches, chords, scales, keys— in
+  Javascript
 author: azu
 layout: post
 itemUrl: 'https://github.com/danigb/tonal'

@@ -1,5 +1,7 @@
 ---
-title: 'Standards for Web Applications on Mobile: current state and roadmap (September 2013)'
+title: >-
+  Standards for Web Applications on Mobile: current state and roadmap (September
+  2013)
 author: azu
 layout: post
 itemUrl: 'http://www.w3.org/2013/09/mobile-web-app-state/'

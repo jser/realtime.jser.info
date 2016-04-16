@@ -2,7 +2,8 @@
 title: 'Faster String#repeat method, with ancient Egyptian theory | CoderKeen'
 author: azu
 layout: post
-itemUrl: 'http://coderkeen.com/javascript/faster-stringrepeat-method-with-ancient-egyptian-theory'
+itemUrl: >-
+  http://coderkeen.com/javascript/faster-stringrepeat-method-with-ancient-egyptian-theory
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
 date: '2013-09-24T12:50:14+00:00'
 tags:

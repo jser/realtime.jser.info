@@ -1,5 +1,5 @@
 ---
-title: 'StrongLoop | An Introduction to JavaScript ES6 Iterators'
+title: StrongLoop | An Introduction to JavaScript ES6 Iterators
 author: azu
 layout: post
 itemUrl: 'https://strongloop.com/strongblog/introduction-to-es6-iterators/'

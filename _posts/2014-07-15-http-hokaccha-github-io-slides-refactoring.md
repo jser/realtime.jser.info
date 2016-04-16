@@ -10,7 +10,7 @@ tags:
   - testing
   - スライド
 relatedLinks:
-  - title: 'Remixing Vol.1 イベントリポート | TECH BLOG'
+  - title: Remixing Vol.1 イベントリポート | TECH BLOG
     url: 'http://www.rich.co.jp/tech/?p=427'
 ---
 リファクタリングしても通らなくなったりしないテストについてのスライド

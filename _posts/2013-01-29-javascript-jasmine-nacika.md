@@ -1,5 +1,5 @@
 ---
-title: 'Javascriptテストフレームワーク Jasmineを試す | nacika'
+title: Javascriptテストフレームワーク Jasmineを試す | nacika
 author: azu
 layout: post
 itemUrl: 'http://nacika.com/entry/2013/01/03/055820/'

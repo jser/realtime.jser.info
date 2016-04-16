@@ -1,5 +1,7 @@
 ---
-title: 'matthewmueller/socrates: Small (12kb), batteries-included redux stack to reduce boilerplate and enforce good practices.'
+title: >-
+  matthewmueller/socrates: Small (12kb), batteries-included redux stack to
+  reduce boilerplate and enforce good practices.
 author: azu
 layout: post
 itemUrl: 'https://github.com/matthewmueller/socrates'

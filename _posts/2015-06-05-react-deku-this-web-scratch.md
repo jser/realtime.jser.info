@@ -1,5 +1,5 @@
 ---
-title: 'React/dekuコンポーネントとthisのパターン | Web Scratch'
+title: React/dekuコンポーネントとthisのパターン | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/06/05/this-component/'

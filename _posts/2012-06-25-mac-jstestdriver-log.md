@@ -1,5 +1,5 @@
 ---
-title: 'macでJsTestDriverを使ってみた。導入編 | LOG'
+title: macでJsTestDriverを使ってみた。導入編 | LOG
 author: azu
 layout: post
 itemUrl: 'http://yokotakenji.me/log/?p=816'

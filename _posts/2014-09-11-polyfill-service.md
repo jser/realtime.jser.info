@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - library
 relatedLinks:
-  - title: 'Polyfills as a service | FT Labs'
+  - title: Polyfills as a service | FT Labs
     url: 'http://labs.ft.com/2014/09/polyfills-as-a-service/'
 ---
 polyfillライブラリを配信してくれるCDNサービス。

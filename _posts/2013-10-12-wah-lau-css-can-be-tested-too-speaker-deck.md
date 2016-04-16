@@ -1,5 +1,5 @@
 ---
-title: 'WAH LAU! CSS CAN BE TESTED TOO! // Speaker Deck'
+title: WAH LAU! CSS CAN BE TESTED TOO! // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/winston/wah-lau-css-can-be-tested-too'

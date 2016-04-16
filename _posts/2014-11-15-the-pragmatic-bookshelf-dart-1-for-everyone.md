@@ -1,5 +1,5 @@
 ---
-title: 'The Pragmatic Bookshelf | Dart 1 for Everyone'
+title: The Pragmatic Bookshelf | Dart 1 for Everyone
 author: azu
 layout: post
 itemUrl: 'https://pragprog.com/book/csdart1/dart-1-for-everyone'

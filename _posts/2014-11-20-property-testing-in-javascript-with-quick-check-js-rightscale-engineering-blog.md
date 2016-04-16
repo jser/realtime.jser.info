@@ -1,5 +1,7 @@
 ---
-title: Property testing in JavaScript with quick_check.js - RightScale Engineering Blog
+title: >-
+  Property testing in JavaScript with quick_check.js - RightScale Engineering
+  Blog
 author: azu
 layout: post
 itemUrl: 'http://eng.rightscale.com/2014/07/18/quick-check-js.html'

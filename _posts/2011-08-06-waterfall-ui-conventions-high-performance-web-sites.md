@@ -1,5 +1,5 @@
 ---
-title: '『Waterfall UI Conventions | High Performance Web Sites』'
+title: 『Waterfall UI Conventions | High Performance Web Sites』
 author: azu
 layout: post
 itemUrl: 'http://www.stevesouders.com/blog/2011/08/26/waterfall-ui-conventions/'

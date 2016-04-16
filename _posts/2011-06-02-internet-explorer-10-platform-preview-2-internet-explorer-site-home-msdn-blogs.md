@@ -1,5 +1,7 @@
 ---
-title: 『Internet Explorer 10 Platform Preview 2 を公開 - Internet Explorer ブログ (日本語版) - Site Home - MSDN Blogs』
+title: >-
+  『Internet Explorer 10 Platform Preview 2 を公開 - Internet Explorer ブログ (日本語版) -
+  Site Home - MSDN Blogs』
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie_jp/archive/2011/06/30/10181713.aspx'

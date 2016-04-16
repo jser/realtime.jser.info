@@ -1,5 +1,7 @@
 ---
-title: Havoc Pennington「同期的コールバック、非同期コールバック 」 - クライアント・サイド・スクリプティング with Web Standards
+title: >-
+  Havoc Pennington「同期的コールバック、非同期コールバック 」 - クライアント・サイド・スクリプティング with Web
+  Standards
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/vwxyz/20110801/1312196153'

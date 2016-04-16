@@ -11,7 +11,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: 'Question about [[Enumerate]] and property decision timing'
-    url: 'https://esdiscuss.org/topic/question-about-enumerate-and-property-decision-timing'
+    url: >-
+      https://esdiscuss.org/topic/question-about-enumerate-and-property-decision-timing
 ---
 core-js 1.1.0 リリース。
 string paddingのプロポーサルへの追従、trimLeft/trimRightの追加、Reflect.enumerateはキャッシュされたkeyをiterateするようになるなど

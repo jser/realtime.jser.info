@@ -10,7 +10,7 @@ tags:
   - console
   - Tools
 relatedLinks:
-  - title: 'npm-run-all と concurrently を試す | アカベコマイリ'
+  - title: npm-run-all と concurrently を試す | アカベコマイリ
     url: 'http://akabeko.me/blog/2015/08/npm-run-all-and-concurrently/'
 ---
 npm run-scriptで定義したものの並列実行や逐次実行等の補助を行うコマンドラインツール。

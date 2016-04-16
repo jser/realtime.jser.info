@@ -10,6 +10,7 @@ tags:
   - library
 relatedLinks:
   - title: github repo - Google グループ
-    url: 'https://groups.google.com/forum/#!topic/closure-library-discuss/WEgaBsn-08U/discussion'
+    url: >-
+      https://groups.google.com/forum/#!topic/closure-library-discuss/WEgaBsn-08U/discussion
 ---
 Closure Libraryや Closure Compiler等がGithubに移行した

@@ -1,5 +1,5 @@
 ---
-title: "Well, I'm Back: innerText: Cleaning A Dark Corner Of the Web"
+title: 'Well, I''m Back: innerText: Cleaning A Dark Corner Of the Web'
 author: azu
 layout: post
 itemUrl: 'http://robert.ocallahan.org/2016/01/innertext.html'
@@ -11,7 +11,7 @@ tags:
 relatedLinks:
   - title: 'The poor, misunderstood innerText — Perfection Kills'
     url: 'http://perfectionkills.com/the-poor-misunderstood-innerText/'
-  - title: 'Webkit! RESOLVED FIXED - otsukare'
+  - title: Webkit! RESOLVED FIXED - otsukare
     url: 'http://www.otsukare.info/2016/01/04/webkit-resolved-fixed'
 ---
 IEやWebKitにも存在する`innerText`は仕様と相互互換性がなかった。

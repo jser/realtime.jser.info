@@ -1,5 +1,7 @@
 ---
-title: 'WebStorm 9 EAP, 138.2406: spy-js code completion, CSS3 enhancements, Scratch files and… JSX | JetBrains WebStorm Blog'
+title: >-
+  WebStorm 9 EAP, 138.2406: spy-js code completion, CSS3 enhancements, Scratch
+  files and… JSX | JetBrains WebStorm Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/09/webstorm-9-eap-138-2406/'

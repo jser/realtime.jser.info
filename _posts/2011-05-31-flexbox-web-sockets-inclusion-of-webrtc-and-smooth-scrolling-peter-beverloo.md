@@ -1,8 +1,11 @@
 ---
-title: 'Flexbox, Web Sockets, inclusion of WebRTC and Smooth Scrolling « Peter Beverloo'
+title: >-
+  Flexbox, Web Sockets, inclusion of WebRTC and Smooth Scrolling « Peter
+  Beverloo
 author: azu
 layout: post
-itemUrl: 'http://peter.sh/2011/06/flexbox-web-sockets-inclusion-of-webrtc-and-smooth-scrolling/'
+itemUrl: >-
+  http://peter.sh/2011/06/flexbox-web-sockets-inclusion-of-webrtc-and-smooth-scrolling/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
 date: '2011-05-31T15:00:00+00:00'
 ---

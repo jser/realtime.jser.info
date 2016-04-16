@@ -9,7 +9,7 @@ tags:
   - firefox
   - ReleaseNote
 relatedLinks:
-  - title: 'Firefox 27 for developers - Mozilla | MDN'
+  - title: Firefox 27 for developers - Mozilla | MDN
     url: 'https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/27'
   - title: Firefox 27.0 リリースノート
     url: 'http://www.mozilla.jp/firefox/27.0/releasenotes/'

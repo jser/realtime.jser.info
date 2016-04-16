@@ -1,5 +1,7 @@
 ---
-title: "Opera's Developer Relations Team - Opera 12 alpha: HTML5 Parser, Radial Gradients and WebGL"
+title: >-
+  Opera's Developer Relations Team - Opera 12 alpha: HTML5 Parser, Radial
+  Gradients and WebGL
 author: azu
 layout: post
 itemUrl: 'http://my.opera.com/ODIN/blog/2011/10/13/opera-12-alpha-released'

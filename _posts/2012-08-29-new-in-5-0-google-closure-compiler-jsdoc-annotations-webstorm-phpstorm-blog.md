@@ -1,5 +1,7 @@
 ---
-title: 'New in 5.0: Google Closure Compiler JSDoc annotations | WebStorm & PhpStorm Blog'
+title: >-
+  New in 5.0: Google Closure Compiler JSDoc annotations | WebStorm & PhpStorm
+  Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webide/2012/08/closure-syntax/'

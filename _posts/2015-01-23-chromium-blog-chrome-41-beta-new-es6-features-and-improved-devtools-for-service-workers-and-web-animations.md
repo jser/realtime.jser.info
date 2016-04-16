@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 41 Beta: New ES6 Features and Improved DevTools for Service Workers and Web Animations'
+title: >-
+  Chromium Blog: Chrome 41 Beta: New ES6 Features and Improved DevTools for
+  Service Workers and Web Animations
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/01/chrome-41-beta-new-es6-features-and.html'

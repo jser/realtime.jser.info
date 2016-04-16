@@ -1,5 +1,5 @@
 ---
-title: "JavaScript's two array types - The Little Calculist"
+title: JavaScript's two array types - The Little Calculist
 author: azu
 layout: post
 itemUrl: 'http://calculist.org/blog/2012/07/16/javascripts-two-array-types'

@@ -1,5 +1,5 @@
 ---
-title: "Full Stack Web Development with Backbone.js - O'Reilly Media"
+title: Full Stack Web Development with Backbone.js - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920030799.do'

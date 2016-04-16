@@ -1,5 +1,5 @@
 ---
-title: "Knockout.js - O'Reilly Media"
+title: Knockout.js - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920035367.do'

@@ -1,5 +1,5 @@
 ---
-title: 'Change Detection in Angular 2 | Victor Savkin'
+title: Change Detection in Angular 2 | Victor Savkin
 author: azu
 layout: post
 itemUrl: 'http://victorsavkin.com/post/110170125256/change-detection-in-angular-2'

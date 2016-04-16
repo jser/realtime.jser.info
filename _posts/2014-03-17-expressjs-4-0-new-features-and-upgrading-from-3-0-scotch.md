@@ -10,7 +10,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: Migrating from 3.x to 4.x · visionmedia/express Wiki
-    url: 'https://github.com/visionmedia/express/wiki/Migrating-from-3.x-to-4.x#changed'
+    url: >-
+      https://github.com/visionmedia/express/wiki/Migrating-from-3.x-to-4.x#changed
 ---
 ExpressJS 4.0 rc1リリース。
 ExpressJS 4.0の変更点等についてまとまってる。

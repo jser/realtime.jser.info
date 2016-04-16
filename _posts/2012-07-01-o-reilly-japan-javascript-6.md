@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - JavaScript 第6版"
+title: O'Reilly Japan - JavaScript 第6版
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873115733/'

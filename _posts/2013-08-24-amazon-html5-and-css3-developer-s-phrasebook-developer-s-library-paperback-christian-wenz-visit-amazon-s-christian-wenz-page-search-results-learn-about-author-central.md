@@ -1,5 +1,8 @@
 ---
-title: "Amazon: HTML5 and CSS3 Developer's Phrasebook (Developer's Library) [Paperback]: Christian Wenz, Visit Amazon's Christian Wenz Page, search results, Learn about Author Central"
+title: >-
+  Amazon: HTML5 and CSS3 Developer's Phrasebook (Developer's Library)
+  [Paperback]: Christian Wenz, Visit Amazon's Christian Wenz Page, search
+  results, Learn about Author Central
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321776399/amazon0abac-22/ref=nosim'

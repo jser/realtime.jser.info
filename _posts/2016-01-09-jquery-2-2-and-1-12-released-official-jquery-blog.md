@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 2.2 and 1.12 Released | Official jQuery Blog'
+title: jQuery 2.2 and 1.12 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/'

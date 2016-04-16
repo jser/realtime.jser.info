@@ -2,7 +2,8 @@
 title: 'Environment-specific Builds With Grunt, Gulp or Broccoli'
 author: azu
 layout: post
-itemUrl: 'http://addyosmani.com/blog/environment-specific-builds-with-grunt-gulp-or-broccoli/'
+itemUrl: >-
+  http://addyosmani.com/blog/environment-specific-builds-with-grunt-gulp-or-broccoli/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
 date: '2014-03-05T13:29:55+00:00'
 tags:

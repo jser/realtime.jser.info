@@ -1,5 +1,5 @@
 ---
-title: 'PhoneGap | Adobe PhoneGap 2.0 Released'
+title: PhoneGap | Adobe PhoneGap 2.0 Released
 author: azu
 layout: post
 itemUrl: 'http://phonegap.com/2012/07/20/adobe-phonegap-2-0-released.md//'

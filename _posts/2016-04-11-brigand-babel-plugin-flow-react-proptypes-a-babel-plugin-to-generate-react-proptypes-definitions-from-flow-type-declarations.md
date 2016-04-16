@@ -1,5 +1,7 @@
 ---
-title: 'brigand/babel-plugin-flow-react-proptypes: A babel plugin to generate React PropTypes definitions from Flow type declarations.'
+title: >-
+  brigand/babel-plugin-flow-react-proptypes: A babel plugin to generate React
+  PropTypes definitions from Flow type declarations.
 author: azu
 layout: post
 itemUrl: 'https://github.com/brigand/babel-plugin-flow-react-proptypes'

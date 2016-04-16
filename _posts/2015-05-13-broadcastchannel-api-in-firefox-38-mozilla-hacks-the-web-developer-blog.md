@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - WebPlatformAPI
 relatedLinks:
-  - title: 'Broadcast Channel API - Web API Interfaces | MDN'
+  - title: Broadcast Channel API - Web API Interfaces | MDN
     url: 'https://developer.mozilla.org/en-US/docs/Web/API/Broadcast_Channel_API'
 ---
 Firefox38でBroadcastChannel APIが実装された。

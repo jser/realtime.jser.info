@@ -1,5 +1,5 @@
 ---
-title: "『HTML5 Architecture - O'Reilly Media』"
+title: 『HTML5 Architecture - O'Reilly Media』
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920024088.do'

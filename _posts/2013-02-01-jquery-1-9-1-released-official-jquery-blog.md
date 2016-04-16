@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 1.9.1 Released | Official jQuery Blog'
+title: jQuery 1.9.1 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/02/04/jquery-1-9-1-released/'

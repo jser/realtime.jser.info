@@ -1,5 +1,7 @@
 ---
-title: 'Yeoman Update: announcing 1.0 beta 4, Windows support, Refreshed Angular, Backbone, Ember generators and more.'
+title: >-
+  Yeoman Update: announcing 1.0 beta 4, Windows support, Refreshed Angular,
+  Backbone, Ember generators and more.
 author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/blog/yeoman-update-announcing-1-0-beta-4/'

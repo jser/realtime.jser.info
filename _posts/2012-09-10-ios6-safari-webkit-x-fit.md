@@ -1,5 +1,5 @@
 ---
-title: 'iOS6のSafari・Webkit周りの変更点を訳してみた | x-fit - クロスフィット -'
+title: iOS6のSafari・Webkit周りの変更点を訳してみた | x-fit - クロスフィット -
 author: azu
 layout: post
 itemUrl: 'https://www.x-fit.jp/tips/131'

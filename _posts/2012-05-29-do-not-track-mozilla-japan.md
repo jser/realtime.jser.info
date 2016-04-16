@@ -1,5 +1,5 @@
 ---
-title: 'オンラインプライバシー勉強会のレポートと資料・ Do Not Track 実装ガイドを公開しました | Mozilla Japan ブログ'
+title: オンラインプライバシー勉強会のレポートと資料・ Do Not Track 実装ガイドを公開しました | Mozilla Japan ブログ
 author: azu
 layout: post
 itemUrl: 'http://mozilla.jp/blog/entry/9187/'

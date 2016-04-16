@@ -1,5 +1,7 @@
 ---
-title: 'QubitProducts/urlite: A very small, fast, dependency free url parser and formatter for nodejs and the web'
+title: >-
+  QubitProducts/urlite: A very small, fast, dependency free url parser and
+  formatter for nodejs and the web
 author: azu
 layout: post
 itemUrl: 'https://github.com/QubitProducts/urlite'

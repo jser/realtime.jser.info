@@ -1,5 +1,5 @@
 ---
-title: 'libsass.js - An Emscripten Experiment | Rodney Rehm'
+title: libsass.js - An Emscripten Experiment | Rodney Rehm
 author: azu
 layout: post
 itemUrl: 'http://blog.rodneyrehm.de/archives/33-libsass.js-An-Emscripten-Experiment.html'

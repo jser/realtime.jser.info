@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Deferred video | BigBinary'
+title: jQuery Deferred video | BigBinary
 author: azu
 layout: post
 itemUrl: 'http://www.bigbinary.com/videos/3-using-deferred-in-jquery'

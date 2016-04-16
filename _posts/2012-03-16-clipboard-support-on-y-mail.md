@@ -1,5 +1,5 @@
 ---
-title: '『Clipboard support on Y! mail』'
+title: 『Clipboard support on Y! mail』
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/rmsguhan/clipboard-support-on-y-mail'

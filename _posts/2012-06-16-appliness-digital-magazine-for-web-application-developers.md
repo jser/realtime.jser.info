@@ -1,5 +1,5 @@
 ---
-title: 'Appliness | Digital magazine for web application developers'
+title: Appliness | Digital magazine for web application developers
 author: azu
 layout: post
 itemUrl: 'http://www.appliness.com/'

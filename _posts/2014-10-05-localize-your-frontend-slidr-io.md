@@ -13,7 +13,8 @@ tags:
   - AngularJS
 relatedLinks:
   - title: '▶ Tina Umlandt – Localize your frontend! [Reject.JS 2014] - YouTube'
-    url: 'https://www.youtube.com/watch?v=Lu4mholN2lA&index=3&list=PL37ZVnwpeshF8Sr8JZNFU6boKMmod9YBw'
+    url: >-
+      https://www.youtube.com/watch?v=Lu4mholN2lA&index=3&list=PL37ZVnwpeshF8Sr8JZNFU6boKMmod9YBw
 ---
 jimdo.com のローカライズについてのスライド。数字フォーマットの問題に対してAngularJS、Closure LibraryやECMA i18n API(とpolyfill)等について
 

@@ -1,5 +1,5 @@
 ---
-title: 'PhoneGap 1.8.0 Released! « PhoneGap'
+title: PhoneGap 1.8.0 Released! « PhoneGap
 author: azu
 layout: post
 itemUrl: 'http://phonegap.com/2012/06/06/phonegap-1-8-0-released/'

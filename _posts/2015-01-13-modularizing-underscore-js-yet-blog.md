@@ -1,5 +1,5 @@
 ---
-title: 'Modularizing Underscore.js | &yet Blog'
+title: Modularizing Underscore.js | &yet Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.andyet.com/2015/01/07/modularizing-underscorejs'

@@ -1,5 +1,5 @@
 ---
-title: '5分でわかる正しい Web サイト常時 SSL 化のための基礎知識 | WWW WATCH'
+title: 5分でわかる正しい Web サイト常時 SSL 化のための基礎知識 | WWW WATCH
 author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2015/01/full_time_ssl_website_quick_start.shtml'

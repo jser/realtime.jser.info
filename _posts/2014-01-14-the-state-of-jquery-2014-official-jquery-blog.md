@@ -1,5 +1,5 @@
 ---
-title: 'The State of jQuery 2014 | Official jQuery Blog'
+title: The State of jQuery 2014 | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2014/01/13/the-state-of-jquery-2014/'

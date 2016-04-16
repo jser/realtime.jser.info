@@ -1,5 +1,5 @@
 ---
-title: 'Cookbook | QUnit'
+title: Cookbook | QUnit
 author: azu
 layout: post
 itemUrl: 'http://qunitjs.com/cookbook/'

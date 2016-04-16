@@ -1,5 +1,7 @@
 ---
-title: '今話題のReact.jsはどのようなWebアプリケーションに適しているか？ Introduction To React─ Frontrend Conference | HTML5Experts.jp'
+title: >-
+  今話題のReact.jsはどのようなWebアプリケーションに適しているか？ Introduction To React─ Frontrend
+  Conference | HTML5Experts.jp
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/hokaccha/13301/'

@@ -1,5 +1,5 @@
 ---
-title: 'Brackets 0.42 Release (Themes!) – Brackets Blog'
+title: Brackets 0.42 Release (Themes!) – Brackets Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2014/08/01/brackets-0-42-release-themes/'

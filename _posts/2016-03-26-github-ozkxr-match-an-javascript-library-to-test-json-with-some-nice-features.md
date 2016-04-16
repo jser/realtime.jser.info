@@ -1,5 +1,7 @@
 ---
-title: 'GitHub - ozkxr/match: An JavaScript library to test JSON with some nice features.'
+title: >-
+  GitHub - ozkxr/match: An JavaScript library to test JSON with some nice
+  features.
 author: azu
 layout: post
 itemUrl: 'https://github.com/ozkxr/match'

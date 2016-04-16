@@ -1,5 +1,5 @@
 ---
-title: "Polyfilling Doesn't Have to be Difficult -Telerik Developer Network"
+title: Polyfilling Doesn't Have to be Difficult -Telerik Developer Network
 author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/polyfilling-doesnt-difficult/'

@@ -9,8 +9,11 @@ tags:
   - MSEdge
   - browser
 relatedLinks:
-  - title: Microsoft Edge is the browser for Windows 10 - IEBlog - Site Home - MSDN Blogs
-    url: 'http://blogs.msdn.com/b/ie/archive/2015/04/29/microsoft-edge-is-the-browser-for-windows-10.aspx'
+  - title: >-
+      Microsoft Edge is the browser for Windows 10 - IEBlog - Site Home - MSDN
+      Blogs
+    url: >-
+      http://blogs.msdn.com/b/ie/archive/2015/04/29/microsoft-edge-is-the-browser-for-windows-10.aspx
   - title: 'Developer Resources : MSEdge Dev'
     url: 'http://dev.modern.ie/'
   - title: Microsoft Edge

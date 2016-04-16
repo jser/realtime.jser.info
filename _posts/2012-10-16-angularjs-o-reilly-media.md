@@ -1,5 +1,5 @@
 ---
-title: "AngularJS - O'Reilly Media"
+title: AngularJS - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920028055.do'

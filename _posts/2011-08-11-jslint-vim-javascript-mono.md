@@ -1,5 +1,5 @@
 ---
-title: 'jslint.vimで正しいJavaScriptを書く | monoの開発ブログ'
+title: jslint.vimで正しいJavaScriptを書く | monoの開発ブログ
 author: azu
 layout: post
 itemUrl: 'http://blog.monoweb.info/article/2011042918.html'

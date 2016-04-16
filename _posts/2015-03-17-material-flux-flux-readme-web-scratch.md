@@ -1,5 +1,5 @@
 ---
-title: 'material-fluxというFluxライブラリをREADME駆動で開発した | Web Scratch'
+title: material-fluxというFluxライブラリをREADME駆動で開発した | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/03/17/material-flux/'

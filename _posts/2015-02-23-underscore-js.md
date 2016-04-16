@@ -9,7 +9,9 @@ tags:
   - JavaScript
   - library
 relatedLinks:
-  - title: 'Discuss latest changes to master before releasing · Issue #2061 · jashkenas/underscore'
+  - title: >-
+      Discuss latest changes to master before releasing · Issue #2061 ·
+      jashkenas/underscore
     url: 'https://github.com/jashkenas/underscore/issues/2061'
 ---
 underscore.js 1.8.0(現在1.8.2まで出てる)リリース。

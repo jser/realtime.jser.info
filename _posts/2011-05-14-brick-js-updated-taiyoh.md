@@ -1,5 +1,5 @@
 ---
-title: 'Brick.js updated! - taiyoh独言'
+title: Brick.js updated! - taiyoh独言
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/sun-basix/20110516/1305550981'

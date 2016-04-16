@@ -1,5 +1,5 @@
 ---
-title: 'Behaviour Driven Development with JavaScript | developer.press'
+title: Behaviour Driven Development with JavaScript | developer.press
 author: azu
 layout: post
 itemUrl: 'http://developerpress.com/en/behaviour-driven-development-javascript-1'

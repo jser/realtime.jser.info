@@ -1,5 +1,5 @@
 ---
-title: "JavaScript and jQuery: The Missing Manual, Second Edition - O'Reilly Media"
+title: 'JavaScript and jQuery: The Missing Manual, Second Edition - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://oreilly.com/catalog/0636920015048'

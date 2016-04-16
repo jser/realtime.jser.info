@@ -1,5 +1,5 @@
 ---
-title: 'ブラウザでビジュアルテストをするreftest-runnerを作った | Web Scratch'
+title: ブラウザでビジュアルテストをするreftest-runnerを作った | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/05/14/reftest-runner/'

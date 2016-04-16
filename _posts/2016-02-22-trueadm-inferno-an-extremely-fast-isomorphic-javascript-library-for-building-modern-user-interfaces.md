@@ -1,5 +1,7 @@
 ---
-title: 'trueadm/inferno: An extremely fast, isomorphic JavaScript library for building modern user interfaces'
+title: >-
+  trueadm/inferno: An extremely fast, isomorphic JavaScript library for building
+  modern user interfaces
 author: azu
 layout: post
 itemUrl: 'https://github.com/trueadm/inferno'
@@ -11,7 +13,9 @@ tags:
   - React
   - library
 relatedLinks:
-  - title: "What's the difference from virtual dom libraries? · Issue #21 · trueadm/inferno"
+  - title: >-
+      What's the difference from virtual dom libraries? · Issue #21 ·
+      trueadm/inferno
     url: 'https://github.com/trueadm/inferno/issues/21'
 ---
 ReactライクなVirtual DOMライブラリ。

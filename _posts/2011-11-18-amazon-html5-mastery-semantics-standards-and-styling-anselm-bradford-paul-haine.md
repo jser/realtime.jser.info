@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Html5 Mastery: Semantics, Standards, and Styling [ペーパーバック]: Anselm Bradford, Paul Haine』'
+title: >-
+  『Amazon: Html5 Mastery: Semantics, Standards, and Styling [ペーパーバック]: Anselm
+  Bradford, Paul Haine』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/1430238615/book042-22/ref=nosim'

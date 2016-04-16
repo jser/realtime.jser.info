@@ -1,5 +1,5 @@
 ---
-title: '『Announcing YUI 3.5.0 » Yahoo! User Interface Blog (YUIBlog)』'
+title: 『Announcing YUI 3.5.0 » Yahoo! User Interface Blog (YUIBlog)』
 author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2012/04/10/announcing-yui-3-5-0/'

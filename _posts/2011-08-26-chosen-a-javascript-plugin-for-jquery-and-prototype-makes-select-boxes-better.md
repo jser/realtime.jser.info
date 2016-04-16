@@ -1,5 +1,7 @@
 ---
-title: Chosen - a JavaScript plugin for jQuery and Prototype - makes select boxes better
+title: >-
+  Chosen - a JavaScript plugin for jQuery and Prototype - makes select boxes
+  better
 author: azu
 layout: post
 itemUrl: 'http://harvesthq.github.com/chosen/'

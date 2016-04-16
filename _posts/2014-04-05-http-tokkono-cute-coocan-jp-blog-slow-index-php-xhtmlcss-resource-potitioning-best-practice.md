@@ -1,8 +1,9 @@
 ---
-title: 'サイトに適したリソース配置 – レンダリング優先のグッド・プラクティス | ゆっくりと…'
+title: サイトに適したリソース配置 – レンダリング優先のグッド・プラクティス | ゆっくりと…
 author: azu
 layout: post
-itemUrl: 'http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/resource-potitioning-best-practice/'
+itemUrl: >-
+  http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/resource-potitioning-best-practice/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-05T07:31:49+00:00'
 tags:

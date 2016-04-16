@@ -1,5 +1,5 @@
 ---
-title: 'HTML5 でやりがちな間違い | WWW WATCH'
+title: HTML5 でやりがちな間違い | WWW WATCH
 author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2011/07/html5_mistakes.shtml'

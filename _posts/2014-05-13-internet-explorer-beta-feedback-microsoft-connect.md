@@ -1,5 +1,5 @@
 ---
-title: 'Internet Explorer Beta Feedback | Microsoft Connect'
+title: Internet Explorer Beta Feedback | Microsoft Connect
 author: azu
 layout: post
 itemUrl: 'https://connect.microsoft.com/IE/'

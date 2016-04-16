@@ -1,5 +1,5 @@
 ---
-title: 'PhantomJS 2.0 Release Notes | PhantomJS'
+title: PhantomJS 2.0 Release Notes | PhantomJS
 author: azu
 layout: post
 itemUrl: 'http://phantomjs.org/release-2.0.html'

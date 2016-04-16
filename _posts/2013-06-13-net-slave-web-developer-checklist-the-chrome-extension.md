@@ -1,5 +1,5 @@
 ---
-title: '.NET Slave | Web Developer Checklist - the Chrome extension'
+title: .NET Slave | Web Developer Checklist - the Chrome extension
 author: azu
 layout: post
 itemUrl: 'http://madskristensen.net/post/Chrome-extension-Web-Developer-Checklist.aspx'

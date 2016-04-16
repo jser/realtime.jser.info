@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: JavaScript ライブラリ実践活用〔厳選111〕 (Software Design plus) [大型本]: WINGSプロジェクト, 山田祥寛, 安西剛, 高江賢, 高野将'
+title: >-
+  Amazon: JavaScript ライブラリ実践活用〔厳選111〕 (Software Design plus) [大型本]: WINGSプロジェクト,
+  山田祥寛, 安西剛, 高江賢, 高野将
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774156116/book042-22/ref=nosim'

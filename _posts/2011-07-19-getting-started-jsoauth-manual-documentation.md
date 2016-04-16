@@ -1,5 +1,5 @@
 ---
-title: '『Getting started - jsOAuth Manual & Documentation』'
+title: 『Getting started - jsOAuth Manual & Documentation』
 author: azu
 layout: post
 itemUrl: 'http://bytespider.github.com/jsOAuth/'

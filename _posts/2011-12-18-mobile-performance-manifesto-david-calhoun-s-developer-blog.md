@@ -1,5 +1,5 @@
 ---
-title: "『Mobile Performance Manifesto | David Calhoun's Developer Blog』"
+title: 『Mobile Performance Manifesto | David Calhoun's Developer Blog』
 author: azu
 layout: post
 itemUrl: 'http://davidbcalhoun.com/2011/mobile-performance-manifesto'

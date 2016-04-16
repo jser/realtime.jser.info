@@ -2,7 +2,8 @@
 title: io.js/CHANGELOG.md at master · nodejs/io.js
 author: azu
 layout: post
-itemUrl: 'https://github.com/nodejs/io.js/blob/master/CHANGELOG.md#2015-08-04-version-300-rvagg'
+itemUrl: >-
+  https://github.com/nodejs/io.js/blob/master/CHANGELOG.md#2015-08-04-version-300-rvagg
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
 date: '2015-08-05T12:49:51+00:00'
 tags:

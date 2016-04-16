@@ -1,5 +1,5 @@
 ---
-title: "escodegen + esprima で JS のデバッグをしたら捗りそう - tokuhirom's blog."
+title: escodegen + esprima で JS のデバッグをしたら捗りそう - tokuhirom's blog.
 author: azu
 layout: post
 itemUrl: 'http://blog.64p.org/entry/2012/08/13/173120'

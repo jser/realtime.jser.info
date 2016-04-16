@@ -1,5 +1,5 @@
 ---
-title: 'フリーズやカクカクしない安定した動作のアプリやアドオン、ゲームなどが作れるJavaScriptライブラリ | 圧縮電子精神音楽浮遊構造体'
+title: フリーズやカクカクしない安定した動作のアプリやアドオン、ゲームなどが作れるJavaScriptライブラリ | 圧縮電子精神音楽浮遊構造体
 author: azu
 layout: post
 itemUrl: 'http://polygon-planet.blogspot.com/2011/11/javascript.html'

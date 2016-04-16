@@ -1,5 +1,5 @@
 ---
-title: "What's new in CSS Selectors 4 | grack"
+title: What's new in CSS Selectors 4 | grack
 author: azu
 layout: post
 itemUrl: 'https://grack.com/blog/2015/01/11/css-selectors-4/'

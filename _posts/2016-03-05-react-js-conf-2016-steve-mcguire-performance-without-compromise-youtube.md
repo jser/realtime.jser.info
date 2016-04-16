@@ -2,7 +2,8 @@
 title: React.js Conf 2016 - Steve McGuire - Performance Without Compromise - YouTube
 author: azu
 layout: post
-itemUrl: 'https://www.youtube.com/watch?v=kDARP5QZ6nU&list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY&index=28'
+itemUrl: >-
+  https://www.youtube.com/watch?v=kDARP5QZ6nU&list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY&index=28
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
 date: '2016-03-05T09:55:06+00:00'
 tags:

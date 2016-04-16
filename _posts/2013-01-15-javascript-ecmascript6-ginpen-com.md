@@ -1,5 +1,5 @@
 ---
-title: '次世代JavaScript、ECMAScript6の話を聞いてきたからサンプルコードとかメモしときます。 | Ginpen.com'
+title: 次世代JavaScript、ECMAScript6の話を聞いてきたからサンプルコードとかメモしときます。 | Ginpen.com
 author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2013/01/17/ecmascript6/'

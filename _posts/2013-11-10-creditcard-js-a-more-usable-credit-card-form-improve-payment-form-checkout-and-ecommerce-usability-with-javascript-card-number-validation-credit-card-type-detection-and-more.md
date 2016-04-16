@@ -1,5 +1,8 @@
 ---
-title: 'Creditcard.js: a more usable credit card form. Improve payment form, checkout, and ecommerce usability with JavaScript card number validation, credit card type detection, and more.'
+title: >-
+  Creditcard.js: a more usable credit card form. Improve payment form, checkout,
+  and ecommerce usability with JavaScript card number validation, credit card
+  type detection, and more.
 author: azu
 layout: post
 itemUrl: 'http://creditcardjs.com'

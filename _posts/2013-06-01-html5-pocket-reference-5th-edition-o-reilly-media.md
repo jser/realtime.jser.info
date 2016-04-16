@@ -1,5 +1,5 @@
 ---
-title: "HTML5 Pocket Reference, 5th Edition - O'Reilly Media"
+title: 'HTML5 Pocket Reference, 5th Edition - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920029274.do'

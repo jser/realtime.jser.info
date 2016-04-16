@@ -1,5 +1,5 @@
 ---
-title: 'ES6 Module Gotchas | geedew'
+title: ES6 Module Gotchas | geedew
 author: azu
 layout: post
 itemUrl: 'http://www.geedew.com/2014/12/26/es6-module-gotchas/'

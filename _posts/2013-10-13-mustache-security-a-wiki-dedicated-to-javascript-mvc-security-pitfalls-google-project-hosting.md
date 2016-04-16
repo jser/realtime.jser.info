@@ -1,5 +1,7 @@
 ---
-title: mustache-security - A wiki dedicated to JavaScript MVC security pitfalls - Google Project Hosting
+title: >-
+  mustache-security - A wiki dedicated to JavaScript MVC security pitfalls -
+  Google Project Hosting
 author: azu
 layout: post
 itemUrl: 'https://code.google.com/p/mustache-security/'

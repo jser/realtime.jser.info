@@ -1,5 +1,5 @@
 ---
-title: 'The Pragmatic Bookshelf | Backbone Marionette'
+title: The Pragmatic Bookshelf | Backbone Marionette
 author: azu
 layout: post
 itemUrl: 'http://pragprog.com/book/dsbackm/backbone-marionette'

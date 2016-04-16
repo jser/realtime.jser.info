@@ -1,5 +1,5 @@
 ---
-title: 'Javascript Operators | by timmmy willison'
+title: Javascript Operators | by timmmy willison
 author: azu
 layout: post
 itemUrl: 'http://www.timmywillison.com/pres/operators/#landing'

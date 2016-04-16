@@ -1,5 +1,7 @@
 ---
-title: Chutzpah - Chutzpah 3.2 – A smarter approach to compilation - Matthew Manela - Farblondzshet in Code
+title: >-
+  Chutzpah - Chutzpah 3.2 – A smarter approach to compilation - Matthew Manela -
+  Farblondzshet in Code
 author: azu
 layout: post
 itemUrl: 'http://matthewmanela.com/blog/chutzpah-3-2-a-smarter-approach-to-compilation/'

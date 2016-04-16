@@ -1,5 +1,5 @@
 ---
-title: "ES5 features on iOS/Android's default browser - 愛と勇気と缶ビール"
+title: ES5 features on iOS/Android's default browser - 愛と勇気と缶ビール
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/zentoo/20120819/1345378440'

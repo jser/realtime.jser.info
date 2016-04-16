@@ -1,5 +1,7 @@
 ---
-title: モダン ブラウザのためのクライアント サイド Web 開発ガイダンス ～ Project Silk リリース：ASP.NET on the Web.：ITmedia オルタナティブ・ブログ
+title: >-
+  モダン ブラウザのためのクライアント サイド Web 開発ガイダンス ～ Project Silk リリース：ASP.NET on the
+  Web.：ITmedia オルタナティブ・ブログ
 author: azu
 layout: post
 itemUrl: 'http://blogs.itmedia.co.jp/chack/2011/10/web-project-sil-7ba0.html'

@@ -1,5 +1,7 @@
 ---
-title: 'JSConfUS 2013] Carter Rabasa: APIs and Making Humankind Better at Programming - YouTube'
+title: >-
+  JSConfUS 2013] Carter Rabasa: APIs and Making Humankind Better at Programming
+  - YouTube
 author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=pHJRELG31dE'

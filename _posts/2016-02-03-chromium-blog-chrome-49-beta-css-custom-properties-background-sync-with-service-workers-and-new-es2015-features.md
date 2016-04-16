@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 49 Beta: CSS custom properties, background sync with service workers, and new ES2015 features'
+title: >-
+  Chromium Blog: Chrome 49 Beta: CSS custom properties, background sync with
+  service workers, and new ES2015 features
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2016/02/chrome-49-beta-css-custom-properties.html'

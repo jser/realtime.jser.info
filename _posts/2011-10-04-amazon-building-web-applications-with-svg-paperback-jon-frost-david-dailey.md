@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Building Web Applications with SVG [Paperback]: Jon Frost, David Dailey』'
+title: >-
+  『Amazon: Building Web Applications with SVG [Paperback]: Jon Frost, David
+  Dailey』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0735660123/book042-22/ref=nosim'

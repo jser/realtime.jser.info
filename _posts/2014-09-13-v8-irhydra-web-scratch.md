@@ -1,5 +1,5 @@
 ---
-title: 'V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch'
+title: V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/09/13/v8-optimization-memo/'

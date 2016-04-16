@@ -1,5 +1,5 @@
 ---
-title: "Sorting - We're Doing It Wrong | Rodney Rehm"
+title: Sorting - We're Doing It Wrong | Rodney Rehm
 author: azu
 layout: post
 itemUrl: 'http://blog.rodneyrehm.de/archives/14-Sorting-Were-Doing-It-Wrong.html'

@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: CSS at Lonely Planet - Ian Feather
     url: 'http://ianfeather.co.uk/css-at-lonely-planet/'
-  - title: "GitHub's CSS · @mdo"
+  - title: GitHub's CSS · @mdo
     url: 'http://markdotto.com/2014/07/23/githubs-css/'
   - title: mrmrs/cssstats
     url: 'https://github.com/mrmrs/cssstats'

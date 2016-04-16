@@ -1,5 +1,5 @@
 ---
-title: 'Hello Sencha Touch 2.2 | Blog | Sencha'
+title: Hello Sencha Touch 2.2 | Blog | Sencha
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/hello-sencha-touch-2-2/'

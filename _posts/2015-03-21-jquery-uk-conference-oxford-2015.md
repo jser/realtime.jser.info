@@ -10,7 +10,7 @@ tags:
   - 動画
   - まとめ
 relatedLinks:
-  - title: 'Coverage of jQuery UK 2015 | Lanyrd'
+  - title: Coverage of jQuery UK 2015 | Lanyrd
     url: 'http://lanyrd.com/2015/jquery-uk/coverage/'
 ---
 jQuery UK 2015の動画が公開された

@@ -1,5 +1,5 @@
 ---
-title: "Functional JavaScript - O'Reilly Media"
+title: Functional JavaScript - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920028857.do'

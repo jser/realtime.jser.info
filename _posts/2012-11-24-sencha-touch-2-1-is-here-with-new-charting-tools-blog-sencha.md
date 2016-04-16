@@ -1,5 +1,5 @@
 ---
-title: 'Sencha Touch 2.1 is Here with New Charting & Tools | Blog | Sencha'
+title: Sencha Touch 2.1 is Here with New Charting & Tools | Blog | Sencha
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/introducing-sencha-touch-2-1-and-more'

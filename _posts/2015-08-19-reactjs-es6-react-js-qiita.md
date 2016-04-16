@@ -10,7 +10,7 @@ tags:
   - ECMAScript
   - tutorial
 relatedLinks:
-  - title: 'チュートリアル | React'
+  - title: チュートリアル | React
     url: 'http://facebook.github.io/react/docs/tutorial-ja-JP.html'
 ---
 ReactのチュートリアルをES6 classesなどを使って書いた場合にどうなるかについてをチュートリアル形式で書かれている。

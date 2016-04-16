@@ -1,5 +1,5 @@
 ---
-title: "クロージャーのチュートリアル（What's a Closure?） @ t100のプログラミング脱出作戦"
+title: クロージャーのチュートリアル（What's a Closure?） @ t100のプログラミング脱出作戦
 author: azu
 layout: post
 itemUrl: 'http://t100life.blog121.fc2.com/blog-entry-214.html'

@@ -9,7 +9,7 @@ tags:
   - W3C
   - まとめ
 relatedLinks:
-  - title: 'W3Cx - Free Courses from The World Wide Web Consortium (W3C) | edX'
+  - title: W3Cx - Free Courses from The World Wide Web Consortium (W3C) | edX
     url: 'https://www.edx.org/school/w3cx'
 ---
 2015年10月のW3Cハイライト。

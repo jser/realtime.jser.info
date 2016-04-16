@@ -1,5 +1,7 @@
 ---
-title: 'Introducing the Microsoft Edge Platform Issue Tracker | Microsoft Edge Dev Blog'
+title: >-
+  Introducing the Microsoft Edge Platform Issue Tracker | Microsoft Edge Dev
+  Blog
 author: azu
 layout: post
 itemUrl: 'https://blogs.windows.com/msedgedev/2016/04/06/edgehtml-issue-tracker/'

@@ -1,5 +1,5 @@
 ---
-title: "bouzuya's RxJS Advent Calendar 2015 - Adventar"
+title: bouzuya's RxJS Advent Calendar 2015 - Adventar
 author: azu
 layout: post
 itemUrl: 'http://www.adventar.org/calendars/1200'

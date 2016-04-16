@@ -13,7 +13,9 @@ tags:
 relatedLinks:
   - title: saneyuki/option-t.js
     url: 'https://github.com/saneyuki/option-t.js'
-  - title: "「値が無い」ということをどう表現するか、あるいはOption型について - Line 1: Error: Invalid Blog('by Esehara' )"
+  - title: >-
+      「値が無い」ということをどう表現するか、あるいはOption型について - Line 1: Error: Invalid Blog('by
+      Esehara' )
     url: 'http://bugrammer.hateblo.jp/entry/2013/07/30/134120'
 ---
 (初期状態)未選択を状態として保存したい時に使うOption typeの実装ライブラリ(like Rust)

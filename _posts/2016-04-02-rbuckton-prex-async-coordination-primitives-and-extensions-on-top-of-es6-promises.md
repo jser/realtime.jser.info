@@ -1,5 +1,7 @@
 ---
-title: 'rbuckton/prex: Async coordination primitives and extensions on top of ES6 Promises'
+title: >-
+  rbuckton/prex: Async coordination primitives and extensions on top of ES6
+  Promises
 author: azu
 layout: post
 itemUrl: 'https://github.com/rbuckton/prex'

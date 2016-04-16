@@ -1,5 +1,7 @@
 ---
-title: 'Applied JavaScript MVC: Developing Complex Applications with Backbone.js: Zebulon Young: 9781449368128: Amazon.com: Books'
+title: >-
+  Applied JavaScript MVC: Developing Complex Applications with Backbone.js:
+  Zebulon Young: 9781449368128: Amazon.com: Books
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1449368123/amazon0abac-22/ref=nosim'

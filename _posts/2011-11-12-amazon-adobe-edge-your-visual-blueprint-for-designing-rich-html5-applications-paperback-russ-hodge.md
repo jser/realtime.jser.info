@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Adobe Edge: Your visual blueprint for designing rich HTML5 applications [Paperback]: Russ Hodge』'
+title: >-
+  『Amazon: Adobe Edge: Your visual blueprint for designing rich HTML5
+  applications [Paperback]: Russ Hodge』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1118245717/book042-22/ref=nosim'

@@ -1,5 +1,5 @@
 ---
-title: 'Google & the Future of JavaScript | Infrequently Noted'
+title: Google & the Future of JavaScript | Infrequently Noted
 author: azu
 layout: post
 itemUrl: 'http://infrequently.org/2011/09/google-the-future-of-javascript/'

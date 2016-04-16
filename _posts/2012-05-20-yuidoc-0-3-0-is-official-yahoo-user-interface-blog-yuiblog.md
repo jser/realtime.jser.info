@@ -1,5 +1,5 @@
 ---
-title: '『YUIDoc 0.3.0 is Official! » Yahoo! User Interface Blog (YUIBlog)』'
+title: 『YUIDoc 0.3.0 is Official! » Yahoo! User Interface Blog (YUIBlog)』
 author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2012/05/09/yuidoc-0-3-0-is-official/'

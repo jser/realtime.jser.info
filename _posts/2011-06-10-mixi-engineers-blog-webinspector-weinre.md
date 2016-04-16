@@ -1,5 +1,5 @@
 ---
-title: "mixi Engineers' Blog » スマートフォンブラウザのWebInspectorをリモートで実現するweinreが凄い"
+title: mixi Engineers' Blog » スマートフォンブラウザのWebInspectorをリモートで実現するweinreが凄い
 author: azu
 layout: post
 itemUrl: 'http://alpha.mixi.co.jp/blog/?p=3248'

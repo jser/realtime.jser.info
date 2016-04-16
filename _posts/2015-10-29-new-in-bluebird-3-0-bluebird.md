@@ -1,5 +1,5 @@
 ---
-title: 'New in bluebird 3.0 | bluebird'
+title: New in bluebird 3.0 | bluebird
 author: azu
 layout: post
 itemUrl: 'http://bluebirdjs.com/docs/new-in-bluebird-3.html'

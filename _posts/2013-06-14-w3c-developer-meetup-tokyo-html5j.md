@@ -1,5 +1,5 @@
 ---
-title: 'W3C Developer Meetup - Tokyo のアーカイブ情報 | html5j スタッフブログ'
+title: W3C Developer Meetup - Tokyo のアーカイブ情報 | html5j スタッフブログ
 author: azu
 layout: post
 itemUrl: 'http://blog.html5j.org/2013/06/w3c-developer-meetup-tokyo.html'

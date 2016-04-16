@@ -1,5 +1,7 @@
 ---
-title: 'GitHub - benoitvallon/computer-science-in-javascript: Computer science reimplemented in JavaScript'
+title: >-
+  GitHub - benoitvallon/computer-science-in-javascript: Computer science
+  reimplemented in JavaScript
 author: azu
 layout: post
 itemUrl: 'https://github.com/benoitvallon/computer-science-in-javascript'
@@ -9,7 +11,7 @@ tags:
   - JavaScript
   - algorithm
 relatedLinks:
-  - title: "Data Structures in JavaScript posts - Ben's Blog"
+  - title: Data Structures in JavaScript posts - Ben's Blog
     url: 'http://blog.benoitvallon.com/category/data-structures-in-javascript/'
 ---
 JavaScriptでデータ構造やソートアルゴリズムの実装例 

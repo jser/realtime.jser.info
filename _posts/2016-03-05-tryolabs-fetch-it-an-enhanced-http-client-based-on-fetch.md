@@ -11,7 +11,8 @@ tags:
   - library
 relatedLinks:
   - title: 'fetch-it: enhanced HTTP client based on fetch | Tryolabs | Blog'
-    url: 'http://blog.tryolabs.com/2016/03/02/fetch-it-enhanced-http-client-based-on-fetch/'
+    url: >-
+      http://blog.tryolabs.com/2016/03/02/fetch-it-enhanced-http-client-based-on-fetch/
 ---
 Fetch APIをベースにしたHTTPクライアントライブラリ。
 middlewareで処理を追加できる仕組みを持っている

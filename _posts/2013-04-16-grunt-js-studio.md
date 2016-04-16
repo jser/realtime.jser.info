@@ -1,5 +1,5 @@
 ---
-title: 'Grunt 日本語リファレンス | js STUDIO'
+title: Grunt 日本語リファレンス | js STUDIO
 author: azu
 layout: post
 itemUrl: 'http://js.studio-kingdom.com/grunt'

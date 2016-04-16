@@ -1,5 +1,5 @@
 ---
-title: "HTML5 Canvas, 2nd Edition - O'Reilly Media"
+title: 'HTML5 Canvas, 2nd Edition - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920026266.do'

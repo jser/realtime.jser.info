@@ -1,5 +1,5 @@
 ---
-title: 'HTML5 Boilerplate – v4.0.0 | drublic'
+title: HTML5 Boilerplate – v4.0.0 | drublic
 author: azu
 layout: post
 itemUrl: 'http://drublic.de/blog/html5bp-v4-0-0/'

@@ -1,5 +1,5 @@
 ---
-title: "Surfin' Safari - Blog Archive » Last week in WebKit: a new hope"
+title: 'Surfin'' Safari - Blog Archive » Last week in WebKit: a new hope'
 author: azu
 layout: post
 itemUrl: 'https://www.webkit.org/blog/2291/last-week-in-webkit-a-new-hope/'

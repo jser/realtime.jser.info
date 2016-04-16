@@ -1,5 +1,5 @@
 ---
-title: 'The classList API | HTML5 Doctor'
+title: The classList API | HTML5 Doctor
 author: azu
 layout: post
 itemUrl: 'http://html5doctor.com/the-classlist-api/'

@@ -1,5 +1,5 @@
 ---
-title: 'Introducing the Qt WebEngine | Qt Blog'
+title: Introducing the Qt WebEngine | Qt Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.qt.digia.com/blog/2013/09/12/introducing-the-qt-webengine/'

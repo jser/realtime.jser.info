@@ -1,5 +1,5 @@
 ---
-title: 'パフォーマンスからみるSass/Compass 第2回：CompassによるCSS Sprite | MOL'
+title: パフォーマンスからみるSass/Compass 第2回：CompassによるCSS Sprite | MOL
 author: azu
 layout: post
 itemUrl: 'http://t32k.me/mol/log/spriting-with-compass/'

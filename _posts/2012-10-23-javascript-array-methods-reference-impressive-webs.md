@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Array Methods Reference | Impressive Webs'
+title: JavaScript Array Methods Reference | Impressive Webs
 author: azu
 layout: post
 itemUrl: 'http://www.impressivewebs.com/javascript-array-methods-reference/'

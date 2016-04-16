@@ -11,7 +11,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: 'harmony:specification_drafts [ES Wiki]'
-    url: 'http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#october_14_2014_draft_rev_28'
+    url: >-
+      http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#october_14_2014_draft_rev_28
 ---
 ECMAScript 6 Draft Rev 28リリース。
 

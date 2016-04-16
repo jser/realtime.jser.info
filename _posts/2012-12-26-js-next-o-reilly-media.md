@@ -1,5 +1,5 @@
 ---
-title: "JS.next - O'Reilly Media"
+title: JS.next - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920026396.do'

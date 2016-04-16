@@ -1,5 +1,5 @@
 ---
-title: "Felix's Node.js Guide"
+title: Felix's Node.js Guide
 author: azu
 layout: post
 itemUrl: 'http://nodeguide.com/'

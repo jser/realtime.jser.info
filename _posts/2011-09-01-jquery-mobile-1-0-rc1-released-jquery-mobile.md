@@ -1,5 +1,5 @@
 ---
-title: '『jQuery Mobile 1.0 RC1 Released! | jQuery Mobile』'
+title: 『jQuery Mobile 1.0 RC1 Released! | jQuery Mobile』
 author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2011/09/29/jquery-mobile-1-0rc1-released/'

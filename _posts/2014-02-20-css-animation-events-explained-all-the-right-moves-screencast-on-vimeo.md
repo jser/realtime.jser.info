@@ -1,5 +1,5 @@
 ---
-title: 'CSS Animation Events Explained! - All The Right Moves Screencast on Vimeo'
+title: CSS Animation Events Explained! - All The Right Moves Screencast on Vimeo
 author: azu
 layout: post
 itemUrl: 'http://vimeo.com/86821694'

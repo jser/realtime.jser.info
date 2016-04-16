@@ -1,5 +1,7 @@
 ---
-title: New Developer Tools in Firefox 11 Aurora ✩ Mozilla Hacks – the Web developer blog
+title: >-
+  New Developer Tools in Firefox 11 Aurora ✩ Mozilla Hacks – the Web developer
+  blog
 author: azu
 layout: post
 itemUrl: 'http://hacks.mozilla.org/2011/12/new-developer-tools-in-firefox-11-aurora/'

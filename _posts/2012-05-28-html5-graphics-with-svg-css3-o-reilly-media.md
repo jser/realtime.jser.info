@@ -1,5 +1,5 @@
 ---
-title: "『HTML5 Graphics with SVG & CSS3 - O'Reilly Media』"
+title: 『HTML5 Graphics with SVG & CSS3 - O'Reilly Media』
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920019831.do'

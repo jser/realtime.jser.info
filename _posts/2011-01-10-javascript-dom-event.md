@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript DOM & event'
+title: JavaScript DOM & event
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/boreydev/java-script-dom-event'

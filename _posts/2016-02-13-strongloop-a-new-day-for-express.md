@@ -1,5 +1,5 @@
 ---
-title: 'StrongLoop | A New Day for Express!'
+title: StrongLoop | A New Day for Express!
 author: azu
 layout: post
 itemUrl: 'https://strongloop.com/strongblog/a-new-day-for-express/'

@@ -1,8 +1,11 @@
 ---
-title: Aurora 12 is out – improvements and updated Developer Tools ✩ Mozilla Hacks – the Web developer blog
+title: >-
+  Aurora 12 is out – improvements and updated Developer Tools ✩ Mozilla Hacks –
+  the Web developer blog
 author: azu
 layout: post
-itemUrl: 'http://hacks.mozilla.org/2012/02/aurora-12-is-out-improvements-and-updated-developer-tools/'
+itemUrl: >-
+  http://hacks.mozilla.org/2012/02/aurora-12-is-out-improvements-and-updated-developer-tools/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
 date: '2012-02-23T10:10:00+00:00'
 ---

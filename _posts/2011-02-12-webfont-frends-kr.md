@@ -1,5 +1,5 @@
 ---
-title: 'Webfont 사용하기 | FRENDS.KR'
+title: Webfont 사용하기 | FRENDS.KR
 author: azu
 layout: post
 itemUrl: 'http://frends.kr/topics/webfont-%ec%82%ac%ec%9a%a9%ed%95%98%ea%b8%b0/'

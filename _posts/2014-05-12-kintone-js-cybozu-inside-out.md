@@ -1,5 +1,5 @@
 ---
-title: 'kintoneのJSユニットテスト最新事情 | Cybozu Inside Out | サイボウズエンジニアのブログ'
+title: kintoneのJSユニットテスト最新事情 | Cybozu Inside Out | サイボウズエンジニアのブログ
 author: azu
 layout: post
 itemUrl: 'http://developer.cybozu.co.jp/tech/?p=7089'

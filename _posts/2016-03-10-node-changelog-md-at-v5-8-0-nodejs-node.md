@@ -11,7 +11,9 @@ tags:
 relatedLinks:
   - title: 'Node 5.7.1 path.normalize broken · Issue #5585 · nodejs/node'
     url: 'https://github.com/nodejs/node/issues/5585'
-  - title: 'util: improve util.format performance by evanlucas · Pull Request #5360 · nodejs/node'
+  - title: >-
+      util: improve util.format performance by evanlucas · Pull Request #5360 ·
+      nodejs/node
     url: 'https://github.com/nodejs/node/pull/5360'
 ---
 Node.js 5.8.0リリース。

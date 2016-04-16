@@ -1,5 +1,5 @@
 ---
-title: 'AngularJS Design Patterns | Packt Publishing'
+title: AngularJS Design Patterns | Packt Publishing
 author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/angularjs-design-patterns/book'

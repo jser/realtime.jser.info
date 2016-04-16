@@ -1,5 +1,7 @@
 ---
-title: 'Bunyip: client-side unit testing made easy | The CSS Ninja - All things CSS, JavaScript & HTML'
+title: >-
+  Bunyip: client-side unit testing made easy | The CSS Ninja - All things CSS,
+  JavaScript & HTML
 author: azu
 layout: post
 itemUrl: 'http://www.thecssninja.com/javascript/bunyip'

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - Tools
 relatedLinks:
-  - title: 'JavaScript CodeStyle. Automatically!'
+  - title: JavaScript CodeStyle. Automatically!
     url: 'http://varya.me/jscs-talk/'
   - title: 'JSCS: JavaScript Code Style — Frontend Babel'
     url: 'http://frontendbabel.info/articles/jscs-javascript-code-style/'

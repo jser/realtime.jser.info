@@ -1,5 +1,5 @@
 ---
-title: 'Learn HTML | Mozilla Developer Network'
+title: Learn HTML | Mozilla Developer Network
 author: azu
 layout: post
 itemUrl: 'https://developer-stage9.mozilla.org/ja/learn/html'

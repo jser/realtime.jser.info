@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptMVC 3.3 Released! » Bitovi'
+title: JavaScriptMVC 3.3 Released! » Bitovi
 author: azu
 layout: post
 itemUrl: 'http://www.bitovi.com/blog/2013/08/javascriptmvc-3.3.html'

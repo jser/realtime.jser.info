@@ -1,5 +1,5 @@
 ---
-title: 'ESLint のカスタムルールを作ろう! (その1) - Qiita'
+title: ESLint のカスタムルールを作ろう! (その1) - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/mysticatea/items/cc3f648e11368799e66c'

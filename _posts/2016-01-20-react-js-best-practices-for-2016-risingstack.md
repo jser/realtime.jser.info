@@ -1,5 +1,5 @@
 ---
-title: 'React.js Best Practices for 2016 | @RisingStack'
+title: React.js Best Practices for 2016 | @RisingStack
 author: azu
 layout: post
 itemUrl: 'https://blog.risingstack.com/react-js-best-practices-for-2016/'

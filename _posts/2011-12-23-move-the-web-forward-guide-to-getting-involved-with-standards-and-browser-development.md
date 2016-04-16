@@ -1,5 +1,7 @@
 ---
-title: '『Move The Web Forward | Guide to getting involved with standards and browser development』'
+title: >-
+  『Move The Web Forward | Guide to getting involved with standards and browser
+  development』
 author: azu
 layout: post
 itemUrl: 'http://movethewebforward.org/'

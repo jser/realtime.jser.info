@@ -10,7 +10,8 @@ tags:
   - browser
 relatedLinks:
   - title: Chrome Viewports - Google スライド
-    url: 'https://docs.google.com/presentation/d/1nJvJqL2dw5STi5FFpR6tP371vSpDWWs5Beksbfitpzc/present'
+    url: >-
+      https://docs.google.com/presentation/d/1nJvJqL2dw5STi5FFpR6tP371vSpDWWs5Beksbfitpzc/present
   - title: A tale of two viewports — part two
     url: 'http://www.quirksmode.org/mobile/viewports2.html'
 ---

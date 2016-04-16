@@ -1,5 +1,7 @@
 ---
-title: 'bfred-it/object-fit-images: Adds support to object-fit to images on IE9, IE10, IE11, Edge and other old browsers.'
+title: >-
+  bfred-it/object-fit-images: Adds support to object-fit to images on IE9, IE10,
+  IE11, Edge and other old browsers.
 author: azu
 layout: post
 itemUrl: 'https://github.com/bfred-it/object-fit-images'

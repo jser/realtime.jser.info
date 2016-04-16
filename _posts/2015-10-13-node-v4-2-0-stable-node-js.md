@@ -1,5 +1,5 @@
 ---
-title: 'Node v4.2.0 (Stable) | Node.js'
+title: Node v4.2.0 (Stable) | Node.js
 author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v4.2.0/'
@@ -9,7 +9,9 @@ tags:
   - node.js
   - ReleaseNote
 relatedLinks:
-  - title: 'add CLI option to syntax check script by bahamas10 · Pull Request #2411 · nodejs/node'
+  - title: >-
+      add CLI option to syntax check script by bahamas10 · Pull Request #2411 ·
+      nodejs/node
     url: 'https://github.com/nodejs/node/pull/2411'
 ---
 Node.js 4.2.0リリース。

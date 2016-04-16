@@ -1,5 +1,5 @@
 ---
-title: "Surfin' Safari - Blog Archive » State of Web Inspector"
+title: Surfin' Safari - Blog Archive » State of Web Inspector
 author: azu
 layout: post
 itemUrl: 'https://www.webkit.org/blog/2518/state-of-web-inspector/'

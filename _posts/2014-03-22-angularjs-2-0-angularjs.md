@@ -1,5 +1,5 @@
 ---
-title: 'AngularJS 2.0 | AngularJS'
+title: AngularJS 2.0 | AngularJS
 author: azu
 layout: post
 itemUrl: 'http://blog.angularjs.org/2014/03/angular-20.html'
@@ -9,7 +9,7 @@ tags:
   - AngularJS
   - ECMAScript
 relatedLinks:
-  - title: 'Angular 2.0 - ワザノバ | wazanova'
+  - title: Angular 2.0 - ワザノバ | wazanova
     url: 'http://wazanova.jp/items/1203'
 ---
 AngularJS2.0の開発方針について。

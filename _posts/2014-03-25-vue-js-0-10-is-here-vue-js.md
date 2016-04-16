@@ -1,5 +1,5 @@
 ---
-title: 'Vue.js 0.10 is here! - vue.js'
+title: Vue.js 0.10 is here! - vue.js
 author: azu
 layout: post
 itemUrl: 'http://vuejs.org/2014/03/22/vuejs-010-release/'

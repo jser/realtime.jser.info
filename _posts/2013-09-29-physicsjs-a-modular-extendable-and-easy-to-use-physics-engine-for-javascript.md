@@ -1,5 +1,7 @@
 ---
-title: 'PhysicsJS - A modular, extendable, and easy-to-use physics engine for javascript'
+title: >-
+  PhysicsJS - A modular, extendable, and easy-to-use physics engine for
+  javascript
 author: azu
 layout: post
 itemUrl: 'http://wellcaffeinated.net/PhysicsJS/'

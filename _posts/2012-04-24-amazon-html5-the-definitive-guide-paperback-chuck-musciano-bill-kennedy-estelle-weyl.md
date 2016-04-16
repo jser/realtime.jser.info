@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: HTML5: The Definitive Guide [Paperback]: Chuck Musciano, Bill Kennedy, Estelle Weyl』'
+title: >-
+  『Amazon: HTML5: The Definitive Guide [Paperback]: Chuck Musciano, Bill
+  Kennedy, Estelle Weyl』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1449302599/book042-22/ref=nosim'

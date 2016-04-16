@@ -1,5 +1,5 @@
 ---
-title: 'Piecon / Pie charts in your favicon!'
+title: Piecon / Pie charts in your favicon!
 author: azu
 layout: post
 itemUrl: 'http://lipka.github.com/piecon/'

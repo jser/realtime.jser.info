@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 1.10 Beta 1 Released | Official jQuery Blog'
+title: jQuery 1.10 Beta 1 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/05/09/jquery-1-10-beta-1-released/'

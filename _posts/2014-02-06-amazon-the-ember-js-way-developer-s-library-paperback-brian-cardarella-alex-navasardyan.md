@@ -1,5 +1,7 @@
 ---
-title: "Amazon: The Ember.js Way (Developer's Library) [Paperback]: Brian Cardarella, Alex Navasardyan"
+title: >-
+  Amazon: The Ember.js Way (Developer's Library) [Paperback]: Brian Cardarella,
+  Alex Navasardyan
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321994531/amazon0abac-22/ref=nosim'

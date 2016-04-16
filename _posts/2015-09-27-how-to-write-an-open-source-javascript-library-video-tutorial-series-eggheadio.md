@@ -1,5 +1,7 @@
 ---
-title: How to Write an Open Source JavaScript Library - Video Tutorial Series @eggheadio
+title: >-
+  How to Write an Open Source JavaScript Library - Video Tutorial Series
+  @eggheadio
 author: azu
 layout: post
 itemUrl: 'https://egghead.io/series/how-to-write-an-open-source-javascript-library'

@@ -1,5 +1,5 @@
 ---
-title: "コールバック関数の実行回数を間引く | _level0 | Kayac Interactive Designer's Blog"
+title: コールバック関数の実行回数を間引く | _level0 | Kayac Interactive Designer's Blog
 author: azu
 layout: post
 itemUrl: 'http://level0.kayac.com/!2012/07/post_115.php'

@@ -1,5 +1,7 @@
 ---
-title: 'WebStorm 7.0.2 is available: Mocha integration and improved Dart support | JetBrains WebStorm Blog'
+title: >-
+  WebStorm 7.0.2 is available: Mocha integration and improved Dart support |
+  JetBrains WebStorm Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2013/11/webstorm-7-0-2-is-available/'

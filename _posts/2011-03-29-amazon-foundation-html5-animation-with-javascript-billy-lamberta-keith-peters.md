@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Foundation HTML5 Animation with JavaScript: Billy Lamberta, Keith Peters'
+title: >-
+  Amazon: Foundation HTML5 Animation with JavaScript: Billy Lamberta, Keith
+  Peters
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1430236655/book042-22/ref=nosim'

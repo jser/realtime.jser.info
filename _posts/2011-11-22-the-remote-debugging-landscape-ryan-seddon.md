@@ -1,5 +1,5 @@
 ---
-title: '『The Remote Debugging Landscape | Ryan Seddon』'
+title: 『The Remote Debugging Landscape | Ryan Seddon』
 author: azu
 layout: post
 itemUrl: 'http://thecssninja.com/talks/remote_debugging/'

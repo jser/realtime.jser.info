@@ -1,5 +1,5 @@
 ---
-title: 'Introduction | Down and Dirty with Chrome Developer Tools'
+title: Introduction | Down and Dirty with Chrome Developer Tools
 author: azu
 layout: post
 itemUrl: 'http://blittle.github.io/chrome-dev-tools/'

@@ -1,5 +1,5 @@
 ---
-title: "CSS Refactoring - O'Reilly Media"
+title: CSS Refactoring - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920033998.do'

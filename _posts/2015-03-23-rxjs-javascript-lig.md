@@ -1,5 +1,5 @@
 ---
-title: '「RxJS」初心者入門 - JavaScriptの非同期処理の常識を変えるライブラリ | 株式会社LIG'
+title: 「RxJS」初心者入門 - JavaScriptの非同期処理の常識を変えるライブラリ | 株式会社LIG
 author: azu
 layout: post
 itemUrl: 'http://liginc.co.jp/web/js/151272'

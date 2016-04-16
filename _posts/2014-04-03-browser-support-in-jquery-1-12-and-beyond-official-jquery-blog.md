@@ -1,5 +1,5 @@
 ---
-title: 'Browser Support in jQuery 1.12 and Beyond | Official jQuery Blog'
+title: Browser Support in jQuery 1.12 and Beyond | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2014/04/02/browser-support-in-jquery-1-12-and-beyond/'

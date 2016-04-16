@@ -1,5 +1,5 @@
 ---
-title: 'Aerotwist - The Hack is Back!'
+title: Aerotwist - The Hack is Back!
 author: azu
 layout: post
 itemUrl: 'https://aerotwist.com/blog/the-hack-is-back/'

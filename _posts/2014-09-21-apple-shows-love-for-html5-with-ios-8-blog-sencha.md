@@ -1,5 +1,5 @@
 ---
-title: 'Apple Shows Love for HTML5 with iOS 8 | Blog | Sencha'
+title: Apple Shows Love for HTML5 with iOS 8 | Blog | Sencha
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/apple-shows-love-for-html5-with-ios-8'
@@ -11,7 +11,7 @@ tags:
   - まとめ
   - performance
 relatedLinks:
-  - title: 'iOS 8 に Apple の HTML5 への愛を見た | 株式会社ゼノフィ'
+  - title: iOS 8 に Apple の HTML5 への愛を見た | 株式会社ゼノフィ
     url: 'https://www.xenophy.com/sencha-blog/11578'
 ---
 iOS8のSafariでサポートされた新しい機能について。

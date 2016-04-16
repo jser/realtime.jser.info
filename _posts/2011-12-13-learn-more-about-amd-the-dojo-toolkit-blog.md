@@ -1,5 +1,5 @@
 ---
-title: '『Learn more about AMD! | The Dojo Toolkit Blog』'
+title: 『Learn more about AMD! | The Dojo Toolkit Blog』
 author: azu
 layout: post
 itemUrl: 'http://dojotoolkit.org/blog/learn-more-about-amd'

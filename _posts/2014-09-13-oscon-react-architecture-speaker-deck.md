@@ -10,7 +10,7 @@ tags:
   - DOM
   - スライド
 relatedLinks:
-  - title: 'JavaScript’s History and How it Led To ReactJS | The New Stack'
+  - title: JavaScript’s History and How it Led To ReactJS | The New Stack
     url: 'http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/'
 ---
 Reactの歴史とReactのDOM Diffについてのスライド

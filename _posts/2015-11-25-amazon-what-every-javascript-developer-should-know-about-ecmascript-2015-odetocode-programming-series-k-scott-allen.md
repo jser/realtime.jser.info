@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: What Every JavaScript Developer Should Know About ECMAScript 2015 (OdeToCode Programming Series): K. Scott Allen'
+title: >-
+  Amazon: What Every JavaScript Developer Should Know About ECMAScript 2015
+  (OdeToCode Programming Series): K. Scott Allen
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/dp/B018D12X0C?tag=amazon0abac-22'

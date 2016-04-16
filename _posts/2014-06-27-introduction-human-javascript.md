@@ -1,5 +1,5 @@
 ---
-title: 'Introduction | Human JavaScript'
+title: Introduction | Human JavaScript
 author: azu
 layout: post
 itemUrl: 'http://read.humanjavascript.com/'

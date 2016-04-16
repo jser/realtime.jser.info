@@ -1,5 +1,5 @@
 ---
-title: "mixi Engineers' Blog » Sinon.JS を使った JavaScript のテスト"
+title: mixi Engineers' Blog » Sinon.JS を使った JavaScript のテスト
 author: azu
 layout: post
 itemUrl: 'http://alpha.mixi.co.jp/blog/?p=4123'

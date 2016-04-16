@@ -1,5 +1,5 @@
 ---
-title: "Selenium - O'Reilly Media"
+title: Selenium - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920042853.do'

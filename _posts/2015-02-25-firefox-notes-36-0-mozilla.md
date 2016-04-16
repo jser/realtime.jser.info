@@ -9,7 +9,7 @@ tags:
   - firefox
   - ReleaseNote
 relatedLinks:
-  - title: 'Firefox 36 for developers - Mozilla | MDN'
+  - title: Firefox 36 for developers - Mozilla | MDN
     url: 'https://developer.mozilla.org/ja/Firefox/Releases/36'
 ---
 Firefox 36.0リリース。

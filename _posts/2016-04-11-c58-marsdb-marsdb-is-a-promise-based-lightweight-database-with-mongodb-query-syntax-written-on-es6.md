@@ -1,5 +1,7 @@
 ---
-title: 'c58/marsdb: MarsDB is a Promise based lightweight database with MongoDB query syntax, written on ES6'
+title: >-
+  c58/marsdb: MarsDB is a Promise based lightweight database with MongoDB query
+  syntax, written on ES6
 author: azu
 layout: post
 itemUrl: 'https://github.com/c58/marsdb'

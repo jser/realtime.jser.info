@@ -1,5 +1,7 @@
 ---
-title: 『Simplify.js - a high-performance JavaScript 2D/3D polyline simplification library』
+title: >-
+  『Simplify.js - a high-performance JavaScript 2D/3D polyline simplification
+  library』
 author: azu
 layout: post
 itemUrl: 'http://mourner.github.com/simplify-js/'

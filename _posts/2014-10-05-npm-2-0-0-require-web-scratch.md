@@ -1,5 +1,5 @@
 ---
-title: "npm 2.0.0でローカルモジュールを使ってrequire('../../../')を回避する | Web Scratch"
+title: npm 2.0.0でローカルモジュールを使ってrequire('../../../')を回避する | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/10/04/npm2-local-module/'

@@ -1,5 +1,5 @@
 ---
-title: 'Jest | Painless JavaScript Unit Testing'
+title: Jest | Painless JavaScript Unit Testing
 author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/jest/'

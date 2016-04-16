@@ -1,5 +1,5 @@
 ---
-title: 'Revisiting JavaScript Objects | LakTEK (Lakshan Perera)'
+title: Revisiting JavaScript Objects | LakTEK (Lakshan Perera)
 author: azu
 layout: post
 itemUrl: 'http://www.laktek.com/2012/12/29/revisiting-javascript-objects/'

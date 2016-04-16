@@ -10,7 +10,7 @@ tags:
   - node.js
   - ECMAScript
 relatedLinks:
-  - title: "Let's WeakMap - 枕を欹てて聴く"
+  - title: Let's WeakMap - 枕を欹てて聴く
     url: 'http://constellation.hatenablog.com/entry/20111002/1317561215'
 ---
 WeakMapの概要と使い方について

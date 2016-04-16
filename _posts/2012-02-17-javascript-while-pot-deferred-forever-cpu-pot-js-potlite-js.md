@@ -1,8 +1,12 @@
 ---
-title: 'JavaScript whileループとPot.Deferred.forEverイテレータでCPU使用率を比較-Pot.js+PotLite.jsリリースノート | 圧縮電子精神音楽浮遊構造体'
+title: >-
+  JavaScript
+  whileループとPot.Deferred.forEverイテレータでCPU使用率を比較-Pot.js+PotLite.jsリリースノート |
+  圧縮電子精神音楽浮遊構造体
 author: azu
 layout: post
-itemUrl: 'http://polygon-planet.blogspot.com/2012/02/javascript-whilepotdeferredforevercpu.html'
+itemUrl: >-
+  http://polygon-planet.blogspot.com/2012/02/javascript-whilepotdeferredforevercpu.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
 date: '2012-02-17T05:39:00+00:00'
 ---

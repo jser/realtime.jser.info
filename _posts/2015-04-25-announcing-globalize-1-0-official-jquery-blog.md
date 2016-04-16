@@ -1,5 +1,5 @@
 ---
-title: 'Announcing Globalize 1.0 | Official jQuery Blog'
+title: Announcing Globalize 1.0 | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2015/04/23/announcing-globalize-1-0/'

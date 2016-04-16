@@ -1,5 +1,5 @@
 ---
-title: 'A Guide to React.js Tools and Libraries | Toptal'
+title: A Guide to React.js Tools and Libraries | Toptal
 author: azu
 layout: post
 itemUrl: 'http://www.toptal.com/react/navigating-the-react-ecosystem'

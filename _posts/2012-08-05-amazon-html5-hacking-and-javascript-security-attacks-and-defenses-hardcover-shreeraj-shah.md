@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Html5 Hacking and Javascript Security: Attacks and Defenses [Hardcover]: Shreeraj Shah'
+title: >-
+  Amazon: Html5 Hacking and Javascript Security: Attacks and Defenses
+  [Hardcover]: Shreeraj Shah
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1466565314/book042-22/ref=nosim'

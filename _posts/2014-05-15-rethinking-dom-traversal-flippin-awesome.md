@@ -1,5 +1,5 @@
 ---
-title: "Rethinking DOM Traversal | Flippin' Awesome"
+title: Rethinking DOM Traversal | Flippin' Awesome
 author: azu
 layout: post
 itemUrl: 'http://flippinawesome.org/2014/05/12/rethinking-dom-traversal/'

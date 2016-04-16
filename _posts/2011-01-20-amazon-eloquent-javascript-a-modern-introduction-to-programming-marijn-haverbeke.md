@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Eloquent JavaScript: A Modern Introduction to Programming: Marijn Haverbeke'
+title: >-
+  Amazon: Eloquent JavaScript: A Modern Introduction to Programming: Marijn
+  Haverbeke
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1593272820/book042-22/ref=nosim'

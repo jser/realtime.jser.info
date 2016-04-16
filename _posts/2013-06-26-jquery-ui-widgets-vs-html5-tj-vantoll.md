@@ -1,5 +1,5 @@
 ---
-title: 'jQuery UI Widgets vs. HTML5 | TJ VanToll'
+title: jQuery UI Widgets vs. HTML5 | TJ VanToll
 author: azu
 layout: post
 itemUrl: 'http://tjvantoll.com/speaking/slides/2013/UI-Widgets-vs-HTML5/#/'

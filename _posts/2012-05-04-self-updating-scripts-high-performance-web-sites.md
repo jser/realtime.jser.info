@@ -1,5 +1,5 @@
 ---
-title: 'Self-updating scripts | High Performance Web Sites'
+title: Self-updating scripts | High Performance Web Sites
 author: azu
 layout: post
 itemUrl: 'http://www.stevesouders.com/blog/2012/05/22/self-updating-scripts/'

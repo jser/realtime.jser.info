@@ -10,7 +10,9 @@ tags:
   - 動画
   - まとめ
 relatedLinks:
-  - title: 'Node.js Interactive 2015 | Linux Conferences and Linux Events | The Linux Foundation'
+  - title: >-
+      Node.js Interactive 2015 | Linux Conferences and Linux Events | The Linux
+      Foundation
     url: 'http://events.linuxfoundation.org/events/node-interactive'
   - title: duffn/nodeinteractive-2015
     url: 'https://github.com/duffn/nodeinteractive-2015'

@@ -1,5 +1,5 @@
 ---
-title: "Backbone.js 1.0に向けての変更点 « NAVER Engineers' Blog"
+title: Backbone.js 1.0に向けての変更点 « NAVER Engineers' Blog
 author: azu
 layout: post
 itemUrl: 'http://tech.naver.jp/blog/?p=2342'

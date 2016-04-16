@@ -1,5 +1,5 @@
 ---
-title: 'New Firefox Aurora is Ready for Download and Testing | Future Releases'
+title: New Firefox Aurora is Ready for Download and Testing | Future Releases
 author: azu
 layout: post
 itemUrl: 'http://blog.mozilla.com/futurereleases/2011/07/07/firefoxaurora7/'

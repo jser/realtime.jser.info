@@ -1,5 +1,5 @@
 ---
-title: 'Learn JavaScript & jQuery - a book about interactive front-end web development'
+title: Learn JavaScript & jQuery - a book about interactive front-end web development
 author: azu
 layout: post
 itemUrl: 'http://www.javascriptbook.com/'

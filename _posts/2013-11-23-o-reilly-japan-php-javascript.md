@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - PHP開発者のためのJavaScript"
+title: O'Reilly Japan - PHP開発者のためのJavaScript
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116433/'

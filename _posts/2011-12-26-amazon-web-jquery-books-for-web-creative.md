@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Webデザイナーのための jQuery入門　魅力的なユーザーインターフェースを手軽に作る (Books for Web Creative) [大型本]: 高津戸 壮』'
+title: >-
+  『Amazon: Webデザイナーのための jQuery入門　魅力的なユーザーインターフェースを手軽に作る (Books for Web Creative)
+  [大型本]: 高津戸 壮』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774148563/book042-22/ref=nosim'

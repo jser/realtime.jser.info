@@ -1,5 +1,5 @@
 ---
-title: '横浜JSTDDハンズオンでWebStormについて発表してきた | Web scratch'
+title: 横浜JSTDDハンズオンでWebStormについて発表してきた | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2012/0226/res3015/'

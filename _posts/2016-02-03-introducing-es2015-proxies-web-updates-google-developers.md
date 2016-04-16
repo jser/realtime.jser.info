@@ -1,5 +1,5 @@
 ---
-title: 'Introducing ES2015 Proxies | Web Updates - Google Developers'
+title: Introducing ES2015 Proxies | Web Updates - Google Developers
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2016/02/es2015-proxies'

@@ -1,5 +1,5 @@
 ---
-title: 'MooTools - 1.5.1 is out!'
+title: MooTools - 1.5.1 is out!
 author: azu
 layout: post
 itemUrl: 'http://mootools.net/blog/2014/08/29/mootools-1-5-1-release/'

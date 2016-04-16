@@ -1,5 +1,7 @@
 ---
-title: Scaling Isomorphic Javascript Code - blog.nodejitsu.com - scaling node.js applications one callback at a time.
+title: >-
+  Scaling Isomorphic Javascript Code - blog.nodejitsu.com - scaling node.js
+  applications one callback at a time.
 author: azu
 layout: post
 itemUrl: 'http://blog.nodejitsu.com/scaling-isomorphic-javascript-code'

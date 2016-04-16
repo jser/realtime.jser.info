@@ -1,5 +1,5 @@
 ---
-title: 'Future JavaScript — < Jedi JS > — Medium'
+title: Future JavaScript — < Jedi JS > — Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/jedi-js/future-javascript-d9baab4663f3'

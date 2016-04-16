@@ -1,5 +1,5 @@
 ---
-title: 'The WebGL Podcast |'
+title: The WebGL Podcast |
 author: azu
 layout: post
 itemUrl: 'http://thewebglpodcast.com/'

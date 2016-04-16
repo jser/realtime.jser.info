@@ -10,7 +10,7 @@ tags:
   - debug
   - JavaScript
 relatedLinks:
-  - title: 'あなたが読むべきJavaScript Promises | JSer.info'
+  - title: あなたが読むべきJavaScript Promises | JSer.info
     url: 'http://jser.info/post/77696682011/es6-promises'
 ---
 Promisesのエラーハンドリングについて。

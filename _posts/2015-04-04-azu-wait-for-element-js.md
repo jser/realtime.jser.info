@@ -10,7 +10,7 @@ tags:
   - library
   - DOM
 relatedLinks:
-  - title: 'ある要素が表示されるまで待つJSライブラリを書いた(MutationObserver) | Web Scratch'
+  - title: ある要素が表示されるまで待つJSライブラリを書いた(MutationObserver) | Web Scratch
     url: 'http://efcl.info/2015/04/06/wait-for-element/'
 ---
 CSSセレクタにマッチする要素が表示されるまで待つライブラリ。

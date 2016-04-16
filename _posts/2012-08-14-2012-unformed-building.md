@@ -1,5 +1,5 @@
 ---
-title: 'サイト制作時のメモ 2012年前半 | Unformed Building'
+title: サイト制作時のメモ 2012年前半 | Unformed Building
 author: azu
 layout: post
 itemUrl: 'http://unformedbuilding.com/articles/webdevelopment-memo-2012-first-half/'

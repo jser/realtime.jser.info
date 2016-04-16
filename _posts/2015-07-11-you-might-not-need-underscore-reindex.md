@@ -1,5 +1,5 @@
 ---
-title: 'You Might Not Need Underscore | Reindex'
+title: You Might Not Need Underscore | Reindex
 author: azu
 layout: post
 itemUrl: 'https://www.reindex.io/blog/you-might-not-need-underscore/'

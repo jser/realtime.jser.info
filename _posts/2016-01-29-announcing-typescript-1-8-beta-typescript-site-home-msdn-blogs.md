@@ -2,15 +2,17 @@
 title: Announcing TypeScript 1.8 Beta - TypeScript - Site Home - MSDN Blogs
 author: azu
 layout: post
-itemUrl: 'http://blogs.msdn.com/b/typescript/archive/2016/01/28/announcing-typescript-1-8-beta.aspx'
+itemUrl: >-
+  http://blogs.msdn.com/b/typescript/archive/2016/01/28/announcing-typescript-1-8-beta.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
 date: '2016-01-29T03:49:01+00:00'
 tags:
   - TypeScript
   - ReleaseNote
 relatedLinks:
-  - title: "What's new in TypeScript · Microsoft/TypeScript Wiki"
-    url: 'https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-18-upcoming'
+  - title: What's new in TypeScript · Microsoft/TypeScript Wiki
+    url: >-
+      https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-18-upcoming
 ---
 TypeScript 1.8βリリース。
 tscにJavaScriptファイルを扱う `--allowJs` が追加された。

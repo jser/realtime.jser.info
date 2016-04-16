@@ -1,5 +1,5 @@
 ---
-title: '『A Beginners Guide to HTML & CSS』'
+title: 『A Beginners Guide to HTML & CSS』
 author: azu
 layout: post
 itemUrl: 'http://learn.shayhowe.com/html-css/'

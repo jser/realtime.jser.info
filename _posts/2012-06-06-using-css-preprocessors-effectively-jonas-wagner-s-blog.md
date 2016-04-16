@@ -1,5 +1,5 @@
 ---
-title: "Using CSS Preprocessors Effectively — Jonas Wagner's Blog"
+title: Using CSS Preprocessors Effectively — Jonas Wagner's Blog
 author: azu
 layout: post
 itemUrl: 'http://29a.ch/2012/6/17/using-css-preprocessors-effectively'

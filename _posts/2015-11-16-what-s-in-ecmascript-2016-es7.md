@@ -9,7 +9,7 @@ tags:
   - ECMAScript
   - spec
 relatedLinks:
-  - title: 'Introduction | ECMAScriptとは何か？'
+  - title: Introduction | ECMAScriptとは何か？
     url: 'http://azu.github.io/slide-what-is-ecmascript/'
 ---
 ECMAScriptに関する用語解説やES.nextにおける策定プロセスの解説。

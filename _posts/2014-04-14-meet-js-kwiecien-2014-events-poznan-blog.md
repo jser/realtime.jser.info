@@ -1,5 +1,5 @@
 ---
-title: 'meet.js - kwiecień 2014 | Events Poznań Blog'
+title: meet.js - kwiecień 2014 | Events Poznań Blog
 author: azu
 layout: post
 itemUrl: 'http://events.pozoga.eu/meet-js/'

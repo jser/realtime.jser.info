@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - ハイパフォーマンス ブラウザネットワーキング"
+title: O'Reilly Japan - ハイパフォーマンス ブラウザネットワーキング
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116761/'

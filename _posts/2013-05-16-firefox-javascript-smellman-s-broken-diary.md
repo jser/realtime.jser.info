@@ -1,5 +1,5 @@
 ---
-title: "FirefoxのJavascript プロファイラを使ってみよう - smellman's Broken Diary"
+title: FirefoxのJavascript プロファイラを使ってみよう - smellman's Broken Diary
 author: azu
 layout: post
 itemUrl: 'http://smellman.hatenablog.com/entry/2013/05/16/012020'

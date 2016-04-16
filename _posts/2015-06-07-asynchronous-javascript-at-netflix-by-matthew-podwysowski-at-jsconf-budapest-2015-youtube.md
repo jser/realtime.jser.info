@@ -1,5 +1,7 @@
 ---
-title: ▶ Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest 2015 - YouTube
+title: >-
+  ▶ Asynchronous JavaScript at Netflix by Matthew Podwysowski at JSConf Budapest
+  2015 - YouTube
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=a8W5VVGO-jA'

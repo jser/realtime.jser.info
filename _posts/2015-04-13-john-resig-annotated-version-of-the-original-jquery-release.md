@@ -10,7 +10,7 @@ tags:
   - 歴史
   - JavaScript
 relatedLinks:
-  - title: 'Genius | Annotate the world'
+  - title: Genius | Annotate the world
     url: 'http://genius.it/ejohn.org/files/jquery-original.html'
 ---
 jQuery作者によるjQueryの初期バージョンのコードにコメントをしたものが公開されてる。

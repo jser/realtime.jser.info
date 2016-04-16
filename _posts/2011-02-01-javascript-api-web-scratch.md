@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript対応APIドキュメント生成ツールのまとめ | Web scratch'
+title: JavaScript対応APIドキュメント生成ツールのまとめ | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2011/0226/res2291/'

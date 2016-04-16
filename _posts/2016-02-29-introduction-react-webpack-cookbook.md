@@ -1,5 +1,5 @@
 ---
-title: 'Introduction | React Webpack cookbook'
+title: Introduction | React Webpack cookbook
 author: azu
 layout: post
 itemUrl: 'https://christianalfoni.github.io/react-webpack-cookbook/'

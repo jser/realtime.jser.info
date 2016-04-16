@@ -1,5 +1,5 @@
 ---
-title: "flexboxの旧仕様、改定仕様、現行仕様の一覧 « NAVER Engineers' Blog"
+title: flexboxの旧仕様、改定仕様、現行仕様の一覧 « NAVER Engineers' Blog
 author: azu
 layout: post
 itemUrl: 'http://tech.naver.jp/blog/?p=2479'

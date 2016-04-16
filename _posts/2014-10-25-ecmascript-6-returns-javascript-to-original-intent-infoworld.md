@@ -1,8 +1,9 @@
 ---
-title: 'ECMAScript 6 returns JavaScript to original intent | InfoWorld'
+title: ECMAScript 6 returns JavaScript to original intent | InfoWorld
 author: azu
 layout: post
-itemUrl: 'http://www.infoworld.com/article/2837425/javascript/ecmascript-6-returns-javascript-to-original-intent.html'
+itemUrl: >-
+  http://www.infoworld.com/article/2837425/javascript/ecmascript-6-returns-javascript-to-original-intent.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-25T02:07:59+00:00'
 tags:

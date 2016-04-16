@@ -10,7 +10,7 @@ tags:
   - Tools
   - ReleaseNote
 relatedLinks:
-  - title: "What's new in JSHint (December, 2013)"
+  - title: 'What''s new in JSHint (December, 2013)'
     url: 'http://www.jshint.com/blog/new-in-jshint-dec-2013/'
 ---
 JSHint 2.4.0リリース.

@@ -1,5 +1,5 @@
 ---
-title: 'Node Web Development - Second Edition | Packt Publishing'
+title: Node Web Development - Second Edition | Packt Publishing
 author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/node-web-development-2e/book'

@@ -1,5 +1,5 @@
 ---
-title: "Cloud9 IDE Hosted - Closed Beta starting today - Cloud9 IDE's Posterous"
+title: Cloud9 IDE Hosted - Closed Beta starting today - Cloud9 IDE's Posterous
 author: azu
 layout: post
 itemUrl: 'http://cloud9ide.posterous.com/cloud9-ide-hosted-closed-beta-starting-today'

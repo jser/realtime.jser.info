@@ -1,5 +1,5 @@
 ---
-title: "RaphaelJS - O'Reilly Media"
+title: RaphaelJS - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920029601.do'

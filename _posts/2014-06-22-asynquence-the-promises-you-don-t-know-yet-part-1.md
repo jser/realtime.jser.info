@@ -1,5 +1,5 @@
 ---
-title: "asynquence: The Promises You Don't Know Yet (Part 1)"
+title: 'asynquence: The Promises You Don''t Know Yet (Part 1)'
 author: azu
 layout: post
 itemUrl: 'http://davidwalsh.name/asynquence-part-1'

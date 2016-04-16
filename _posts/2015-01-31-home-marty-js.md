@@ -1,5 +1,5 @@
 ---
-title: 'Home | marty.js'
+title: Home | marty.js
 author: azu
 layout: post
 itemUrl: 'http://martyjs.org/'

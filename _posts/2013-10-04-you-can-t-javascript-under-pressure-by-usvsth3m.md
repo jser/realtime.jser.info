@@ -1,5 +1,5 @@
 ---
-title: "You Can't JavaScript Under Pressure - by UsVsTh3m"
+title: You Can't JavaScript Under Pressure - by UsVsTh3m
 author: azu
 layout: post
 itemUrl: 'http://toys.usvsth3m.com/javascript-under-pressure/'

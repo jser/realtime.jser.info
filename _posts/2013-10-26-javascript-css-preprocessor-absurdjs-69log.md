@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptベースのCSS preprocessorであるAbsurdJS を試してみる | 69log'
+title: JavaScriptベースのCSS preprocessorであるAbsurdJS を試してみる | 69log
 author: azu
 layout: post
 itemUrl: 'http://kazu69.net/blog/tec/1814'

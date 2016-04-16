@@ -1,5 +1,5 @@
 ---
-title: 'Flux explained for newbies – Part 1 | DevButze'
+title: Flux explained for newbies – Part 1 | DevButze
 author: azu
 layout: post
 itemUrl: 'https://devbutze.com/p/216'

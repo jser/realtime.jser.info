@@ -1,5 +1,5 @@
 ---
-title: 'npmで名前空間を持ったモジュールを公開する方法(scoped modules) | Web Scratch'
+title: npmで名前空間を持ったモジュールを公開する方法(scoped modules) | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/04/30/npm-namespace/'

@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptStackTraceApi邦訳。Errorオブジェクトのstackについて。 | Ginpen.com'
+title: JavaScriptStackTraceApi邦訳。Errorオブジェクトのstackについて。 | Ginpen.com
 author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2014/05/13/javascriptstacktraceapi/'

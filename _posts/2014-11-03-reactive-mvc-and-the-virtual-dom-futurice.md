@@ -12,8 +12,9 @@ tags:
   - デザインパターン
   - JavaScript
 relatedLinks:
-  - title: 'Reactive MVC and the Virtual DOMのメモ | GH Issue Note'
-    url: 'http://efcl.wordpress.com/2014/11/03/reactive-mvc-and-the-virtual-dom%e3%81%ae%e3%83%a1%e3%83%a2/'
+  - title: Reactive MVC and the Virtual DOMのメモ | GH Issue Note
+    url: >-
+      http://efcl.wordpress.com/2014/11/03/reactive-mvc-and-the-virtual-dom%e3%81%ae%e3%83%a1%e3%83%a2/
   - title: Model-View-Intent and the Virtual DOM
     url: 'http://staltz.com/mvi-freaklies/#/'
 ---

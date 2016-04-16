@@ -1,5 +1,5 @@
 ---
-title: 'CSS Reference | Codrops'
+title: CSS Reference | Codrops
 author: azu
 layout: post
 itemUrl: 'http://tympanus.net/codrops/css_reference/'

@@ -1,5 +1,5 @@
 ---
-title: 'Sencha Touch 2.1 のリリースと新しいチャートとツール | 株式会社ゼノフィ'
+title: Sencha Touch 2.1 のリリースと新しいチャートとツール | 株式会社ゼノフィ
 author: azu
 layout: post
 itemUrl: 'http://www.xenophy.com/javascript/4225'

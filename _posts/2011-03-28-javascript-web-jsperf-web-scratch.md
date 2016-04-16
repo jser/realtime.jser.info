@@ -1,5 +1,5 @@
 ---
-title: '『JavaScriptコードのパフォーマンス比較ができるWebサービス「jsPerf」の使い方 | Web scratch』'
+title: 『JavaScriptコードのパフォーマンス比較ができるWebサービス「jsPerf」の使い方 | Web scratch』
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2011/0303/res2330/'

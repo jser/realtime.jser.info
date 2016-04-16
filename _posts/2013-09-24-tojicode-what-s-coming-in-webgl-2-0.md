@@ -1,5 +1,5 @@
 ---
-title: "TojiCode: What's coming in WebGL 2.0"
+title: 'TojiCode: What''s coming in WebGL 2.0'
 author: azu
 layout: post
 itemUrl: 'http://blog.tojicode.com/2013/09/whats-coming-in-webgl-20.html'

@@ -1,5 +1,7 @@
 ---
-title: 'Jotted — Showcase self-hosted HTML, CSS and JavaScript demos, with editable source'
+title: >-
+  Jotted — Showcase self-hosted HTML, CSS and JavaScript demos, with editable
+  source
 author: azu
 layout: post
 itemUrl: 'https://ghinda.net/jotted/'

@@ -1,5 +1,7 @@
 ---
-title: Babel Starter Kit ∙ A project template for authoring and publishing JavaScript libraries
+title: >-
+  Babel Starter Kit ∙ A project template for authoring and publishing JavaScript
+  libraries
 author: azu
 layout: post
 itemUrl: 'https://www.kriasoft.com/babel-starter-kit/'

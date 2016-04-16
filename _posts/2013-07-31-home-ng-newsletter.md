@@ -1,5 +1,5 @@
 ---
-title: 'Home | ng-newsletter'
+title: Home | ng-newsletter
 author: azu
 layout: post
 itemUrl: 'http://www.ng-newsletter.com/'

@@ -2,7 +2,8 @@
 title: eval everything - Running Student Code at Code School // Speaker Deck
 author: azu
 layout: post
-itemUrl: 'https://speakerdeck.com/adamfortuna/eval-everything-running-student-code-at-code-school'
+itemUrl: >-
+  https://speakerdeck.com/adamfortuna/eval-everything-running-student-code-at-code-school
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
 date: '2014-06-02T08:49:50+00:00'
 tags:

@@ -1,5 +1,7 @@
 ---
-title: 'Release v1.0.0: The first stable release (2015-08-26) · power-assert-js/power-assert'
+title: >-
+  Release v1.0.0: The first stable release (2015-08-26) ·
+  power-assert-js/power-assert
 author: azu
 layout: post
 itemUrl: 'https://github.com/power-assert-js/power-assert/releases/tag/v1.0.0'

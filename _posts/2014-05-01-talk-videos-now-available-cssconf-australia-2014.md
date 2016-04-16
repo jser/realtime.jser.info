@@ -1,5 +1,5 @@
 ---
-title: 'Talk videos now available | CSSConf Australia 2014'
+title: Talk videos now available | CSSConf Australia 2014
 author: azu
 layout: post
 itemUrl: 'http://2014.cssconf.com.au/news/videos'

@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: スラスラわかるJavaScript (Beginner’s Best Guide to Programmin) [単行本（ソフトカバー）]: 生形 可奈子'
+title: >-
+  Amazon: スラスラわかるJavaScript (Beginner’s Best Guide to Programmin) [単行本（ソフトカバー）]:
+  生形 可奈子
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4798125830/book042-22/ref=nosim'

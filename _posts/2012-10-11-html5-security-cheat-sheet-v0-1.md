@@ -1,5 +1,5 @@
 ---
-title: '［技術ドキュメント］HTML5 Security Cheat Sheet v0.1をリリースしました | にーまるどっとこむ。'
+title: ［技術ドキュメント］HTML5 Security Cheat Sheet v0.1をリリースしました | にーまるどっとこむ。
 author: azu
 layout: post
 itemUrl: 'http://blog.2maru.com/archives/1849'

@@ -1,5 +1,5 @@
 ---
-title: 'Node.jsで書いてQuickStartを使ってブラウザで実行する話 | Web scratch'
+title: Node.jsで書いてQuickStartを使ってブラウザで実行する話 | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0629/res3956/'

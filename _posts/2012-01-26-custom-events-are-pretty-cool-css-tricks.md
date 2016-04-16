@@ -1,5 +1,5 @@
 ---
-title: '『Custom Events are Pretty Cool | CSS-Tricks』'
+title: 『Custom Events are Pretty Cool | CSS-Tricks』
 author: azu
 layout: post
 itemUrl: 'http://css-tricks.com/custom-events-are-pretty-cool/'

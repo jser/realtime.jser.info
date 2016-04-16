@@ -10,8 +10,11 @@ tags:
   - backbone.js
   - library
 relatedLinks:
-  - title: 'At Bloomberg We’ve Made Brisket. And It Can Make Anything. | Bloomberg L.P.'
-    url: 'http://www.bloomberg.com/company/2015-03-24/bloomberg-weve-made-brisket-can-make-anything/'
+  - title: >-
+      At Bloomberg We’ve Made Brisket. And It Can Make Anything. | Bloomberg
+      L.P.
+    url: >-
+      http://www.bloomberg.com/company/2015-03-24/bloomberg-weve-made-brisket-can-make-anything/
 ---
 Bloombergのisomorphic JavaScriptフレームワーク。
 Rendrと同じくBackboneをベースとしたサーバサイドレンダリングの仕組みを持つ。

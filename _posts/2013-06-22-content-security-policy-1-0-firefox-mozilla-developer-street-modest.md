@@ -1,5 +1,5 @@
 ---
-title: 'Content Security Policy 1.0 を Firefox に導入 | Mozilla Developer Street (modest)'
+title: Content Security Policy 1.0 を Firefox に導入 | Mozilla Developer Street (modest)
 author: azu
 layout: post
 itemUrl: 'https://dev.mozilla.jp/2013/06/content-security-policy-1-0-lands-in-firefox/'

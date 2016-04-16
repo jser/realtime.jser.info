@@ -1,5 +1,5 @@
 ---
-title: 'Code smells in CSS | en.ja | Translated Articles for Front End Developers'
+title: Code smells in CSS | en.ja | Translated Articles for Front End Developers
 author: azu
 layout: post
 itemUrl: 'http://enja.studiomohawk.com/2013/03/24/code-smells-in-css/'

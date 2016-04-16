@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: Changelog · lodash/lodash Wiki
     url: 'https://github.com/lodash/lodash/wiki/Changelog#compatibility-warnings'
-  - title: 'How to Speed Up Lo-Dash ×100? Introducing Lazy Evaluation. | Filip Zawada'
+  - title: How to Speed Up Lo-Dash ×100? Introducing Lazy Evaluation. | Filip Zawada
     url: 'http://filimanjaro.com/blog/2014/introducing-lazy-evaluation/'
 ---
 lodash v3.0.0リリース。

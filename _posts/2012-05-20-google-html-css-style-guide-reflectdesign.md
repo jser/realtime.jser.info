@@ -1,5 +1,5 @@
 ---
-title: '『「Google HTML/CSS Style Guide」を適当に和訳してみた | REFLECTDESIGN』'
+title: 『「Google HTML/CSS Style Guide」を適当に和訳してみた | REFLECTDESIGN』
 author: azu
 layout: post
 itemUrl: 'http://re-dzine.net/2012/05/google-htmlcss-style-guide/'

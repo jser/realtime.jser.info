@@ -1,5 +1,5 @@
 ---
-title: 'jQueryサイト：完成！ | Design Drill Diary'
+title: jQueryサイト：完成！ | Design Drill Diary
 author: azu
 layout: post
 itemUrl: 'http://designdrill.jp/wordpress/?p=6876'

@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: The New Web: Developing for a Multi-Device Web with HTML5, CSS3, and JavaScript [Paperback]: Peter Gasston'
+title: >-
+  Amazon: The New Web: Developing for a Multi-Device Web with HTML5, CSS3, and
+  JavaScript [Paperback]: Peter Gasston
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1593274874/book042-22/ref=nosim'

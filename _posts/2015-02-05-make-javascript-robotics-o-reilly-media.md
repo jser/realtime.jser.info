@@ -1,5 +1,5 @@
 ---
-title: "Make: JavaScript Robotics - O'Reilly Media"
+title: 'Make: JavaScript Robotics - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920031390.do'

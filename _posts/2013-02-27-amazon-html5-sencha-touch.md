@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: HTML5モバイルアプリケーションフレームワーク Sencha Touchパーフェクトガイド [大型本]: 大谷弘喜, 稲垣龍一, 川野忍, 土江拓郎, 森本恭平, 高岡大介'
+title: >-
+  Amazon: HTML5モバイルアプリケーションフレームワーク Sencha Touchパーフェクトガイド [大型本]: 大谷弘喜, 稲垣龍一, 川野忍,
+  土江拓郎, 森本恭平, 高岡大介
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4048869566/book042-22/ref=nosim'

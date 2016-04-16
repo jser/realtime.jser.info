@@ -1,5 +1,7 @@
 ---
-title: captureme — CLI utility that helps you capture screenshots via browsers in the cloud
+title: >-
+  captureme — CLI utility that helps you capture screenshots via browsers in the
+  cloud
 author: azu
 layout: post
 itemUrl: 'http://vesln.github.io/captureme/'

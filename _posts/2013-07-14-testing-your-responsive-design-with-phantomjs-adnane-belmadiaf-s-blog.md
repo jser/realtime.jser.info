@@ -1,5 +1,5 @@
 ---
-title: "Testing your responsive design with PhantomJS — Adnane Belmadiaf's Blog"
+title: Testing your responsive design with PhantomJS — Adnane Belmadiaf's Blog
 author: azu
 layout: post
 itemUrl: 'http://daker.me/2013/07/testing-your-responsive-design-with-phantomjs.html'

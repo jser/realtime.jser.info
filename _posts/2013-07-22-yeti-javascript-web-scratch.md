@@ -1,5 +1,5 @@
 ---
-title: 'YetiでJavaScriptのテストを動かす方法 | Web scratch'
+title: YetiでJavaScriptのテストを動かす方法 | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/0721/res3337/'

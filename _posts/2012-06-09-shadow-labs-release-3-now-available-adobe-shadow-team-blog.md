@@ -1,5 +1,5 @@
 ---
-title: 'Shadow – Labs Release 3 Now Available | Adobe Shadow Team Blog'
+title: Shadow – Labs Release 3 Now Available | Adobe Shadow Team Blog
 author: azu
 layout: post
 itemUrl: 'http://blogs.adobe.com/shadow/2012/06/17/shadow-labs-release-3-now-available/'

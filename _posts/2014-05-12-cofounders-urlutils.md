@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: medialize/URI.js
     url: 'https://github.com/medialize/URI.js'
-  - title: 'URL() - Web API インターフェイス | MDN'
+  - title: URL() - Web API インターフェイス | MDN
     url: 'https://developer.mozilla.org/ja/docs/Web/API/URL.URL'
 ---
 https://github.com/medialize/URI.js をベースにした`URL` コンストラクタの実装。

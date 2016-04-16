@@ -1,5 +1,5 @@
 ---
-title: 'Using PDF.js web worker cross domain (CORS) | ColonelPanic'
+title: Using PDF.js web worker cross domain (CORS) | ColonelPanic
 author: azu
 layout: post
 itemUrl: 'http://colonelpanic.net/2014/08/using-pdf-js-web-worker-cross-domain-cors/'

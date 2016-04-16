@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Unit Testing | Packt Publishing'
+title: JavaScript Unit Testing | Packt Publishing
 author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/javascript-unit-testing/book'

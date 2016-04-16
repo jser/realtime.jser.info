@@ -1,5 +1,5 @@
 ---
-title: 'JavascriptでH.264のビデオをデコード(再生)する「Broadway.js」 | alt'
+title: JavascriptでH.264のビデオをデコード(再生)する「Broadway.js」 | alt
 author: azu
 layout: post
 itemUrl: 'http://blog.alt-scape.com/archives/431'

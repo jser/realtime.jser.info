@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Hotshot | Packt Publishing'
+title: jQuery Hotshot | Packt Publishing
 author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/jquery-hotshot/book'

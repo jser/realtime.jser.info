@@ -2,7 +2,8 @@
 title: Understanding Transducers in JavaScript — Medium
 author: azu
 layout: post
-itemUrl: 'https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624'
+itemUrl: >-
+  https://medium.com/@roman01la/understanding-transducers-in-javascript-3500d3bd9624
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
 date: '2016-03-05T09:07:55+00:00'
 tags:

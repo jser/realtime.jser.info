@@ -1,5 +1,7 @@
 ---
-title: 'Supercharging your Gruntfile: How to squeeze the most out of your build configuration. - HTML5 Rocks'
+title: >-
+  Supercharging your Gruntfile: How to squeeze the most out of your build
+  configuration. - HTML5 Rocks
 author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/tooling/supercharging-your-gruntfile/'

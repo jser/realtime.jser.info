@@ -1,5 +1,5 @@
 ---
-title: 'CSSOとgrunt-csso | MOL'
+title: CSSOとgrunt-csso | MOL
 author: azu
 layout: post
 itemUrl: 'http://t32k.me/mol/log/csso-and-grunt-csso/'

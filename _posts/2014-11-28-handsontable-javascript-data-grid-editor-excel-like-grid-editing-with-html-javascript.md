@@ -1,5 +1,7 @@
 ---
-title: 'Handsontable - JavaScript data grid editor. Excel-like grid editing with HTML & JavaScript'
+title: >-
+  Handsontable - JavaScript data grid editor. Excel-like grid editing with HTML
+  & JavaScript
 author: azu
 layout: post
 itemUrl: 'http://handsontable.com/'

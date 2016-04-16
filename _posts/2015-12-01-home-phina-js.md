@@ -1,5 +1,5 @@
 ---
-title: 'Home | phina.js'
+title: Home | phina.js
 author: azu
 layout: post
 itemUrl: 'http://phinajs.com/'
@@ -10,7 +10,7 @@ tags:
   - game
   - library
 relatedLinks:
-  - title: '本日 JavaScript ゲームライブラリ『phina.js』をリリースしました! | phiary'
+  - title: 本日 JavaScript ゲームライブラリ『phina.js』をリリースしました! | phiary
     url: 'http://phiary.me/phinajs-release/'
 ---
 tmlib.jsの後継となるゲームライブラリ。

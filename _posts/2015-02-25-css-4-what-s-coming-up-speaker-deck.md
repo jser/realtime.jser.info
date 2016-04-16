@@ -1,5 +1,5 @@
 ---
-title: "CSS 4 - What's coming up // Speaker Deck"
+title: CSS 4 - What's coming up // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/diegoeis/css-4-whats-coming-up'

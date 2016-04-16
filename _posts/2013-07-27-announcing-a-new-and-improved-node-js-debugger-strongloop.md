@@ -1,5 +1,5 @@
 ---
-title: 'Announcing a New and Improved Node.js Debugger | StrongLoop'
+title: Announcing a New and Improved Node.js Debugger | StrongLoop
 author: azu
 layout: post
 itemUrl: 'http://blog.strongloop.com/announcing-a-new-and-improved-node-js-debugger/'

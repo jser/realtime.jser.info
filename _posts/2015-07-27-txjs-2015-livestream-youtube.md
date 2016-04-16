@@ -9,9 +9,9 @@ tags:
   - JavaScript
   - イベント
 relatedLinks:
-  - title: 'Texas JavaScript Conference 2015 | TXJS'
+  - title: Texas JavaScript Conference 2015 | TXJS
     url: 'https://2015.texasjavascript.com/'
-  - title: "Texas JavaScript 2015 | Chris Missal's Blog"
+  - title: Texas JavaScript 2015 | Chris Missal's Blog
     url: 'https://lostechies.com/chrismissal/2015/07/27/texas-javascript-2015/'
 ---
 TXJS 2015の動画

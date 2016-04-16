@@ -1,5 +1,5 @@
 ---
-title: 'Node.js Design Patterns | Packt'
+title: Node.js Design Patterns | Packt
 author: azu
 layout: post
 itemUrl: 'https://www.packtpub.com/web-development/nodejs-design-patterns'

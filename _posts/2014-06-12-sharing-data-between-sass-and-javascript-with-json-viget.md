@@ -1,5 +1,5 @@
 ---
-title: 'Sharing Data Between Sass and JavaScript with JSON | Viget'
+title: Sharing Data Between Sass and JavaScript with JSON | Viget
 author: azu
 layout: post
 itemUrl: 'http://viget.com/extend/sharing-data-between-sass-and-javascript-with-json'

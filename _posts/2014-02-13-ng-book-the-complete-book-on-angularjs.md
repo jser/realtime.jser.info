@@ -9,7 +9,7 @@ tags:
   - AngularJS
   - book
 relatedLinks:
-  - title: 'Books | ng-newsletter'
+  - title: Books | ng-newsletter
     url: 'http://www.ng-newsletter.com/books/'
 ---
 600P超のAngularJSについての書籍

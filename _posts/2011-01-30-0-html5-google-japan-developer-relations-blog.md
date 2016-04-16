@@ -1,5 +1,7 @@
 ---
-title: '「第 0 回 HTML5 プログラミング&クリエイティブ・コンテスト」のお知らせ - Google Japan Developer Relations Blog'
+title: >-
+  「第 0 回 HTML5 プログラミング&クリエイティブ・コンテスト」のお知らせ - Google Japan Developer Relations
+  Blog
 author: azu
 layout: post
 itemUrl: 'http://googledevjp.blogspot.com/2011/01/0-html5.html'

@@ -1,5 +1,5 @@
 ---
-title: 'JS.ORG | NEWS'
+title: JS.ORG | NEWS
 author: azu
 layout: post
 itemUrl: 'http://news.js.org/'

@@ -1,5 +1,5 @@
 ---
-title: "Speaking JavaScript - O'Reilly Media"
+title: Speaking JavaScript - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920029564.do'

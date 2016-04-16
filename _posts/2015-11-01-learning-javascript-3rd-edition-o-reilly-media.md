@@ -1,5 +1,5 @@
 ---
-title: "Learning JavaScript, 3rd Edition - O'Reilly Media"
+title: 'Learning JavaScript, 3rd Edition - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920035534.do'

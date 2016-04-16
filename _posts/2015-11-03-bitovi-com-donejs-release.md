@@ -1,5 +1,5 @@
 ---
-title: 'Bitovi.com | DoneJS Release'
+title: Bitovi.com | DoneJS Release
 author: azu
 layout: post
 itemUrl: 'http://blog.bitovi.com/donejs-release/'

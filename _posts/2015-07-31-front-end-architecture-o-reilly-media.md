@@ -1,5 +1,5 @@
 ---
-title: "Front-End Architecture - O'Reilly Media"
+title: Front-End Architecture - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920040156.do'

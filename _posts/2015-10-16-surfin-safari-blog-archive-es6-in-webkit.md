@@ -1,5 +1,5 @@
 ---
-title: "Surfin' Safari - Blog Archive » ES6 in WebKit"
+title: Surfin' Safari - Blog Archive » ES6 in WebKit
 author: azu
 layout: post
 itemUrl: 'https://www.webkit.org/blog/4054/es6-in-webkit/'

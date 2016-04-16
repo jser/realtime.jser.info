@@ -10,7 +10,9 @@ tags:
   - testing
   - ReleaseNote
 relatedLinks:
-  - title: 'Added option to allow unhandled exceptions to propagate in the browser by amsul · Pull Request #1659 · mochajs/mocha'
+  - title: >-
+      Added option to allow unhandled exceptions to propagate in the browser by
+      amsul · Pull Request #1659 · mochajs/mocha
     url: 'https://github.com/mochajs/mocha/pull/1659'
 ---
 Mocha 2.3.0リリース。 テストのエラーが起きた時に自動的にキャッチしないでスルーできる`--allowUncaught`の追加、非同期のテストのみ許可する`--async-only`でのPromiseの動作を修正

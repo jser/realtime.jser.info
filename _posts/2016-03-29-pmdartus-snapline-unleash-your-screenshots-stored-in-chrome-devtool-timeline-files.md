@@ -1,5 +1,7 @@
 ---
-title: 'pmdartus/snapline: Unleash your screenshots stored in Chrome Devtool timeline files'
+title: >-
+  pmdartus/snapline: Unleash your screenshots stored in Chrome Devtool timeline
+  files
 author: azu
 layout: post
 itemUrl: 'https://github.com/pmdartus/snapline'

@@ -13,7 +13,8 @@ relatedLinks:
   - title: 'The Road to Ember 2.0 RFC by tomdale · Pull Request #15 · emberjs/rfcs'
     url: 'https://github.com/emberjs/rfcs/pull/15'
   - title: 'Contribute to Ember.js 2.0. No coding required. :: madhatted.com'
-    url: 'http://madhatted.com/2014/11/5/contribute-to-ember-js-2-0-no-coding-required'
+    url: >-
+      http://madhatted.com/2014/11/5/contribute-to-ember-js-2-0-no-coding-required
 ---
 Ember 1.8.0と1.9βリリース。
 またEmber 2.0についても話し合われている

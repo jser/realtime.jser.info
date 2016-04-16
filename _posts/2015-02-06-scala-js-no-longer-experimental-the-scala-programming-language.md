@@ -1,5 +1,5 @@
 ---
-title: 'Scala.js no longer experimental | The Scala Programming Language'
+title: Scala.js no longer experimental | The Scala Programming Language
 author: azu
 layout: post
 itemUrl: 'http://scala-lang.org/news/2015/02/05/scala-js-no-longer-experimental.html'

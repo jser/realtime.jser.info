@@ -1,5 +1,7 @@
 ---
-title: Issue 72975 - chromium - Blacklist GPU acceleration on Windows XP - Project Hosting on Google Code
+title: >-
+  Issue 72975 - chromium - Blacklist GPU acceleration on Windows XP - Project
+  Hosting on Google Code
 author: azu
 layout: post
 itemUrl: 'http://code.google.com/p/chromium/issues/detail?id=72975'

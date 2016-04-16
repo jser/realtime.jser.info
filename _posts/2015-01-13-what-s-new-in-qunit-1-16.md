@@ -1,5 +1,5 @@
 ---
-title: "What's New in QUnit 1.16"
+title: What's New in QUnit 1.16
 author: azu
 layout: post
 itemUrl: 'http://www.sitepoint.com/whats-new-qunit-1-16/'

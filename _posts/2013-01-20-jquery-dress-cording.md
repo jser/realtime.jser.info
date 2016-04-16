@@ -1,5 +1,5 @@
 ---
-title: '高速で安全なjQueryを書くために今できること | Dress Cording'
+title: 高速で安全なjQueryを書くために今できること | Dress Cording
 author: azu
 layout: post
 itemUrl: 'http://dresscording.com/blog/jquery_performance.html'

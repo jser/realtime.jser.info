@@ -1,5 +1,5 @@
 ---
-title: '『TMLib | TM Life』'
+title: 『TMLib | TM Life』
 author: azu
 layout: post
 itemUrl: 'http://tmlife.net/tmlib'

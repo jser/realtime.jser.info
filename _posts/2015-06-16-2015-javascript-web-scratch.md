@@ -1,5 +1,5 @@
 ---
-title: '2015年前半のJavaScriptを振り返る | Web Scratch'
+title: 2015年前半のJavaScriptを振り返る | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/06/16/jser-half-year/'

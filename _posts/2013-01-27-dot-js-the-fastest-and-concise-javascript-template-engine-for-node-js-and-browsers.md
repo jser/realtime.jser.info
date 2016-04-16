@@ -1,5 +1,7 @@
 ---
-title: doT.js - the fastest and concise javascript template engine for Node.js and browsers
+title: >-
+  doT.js - the fastest and concise javascript template engine for Node.js and
+  browsers
 author: azu
 layout: post
 itemUrl: 'http://olado.github.com/doT/'

@@ -1,5 +1,5 @@
 ---
-title: 'WebStorm 8 EAP Starts Now | JetBrains WebStorm Blog'
+title: WebStorm 8 EAP Starts Now | JetBrains WebStorm Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/01/webstorm-8-eap/'

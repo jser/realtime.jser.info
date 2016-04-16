@@ -1,5 +1,5 @@
 ---
-title: 'js STUDIO | jQuery 日本語リファレンス'
+title: js STUDIO | jQuery 日本語リファレンス
 author: azu
 layout: post
 itemUrl: 'http://js.studio-kingdom.com/jquery'

@@ -1,5 +1,5 @@
 ---
-title: 'React.js Conf | January 28 & 29 2015'
+title: React.js Conf | January 28 & 29 2015
 author: azu
 layout: post
 itemUrl: 'http://conf.reactjs.com/schedule.html'

@@ -1,5 +1,5 @@
 ---
-title: 'CSS polyfills from the future | GSS'
+title: CSS polyfills from the future | GSS
 author: azu
 layout: post
 itemUrl: 'http://gridstylesheets.org/'

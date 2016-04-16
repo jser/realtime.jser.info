@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptでdoctestを行う power-doctest を作った | Web scratch'
+title: JavaScriptでdoctestを行う power-doctest を作った | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/1201/res3494/'

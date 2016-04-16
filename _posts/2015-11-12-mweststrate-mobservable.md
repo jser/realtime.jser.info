@@ -10,7 +10,8 @@ tags:
   - library
 relatedLinks:
   - title: Object.observe is dead. Long live Mobservable.observe — Medium
-    url: 'https://medium.com/@mweststrate/object-observe-is-dead-long-live-mobservable-observe-ad96930140c5'
+    url: >-
+      https://medium.com/@mweststrate/object-observe-is-dead-long-live-mobservable-observe-ad96930140c5
 ---
 配列やオブジェクトなどをラップして変更監視が出来るライブラリ。
 getterとsetterを使い変更を監視するためプロパティの代入による変更を通知出来る

@@ -1,5 +1,5 @@
 ---
-title: 'December Security Release Summary | Node.js'
+title: December Security Release Summary | Node.js
 author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/vulnerability/december-2015-security-releases/'

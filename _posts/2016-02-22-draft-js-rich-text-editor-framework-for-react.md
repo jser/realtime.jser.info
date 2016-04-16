@@ -1,5 +1,5 @@
 ---
-title: 'Draft.js | Rich Text Editor Framework for React'
+title: Draft.js | Rich Text Editor Framework for React
 author: azu
 layout: post
 itemUrl: 'https://facebook.github.io/draft-js/'

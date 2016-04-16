@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 1.7の更新内容をまとめたよ。 | Ginpen.com'
+title: jQuery 1.7の更新内容をまとめたよ。 | Ginpen.com
 author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2011/11/04/jquery-1-7/'

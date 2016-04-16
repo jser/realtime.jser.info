@@ -1,5 +1,7 @@
 ---
-title: 'HTML5, ARIA Roles, and Screen Readers in March 2011 | Articles | Accessible Culture'
+title: >-
+  HTML5, ARIA Roles, and Screen Readers in March 2011 | Articles | Accessible
+  Culture
 author: azu
 layout: post
 itemUrl: 'http://www.accessibleculture.org/articles/2011/04/html5-aria-2011/'

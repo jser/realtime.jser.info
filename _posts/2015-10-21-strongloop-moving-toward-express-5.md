@@ -1,5 +1,5 @@
 ---
-title: 'StrongLoop | Moving toward Express 5'
+title: StrongLoop | Moving toward Express 5
 author: azu
 layout: post
 itemUrl: 'https://strongloop.com/strongblog/moving-toward-express-5/'

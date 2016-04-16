@@ -1,5 +1,5 @@
 ---
-title: 'New JavaScript Engine Module Owner | Brendan Eich'
+title: New JavaScript Engine Module Owner | Brendan Eich
 author: azu
 layout: post
 itemUrl: 'http://brendaneich.com/2011/06/new-javascript-engine-module-owner/'

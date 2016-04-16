@@ -1,5 +1,5 @@
 ---
-title: 'Presentations (+ Video) |  JS.everywhere(2012) + Wakanday'
+title: Presentations (+ Video) |  JS.everywhere(2012) + Wakanday
 author: azu
 layout: post
 itemUrl: 'http://www.jseverywhere.org/presentations/'

@@ -1,5 +1,5 @@
 ---
-title: "Let's Learn ES6 - YouTube"
+title: Let's Learn ES6 - YouTube
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX'

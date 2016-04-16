@@ -1,5 +1,5 @@
 ---
-title: 'Node v4.0.0 (Stable) | Node.js'
+title: Node v4.0.0 (Stable) | Node.js
 author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v4.0.0/'
@@ -10,7 +10,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: All you need to know about Node.js 4.0.0 - Dynatrace APM Blog
-    url: 'http://apmblog.dynatrace.com/2015/09/05/all-you-need-to-know-about-node-js-4-0/'
+    url: >-
+      http://apmblog.dynatrace.com/2015/09/05/all-you-need-to-know-about-node-js-4-0/
 ---
 io.jsと統合したNode.js 4.0.0リリース。
 長期間サポート(LTS)のバージョンが1年に1度リリースされ、12ヶ月アクティブ + 18ヶ月メンテナンスモードでサポートされるリリースサイクルとなる予定。

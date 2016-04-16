@@ -1,5 +1,7 @@
 ---
-title: 'dramatically enhance colors for javascript and css by maxogden · Pull Request #979 · github/linguist'
+title: >-
+  dramatically enhance colors for javascript and css by maxogden · Pull Request
+  #979 · github/linguist
 author: azu
 layout: post
 itemUrl: 'https://github.com/github/linguist/pull/979'

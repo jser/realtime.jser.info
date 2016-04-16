@@ -11,8 +11,11 @@ tags:
 relatedLinks:
   - title: The Future of JavaScript MVC Frameworks
     url: 'http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/'
-  - title: presentation-a-state-of-change-object-observe/REFERENCES.md at master · markdalgleish/presentation-a-state-of-change-object-observe
-    url: 'https://github.com/markdalgleish/presentation-a-state-of-change-object-observe/blob/master/REFERENCES.md'
+  - title: >-
+      presentation-a-state-of-change-object-observe/REFERENCES.md at master ·
+      markdalgleish/presentation-a-state-of-change-object-observe
+    url: >-
+      https://github.com/markdalgleish/presentation-a-state-of-change-object-observe/blob/master/REFERENCES.md
 ---
 Object.observeについてのスライド。
 Object.observeはオブジェクトの変更を監視できるが、Imuutabilityとは逆の事になってしまう。

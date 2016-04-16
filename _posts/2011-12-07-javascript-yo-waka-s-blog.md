@@ -1,5 +1,5 @@
 ---
-title: "最近のJavaScriptモジュールの書き方 - yo_waka's blog"
+title: 最近のJavaScriptモジュールの書き方 - yo_waka's blog
 author: azu
 layout: post
 itemUrl: 'http://waka.hatenablog.com/entry/2011/11/27/215627'

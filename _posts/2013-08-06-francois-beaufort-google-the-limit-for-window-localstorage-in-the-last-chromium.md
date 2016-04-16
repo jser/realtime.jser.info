@@ -1,5 +1,7 @@
 ---
-title: François Beaufort - Google+ - The limit for window.localStorage in the last chromium…
+title: >-
+  François Beaufort - Google+ - The limit for window.localStorage in the last
+  chromium…
 author: azu
 layout: post
 itemUrl: 'https://plus.google.com/100132233764003563318/posts/S5Q9HqDB8bh'

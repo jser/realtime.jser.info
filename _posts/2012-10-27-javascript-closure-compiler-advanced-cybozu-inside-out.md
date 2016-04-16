@@ -1,5 +1,7 @@
 ---
-title: 'JavaScriptをClosure CompilerのADVANCEDモードに完全対応させるその方法！ | Cybozu Inside Out | サイボウズエンジニアのブログ'
+title: >-
+  JavaScriptをClosure CompilerのADVANCEDモードに完全対応させるその方法！ | Cybozu Inside Out |
+  サイボウズエンジニアのブログ
 author: azu
 layout: post
 itemUrl: 'http://developer.cybozu.co.jp/tech/?p=502'

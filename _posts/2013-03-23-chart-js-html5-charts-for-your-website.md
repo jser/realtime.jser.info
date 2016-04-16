@@ -1,5 +1,5 @@
 ---
-title: 'Chart.js | HTML5 Charts for your website.'
+title: Chart.js | HTML5 Charts for your website.
 author: azu
 layout: post
 itemUrl: 'http://www.chartjs.org/'

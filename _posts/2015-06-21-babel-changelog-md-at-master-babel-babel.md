@@ -11,7 +11,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: transformers
-    url: 'https://github.com/babel/babel/commit/3247851019dd350504689ad57c42ef45eb2381c7'
+    url: >-
+      https://github.com/babel/babel/commit/3247851019dd350504689ad57c42ef45eb2381c7
   - title: Babel Plugins
     url: 'https://github.com/babel-plugins'
 ---

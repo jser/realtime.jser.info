@@ -1,5 +1,5 @@
 ---
-title: "CoffeeScript on Node.js - O'Reilly Media"
+title: CoffeeScript on Node.js - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920023081.do'

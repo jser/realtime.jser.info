@@ -1,5 +1,5 @@
 ---
-title: "『Patching native objects, isn't it evil? - Sugar』"
+title: '『Patching native objects, isn''t it evil? - Sugar』'
 author: azu
 layout: post
 itemUrl: 'http://sugarjs.com/native'

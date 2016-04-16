@@ -1,5 +1,5 @@
 ---
-title: 'WebStorm 9 EAP is Open! | JetBrains WebStorm Blog'
+title: WebStorm 9 EAP is Open! | JetBrains WebStorm Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/08/webstorm-9-eap/'

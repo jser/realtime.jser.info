@@ -1,5 +1,5 @@
 ---
-title: '『jQuery Mobile 最新情報 & Tips』'
+title: 『jQuery Mobile 最新情報 & Tips』
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/yoshikawa_t/jquery-mobile-tips'

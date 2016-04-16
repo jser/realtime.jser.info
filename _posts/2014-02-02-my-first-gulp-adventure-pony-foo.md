@@ -9,7 +9,7 @@ tags:
   - gulp
   - tutorial
 relatedLinks:
-  - title: 'gulp 3.5でgulp.runがdeprecatedになりました | Web scratch'
+  - title: gulp 3.5でgulp.runがdeprecatedになりました | Web scratch
     url: 'http://efcl.info/2014/0125/res3630/'
 ---
 gulpfileの基本的な書き方についてのチュートリアル。

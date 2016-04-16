@@ -1,5 +1,5 @@
 ---
-title: 'jQueryの似ているAPIまとめ | js STUDIO | jQuery 日本語リファレンス'
+title: jQueryの似ているAPIまとめ | js STUDIO | jQuery 日本語リファレンス
 author: azu
 layout: post
 itemUrl: 'http://js.studio-kingdom.com/jquery/news/2'

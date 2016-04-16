@@ -1,5 +1,7 @@
 ---
-title: "『Amazon: Pro Html5 Accessibility (Professional Apress) [ペーパーバック]: Joshue O'connor』"
+title: >-
+  『Amazon: Pro Html5 Accessibility (Professional Apress) [ペーパーバック]: Joshue
+  O'connor』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/1430241942/book042-22/ref=nosim'

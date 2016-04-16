@@ -1,5 +1,5 @@
 ---
-title: "Testable JavaScript - O'Reilly Media"
+title: Testable JavaScript - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920024699.do'

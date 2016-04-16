@@ -1,5 +1,5 @@
 ---
-title: 'Intro | Javascript Challenges'
+title: Intro | Javascript Challenges
 author: azu
 layout: post
 itemUrl: 'http://tcorral.github.io/javascript-challenges-book/'

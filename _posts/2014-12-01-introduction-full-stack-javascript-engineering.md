@@ -1,5 +1,5 @@
 ---
-title: 'Introduction | Full Stack JavaScript Engineering'
+title: Introduction | Full Stack JavaScript Engineering
 author: azu
 layout: post
 itemUrl: 'http://fsje.codefellows.org/'

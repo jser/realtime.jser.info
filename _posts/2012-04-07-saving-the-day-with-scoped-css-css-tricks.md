@@ -1,5 +1,5 @@
 ---
-title: '『Saving the Day with Scoped CSS | CSS-Tricks』'
+title: 『Saving the Day with Scoped CSS | CSS-Tricks』
 author: azu
 layout: post
 itemUrl: 'http://css-tricks.com/saving-the-day-with-scoped-css/'

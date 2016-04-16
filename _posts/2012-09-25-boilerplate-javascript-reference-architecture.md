@@ -1,5 +1,5 @@
 ---
-title: 'Boilerplate | JavaScript Reference Architecture'
+title: Boilerplate | JavaScript Reference Architecture
 author: azu
 layout: post
 itemUrl: 'http://boilerplatejs.org/'

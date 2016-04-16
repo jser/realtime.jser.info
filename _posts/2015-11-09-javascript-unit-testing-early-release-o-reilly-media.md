@@ -1,5 +1,5 @@
 ---
-title: "Javascript Unit Testing - Early Release - O'Reilly Media"
+title: Javascript Unit Testing - Early Release - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920042594.do'

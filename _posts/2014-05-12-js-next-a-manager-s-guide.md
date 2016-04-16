@@ -1,5 +1,5 @@
 ---
-title: "JS.next: A Manager's Guide"
+title: 'JS.next: A Manager''s Guide'
 author: azu
 layout: post
 itemUrl: 'http://chimera.labs.oreilly.com/books/1234000001623'

@@ -1,5 +1,7 @@
 ---
-title: 'InfoQ: JavaScript Today and Tomorrow: Evolving the Ambient Language of the Ambient Computing Era'
+title: >-
+  InfoQ: JavaScript Today and Tomorrow: Evolving the Ambient Language of the
+  Ambient Computing Era
 author: azu
 layout: post
 itemUrl: 'http://www.infoq.com/presentations/JavaScript-Today-and-Tomorrow'

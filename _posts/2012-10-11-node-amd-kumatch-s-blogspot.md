@@ -1,5 +1,5 @@
 ---
-title: "依存するモジュールも解決できる Node/AMD (サーバ／クライアント) 共通化モジュールを書く :: kumatch's blogspot"
+title: '依存するモジュールも解決できる Node/AMD (サーバ／クライアント) 共通化モジュールを書く :: kumatch''s blogspot'
 author: azu
 layout: post
 itemUrl: 'http://kumatchs.blogspot.com/2012/10/nodeamd.html'

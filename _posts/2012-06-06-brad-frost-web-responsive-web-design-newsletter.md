@@ -1,5 +1,5 @@
 ---
-title: 'Brad Frost Web | Responsive Web Design Newsletter'
+title: Brad Frost Web | Responsive Web Design Newsletter
 author: azu
 layout: post
 itemUrl: 'http://bradfrostweb.com/responsive-web-design-newsletter/'

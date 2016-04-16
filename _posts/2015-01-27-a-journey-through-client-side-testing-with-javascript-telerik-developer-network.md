@@ -1,5 +1,7 @@
 ---
-title: A Journey Through Client-Side Testing with JavaScript -Telerik Developer Network
+title: >-
+  A Journey Through Client-Side Testing with JavaScript -Telerik Developer
+  Network
 author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/journey-client-side-testing-javascript/'

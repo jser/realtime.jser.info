@@ -1,5 +1,5 @@
 ---
-title: 'jsFiddleを使ってJavaScriptのテストを簡単に動かせるテンプレートサイトを作りました | Web scratch'
+title: jsFiddleを使ってJavaScriptのテストを簡単に動かせるテンプレートサイトを作りました | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/0303/res3214/'

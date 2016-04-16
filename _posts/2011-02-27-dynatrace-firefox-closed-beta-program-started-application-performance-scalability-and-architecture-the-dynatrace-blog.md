@@ -1,8 +1,11 @@
 ---
-title: 'dynaTrace Firefox Closed Beta Program started Application Performance, Scalability and Architecture – The dynaTrace Blog'
+title: >-
+  dynaTrace Firefox Closed Beta Program started Application Performance,
+  Scalability and Architecture – The dynaTrace Blog
 author: azu
 layout: post
-itemUrl: 'http://blog.dynatrace.com/2011/01/28/dynatrace-firefox-closed-beta-program-started/'
+itemUrl: >-
+  http://blog.dynatrace.com/2011/01/28/dynatrace-firefox-closed-beta-program-started/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
 date: '2011-02-27T11:55:00+00:00'
 ---

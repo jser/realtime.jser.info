@@ -1,5 +1,5 @@
 ---
-title: "Let's Code: Test-Driven Javascript | Coming July 2012"
+title: 'Let''s Code: Test-Driven Javascript | Coming July 2012'
 author: azu
 layout: post
 itemUrl: 'http://www.letscodejavascript.com/'

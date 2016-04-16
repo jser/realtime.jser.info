@@ -1,5 +1,5 @@
 ---
-title: 'NW.js & Electron Compared | TangibleJS'
+title: NW.js & Electron Compared | TangibleJS
 author: azu
 layout: post
 itemUrl: 'http://tangiblejs.com/posts/nw-js-electron-compared'

@@ -10,7 +10,9 @@ tags:
   - Tools
   - ReleaseNote
 relatedLinks:
-  - title: 'Decorators in object literals trigger SyntaxError · Issue #1154 · babel/babel'
+  - title: >-
+      Decorators in object literals trigger SyntaxError · Issue #1154 ·
+      babel/babel
     url: 'https://github.com/babel/babel/issues/1154'
 ---
 Babel 5.1.0リリース。

@@ -1,5 +1,7 @@
 ---
-title: 『jQuery UK 2012 - App development stack for JS developers - Paul Irish on Vimeo』
+title: >-
+  『jQuery UK 2012 - App development stack for JS developers - Paul Irish on
+  Vimeo』
 author: azu
 layout: post
 itemUrl: 'http://vimeo.com/40929961'

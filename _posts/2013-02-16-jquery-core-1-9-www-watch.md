@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Core 1.9 アップグレードガイド 日本語訳 | WWW WATCH'
+title: jQuery Core 1.9 アップグレードガイド 日本語訳 | WWW WATCH
 author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2013/02/jquery_core_19_upgrade_guide_ja.shtml'

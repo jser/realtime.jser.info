@@ -1,5 +1,5 @@
 ---
-title: "What's in a Function Name? - Bocoup"
+title: What's in a Function Name? - Bocoup
 author: azu
 layout: post
 itemUrl: 'http://bocoup.com/weblog/whats-in-a-function-name/'

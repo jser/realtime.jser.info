@@ -11,7 +11,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: eslint/docs/command-line-interface at master · eslint/eslint
-    url: 'https://github.com/eslint/eslint/tree/master/docs/command-line-interface#--env'
+    url: >-
+      https://github.com/eslint/eslint/tree/master/docs/command-line-interface#--env
 ---
 ESLint 0.5.0リリース
 `eslint-env`又はCLIの`--env`オプションで実行環境の設定が出来るように、グローバル変数を定義するCLI `--global`オプションの追加等

@@ -1,5 +1,5 @@
 ---
-title: "Amazon: 入門Backbone.js (Programmer's SELECTION): James Sugrue"
+title: 'Amazon: 入門Backbone.js (Programmer''s SELECTION): James Sugrue'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/479813712X?tag=amazon0abac-22'

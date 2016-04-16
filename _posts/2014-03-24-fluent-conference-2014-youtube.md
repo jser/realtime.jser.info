@@ -10,7 +10,7 @@ tags:
   - イベント
   - 動画
 relatedLinks:
-  - title: "Fluent 2014 - O'Reilly Conferences, March 11 - 13, 2014, San Francisco, CA"
+  - title: 'Fluent 2014 - O''Reilly Conferences, March 11 - 13, 2014, San Francisco, CA'
     url: 'http://fluentconf.com/fluent2014'
 ---
 O'Reilly Fluent Conference 2014の動画が公開された

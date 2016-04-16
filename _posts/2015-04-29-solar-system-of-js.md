@@ -10,7 +10,9 @@ tags:
   - 歴史
   - スライド
 relatedLinks:
-  - title: '▶ ECMAScript Harmony: Rise of the Compilers - Brendan Eich keynote - YouTube'
+  - title: >-
+      ▶ ECMAScript Harmony: Rise of the Compilers - Brendan Eich keynote -
+      YouTube
     url: 'https://www.youtube.com/watch?v=PlmsweSNhTw'
   - title: shaunlebron/solar-system-of-js
     url: 'https://github.com/shaunlebron/solar-system-of-js'

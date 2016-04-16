@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション: ヘイドン・ピカリング, Heydon Pickering, 伊原力也, 太田良典, 株式会社Bスプラウト'
+title: >-
+  Amazon: コーディングWebアクセシビリティ - WAI-ARIAで実現するマルチデバイス環境のWebアプリケーション: ヘイドン・ピカリング,
+  Heydon Pickering, 伊原力也, 太田良典, 株式会社Bスプラウト
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4862462669?tag=amazon0abac-22'

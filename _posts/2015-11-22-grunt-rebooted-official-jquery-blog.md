@@ -12,7 +12,9 @@ tags:
 relatedLinks:
   - title: 'Grunt needs your help! · Issue #1403 · gruntjs/grunt'
     url: 'https://github.com/gruntjs/grunt/issues/1403'
-  - title: 'Grunt project tasks for jQuery Foundation transition · Issue #1404 · gruntjs/grunt'
+  - title: >-
+      Grunt project tasks for jQuery Foundation transition · Issue #1404 ·
+      gruntjs/grunt
     url: 'https://github.com/gruntjs/grunt/issues/1404'
 ---
 GruntはjQuery Foundationに移管され、新たなメンテナーを求める形で再始動するとのこと

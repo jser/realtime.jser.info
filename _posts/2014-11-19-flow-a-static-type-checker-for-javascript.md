@@ -1,5 +1,5 @@
 ---
-title: 'Flow | A static type checker for JavaScript'
+title: Flow | A static type checker for JavaScript
 author: azu
 layout: post
 itemUrl: 'http://flowtype.org/'

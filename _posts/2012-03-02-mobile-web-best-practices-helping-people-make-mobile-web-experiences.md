@@ -1,5 +1,5 @@
 ---
-title: '『Mobile Web Best Practices | Helping People Make Mobile Web Experiences』'
+title: 『Mobile Web Best Practices | Helping People Make Mobile Web Experiences』
 author: azu
 layout: post
 itemUrl: 'http://mobilewebbestpractices.com/'

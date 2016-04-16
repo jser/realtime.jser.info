@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptライブラリの気になる実装をどうやって見ていくか | Web scratch'
+title: JavaScriptライブラリの気になる実装をどうやって見ていくか | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0209/res3658/'

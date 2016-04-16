@@ -1,5 +1,5 @@
 ---
-title: 'Sencha Touch 2.1 のチュートリアルを書きました！ | ありえるえりあ'
+title: Sencha Touch 2.1 のチュートリアルを書きました！ | ありえるえりあ
 author: azu
 layout: post
 itemUrl: 'http://dev.ariel-networks.com/wp/archives/2791'

@@ -11,7 +11,7 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: 'D3 バージョン 3.5 がリリースされました。 | Daily D3'
+  - title: D3 バージョン 3.5 がリリースされました。 | Daily D3
     url: 'http://daily.d3js.info/?p=775'
 ---
 D3.js 3.5リリース

@@ -1,5 +1,5 @@
 ---
-title: 'Lastweek | DarKtears'
+title: Lastweek | DarKtears
 author: azu
 layout: post
 itemUrl: 'http://darktears.wordpress.com/tag/lastweek/'

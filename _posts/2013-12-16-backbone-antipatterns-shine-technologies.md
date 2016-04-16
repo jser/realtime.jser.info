@@ -1,5 +1,5 @@
 ---
-title: 'Backbone Antipatterns | Shine Technologies'
+title: Backbone Antipatterns | Shine Technologies
 author: azu
 layout: post
 itemUrl: 'http://blog.shinetech.com/2013/11/26/backbone-antipatterns/'

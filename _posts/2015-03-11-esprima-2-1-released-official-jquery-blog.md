@@ -1,5 +1,5 @@
 ---
-title: 'Esprima 2.1 Released | Official jQuery Blog'
+title: Esprima 2.1 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2015/03/10/esprima-2-1-released/'

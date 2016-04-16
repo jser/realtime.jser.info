@@ -1,5 +1,5 @@
 ---
-title: 'Lightweight ES6 Features That Pack A Punch | colintoh.com'
+title: Lightweight ES6 Features That Pack A Punch | colintoh.com
 author: azu
 layout: post
 itemUrl: 'http://colintoh.com/blog/lightweight-es6-features'

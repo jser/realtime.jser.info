@@ -1,5 +1,5 @@
 ---
-title: 'The Pragmatic Bookshelf | CoffeeScript'
+title: The Pragmatic Bookshelf | CoffeeScript
 author: azu
 layout: post
 itemUrl: 'http://pragprog.com/titles/tbcoffee/coffeescript'

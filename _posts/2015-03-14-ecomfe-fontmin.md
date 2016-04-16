@@ -11,7 +11,7 @@ tags:
   - Tools
   - library
 relatedLinks:
-  - title: '中文字体 webfont 自动化构建 | EFE Tech'
+  - title: 中文字体 webfont 自动化构建 | EFE Tech
     url: 'http://efe.baidu.com/blog/chinese-font-build/'
 ---
 ウェブフォントのMinifyを行うNodeモジュール。

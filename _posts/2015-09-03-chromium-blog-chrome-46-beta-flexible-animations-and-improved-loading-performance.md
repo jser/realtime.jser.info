@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 46 Beta: Flexible animations and improved loading performance'
+title: >-
+  Chromium Blog: Chrome 46 Beta: Flexible animations and improved loading
+  performance
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/09/chrome-46-beta-flexible-animations-and.html'

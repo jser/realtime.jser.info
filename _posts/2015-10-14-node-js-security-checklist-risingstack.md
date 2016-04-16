@@ -1,5 +1,5 @@
 ---
-title: 'Node.js Security Checklist | RisingStack'
+title: Node.js Security Checklist | RisingStack
 author: azu
 layout: post
 itemUrl: 'https://blog.risingstack.com/node-js-security-checklist/'

@@ -1,5 +1,5 @@
 ---
-title: 'ExceptionHub | JavaScript Error Tracking'
+title: ExceptionHub | JavaScript Error Tracking
 author: azu
 layout: post
 itemUrl: 'http://www.exceptionhub.com/#'

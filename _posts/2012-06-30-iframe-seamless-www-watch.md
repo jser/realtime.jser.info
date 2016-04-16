@@ -1,5 +1,5 @@
 ---
-title: 'iframe 要素の seamless 属性を試してみた | WWW WATCH'
+title: iframe 要素の seamless 属性を試してみた | WWW WATCH
 author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2012/05/iframe_seamless_attribute.shtml'

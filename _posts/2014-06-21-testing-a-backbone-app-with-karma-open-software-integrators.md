@@ -1,5 +1,5 @@
 ---
-title: 'Testing A Backbone App with Karma | Open Software Integrators'
+title: Testing A Backbone App with Karma | Open Software Integrators
 author: azu
 layout: post
 itemUrl: 'http://osintegrators.com/node/322'

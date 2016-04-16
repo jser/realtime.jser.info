@@ -1,5 +1,7 @@
 ---
-title: 'gajus/create-index: Creates ES6 ./index.js file in target directories that imports and exports all sibling files and directories.'
+title: >-
+  gajus/create-index: Creates ES6 ./index.js file in target directories that
+  imports and exports all sibling files and directories.
 author: azu
 layout: post
 itemUrl: 'https://github.com/gajus/create-index'

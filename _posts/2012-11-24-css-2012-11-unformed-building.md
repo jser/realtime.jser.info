@@ -1,5 +1,5 @@
 ---
-title: '最近の CSS 実装でベンダー接頭辞の外れたもの (2012年11月) | Unformed Building'
+title: 最近の CSS 実装でベンダー接頭辞の外れたもの (2012年11月) | Unformed Building
 author: azu
 layout: post
 itemUrl: 'http://unformedbuilding.com/articles/css-unprefixed-2012-11/'

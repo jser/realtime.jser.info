@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning in Javascript: Introduction | Burak Kanber's Blog"
+title: 'Machine Learning in Javascript: Introduction | Burak Kanber''s Blog'
 author: azu
 layout: post
 itemUrl: 'http://burakkanber.com/blog/machine-learning-in-other-languages-introduction/'

@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Programmer's Reference"
+title: JavaScript Programmer's Reference
 author: azu
 layout: post
 itemUrl: 'http://www.apress.com/9781430246299'

@@ -1,5 +1,5 @@
 ---
-title: '『Script yielding with setImmediate | NCZOnline』'
+title: 『Script yielding with setImmediate | NCZOnline』
 author: azu
 layout: post
 itemUrl: 'http://www.nczonline.net/blog/2011/09/19/script-yielding-with-setimmediate/'

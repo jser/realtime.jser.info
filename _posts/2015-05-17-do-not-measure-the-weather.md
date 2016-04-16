@@ -10,7 +10,7 @@ tags:
   - performance
   - スライド
 relatedLinks:
-  - title: 'V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch'
+  - title: V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch
     url: 'http://efcl.info/2014/09/13/v8-optimization-memo/'
   - title: IRHydra2
     url: 'http://mrale.ph/irhydra/2/'

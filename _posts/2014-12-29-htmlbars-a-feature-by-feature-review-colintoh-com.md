@@ -1,5 +1,5 @@
 ---
-title: 'HTMLBars - A Feature-by-Feature Review | colintoh.com'
+title: HTMLBars - A Feature-by-Feature Review | colintoh.com
 author: azu
 layout: post
 itemUrl: 'http://colintoh.com/blog/htmlbars'

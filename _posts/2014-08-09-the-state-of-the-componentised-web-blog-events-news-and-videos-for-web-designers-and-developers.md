@@ -1,5 +1,7 @@
 ---
-title: 'The State of the Componentised Web - Blog - Events, News, and Videos for Web Designers and Developers'
+title: >-
+  The State of the Componentised Web - Blog - Events, News, and Videos for Web
+  Designers and Developers
 author: azu
 layout: post
 itemUrl: 'http://www.futureinsights.com/home/the-state-of-the-componentised-web.html'

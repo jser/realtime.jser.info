@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 39 Beta: JS Generators, Animation Playback Control, and the WebApp Manifest'
+title: >-
+  Chromium Blog: Chrome 39 Beta: JS Generators, Animation Playback Control, and
+  the WebApp Manifest
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2014/10/chrome-39-beta-js-generators-animation.html'

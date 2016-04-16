@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Domain-Driven Design | PACKT Books'
+title: JavaScript Domain-Driven Design | PACKT Books
 author: azu
 layout: post
 itemUrl: 'https://www.packtpub.com/web-development/javascript-domain-driven-design'

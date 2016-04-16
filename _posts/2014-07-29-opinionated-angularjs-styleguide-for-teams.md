@@ -10,6 +10,7 @@ tags:
   - JavaScript
 relatedLinks:
   - title: AngularJS styleguide 日本語訳 - AngularJS Ninja
-    url: 'http://angularjsninja.com/blog/2014/07/29/angularjs-styleguide-in-Japanese/'
+    url: >-
+      http://angularjsninja.com/blog/2014/07/29/angularjs-styleguide-in-Japanese/
 ---
 AngularJSのコーディングスタイルガイド。

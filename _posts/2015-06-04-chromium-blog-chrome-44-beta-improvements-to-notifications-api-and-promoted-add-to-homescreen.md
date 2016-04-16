@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 44 Beta: Improvements to Notifications API and promoted add to homescreen'
+title: >-
+  Chromium Blog: Chrome 44 Beta: Improvements to Notifications API and promoted
+  add to homescreen
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/06/chrome-44-beta-improvements-to.html'

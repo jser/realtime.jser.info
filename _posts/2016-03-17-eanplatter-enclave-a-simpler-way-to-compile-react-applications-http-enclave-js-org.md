@@ -1,5 +1,7 @@
 ---
-title: 'eanplatter/enclave: A simpler way to compile React applications http://enclave.js.org'
+title: >-
+  eanplatter/enclave: A simpler way to compile React applications
+  http://enclave.js.org
 author: azu
 layout: post
 itemUrl: 'https://github.com/eanplatter/enclave'

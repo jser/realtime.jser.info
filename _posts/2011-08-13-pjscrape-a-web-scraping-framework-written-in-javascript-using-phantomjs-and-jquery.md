@@ -1,5 +1,7 @@
 ---
-title: '『pjscrape: A web-scraping framework written in Javascript, using PhantomJS and jQuery』'
+title: >-
+  『pjscrape: A web-scraping framework written in Javascript, using PhantomJS and
+  jQuery』
 author: azu
 layout: post
 itemUrl: 'http://nrabinowitz.github.com/pjscrape/'

@@ -1,8 +1,11 @@
 ---
-title: 'React+Flux can do in just 137 lines what jQuery can do in 10 | A geek with a hat'
+title: >-
+  React+Flux can do in just 137 lines what jQuery can do in 10 | A geek with a
+  hat
 author: azu
 layout: post
-itemUrl: 'http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740'
+itemUrl: >-
+  http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
 date: '2015-10-29T08:22:07+00:00'
 tags:

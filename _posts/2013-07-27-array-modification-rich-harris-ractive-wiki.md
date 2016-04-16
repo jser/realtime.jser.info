@@ -2,7 +2,8 @@
 title: Array modification · Rich-Harris/Ractive Wiki
 author: azu
 layout: post
-itemUrl: 'https://github.com/Rich-Harris/Ractive/wiki/Array-modification#performance-and-ui-benefits'
+itemUrl: >-
+  https://github.com/Rich-Harris/Ractive/wiki/Array-modification#performance-and-ui-benefits
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-27T14:23:16+00:00'
 tags:

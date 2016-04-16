@@ -9,9 +9,11 @@ tags:
   - node.js
   - ReleaseNote
 relatedLinks:
-  - title: 'DailyJS | Node 0.11.16 と io.js 1.1.0 がリリース | JSお散歩'
+  - title: DailyJS | Node 0.11.16 と io.js 1.1.0 がリリース | JSお散歩
     url: 'http://panda.node.ws/?p=2152'
-  - title: 'assert: use util.inspect() to create error messages by cjihrig · Pull Request #668 · iojs/io.js'
+  - title: >-
+      assert: use util.inspect() to create error messages by cjihrig · Pull
+      Request #668 · iojs/io.js
     url: 'https://github.com/iojs/io.js/pull/668'
   - title: iojs-jp/2015-02-06.md at master · iojs/iojs-jp
     url: 'https://github.com/iojs/iojs-jp/blob/master/weekly/2015-02-06.md'

@@ -9,9 +9,9 @@ tags:
   - firefox
   - ReleaseNote
 relatedLinks:
-  - title: 'Firefox 39 サイト互換性情報 - Mozilla | MDN'
+  - title: Firefox 39 サイト互換性情報 - Mozilla | MDN
     url: 'https://developer.mozilla.org/ja/Firefox/Releases/39/Site_Compatibility'
-  - title: 'Firefox 39 for developers - Mozilla | MDN'
+  - title: Firefox 39 for developers - Mozilla | MDN
     url: 'https://developer.mozilla.org/ja/Firefox/Releases/39'
 ---
 Firefox 39リリース。

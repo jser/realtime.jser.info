@@ -1,5 +1,5 @@
 ---
-title: 'jQuery UI 1.10 Beta | jQuery UI Blog'
+title: jQuery UI 1.10 Beta | jQuery UI Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jqueryui.com/2012/12/jquery-ui-1-10-beta/'

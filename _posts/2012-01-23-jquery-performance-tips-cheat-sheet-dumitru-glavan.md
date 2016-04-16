@@ -1,5 +1,5 @@
 ---
-title: '『jQuery Performance Tips Cheat Sheet | Dumitru Glavan』'
+title: 『jQuery Performance Tips Cheat Sheet | Dumitru Glavan』
 author: azu
 layout: post
 itemUrl: 'http://dumitruglavan.com/jquery-performance-tips-cheat-sheet/'

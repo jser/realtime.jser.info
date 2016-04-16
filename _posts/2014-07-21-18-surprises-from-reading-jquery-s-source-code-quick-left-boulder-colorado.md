@@ -1,5 +1,5 @@
 ---
-title: "18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado"
+title: 18 Surprises From Reading jQuery's Source Code - Quick Left Boulder Colorado
 author: azu
 layout: post
 itemUrl: 'http://quickleft.com/blog/18-surprises-from-reading-jquery-s-source-code'

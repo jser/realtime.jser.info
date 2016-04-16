@@ -1,5 +1,7 @@
 ---
-title: Writing Unit Tests for Existing JavaScript - Adventures in JavaScript Development
+title: >-
+  Writing Unit Tests for Existing JavaScript - Adventures in JavaScript
+  Development
 author: azu
 layout: post
 itemUrl: 'http://rmurphey.com/blog/2014/07/13/unit-tests/'

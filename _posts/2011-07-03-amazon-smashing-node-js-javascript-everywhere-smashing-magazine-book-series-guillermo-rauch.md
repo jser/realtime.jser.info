@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Smashing Node.JS: JavaScript Everywhere (Smashing Magazine Book Series): Guillermo Rauch』'
+title: >-
+  『Amazon: Smashing Node.JS: JavaScript Everywhere (Smashing Magazine Book
+  Series): Guillermo Rauch』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1119962595'

@@ -11,7 +11,9 @@ tags:
   - ReleaseNote
   - JavaScript
 relatedLinks:
-  - title: 'pixijs/pixi-gl-core: A set of tidy little pixi objects that make working with webGL simpler (WIP, will be moved to pixi group when ready)'
+  - title: >-
+      pixijs/pixi-gl-core: A set of tidy little pixi objects that make working
+      with webGL simpler (WIP, will be moved to pixi group when ready)
     url: 'https://github.com/pixijs/pixi-gl-core'
 ---
 PixiJS v4 RCリリース。

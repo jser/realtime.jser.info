@@ -1,5 +1,5 @@
 ---
-title: 'ウェブクリエイターの為の情報サイト | Web Programming Primer'
+title: ウェブクリエイターの為の情報サイト | Web Programming Primer
 author: azu
 layout: post
 itemUrl: 'http://wp-p.info/'

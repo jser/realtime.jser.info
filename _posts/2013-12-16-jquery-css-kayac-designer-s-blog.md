@@ -1,5 +1,7 @@
 ---
-title: "これだけは抑えておきたい！ jQuery や CSS の「イージング」の基礎知識 | KAYAC DESIGNER'S BLOG - デザインやマークアップの話"
+title: >-
+  これだけは抑えておきたい！ jQuery や CSS の「イージング」の基礎知識 | KAYAC DESIGNER'S BLOG -
+  デザインやマークアップの話
 author: azu
 layout: post
 itemUrl: 'http://design.kayac.com/topics/2013/11/easing-basics.php'

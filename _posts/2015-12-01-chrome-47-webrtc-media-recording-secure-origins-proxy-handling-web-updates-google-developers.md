@@ -1,5 +1,7 @@
 ---
-title: 'Chrome 47 WebRTC: media recording, secure origins & proxy handling | Web Updates - Google Developers'
+title: >-
+  Chrome 47 WebRTC: media recording, secure origins & proxy handling | Web
+  Updates - Google Developers
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2015/10/chrome-47-webrtc'

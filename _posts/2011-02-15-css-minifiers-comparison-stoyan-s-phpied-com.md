@@ -1,5 +1,5 @@
 ---
-title: "CSS minifiers comparison / Stoyan's phpied.com"
+title: CSS minifiers comparison / Stoyan's phpied.com
 author: azu
 layout: post
 itemUrl: 'http://www.phpied.com/css-minifiers-comparison/'

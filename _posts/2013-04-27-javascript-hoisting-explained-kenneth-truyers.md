@@ -1,5 +1,5 @@
 ---
-title: 'Javascript hoisting explained | Kenneth Truyers'
+title: Javascript hoisting explained | Kenneth Truyers
 author: azu
 layout: post
 itemUrl: 'http://www.kenneth-truyers.net/2013/04/20/javascript-hoisting-explained/'

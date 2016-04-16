@@ -1,5 +1,5 @@
 ---
-title: 'Announcing jQuery Mobile 1.4.0 Alpha | jQuery Mobile'
+title: Announcing jQuery Mobile 1.4.0 Alpha | jQuery Mobile
 author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2013/07/25/announcing-jquery-mobile-1-4-0-alpha/'

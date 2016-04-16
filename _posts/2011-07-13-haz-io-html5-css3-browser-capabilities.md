@@ -1,5 +1,5 @@
 ---
-title: 'haz.io › HTML5 & CSS3 Browser Capabilities'
+title: haz.io › HTML5 & CSS3 Browser Capabilities
 author: azu
 layout: post
 itemUrl: 'http://haz.io/'

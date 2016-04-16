@@ -1,5 +1,5 @@
 ---
-title: 'Live edit browserified code in chrome devtools | thlorenz.com'
+title: Live edit browserified code in chrome devtools | thlorenz.com
 author: azu
 layout: post
 itemUrl: 'http://thlorenz.com/blog/live-editing-browserify'

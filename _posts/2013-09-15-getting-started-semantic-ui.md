@@ -1,5 +1,5 @@
 ---
-title: 'Getting Started | Semantic UI'
+title: Getting Started | Semantic UI
 author: azu
 layout: post
 itemUrl: 'http://semantic-ui.com/'

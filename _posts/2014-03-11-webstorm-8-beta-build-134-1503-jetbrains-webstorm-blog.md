@@ -1,5 +1,5 @@
 ---
-title: 'WebStorm 8 Beta (build 134.1503) | JetBrains WebStorm Blog'
+title: WebStorm 8 Beta (build 134.1503) | JetBrains WebStorm Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/03/webstorm-8-beta/'

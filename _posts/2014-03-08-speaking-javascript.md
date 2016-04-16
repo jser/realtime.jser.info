@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - book
 relatedLinks:
-  - title: "Speaking JavaScript - O'Reilly Media"
+  - title: Speaking JavaScript - O'Reilly Media
     url: 'http://shop.oreilly.com/product/0636920029564.do'
 ---
 Dr. AxelによるJavaScript言語についての書籍。

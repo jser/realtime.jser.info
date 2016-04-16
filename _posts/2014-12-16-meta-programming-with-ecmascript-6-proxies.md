@@ -11,7 +11,7 @@ tags:
   - リファレンス
   - まとめ
 relatedLinks:
-  - title: 'ECMAScript 6 proxyによるメタプログラミング(1/11) | JSお散歩'
+  - title: ECMAScript 6 proxyによるメタプログラミング(1/11) | JSお散歩
     url: 'http://panda.node.ws/?p=1371'
 ---
 ES6のProxyについて詳しい解説。

@@ -1,5 +1,5 @@
 ---
-title: 'Node v4.1.0 (Stable) | Node.js'
+title: Node v4.1.0 (Stable) | Node.js
 author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v4.1.0/'

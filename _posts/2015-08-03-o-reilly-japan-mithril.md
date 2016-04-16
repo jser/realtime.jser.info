@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - Mithril"
+title: O'Reilly Japan - Mithril
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873117447/'

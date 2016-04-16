@@ -1,5 +1,5 @@
 ---
-title: "『O'Reilly Japan - HTML5 Canvasデスクトップリファレンス』"
+title: 『O'Reilly Japan - HTML5 Canvasデスクトップリファレンス』
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873115252/'

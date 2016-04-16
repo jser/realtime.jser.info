@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript Promiseを使うウェブの仕様を調べてみた | Web Scratch'
+title: JavaScript Promiseを使うウェブの仕様を調べてみた | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/09/16/promises-spec-ref-list/'

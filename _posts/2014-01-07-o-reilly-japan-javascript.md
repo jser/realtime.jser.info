@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - JavaScriptで学ぶ関数型プログラミング"
+title: O'Reilly Japan - JavaScriptで学ぶ関数型プログラミング
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116600/'

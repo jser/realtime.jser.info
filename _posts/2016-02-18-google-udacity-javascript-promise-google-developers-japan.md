@@ -1,5 +1,7 @@
 ---
-title: Google と Udacity による JavaScript Promise オンライン コースのご紹介 - Google Developers Japan
+title: >-
+  Google と Udacity による JavaScript Promise オンライン コースのご紹介 - Google Developers
+  Japan
 author: azu
 layout: post
 itemUrl: 'http://googledevjp.blogspot.com/2016/02/google-udacity-javascript-promise.html'

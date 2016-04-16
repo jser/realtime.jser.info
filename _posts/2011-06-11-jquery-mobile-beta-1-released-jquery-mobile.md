@@ -1,5 +1,5 @@
 ---
-title: '『jQuery Mobile Beta 1 Released! | jQuery Mobile』'
+title: 『jQuery Mobile Beta 1 Released! | jQuery Mobile』
 author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2011/06/20/jquery-mobile-beta-1-released/'

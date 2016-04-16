@@ -1,5 +1,5 @@
 ---
-title: 'Node.jsエンジニアなら2014年内に知っておきたいPromise入門 | Tokyo Otaku Mode Tech Blog'
+title: Node.jsエンジニアなら2014年内に知っておきたいPromise入門 | Tokyo Otaku Mode Tech Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.otakumode.com/2014/09/17/nodejs-promise/'

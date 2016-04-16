@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Testing with Jasmine - O'Reilly Media"
+title: JavaScript Testing with Jasmine - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920028277.do'

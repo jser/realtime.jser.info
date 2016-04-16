@@ -1,5 +1,7 @@
 ---
-title: 'Eric Elliott’s essential JavaScript links or The way of the parrot, not · Super-Script'
+title: >-
+  Eric Elliott’s essential JavaScript links or The way of the parrot, not ·
+  Super-Script
 author: azu
 layout: post
 itemUrl: 'http://super-script.us/2015/essential-js-links.html'

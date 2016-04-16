@@ -2,7 +2,8 @@
 title: Functional Reactive Programming with the Power of Node.js Streams
 author: azu
 layout: post
-itemUrl: 'http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/'
+itemUrl: >-
+  http://blog.risingstack.com/functional-reactive-programming-with-the-power-of-nodejs-streams/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
 date: '2014-12-30T13:23:18+00:00'
 tags:

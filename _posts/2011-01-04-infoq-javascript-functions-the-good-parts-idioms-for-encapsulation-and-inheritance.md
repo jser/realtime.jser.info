@@ -1,5 +1,7 @@
 ---
-title: 'InfoQ: JavaScript Functions: The Good Parts - Idioms for Encapsulation and Inheritance'
+title: >-
+  InfoQ: JavaScript Functions: The Good Parts - Idioms for Encapsulation and
+  Inheritance
 author: azu
 layout: post
 itemUrl: 'http://www.infoq.com/presentations/JavaScript-Functions'

@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Foundation Website Creation with HTML5, CSS3, and JavaScript: Joe Lewis'
+title: >-
+  Amazon: Foundation Website Creation with HTML5, CSS3, and JavaScript: Joe
+  Lewis
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1430237899/amazon0abac-22/ref=nosim'

@@ -1,5 +1,5 @@
 ---
-title: 'Clearing Browser Data | High Performance Web Sites'
+title: Clearing Browser Data | High Performance Web Sites
 author: azu
 layout: post
 itemUrl: 'http://www.stevesouders.com/blog/2012/09/10/clearing-browser-data/'

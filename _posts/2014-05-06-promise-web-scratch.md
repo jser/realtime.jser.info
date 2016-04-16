@@ -1,5 +1,5 @@
 ---
-title: 'Promiseのテストを補助するライブラリを書いた | Web scratch'
+title: Promiseのテストを補助するライブラリを書いた | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0506/res3894/'

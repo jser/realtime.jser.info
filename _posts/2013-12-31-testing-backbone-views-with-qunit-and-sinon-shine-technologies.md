@@ -1,8 +1,9 @@
 ---
-title: 'Testing Backbone Views with QUnit and Sinon | Shine Technologies'
+title: Testing Backbone Views with QUnit and Sinon | Shine Technologies
 author: azu
 layout: post
-itemUrl: 'http://blog.shinetech.com/2013/06/27/testing-backbone-views-with-qunit-and-sinon/'
+itemUrl: >-
+  http://blog.shinetech.com/2013/06/27/testing-backbone-views-with-qunit-and-sinon/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-31T05:41:10+00:00'
 tags:

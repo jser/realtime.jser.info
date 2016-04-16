@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: The Refactoring Tales
     url: 'http://javascriptplayground.com/the-refactoring-tales/'
-  - title: 'The Refactoring Tales - JavaScriptのリファクタリング本を読んだ | Web Scratch'
+  - title: The Refactoring Tales - JavaScriptのリファクタリング本を読んだ | Web Scratch
     url: 'http://efcl.info/2015/01/11/refactoring-tales/'
 ---
 JavaScriptのリファクタリングについてのウェブで公開されてる書籍。(まだ執筆中)

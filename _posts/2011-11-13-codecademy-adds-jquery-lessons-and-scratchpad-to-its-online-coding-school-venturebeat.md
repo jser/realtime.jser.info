@@ -1,5 +1,7 @@
 ---
-title: '『Codecademy adds jQuery lessons and scratchpad to its online coding school | VentureBeat』'
+title: >-
+  『Codecademy adds jQuery lessons and scratchpad to its online coding school |
+  VentureBeat』
 author: azu
 layout: post
 itemUrl: 'http://venturebeat.com/2011/11/07/codecademy-jquery-scratchpad/'

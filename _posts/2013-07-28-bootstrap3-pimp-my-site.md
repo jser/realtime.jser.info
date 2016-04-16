@@ -1,5 +1,5 @@
 ---
-title: 'Bootstrap3で何が変わるのかをまとめてみた | Pimp My Site'
+title: Bootstrap3で何が変わるのかをまとめてみた | Pimp My Site
 author: azu
 layout: post
 itemUrl: 'http://pimpmysite.net/archives/501'

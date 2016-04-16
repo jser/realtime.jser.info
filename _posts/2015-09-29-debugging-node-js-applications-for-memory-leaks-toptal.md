@@ -1,5 +1,5 @@
 ---
-title: 'Debugging Node.js Applications for Memory Leaks | Toptal'
+title: Debugging Node.js Applications for Memory Leaks | Toptal
 author: azu
 layout: post
 itemUrl: 'http://www.toptal.com/nodejs/debugging-memory-leaks-node-js-applications'

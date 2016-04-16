@@ -1,5 +1,5 @@
 ---
-title: 'Orion 4.0 Released | Orion News'
+title: Orion 4.0 Released | Orion News
 author: azu
 layout: post
 itemUrl: 'http://planetorion.org/news/2013/11/orion-4-0-released/'

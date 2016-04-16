@@ -1,5 +1,5 @@
 ---
-title: 'JSDocをランタイムassertに変換するBabelプラグインを書いた | Web Scratch'
+title: JSDocをランタイムassertに変換するBabelプラグインを書いた | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2016/03/25/jsdoc-to-assert/'

@@ -1,5 +1,5 @@
 ---
-title: 'Virtual DOMを持つMV*ライブラリのmercuryについて | Web Scratch'
+title: Virtual DOMを持つMV*ライブラリのmercuryについて | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/08/28/mercury/'

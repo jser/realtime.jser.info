@@ -1,5 +1,5 @@
 ---
-title: 'See you on the web! - WebRTC'
+title: See you on the web! - WebRTC
 author: azu
 layout: post
 itemUrl: 'https://sites.google.com/site/webrtc/blog/seeyouontheweb'

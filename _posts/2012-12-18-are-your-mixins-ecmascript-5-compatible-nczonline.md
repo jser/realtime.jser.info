@@ -1,8 +1,9 @@
 ---
-title: 'Are your mixins ECMAScript 5 compatible? | NCZOnline'
+title: Are your mixins ECMAScript 5 compatible? | NCZOnline
 author: azu
 layout: post
-itemUrl: 'http://www.nczonline.net/blog/2012/12/11/are-your-mixins-ecmascript-5-compatible/'
+itemUrl: >-
+  http://www.nczonline.net/blog/2012/12/11/are-your-mixins-ecmascript-5-compatible/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
 date: '2012-12-18T06:42:00+00:00'
 ---

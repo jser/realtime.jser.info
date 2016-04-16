@@ -10,9 +10,11 @@ tags:
   - webkit
   - スライド
 relatedLinks:
-  - title: "Surfin' Safari - Blog Archive » Little overview of WebKit’s CSS JIT Compiler"
+  - title: >-
+      Surfin' Safari - Blog Archive » Little overview of WebKit’s CSS JIT
+      Compiler
     url: 'https://www.webkit.org/blog/3271/webkit-css-selector-jit-compiler/'
-  - title: 'ブラウザエンジン先端観測会 アウトラインメモ | Web Scratch'
+  - title: ブラウザエンジン先端観測会 アウトラインメモ | Web Scratch
     url: 'http://efcl.info/2014/07/13/edge-of-browser/'
   - title: iOS 8.x Changesets · uupaa/Spec.js Wiki
     url: 'https://github.com/uupaa/Spec.js/wiki/iOS-8.x-Changesets'

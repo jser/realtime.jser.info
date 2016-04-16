@@ -1,5 +1,5 @@
 ---
-title: 'Fluxible | A Pluggable Container for Isomorphic Flux Applications | Fluxible'
+title: Fluxible | A Pluggable Container for Isomorphic Flux Applications | Fluxible
 author: azu
 layout: post
 itemUrl: 'http://www.fluxible.io/'

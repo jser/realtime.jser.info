@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - CSS3開発者ガイド 第2版"
+title: O'Reilly Japan - CSS3開発者ガイド 第2版
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873117256/'

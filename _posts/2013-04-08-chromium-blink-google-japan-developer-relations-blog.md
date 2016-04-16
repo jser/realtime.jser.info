@@ -1,5 +1,7 @@
 ---
-title: Chromium プロジェクトの新しいレンダリングエンジン Blink のご紹介 - Google Japan Developer Relations Blog
+title: >-
+  Chromium プロジェクトの新しいレンダリングエンジン Blink のご紹介 - Google Japan Developer Relations
+  Blog
 author: azu
 layout: post
 itemUrl: 'http://googledevjp.blogspot.com/2013/04/chromium-blink.html'

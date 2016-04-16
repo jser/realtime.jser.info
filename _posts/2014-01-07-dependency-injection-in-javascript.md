@@ -11,7 +11,8 @@ tags:
   - tutorial
 relatedLinks:
   - title: Merrick Christensen - JavaScript Dependency Injection
-    url: 'http://merrickchristensen.com/articles/javascript-dependency-injection.html'
+    url: >-
+      http://merrickchristensen.com/articles/javascript-dependency-injection.html
 ---
 JavaScriptでDIを実装してみるチュートリアル。
 AMDライクな依存関係を示すモジュールの定義をするアプローチとAngularJSみたいなリフレクションで関数定義から依存関係を取得するアプローチについて書かれてる

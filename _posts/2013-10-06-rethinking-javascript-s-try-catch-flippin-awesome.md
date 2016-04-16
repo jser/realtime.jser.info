@@ -1,5 +1,5 @@
 ---
-title: "Rethinking JavaScript’s Try/Catch | Flippin' Awesome"
+title: Rethinking JavaScript’s Try/Catch | Flippin' Awesome
 author: azu
 layout: post
 itemUrl: 'http://flippinawesome.org/2013/09/30/rethinking-javascripts-trycatch/'

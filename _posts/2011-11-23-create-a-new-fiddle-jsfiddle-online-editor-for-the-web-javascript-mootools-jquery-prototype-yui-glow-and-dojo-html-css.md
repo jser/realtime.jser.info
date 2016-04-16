@@ -1,5 +1,7 @@
 ---
-title: 'Create a new Fiddle - jsFiddle - Online Editor for the Web (JavaScript, MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML, CSS)'
+title: >-
+  Create a new Fiddle - jsFiddle - Online Editor for the Web (JavaScript,
+  MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML, CSS)
 author: azu
 layout: post
 itemUrl: 'http://jsfiddle.net/'

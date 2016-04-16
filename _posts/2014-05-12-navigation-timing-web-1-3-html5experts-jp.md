@@ -1,5 +1,5 @@
 ---
-title: 'Navigation Timingだからできる、Webアプリを俯瞰したパフォーマンス計測(1/3) | HTML5Experts.jp'
+title: Navigation Timingだからできる、Webアプリを俯瞰したパフォーマンス計測(1/3) | HTML5Experts.jp
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/furoshiki/6242/'

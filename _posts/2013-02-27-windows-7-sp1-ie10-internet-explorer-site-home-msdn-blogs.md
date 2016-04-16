@@ -1,5 +1,7 @@
 ---
-title: Windows 7 SP1版向けIE10の提供を開始 - Internet Explorer ブログ (日本語版) - Site Home - MSDN Blogs
+title: >-
+  Windows 7 SP1版向けIE10の提供を開始 - Internet Explorer ブログ (日本語版) - Site Home - MSDN
+  Blogs
 author: azu
 layout: post
 itemUrl: 'http://blogs.msdn.com/b/ie_jp/archive/2013/02/27/10397523.aspx'

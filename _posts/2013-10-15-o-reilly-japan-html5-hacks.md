@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - HTML5 Hacks"
+title: O'Reilly Japan - HTML5 Hacks
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116471/'

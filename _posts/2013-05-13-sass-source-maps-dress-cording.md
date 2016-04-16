@@ -1,5 +1,5 @@
 ---
-title: 'SassのデバッグにSource Mapsを使うべきたくさんの理由 | Dress Cording'
+title: SassのデバッグにSource Mapsを使うべきたくさんの理由 | Dress Cording
 author: azu
 layout: post
 itemUrl: 'http://dresscording.com/blog/sass/sass_sourcemaps.html'

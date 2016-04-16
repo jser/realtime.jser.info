@@ -1,5 +1,5 @@
 ---
-title: 'CSS will-changeプロパティについて知っておくべきこと | POSTD'
+title: CSS will-changeプロパティについて知っておくべきこと | POSTD
 author: azu
 layout: post
 itemUrl: 'http://postd.cc/css-will-change-property/'

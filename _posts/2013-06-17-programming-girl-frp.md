@@ -1,5 +1,5 @@
 ---
-title: '(* programming -> girl -> ? *) | 業務アプリ実装にFRP使ってみた'
+title: (* programming -> girl -> ? *) | 業務アプリ実装にFRP使ってみた
 author: azu
 layout: post
 itemUrl: 'http://programplusgirl.tumblr.com/post/52698153869/frp'

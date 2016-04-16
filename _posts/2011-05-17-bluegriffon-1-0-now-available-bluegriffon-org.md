@@ -1,5 +1,5 @@
 ---
-title: 'BlueGriffon 1.0 now available! - BlueGriffon.org'
+title: BlueGriffon 1.0 now available! - BlueGriffon.org
 author: azu
 layout: post
 itemUrl: 'http://bluegriffon.org/post/2011/05/09/BlueGriffon-1.0'

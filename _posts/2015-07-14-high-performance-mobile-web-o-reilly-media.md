@@ -1,5 +1,5 @@
 ---
-title: "High Performance Mobile Web - O'Reilly Media"
+title: High Performance Mobile Web - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920035060.do'

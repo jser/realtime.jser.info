@@ -1,5 +1,5 @@
 ---
-title: 'The Core Concepts of Angular 2 | Victor Savkin'
+title: The Core Concepts of Angular 2 | Victor Savkin
 author: azu
 layout: post
 itemUrl: 'http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2'

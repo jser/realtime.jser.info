@@ -1,5 +1,7 @@
 ---
-title: 'Introducing Pokedex.org: a progressive webapp for Pokémon fans — Pocket JavaScript'
+title: >-
+  Introducing Pokedex.org: a progressive webapp for Pokémon fans — Pocket
+  JavaScript
 author: azu
 layout: post
 itemUrl: 'http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org'
@@ -9,8 +11,11 @@ tags:
   - JavaScript
   - performance
 relatedLinks:
-  - title: 'Progressive Web Apps: Escaping Tabs Without Losing Our Soul – Infrequently Noted'
-    url: 'https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/'
+  - title: >-
+      Progressive Web Apps: Escaping Tabs Without Losing Our Soul – Infrequently
+      Noted
+    url: >-
+      https://infrequently.org/2015/06/progressive-apps-escaping-tabs-without-losing-our-soul/
   - title: Progressive Web Appsとは - fragmentary
     url: 'http://myakura.hatenablog.com/entry/2015/11/18/053939'
 ---

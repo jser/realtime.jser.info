@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Professional HTML5 Mobile Game Development [Paperback]: Pascal Rettig』'
+title: >-
+  『Amazon: Professional HTML5 Mobile Game Development [Paperback]: Pascal
+  Rettig』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1118301323/book042-22/ref=nosim'

@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - JavaScriptクックブック"
+title: O'Reilly Japan - JavaScriptクックブック
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873114941/'

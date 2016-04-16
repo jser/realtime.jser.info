@@ -1,5 +1,5 @@
 ---
-title: 'PhoneGap | Cordova 3.3.0 Now on PhoneGap Build'
+title: PhoneGap | Cordova 3.3.0 Now on PhoneGap Build
 author: azu
 layout: post
 itemUrl: 'http://phonegap.com/blog/2014/01/28/cordova-3_3-now-on-build/'

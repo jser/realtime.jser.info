@@ -9,13 +9,16 @@ tags:
   - firefox
   - ReleaseNote
 relatedLinks:
-  - title: 'Firefox 33 for developers - Mozilla | MDN'
+  - title: Firefox 33 for developers - Mozilla | MDN
     url: 'https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/33'
-  - title: 'Firefox 33 サイト互換性情報 - Mozilla | MDN'
-    url: 'https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/33/Site_Compatibility'
-  - title: 'Firefox 33 が正式リリース、Open H264 や @counter-style 規則のサポート、OMTC の有効化など | WWW WATCH'
+  - title: Firefox 33 サイト互換性情報 - Mozilla | MDN
+    url: >-
+      https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/33/Site_Compatibility
+  - title: >-
+      Firefox 33 が正式リリース、Open H264 や @counter-style 規則のサポート、OMTC の有効化など | WWW
+      WATCH
     url: 'http://hyper-text.org/archives/2014/10/firefox_33_release.shtml'
-  - title: 'CSP for the web we have | Mozilla Security Blog'
+  - title: CSP for the web we have | Mozilla Security Blog
     url: 'https://blog.mozilla.org/security/2014/10/04/csp-for-the-web-we-have/'
 ---
 Firefox33リリース。

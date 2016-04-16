@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: Learn HTML5 and JavaScript for iOS: Web Standards-based Apps for iPhone, iPad, and iPod touch: Scott Preston'
+title: >-
+  Amazon: Learn HTML5 and JavaScript for iOS: Web Standards-based Apps for
+  iPhone, iPad, and iPod touch: Scott Preston
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1430240385/book042-22/ref=nosim'

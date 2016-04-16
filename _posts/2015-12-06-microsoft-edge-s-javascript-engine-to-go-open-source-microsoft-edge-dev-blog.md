@@ -1,5 +1,5 @@
 ---
-title: 'Microsoft Edge’s JavaScript engine to go open-source | Microsoft Edge Dev Blog'
+title: Microsoft Edge’s JavaScript engine to go open-source | Microsoft Edge Dev Blog
 author: azu
 layout: post
 itemUrl: 'https://blogs.windows.com/msedgedev/2015/12/05/open-source-chakra-core/'

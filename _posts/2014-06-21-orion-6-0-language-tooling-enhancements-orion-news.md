@@ -1,5 +1,5 @@
 ---
-title: 'Orion 6.0 – Language Tooling Enhancements | Orion News'
+title: Orion 6.0 – Language Tooling Enhancements | Orion News
 author: azu
 layout: post
 itemUrl: 'http://planetorion.org/news/2014/06/orion-6-0-language-tooling-enhancements/'

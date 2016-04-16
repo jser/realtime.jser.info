@@ -1,5 +1,5 @@
 ---
-title: 'TDD | EtnasSoft'
+title: TDD | EtnasSoft
 author: azu
 layout: post
 itemUrl: 'http://www.etnassoft.com/category/tdd-2/'

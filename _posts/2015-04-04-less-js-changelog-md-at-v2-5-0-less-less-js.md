@@ -11,7 +11,9 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: 'Fix `@plugin` scoping rules by rjgotten · Pull Request #2522 · less/less.js'
+  - title: >-
+      Fix `@plugin` scoping rules by rjgotten · Pull Request #2522 ·
+      less/less.js
     url: 'https://github.com/less/less.js/pull/2522'
 ---
 less.js 2.5.0 リリース。

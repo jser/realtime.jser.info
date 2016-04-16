@@ -1,5 +1,5 @@
 ---
-title: '「フロントエンドデベロッパー面接時の質問事項」日本語訳しました - Hack Your Design!'
+title: 「フロントエンドデベロッパー面接時の質問事項」日本語訳しました - Hack Your Design!
 author: azu
 layout: post
 itemUrl: 'http://blog.toshimaru.net/Front-end-Developer-Interview-Questions-Japanese/'

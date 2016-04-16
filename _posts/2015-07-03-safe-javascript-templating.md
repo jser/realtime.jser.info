@@ -12,7 +12,8 @@ tags:
   - セキュリティ
 relatedLinks:
   - title: 'Frontend Security: Applying Contextual Escaping Automatically, or How…'
-    url: 'http://www.slideshare.net/adonatwork/automatic-contextual-escaping-made-easy'
+    url: >-
+      http://www.slideshare.net/adonatwork/automatic-contextual-escaping-made-easy
   - title: yahoo/xss-filters
     url: 'https://github.com/yahoo/xss-filters'
 ---

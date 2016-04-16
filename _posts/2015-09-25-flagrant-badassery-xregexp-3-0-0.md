@@ -1,5 +1,5 @@
 ---
-title: 'Flagrant Badassery » XRegExp 3.0.0!'
+title: Flagrant Badassery » XRegExp 3.0.0!
 author: azu
 layout: post
 itemUrl: 'http://blog.stevenlevithan.com/archives/xregexp-3-0-0'

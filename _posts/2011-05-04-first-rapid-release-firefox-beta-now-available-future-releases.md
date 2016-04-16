@@ -1,5 +1,5 @@
 ---
-title: 'First Rapid Release Firefox Beta Now Available | Future Releases'
+title: First Rapid Release Firefox Beta Now Available | Future Releases
 author: azu
 layout: post
 itemUrl: 'http://blog.mozilla.com/futurereleases/2011/05/20/firefoxbeta/'

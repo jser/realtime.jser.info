@@ -1,5 +1,5 @@
 ---
-title: "Bootstrap - O'Reilly Media"
+title: Bootstrap - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920027867.do'

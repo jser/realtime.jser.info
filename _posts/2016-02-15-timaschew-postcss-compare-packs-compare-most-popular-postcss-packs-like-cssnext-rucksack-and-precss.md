@@ -1,5 +1,7 @@
 ---
-title: 'timaschew/postcss-compare-packs: compare most popular postcss packs like cssnext, rucksack and precss'
+title: >-
+  timaschew/postcss-compare-packs: compare most popular postcss packs like
+  cssnext, rucksack and precss
 author: azu
 layout: post
 itemUrl: 'https://github.com/timaschew/postcss-compare-packs'

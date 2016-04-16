@@ -1,5 +1,7 @@
 ---
-title: Performance of Javascript (Binary) Byte Arrays in Modern Browsers « searching for signal
+title: >-
+  Performance of Javascript (Binary) Byte Arrays in Modern Browsers « searching
+  for signal
 author: azu
 layout: post
 itemUrl: 'http://blog.n01se.net/?p=248'

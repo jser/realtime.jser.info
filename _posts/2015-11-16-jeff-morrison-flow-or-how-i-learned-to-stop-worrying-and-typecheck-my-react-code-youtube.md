@@ -1,5 +1,7 @@
 ---
-title: Jeff Morrison - Flow or how I learned to stop worrying and typecheck my React code - YouTube
+title: >-
+  Jeff Morrison - Flow or how I learned to stop worrying and typecheck my React
+  code - YouTube
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=9U4_hlnaFEE'

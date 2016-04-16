@@ -2,7 +2,8 @@
 title: 'Callbacks, promises, generators - asynchronous javascript'
 author: azu
 layout: post
-itemUrl: 'http://www.slideshare.net/wookieb/callbacks-promises-generators-asynchronous-javascript'
+itemUrl: >-
+  http://www.slideshare.net/wookieb/callbacks-promises-generators-asynchronous-javascript
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
 date: '2014-04-29T06:54:23+00:00'
 tags:

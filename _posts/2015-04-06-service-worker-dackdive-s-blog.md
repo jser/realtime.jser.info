@@ -1,5 +1,5 @@
 ---
-title: "Service Workerハッカソン資料まとめ - dackdive's blog"
+title: Service Workerハッカソン資料まとめ - dackdive's blog
 author: azu
 layout: post
 itemUrl: 'http://dackdive.hateblo.jp/entry/2015/04/04/163234'

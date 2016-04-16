@@ -1,5 +1,7 @@
 ---
-title: '「Script Junkie | Understanding the Publish/Subscribe Pattern for Greater JavaScript Scalability」'
+title: >-
+  「Script Junkie | Understanding the Publish/Subscribe Pattern for Greater
+  JavaScript Scalability」
 author: azu
 layout: post
 itemUrl: 'http://msdn.microsoft.com/en-us/scriptjunkie/hh201955'

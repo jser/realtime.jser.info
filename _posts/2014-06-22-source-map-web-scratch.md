@@ -1,5 +1,5 @@
 ---
-title: 'Source Mapを扱う関連ライブラリのまとめ | Web scratch'
+title: Source Mapを扱う関連ライブラリのまとめ | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0622/res3933/'

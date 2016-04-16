@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - Tools
 relatedLinks:
-  - title: 'Software Reliability Lab | ETH | Jsnice'
+  - title: Software Reliability Lab | ETH | Jsnice
     url: 'http://www.srl.inf.ethz.ch/jsnice.php'
 ---
 JavaScriptコードの整形とJSDocの型注釈コメントの自動追加、変数のリネームとその名前のサジェストをしてくれるツール。

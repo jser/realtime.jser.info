@@ -1,5 +1,7 @@
 ---
-title: 'Chromium Blog: Chrome 45 Beta: New ES2015 features, service worker improvements, and media controls'
+title: >-
+  Chromium Blog: Chrome 45 Beta: New ES2015 features, service worker
+  improvements, and media controls
 author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/07/chrome-45-beta-new-es2015-features.html'

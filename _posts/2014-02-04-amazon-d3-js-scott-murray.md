@@ -9,7 +9,7 @@ tags:
   - d3.js
   - book
 relatedLinks:
-  - title: "O'Reilly Japan - インタラクティブ・データビジュアライゼーション"
+  - title: O'Reilly Japan - インタラクティブ・データビジュアライゼーション
     url: 'http://www.oreilly.co.jp/books/9784873116464/'
 ---
 2014年02月19日 発売

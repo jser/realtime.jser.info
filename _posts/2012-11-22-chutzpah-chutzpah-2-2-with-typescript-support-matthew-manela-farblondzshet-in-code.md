@@ -1,5 +1,7 @@
 ---
-title: Chutzpah - Chutzpah 2.2 with TypeScript support - Matthew Manela - Farblondzshet in Code
+title: >-
+  Chutzpah - Chutzpah 2.2 with TypeScript support - Matthew Manela -
+  Farblondzshet in Code
 author: azu
 layout: post
 itemUrl: 'http://matthewmanela.com/blog/chutzpah-2-2-with-typescript-support/'

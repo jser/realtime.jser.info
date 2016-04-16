@@ -1,5 +1,7 @@
 ---
-title: ES5 + Facebook JSXで書かれたJavaScriptコードベースをTypeScriptに移行させる - VOYAGE GROUP techlog
+title: >-
+  ES5 + Facebook JSXで書かれたJavaScriptコードベースをTypeScriptに移行させる - VOYAGE GROUP
+  techlog
 author: azu
 layout: post
 itemUrl: 'http://techlog.voyagegroup.com/entry/2015/06/24/170611'

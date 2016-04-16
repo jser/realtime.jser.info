@@ -1,5 +1,5 @@
 ---
-title: '『Normalized hide address bar for iOS & Android — Gist』'
+title: 『Normalized hide address bar for iOS & Android — Gist』
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/1183357'

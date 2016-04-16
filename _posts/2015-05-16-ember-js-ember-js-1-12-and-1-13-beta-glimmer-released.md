@@ -1,5 +1,5 @@
 ---
-title: 'Ember.js - Ember.js 1.12 and 1.13 Beta (Glimmer!) Released'
+title: Ember.js - Ember.js 1.12 and 1.13 Beta (Glimmer!) Released
 author: azu
 layout: post
 itemUrl: 'http://emberjs.com/blog/2015/05/13/ember-1-12-released.html'

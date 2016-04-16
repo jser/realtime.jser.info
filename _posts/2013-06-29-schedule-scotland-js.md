@@ -1,5 +1,5 @@
 ---
-title: 'Schedule | Scotland JS'
+title: Schedule | Scotland JS
 author: azu
 layout: post
 itemUrl: 'http://scotlandjs.com/schedule.html'

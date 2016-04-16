@@ -1,5 +1,7 @@
 ---
-title: 'Backbone & jQuery meet Browserify: easy. | learn.js – a series fo guide books to building projects with javascript'
+title: >-
+  Backbone & jQuery meet Browserify: easy. | learn.js – a series fo guide books
+  to building projects with javascript
 author: azu
 layout: post
 itemUrl: 'http://learnjs.io/blog/2013/11/23/backbone-jquery-browserify/'

@@ -1,5 +1,5 @@
 ---
-title: "Surfin' Safari - Blog Archive » Announcing SunSpider 1.0"
+title: Surfin' Safari - Blog Archive » Announcing SunSpider 1.0
 author: azu
 layout: post
 itemUrl: 'https://www.webkit.org/blog/2364/announcing-sunspider-1-0/'

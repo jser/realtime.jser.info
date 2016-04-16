@@ -1,5 +1,5 @@
 ---
-title: 'ステートフルJavaScript 1章 | jekylog'
+title: ステートフルJavaScript 1章 | jekylog
 author: azu
 layout: post
 itemUrl: 'http://fingaholic.github.com/posts/2012-06-27-stateful-javascript.html'

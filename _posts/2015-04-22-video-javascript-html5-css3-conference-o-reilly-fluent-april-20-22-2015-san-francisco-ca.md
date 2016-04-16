@@ -1,5 +1,7 @@
 ---
-title: "Video: JavaScript, HTML5, CSS3 Conference - O'Reilly Fluent, April 20 - 22, 2015, San Francisco, CA"
+title: >-
+  Video: JavaScript, HTML5, CSS3 Conference - O'Reilly Fluent, April 20 - 22,
+  2015, San Francisco, CA
 author: azu
 layout: post
 itemUrl: 'http://fluentconf.com/javascript-html-2015/public/content/video'

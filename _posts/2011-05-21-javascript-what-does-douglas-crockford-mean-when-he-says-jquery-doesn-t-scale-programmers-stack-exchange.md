@@ -1,8 +1,11 @@
 ---
-title: "javascript - What does Douglas Crockford mean when he says jQuery doesn't scale? - Programmers - Stack Exchange"
+title: >-
+  javascript - What does Douglas Crockford mean when he says jQuery doesn't
+  scale? - Programmers - Stack Exchange
 author: azu
 layout: post
-itemUrl: 'http://programmers.stackexchange.com/questions/72928/what-does-douglas-crockford-mean-when-he-says-jquery-doesnt-scale'
+itemUrl: >-
+  http://programmers.stackexchange.com/questions/72928/what-does-douglas-crockford-mean-when-he-says-jquery-doesnt-scale
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
 date: '2011-05-21T18:00:00+00:00'
 ---

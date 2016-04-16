@@ -1,5 +1,5 @@
 ---
-title: 'Node.jsのrequireをインライン化、無駄なuse strictを取り除くモジュールを書いた | Web scratch'
+title: Node.jsのrequireをインライン化、無駄なuse strictを取り除くモジュールを書いた | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0316/res3719/'

@@ -1,5 +1,7 @@
 ---
-title: Josh Tynjala「GridshockをFlashからHTML5へ移植してみた」 - クライアント・サイド・スクリプティング with Web Standards
+title: >-
+  Josh Tynjala「GridshockをFlashからHTML5へ移植してみた」 - クライアント・サイド・スクリプティング with Web
+  Standards
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/vwxyz/20110512/1305187760'

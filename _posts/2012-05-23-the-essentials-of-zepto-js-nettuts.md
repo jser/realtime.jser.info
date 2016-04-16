@@ -1,5 +1,5 @@
 ---
-title: '『The Essentials of Zepto.js | Nettuts+』'
+title: 『The Essentials of Zepto.js | Nettuts+』
 author: azu
 layout: post
 itemUrl: 'http://net.tutsplus.com/tutorials/javascript-ajax/the-essentials-of-zepto-js/'

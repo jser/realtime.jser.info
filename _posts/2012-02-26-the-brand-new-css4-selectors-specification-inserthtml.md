@@ -1,5 +1,5 @@
 ---
-title: '『The Brand New CSS4 Selectors Specification | InsertHTML』'
+title: 『The Brand New CSS4 Selectors Specification | InsertHTML』
 author: azu
 layout: post
 itemUrl: 'http://www.inserthtml.com/2012/01/css4-selectors/'

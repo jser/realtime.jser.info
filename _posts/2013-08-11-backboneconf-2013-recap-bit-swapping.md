@@ -1,5 +1,5 @@
 ---
-title: 'BackboneConf 2013 Recap | bit swapping'
+title: BackboneConf 2013 Recap | bit swapping
 author: azu
 layout: post
 itemUrl: 'http://bitswapping.com/2013/08/backboneconf-2013-recap/'

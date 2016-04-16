@@ -1,5 +1,5 @@
 ---
-title: 'More Responsive Tapping on iOS | WebKit'
+title: More Responsive Tapping on iOS | WebKit
 author: azu
 layout: post
 itemUrl: 'https://webkit.org/blog/5610/more-responsive-tapping-on-ios/'
@@ -11,7 +11,8 @@ tags:
   - ios
 relatedLinks:
   - title: '300ms tap delay, gone away | Web Updates - Google Developers'
-    url: 'https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away'
+    url: >-
+      https://developers.google.com/web/updates/2013/12/300ms-tap-delay-gone-away
 ---
 iOSのWebKitでもタップの350ms遅延が解消される。
 viewportのwidthなど特定の条件では遅延がなくなる。

@@ -1,5 +1,5 @@
 ---
-title: 'wise9 › enchant.js v0.6.0 リリース! アップデートの内容紹介'
+title: wise9 › enchant.js v0.6.0 リリース! アップデートの内容紹介
 author: azu
 layout: post
 itemUrl: 'http://wise9.jp/archives/8077'

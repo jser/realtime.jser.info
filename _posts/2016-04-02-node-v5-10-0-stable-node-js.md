@@ -1,5 +1,5 @@
 ---
-title: 'Node v5.10.0 (Stable) | Node.js'
+title: Node v5.10.0 (Stable) | Node.js
 author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v5.10.0/'
@@ -10,9 +10,11 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: The npm Blog — fixing a bearer token vulnerability
-    url: 'http://blog.npmjs.org/post/142036323955/fixing-a-bearer-token-vulnerability'
-  - title: 'Node.js Buffer API Changes | Linux.com'
-    url: 'https://www.linux.com/news/software/applications/893109-nodejs-buffer-api-changes'
+    url: >-
+      http://blog.npmjs.org/post/142036323955/fixing-a-bearer-token-vulnerability
+  - title: Node.js Buffer API Changes | Linux.com
+    url: >-
+      https://www.linux.com/news/software/applications/893109-nodejs-buffer-api-changes
 ---
 Node.js 5.10.0リリース。
 npmのセキュリティアップデートしたバージョンが含まれている。

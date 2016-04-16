@@ -1,5 +1,5 @@
 ---
-title: 'The Definitive TypeScript Guide | Blog | SitePen'
+title: The Definitive TypeScript Guide | Blog | SitePen
 author: azu
 layout: post
 itemUrl: 'http://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/'

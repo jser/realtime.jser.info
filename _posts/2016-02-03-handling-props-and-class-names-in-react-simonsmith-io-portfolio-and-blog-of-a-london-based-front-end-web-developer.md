@@ -1,5 +1,7 @@
 ---
-title: Handling props and class names in React – simonsmith.io – Portfolio and blog of a London based front-end web developer
+title: >-
+  Handling props and class names in React – simonsmith.io – Portfolio and blog
+  of a London based front-end web developer
 author: azu
 layout: post
 itemUrl: 'http://simonsmith.io/handling-props-and-classnames-in-react/'

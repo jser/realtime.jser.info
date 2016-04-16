@@ -1,5 +1,5 @@
 ---
-title: "Building Polyfills - O'Reilly Media"
+title: Building Polyfills - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920030690.do'

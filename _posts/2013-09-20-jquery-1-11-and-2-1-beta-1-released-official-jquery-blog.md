@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 1.11 and 2.1 Beta 1 Released | Official jQuery Blog'
+title: jQuery 1.11 and 2.1 Beta 1 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/09/19/jquery-1-11-and-2-1-beta-1-released/'

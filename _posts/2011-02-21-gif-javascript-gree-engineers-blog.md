@@ -1,5 +1,5 @@
 ---
-title: "ブラウザでアニメーションファイル(GIF)をJavaScriptを用いて再生する方法 | GREE Engineers' Blog"
+title: ブラウザでアニメーションファイル(GIF)をJavaScriptを用いて再生する方法 | GREE Engineers' Blog
 author: azu
 layout: post
 itemUrl: 'http://labs.gree.jp/blog/2011/02/2800/'

@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - JavaScriptによるデータビジュアライゼーション入門"
+title: O'Reilly Japan - JavaScriptによるデータビジュアライゼーション入門
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873117461/'

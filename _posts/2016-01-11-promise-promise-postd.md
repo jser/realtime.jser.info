@@ -1,5 +1,5 @@
 ---
-title: 'Promiseはどう動作するのか – Promiseを実装してみる | プログラミング | POSTD'
+title: Promiseはどう動作するのか – Promiseを実装してみる | プログラミング | POSTD
 author: azu
 layout: post
 itemUrl: 'http://postd.cc/how-do-promises-work/'

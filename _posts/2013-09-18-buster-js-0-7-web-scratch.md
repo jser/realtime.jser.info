@@ -1,5 +1,5 @@
 ---
-title: 'Buster.JS 0.7リリースと変更点について | Web scratch'
+title: Buster.JS 0.7リリースと変更点について | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/0918/res3425/'

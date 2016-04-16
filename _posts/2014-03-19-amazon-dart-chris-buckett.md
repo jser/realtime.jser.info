@@ -1,5 +1,7 @@
 ---
-title: 'Amazon: プログラミング言語Dart [大型本]: Chris Buckett, あんどうやすし, 粟納裕貴, 勝又雅史, 川俣千恵子, 植田大貴, 井関正也, 水野あゆみ'
+title: >-
+  Amazon: プログラミング言語Dart [大型本]: Chris Buckett, あんどうやすし, 粟納裕貴, 勝又雅史, 川俣千恵子, 植田大貴,
+  井関正也, 水野あゆみ
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4048915118/amazon0abac-22/ref=nosim'

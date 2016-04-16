@@ -9,7 +9,7 @@ tags:
   - firefox
   - ReleaseNote
 relatedLinks:
-  - title: 'Firefox 29 for developers - Mozilla | MDN'
+  - title: Firefox 29 for developers - Mozilla | MDN
     url: 'https://developer.mozilla.org/en-US/Firefox/Releases/29'
 ---
 Firefox29リリース。

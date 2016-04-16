@@ -1,5 +1,5 @@
 ---
-title: 'A Brief Introduction to SVG | Treehouse Blog'
+title: A Brief Introduction to SVG | Treehouse Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.teamtreehouse.com/brief-introduction-svg'

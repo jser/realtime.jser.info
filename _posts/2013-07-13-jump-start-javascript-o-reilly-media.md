@@ -1,5 +1,5 @@
 ---
-title: "Jump Start JavaScript - O'Reilly Media"
+title: Jump Start JavaScript - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9780987332189.do'

@@ -1,5 +1,5 @@
 ---
-title: 'WebStorm 7 - Overview video | JetBrains TV'
+title: WebStorm 7 - Overview video | JetBrains TV
 author: azu
 layout: post
 itemUrl: 'http://tv.jetbrains.net/videocontent/webstorm-7-overview-video'

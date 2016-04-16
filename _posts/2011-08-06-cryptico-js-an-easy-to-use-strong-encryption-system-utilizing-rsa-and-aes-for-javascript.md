@@ -1,5 +1,7 @@
 ---
-title: 『cryptico.js - An easy-to-use strong encryption system utilizing RSA and AES for javascript.』
+title: >-
+  『cryptico.js - An easy-to-use strong encryption system utilizing RSA and AES
+  for javascript.』
 author: azu
 layout: post
 itemUrl: 'http://cryptico.wwwtyro.net/'

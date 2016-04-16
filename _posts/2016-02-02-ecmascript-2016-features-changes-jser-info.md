@@ -1,5 +1,5 @@
 ---
-title: 'ECMAScript 2016 features & changes - JSer.info'
+title: ECMAScript 2016 features & changes - JSer.info
 author: azu
 layout: post
 itemUrl: 'http://jser.info/2016/02/01/es2016/'

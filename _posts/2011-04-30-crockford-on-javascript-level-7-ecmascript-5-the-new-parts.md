@@ -2,7 +2,8 @@
 title: 'Crockford On JavaScript: Level 7: ECMAScript 5: The New Parts'
 author: azu
 layout: post
-itemUrl: 'http://www.slideshare.net/douglascrockford/crockford-on-javascript-level-7-ecmascript-5-the-new-parts'
+itemUrl: >-
+  http://www.slideshare.net/douglascrockford/crockford-on-javascript-level-7-ecmascript-5-the-new-parts
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
 date: '2011-04-30T00:50:00+00:00'
 ---

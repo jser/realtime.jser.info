@@ -1,5 +1,7 @@
 ---
-title: "Flux solutions compared by example - Pixelhunter.me | Dmitri Voronianski's blog"
+title: >-
+  Flux solutions compared by example - Pixelhunter.me | Dmitri Voronianski's
+  blog
 author: azu
 layout: post
 itemUrl: 'http://pixelhunter.me/post/110248593059/flux-solutions-compared-by-example'

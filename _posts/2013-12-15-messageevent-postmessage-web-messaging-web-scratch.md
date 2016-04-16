@@ -1,5 +1,5 @@
 ---
-title: 'MessageEventコンストラクタとpostMessageとWeb messagingについて | Web scratch'
+title: MessageEventコンストラクタとpostMessageとWeb messagingについて | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/1215/res3535/'

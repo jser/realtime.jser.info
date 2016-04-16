@@ -1,5 +1,5 @@
 ---
-title: 'Aptana | Studio'
+title: Aptana | Studio
 author: azu
 layout: post
 itemUrl: 'http://www.aptana.com/products/studio3'

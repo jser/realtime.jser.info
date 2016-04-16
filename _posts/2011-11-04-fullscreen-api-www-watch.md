@@ -1,5 +1,5 @@
 ---
-title: '『Fullscreen API を簡単に試してみた | WWW WATCH』'
+title: 『Fullscreen API を簡単に試してみた | WWW WATCH』
 author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2011/11/fullscreen_api.shtml'

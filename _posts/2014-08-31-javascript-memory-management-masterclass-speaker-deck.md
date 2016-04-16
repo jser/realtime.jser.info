@@ -12,8 +12,9 @@ tags:
   - debug
   - スライド
 relatedLinks:
-  - title: 'JavaScript Memory Management Masterclass のメモ | wIssue Note'
-    url: 'http://efcl.wordpress.com/2014/08/31/javascript-memory-management-masterclass-%e3%81%ae%e3%83%a1%e3%83%a2/'
+  - title: JavaScript Memory Management Masterclass のメモ | wIssue Note
+    url: >-
+      http://efcl.wordpress.com/2014/08/31/javascript-memory-management-masterclass-%e3%81%ae%e3%83%a1%e3%83%a2/
 ---
 JavaScriptでのメモリリークとそもそも何故起きるのかについてのスライド。 
 DOM leakやV8のメモリ管理の方法、世代別GC、DevToolsを使っての見つけ方、Performance Toolsの使い方についてなどかなり詳しく紹介されている。

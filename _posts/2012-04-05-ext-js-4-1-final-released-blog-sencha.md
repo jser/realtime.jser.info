@@ -1,5 +1,5 @@
 ---
-title: '『Ext JS 4.1 Final Released | Blog | Sencha』'
+title: 『Ext JS 4.1 Final Released | Blog | Sencha』
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/ext-js-4-1-final-released/'

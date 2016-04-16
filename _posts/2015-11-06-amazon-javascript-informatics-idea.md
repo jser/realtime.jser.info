@@ -10,7 +10,7 @@ tags:
   - 初心者
   - book
 relatedLinks:
-  - title: '確かな力が身につくJavaScript「超」入門 | 狩野祐東の本 solidpanda.com'
+  - title: 確かな力が身につくJavaScript「超」入門 | 狩野祐東の本 solidpanda.com
     url: 'http://www.solidpanda.com/book/title/js-beginner/'
 ---
 プログラミング初心者向けのJavaScriptについての書籍

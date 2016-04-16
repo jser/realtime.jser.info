@@ -1,5 +1,5 @@
 ---
-title: 'grunt.js - automate all the things!1!! // Speaker Deck'
+title: grunt.js - automate all the things!1!! // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/pangratz/grunt-dot-js-automate-all-the-things-1'

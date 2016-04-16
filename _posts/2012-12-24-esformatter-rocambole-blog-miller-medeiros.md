@@ -1,5 +1,5 @@
 ---
-title: 'esformatter & rocambole | Blog | Miller Medeiros'
+title: esformatter & rocambole | Blog | Miller Medeiros
 author: azu
 layout: post
 itemUrl: 'http://blog.millermedeiros.com/esformatter-rocambole/'

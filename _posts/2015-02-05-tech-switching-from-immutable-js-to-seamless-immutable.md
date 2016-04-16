@@ -2,7 +2,8 @@
 title: Tech — Switching from immutable.js to seamless-immutable
 author: azu
 layout: post
-itemUrl: 'http://noredinktech.tumblr.com/post/107617838018/switching-from-immutable-js-to-seamless-immutable'
+itemUrl: >-
+  http://noredinktech.tumblr.com/post/107617838018/switching-from-immutable-js-to-seamless-immutable
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-05T13:23:58+00:00'
 tags:

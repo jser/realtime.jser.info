@@ -1,5 +1,5 @@
 ---
-title: '『Quick Left | 5 Ways JavaScript Will Cut You』'
+title: 『Quick Left | 5 Ways JavaScript Will Cut You』
 author: azu
 layout: post
 itemUrl: 'http://quickleft.com/blog/146'

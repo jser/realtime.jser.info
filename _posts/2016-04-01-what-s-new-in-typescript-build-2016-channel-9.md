@@ -1,5 +1,5 @@
 ---
-title: "What's New in TypeScript? | Build 2016 | Channel 9"
+title: What's New in TypeScript? | Build 2016 | Channel 9
 author: azu
 layout: post
 itemUrl: 'https://channel9.msdn.com/Events/Build/2016/B881'

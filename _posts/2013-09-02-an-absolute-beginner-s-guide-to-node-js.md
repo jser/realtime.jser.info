@@ -1,5 +1,5 @@
 ---
-title: "An Absolute Beginner's Guide to Node.js"
+title: An Absolute Beginner's Guide to Node.js
 author: azu
 layout: post
 itemUrl: 'http://blog.modulus.io/absolute-beginners-guide-to-nodejs'

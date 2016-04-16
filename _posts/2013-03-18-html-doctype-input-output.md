@@ -1,5 +1,5 @@
 ---
-title: 'HTMLでDOCTYPE宣言はなぜ必要か？ | input*output'
+title: HTMLでDOCTYPE宣言はなぜ必要か？ | input*output
 author: azu
 layout: post
 itemUrl: 'http://inputxoutput.com/html-doctype/'

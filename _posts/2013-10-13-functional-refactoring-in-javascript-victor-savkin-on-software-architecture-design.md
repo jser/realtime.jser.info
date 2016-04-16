@@ -1,5 +1,7 @@
 ---
-title: 'Functional Refactoring in JavaScript | Victor Savkin on Software Architecture & Design'
+title: >-
+  Functional Refactoring in JavaScript | Victor Savkin on Software Architecture
+  & Design
 author: azu
 layout: post
 itemUrl: 'http://victorsavkin.com/post/63551894251/functional-refactoring-in-javascript'

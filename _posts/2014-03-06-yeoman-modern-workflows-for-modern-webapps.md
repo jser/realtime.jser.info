@@ -10,7 +10,7 @@ tags:
   - performance
   - Tools
 relatedLinks:
-  - title: 'Gruntとgulp.jsでサイトパフォーマンスを向上させる - ワザノバ | wazanova'
+  - title: Gruntとgulp.jsでサイトパフォーマンスを向上させる - ワザノバ | wazanova
     url: 'http://wazanova.jp/items/1128'
 ---
 ウェブサイトのパフォーマンス関係のGrunt/gulp タスクについて。

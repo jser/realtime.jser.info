@@ -1,5 +1,7 @@
 ---
-title: 'Teamweek/instadate: A minimal high performance date library for Node.js and Browser'
+title: >-
+  Teamweek/instadate: A minimal high performance date library for Node.js and
+  Browser
 author: azu
 layout: post
 itemUrl: 'https://github.com/Teamweek/instadate'

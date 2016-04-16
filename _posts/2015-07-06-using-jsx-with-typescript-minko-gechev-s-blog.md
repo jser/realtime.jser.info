@@ -1,5 +1,5 @@
 ---
-title: "Using JSX with TypeScript – Minko Gechev's blog"
+title: Using JSX with TypeScript – Minko Gechev's blog
 author: azu
 layout: post
 itemUrl: 'http://blog.mgechev.com/2015/07/05/using-jsx-react-with-typescript'

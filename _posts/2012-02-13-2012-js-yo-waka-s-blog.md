@@ -1,5 +1,5 @@
 ---
-title: "デブサミ2012で大規模JS開発について発表してきました - yo_waka's blog"
+title: デブサミ2012で大規模JS開発について発表してきました - yo_waka's blog
 author: azu
 layout: post
 itemUrl: 'http://waka.hatenablog.com/entry/2012/02/17/004542'

@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Bibliography - O'Reilly Media"
+title: JavaScript Bibliography - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://oreilly.com/catalog/0636920021926'

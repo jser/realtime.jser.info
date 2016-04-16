@@ -1,5 +1,5 @@
 ---
-title: 'Build your own TDD boilerplate project for JavaScript | dfkaye.github.io'
+title: Build your own TDD boilerplate project for JavaScript | dfkaye.github.io
 author: azu
 layout: post
 itemUrl: 'http://dfkaye.github.io/2014/03/04/tdd-boilerplate/'

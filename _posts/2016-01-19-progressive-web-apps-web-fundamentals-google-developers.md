@@ -1,5 +1,5 @@
 ---
-title: 'Progressive Web Apps | Web Fundamentals - Google Developers'
+title: Progressive Web Apps | Web Fundamentals - Google Developers
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/progressive-web-apps'

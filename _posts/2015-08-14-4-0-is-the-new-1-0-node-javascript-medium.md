@@ -1,5 +1,5 @@
 ---
-title: '4.0 is the new 1.0 — Node & JavaScript — Medium'
+title: 4.0 is the new 1.0 — Node & JavaScript — Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d'

@@ -1,5 +1,5 @@
 ---
-title: '『Firefox Now Scores 100% on Acid3 Test』'
+title: 『Firefox Now Scores 100% on Acid3 Test』
 author: azu
 layout: post
 itemUrl: 'http://browserfame.com/212/firefox-acid3-test-100'

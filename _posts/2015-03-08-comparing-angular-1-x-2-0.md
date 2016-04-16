@@ -1,5 +1,5 @@
 ---
-title: 'Comparing Angular 1.x & 2.0'
+title: Comparing Angular 1.x & 2.0
 author: azu
 layout: post
 itemUrl: 'http://shmck.com/comparing-angular-1-x-2-0/'

@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptのコードを分解してよく使われてる機能を分析する | Web Scratch'
+title: JavaScriptのコードを分解してよく使われてる機能を分析する | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2016/01/22/es-usage-rate/'

@@ -1,5 +1,5 @@
 ---
-title: "trevmex's tumblings - EnvJasmine 1.6 is released!"
+title: trevmex's tumblings - EnvJasmine 1.6 is released!
 author: azu
 layout: post
 itemUrl: 'http://trevmex.com/post/13637352846/envjasmine-1-6-is-released'

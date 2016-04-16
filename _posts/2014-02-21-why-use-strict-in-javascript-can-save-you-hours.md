@@ -1,5 +1,5 @@
 ---
-title: 'Why "use strict" in JavaScript can save you hours'
+title: Why "use strict" in JavaScript can save you hours
 author: azu
 layout: post
 itemUrl: 'http://webdesignporto.com/why-use-strict-in-javascript-can-save-you-hours/'

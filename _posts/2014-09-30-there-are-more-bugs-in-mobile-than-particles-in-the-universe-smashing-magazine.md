@@ -1,5 +1,7 @@
 ---
-title: '“There Are More Bugs In Mobile Than... Particles In The Universe!” | Smashing Magazine'
+title: >-
+  “There Are More Bugs In Mobile Than... Particles In The Universe!” | Smashing
+  Magazine
 author: azu
 layout: post
 itemUrl: 'http://www.smashingmagazine.com/2014/09/30/mobile-web-handbook-release/'

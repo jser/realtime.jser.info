@@ -1,5 +1,5 @@
 ---
-title: 'Three.js Essentials | Packt Publishing'
+title: Three.js Essentials | Packt Publishing
 author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/three-js-essentials/book'

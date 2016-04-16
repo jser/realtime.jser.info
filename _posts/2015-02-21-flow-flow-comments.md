@@ -1,5 +1,5 @@
 ---
-title: 'Flow | Flow Comments'
+title: Flow | Flow Comments
 author: azu
 layout: post
 itemUrl: 'http://flowtype.org/blog/2015/02/20/Flow-Comments.html'

@@ -12,7 +12,9 @@ tags:
 relatedLinks:
   - title: sinonjs/lolex
     url: 'https://github.com/sinonjs/lolex'
-  - title: 'Set immediate precedence by duncanbeevers · Pull Request #6 · sinonjs/lolex'
+  - title: >-
+      Set immediate precedence by duncanbeevers · Pull Request #6 ·
+      sinonjs/lolex
     url: 'https://github.com/sinonjs/lolex/pull/6'
 ---
 Sinon.JS 1.12.1 リリース。

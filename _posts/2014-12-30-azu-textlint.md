@@ -12,7 +12,7 @@ tags:
   - library
   - node.js
 relatedLinks:
-  - title: 'JavaScriptでルールを書けるテキスト/Markdownの校正ツール textlint を作った | Web Scratch'
+  - title: JavaScriptでルールを書けるテキスト/Markdownの校正ツール textlint を作った | Web Scratch
     url: 'http://efcl.info/2014/12/30/textlint/'
 ---
 テキストやMarkdownをLintするツール。

@@ -1,5 +1,7 @@
 ---
-title: 'Chutzpah - Chutzpah 2.4 – Code Coverage is a go! - Matthew Manela - Farblondzshet in Code'
+title: >-
+  Chutzpah - Chutzpah 2.4 – Code Coverage is a go! - Matthew Manela -
+  Farblondzshet in Code
 author: azu
 layout: post
 itemUrl: 'http://matthewmanela.com/blog/chutzpah-2-4-code-coverage-is-a-go/'

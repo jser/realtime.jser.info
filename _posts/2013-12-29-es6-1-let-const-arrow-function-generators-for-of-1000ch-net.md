@@ -1,5 +1,7 @@
 ---
-title: 'ES6のシンタックスを予習復習(1) ~let, const, arrow function, generators, for of~ | 1000ch.net'
+title: >-
+  ES6のシンタックスを予習復習(1) ~let, const, arrow function, generators, for of~ |
+  1000ch.net
 author: azu
 layout: post
 itemUrl: 'http://1000ch.net/2013/12/26/ES6LetConstArrowFunction/'
@@ -9,7 +11,10 @@ tags:
   - ECMAScript
   - tutorial
 relatedLinks:
-  - title: 'ES6のシンタックスを予習復習(2) ~default parameters, rest parameters, array spread, destructuring~ | 1000ch.net'
-    url: 'http://1000ch.net/2013/12/27/ES6DefaultRestParametersArraySpreadDestructuring/'
+  - title: >-
+      ES6のシンタックスを予習復習(2) ~default parameters, rest parameters, array spread,
+      destructuring~ | 1000ch.net
+    url: >-
+      http://1000ch.net/2013/12/27/ES6DefaultRestParametersArraySpreadDestructuring/
 ---
 ES6で追加されたシンタックスについて

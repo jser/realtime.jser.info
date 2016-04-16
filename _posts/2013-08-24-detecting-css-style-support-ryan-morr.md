@@ -1,5 +1,5 @@
 ---
-title: 'Detecting CSS Style Support | Ryan Morr'
+title: Detecting CSS Style Support | Ryan Morr
 author: azu
 layout: post
 itemUrl: 'http://ryanmorr.com/detecting-css-style-support/'

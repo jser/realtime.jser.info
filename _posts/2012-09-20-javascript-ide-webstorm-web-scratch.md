@@ -1,5 +1,5 @@
 ---
-title: '改めて最強のJavaScript IDE 「WebStorm」についてまとめてみた | Web scratch'
+title: 改めて最強のJavaScript IDE 「WebStorm」についてまとめてみた | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2012/0909/res3111/'

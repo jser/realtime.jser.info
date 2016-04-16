@@ -1,5 +1,5 @@
 ---
-title: 'The Pragmatic Bookshelf | Reactive Programming with RxJS'
+title: The Pragmatic Bookshelf | Reactive Programming with RxJS
 author: azu
 layout: post
 itemUrl: 'https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs'

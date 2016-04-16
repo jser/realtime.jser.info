@@ -1,5 +1,5 @@
 ---
-title: "Ember.js - Announcing Ember's First LTS Release"
+title: Ember.js - Announcing Ember's First LTS Release
 author: azu
 layout: post
 itemUrl: 'http://emberjs.com/blog/2016/02/25/announcing-embers-first-lts.html'

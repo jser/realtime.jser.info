@@ -1,5 +1,5 @@
 ---
-title: "What's New In A Spec"
+title: What's New In A Spec
 author: azu
 layout: post
 itemUrl: 'http://espadrine.github.com/New-In-A-Spec/'

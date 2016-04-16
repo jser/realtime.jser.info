@@ -1,5 +1,5 @@
 ---
-title: "NEVERSAW.US | Not Your Father's Javascript"
+title: NEVERSAW.US | Not Your Father's Javascript
 author: azu
 layout: post
 itemUrl: 'http://neversaw.us/2011/1/16/not-your-fathers-javascript/'

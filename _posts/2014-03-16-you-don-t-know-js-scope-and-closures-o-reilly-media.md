@@ -1,5 +1,5 @@
 ---
-title: "You Don't Know JS: Scope and Closures - O'Reilly Media"
+title: 'You Don''t Know JS: Scope and Closures - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920026327.do'

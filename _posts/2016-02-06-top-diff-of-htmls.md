@@ -1,5 +1,5 @@
 ---
-title: 'Top | Diff of HTMLs'
+title: Top | Diff of HTMLs
 author: azu
 layout: post
 itemUrl: 'http://diffofhtmls.herokuapp.com/'

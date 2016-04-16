@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Migrate plugin の使い方と警告文の自分なりのまとめ | 私的なjQuery'
+title: jQuery Migrate plugin の使い方と警告文の自分なりのまとめ | 私的なjQuery
 author: azu
 layout: post
 itemUrl: 'http://myjquery.blog.fc2.com/blog-entry-15.html'

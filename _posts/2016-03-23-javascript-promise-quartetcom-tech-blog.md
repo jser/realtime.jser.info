@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptのPromiseオブジェクトについて調べた事 | QUARTETCOM TECH BLOG'
+title: JavaScriptのPromiseオブジェクトについて調べた事 | QUARTETCOM TECH BLOG
 author: azu
 layout: post
 itemUrl: 'http://tech.quartetcom.co.jp/2016/03/22/javascript-promise/'

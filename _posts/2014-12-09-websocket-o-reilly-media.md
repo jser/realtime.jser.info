@@ -1,5 +1,5 @@
 ---
-title: "WebSocket - O'Reilly Media"
+title: WebSocket - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920030485.do'

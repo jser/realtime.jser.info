@@ -1,5 +1,5 @@
 ---
-title: 'Web Platform Docs API used in Brackets | Web Platform Blog'
+title: Web Platform Docs API used in Brackets | Web Platform Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.webplatform.org/2013/05/web-platform-docs-in-brackets/'

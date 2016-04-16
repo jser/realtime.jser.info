@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - 動画
 relatedLinks:
-  - title: 'Should I use a video as a background? | CSS-Tricks'
+  - title: Should I use a video as a background? | CSS-Tricks
     url: 'https://css-tricks.com/should-i-use-a-video-as-a-background/'
 ---
 HTML5 Videoを背景に使う方法や注意点について

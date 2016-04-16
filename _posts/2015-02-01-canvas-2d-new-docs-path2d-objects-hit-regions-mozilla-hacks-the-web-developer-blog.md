@@ -1,5 +1,7 @@
 ---
-title: 'Canvas 2D: New docs, Path2D objects, hit regions ✩ Mozilla Hacks – the Web developer blog'
+title: >-
+  Canvas 2D: New docs, Path2D objects, hit regions ✩ Mozilla Hacks – the Web
+  developer blog
 author: azu
 layout: post
 itemUrl: 'http://hacks.mozilla.org/2015/01/canvas-2d-new-docs-path2d-hit-regions/'

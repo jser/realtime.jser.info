@@ -10,8 +10,11 @@ tags:
   - Promises
   - tutorial
 relatedLinks:
-  - title: 'Modern JavaScript: Promises/A+ - understanding the spec through implementation'
-    url: 'http://modernjavascript.blogspot.jp/2013/08/promisesa-understanding-by-doing.html'
+  - title: >-
+      Modern JavaScript: Promises/A+ - understanding the spec through
+      implementation
+    url: >-
+      http://modernjavascript.blogspot.jp/2013/08/promisesa-understanding-by-doing.html
 ---
 Promise/A+を実装しながらPromisesについて学ぶチュートリアル。
 かなり小さいコードから始まってるので分かりやすい

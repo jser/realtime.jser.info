@@ -1,5 +1,5 @@
 ---
-title: "What's New in Sass 3.2 & Compass 0.13"
+title: What's New in Sass 3.2 & Compass 0.13
 author: azu
 layout: post
 itemUrl: 'http://whats-new-in-sass-and-compass.herokuapp.com/#slide-0'

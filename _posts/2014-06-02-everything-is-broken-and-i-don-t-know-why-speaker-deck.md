@@ -1,5 +1,5 @@
 ---
-title: "Everything is broken, and I don't know why. // Speaker Deck"
+title: 'Everything is broken, and I don''t know why. // Speaker Deck'
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/mattrobenolt/everything-is-broken-and-i-dont-know-why'
@@ -11,7 +11,9 @@ tags:
   - browser
   - スライド
 relatedLinks:
-  - title: 'Sentry: Track exceptions with modern error logging for JavaScript, Python, Ruby, Java, and Node.js'
+  - title: >-
+      Sentry: Track exceptions with modern error logging for JavaScript, Python,
+      Ruby, Java, and Node.js
     url: 'https://www.getsentry.com/welcome/'
   - title: getsentry/raven-js
     url: 'https://github.com/getsentry/raven-js'

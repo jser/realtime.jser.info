@@ -1,5 +1,5 @@
 ---
-title: 'ブラウザの最新情報を知るために、Web開発者が読んでおくべきブログ | Web scratch'
+title: ブラウザの最新情報を知るために、Web開発者が読んでおくべきブログ | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2011/0301/res2303/'

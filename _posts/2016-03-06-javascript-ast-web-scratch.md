@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript ASTを始める最初の一歩 | Web Scratch'
+title: JavaScript ASTを始める最初の一歩 | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2016/03/06/ast-first-step/'

@@ -1,5 +1,5 @@
 ---
-title: '多段SourceMapの対応方法とライブラリ | Web Scratch'
+title: 多段SourceMapの対応方法とライブラリ | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/09/03/multi-stage-sourcemap/'

@@ -1,5 +1,7 @@
 ---
-title: 'Release v0.9.1: Release Release 0.9.1 (2014-10-08) Node 0.11.x support · twada/power-assert'
+title: >-
+  Release v0.9.1: Release Release 0.9.1 (2014-10-08) Node 0.11.x support ·
+  twada/power-assert
 author: azu
 layout: post
 itemUrl: 'https://github.com/twada/power-assert/releases/tag/v0.9.1'

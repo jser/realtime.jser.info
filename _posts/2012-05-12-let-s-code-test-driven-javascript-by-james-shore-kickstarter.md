@@ -1,5 +1,5 @@
 ---
-title: "Let's Code: Test-Driven Javascript by James Shore — Kickstarter"
+title: 'Let''s Code: Test-Driven Javascript by James Shore — Kickstarter'
 author: azu
 layout: post
 itemUrl: 'http://www.kickstarter.com/projects/188988365/lets-code-test-driven-javascript'

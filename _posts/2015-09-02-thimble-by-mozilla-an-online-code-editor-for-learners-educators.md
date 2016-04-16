@@ -1,5 +1,5 @@
 ---
-title: 'Thimble by Mozilla - An online code editor for learners & educators.'
+title: Thimble by Mozilla - An online code editor for learners & educators.
 author: azu
 layout: post
 itemUrl: 'https://thimble.mozilla.org/'

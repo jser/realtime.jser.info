@@ -1,5 +1,5 @@
 ---
-title: 'RubyJS | Home'
+title: RubyJS | Home
 author: azu
 layout: post
 itemUrl: 'http://rubyjs.org/'

@@ -10,7 +10,7 @@ tags:
   - web
   - IDE
 relatedLinks:
-  - title: '開発版 Firefox で WebIDE が利用できるようになりました | Mozilla Japan ブログ'
+  - title: 開発版 Firefox で WebIDE が利用できるようになりました | Mozilla Japan ブログ
     url: 'http://www.mozilla.jp/blog/entry/10412/'
 ---
 Firefox Nighlyに載ったWebIDEについて

@@ -1,5 +1,5 @@
 ---
-title: "Surfin' Safari - Blog Archive » Building WebKit for iOS Simulator"
+title: Surfin' Safari - Blog Archive » Building WebKit for iOS Simulator
 author: azu
 layout: post
 itemUrl: 'https://www.webkit.org/blog/3457/building-webkit-for-ios-simulator/'

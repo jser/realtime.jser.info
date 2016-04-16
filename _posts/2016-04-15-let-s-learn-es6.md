@@ -1,5 +1,5 @@
 ---
-title: "Let's Learn ES6"
+title: Let's Learn ES6
 author: azu
 layout: post
 itemUrl: 'http://letslearnes6.com/'
@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - '動画 '
 relatedLinks:
-  - title: "Let's Learn ES6 - YouTube"
+  - title: Let's Learn ES6 - YouTube
     url: 'https://www.youtube.com/playlist?list=PL57atfCFqj2h5fpdZD-doGEIs0NZxeJTX'
 ---
 ES6について学ぶ動画シリーズのサイト

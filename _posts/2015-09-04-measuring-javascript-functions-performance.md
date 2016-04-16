@@ -1,5 +1,5 @@
 ---
-title: "Measuring JavaScript Functions' Performance"
+title: Measuring JavaScript Functions' Performance
 author: azu
 layout: post
 itemUrl: 'http://www.sitepoint.com/measuring-javascript-functions-performance/'

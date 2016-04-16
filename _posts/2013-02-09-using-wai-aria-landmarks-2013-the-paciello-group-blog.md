@@ -1,5 +1,5 @@
 ---
-title: 'Using WAI-ARIA Landmarks – 2013 | The Paciello Group Blog'
+title: Using WAI-ARIA Landmarks – 2013 | The Paciello Group Blog
 author: azu
 layout: post
 itemUrl: 'http://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/'

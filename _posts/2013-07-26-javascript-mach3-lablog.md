@@ -1,5 +1,5 @@
 ---
-title: '日付を便利に操作するためのJavaScriptライブラリ色々 | Mach3.laBlog'
+title: 日付を便利に操作するためのJavaScriptライブラリ色々 | Mach3.laBlog
 author: azu
 layout: post
 itemUrl: 'http://blog.mach3.jp/2013/07/js-libraries-for-date.html'

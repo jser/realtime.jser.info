@@ -1,5 +1,5 @@
 ---
-title: 'CSS の勉強中に困ったら | Unformed Building'
+title: CSS の勉強中に困ったら | Unformed Building
 author: azu
 layout: post
 itemUrl: 'http://unformedbuilding.com/articles/if-stuck-in-the-study-of-css/'

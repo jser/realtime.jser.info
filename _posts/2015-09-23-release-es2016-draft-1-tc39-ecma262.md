@@ -9,7 +9,7 @@ tags:
   - ECMAScript
   - ReleaseNote
 relatedLinks:
-  - title: "New in ECMAScript 2016, JavaScript's First Yearly Release"
+  - title: 'New in ECMAScript 2016, JavaScript''s First Yearly Release'
     url: 'http://www.infoq.com/presentations/ecmascript-2016'
 ---
 ES2016 Draft 1リリース。

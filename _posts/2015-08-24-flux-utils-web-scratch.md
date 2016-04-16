@@ -1,5 +1,5 @@
 ---
-title: 'はてなブックマーク検索を作りながらFlux Utilsについて学ぶ | Web Scratch'
+title: はてなブックマーク検索を作りながらFlux Utilsについて学ぶ | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/08/24/flux-utils/'

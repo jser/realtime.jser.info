@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - AngularJSアプリケーション開発ガイド"
+title: O'Reilly Japan - AngularJSアプリケーション開発ガイド
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116679/'

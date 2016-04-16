@@ -11,7 +11,8 @@ tags:
   - library
 relatedLinks:
   - title: 'Web Reflection: restyle.js - a simplified CSS approach'
-    url: 'http://webreflection.blogspot.jp/2014/02/restylejs-simplified-css-approach.html'
+    url: >-
+      http://webreflection.blogspot.jp/2014/02/restylejs-simplified-css-approach.html
   - title: AbsurdJS - the new CSS preprocessor
     url: 'http://krasimir.github.io/absurd/'
 ---

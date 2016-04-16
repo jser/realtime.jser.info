@@ -1,5 +1,5 @@
 ---
-title: 'Announcing jQuery Mobile 1.1.1 | jQuery Mobile'
+title: Announcing jQuery Mobile 1.1.1 | jQuery Mobile
 author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2012/07/12/jqm-1-1-1/'

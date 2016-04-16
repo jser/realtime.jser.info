@@ -1,5 +1,5 @@
 ---
-title: 'Debugging & Profiling Node.js'
+title: Debugging & Profiling Node.js
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/balupton/3944017'

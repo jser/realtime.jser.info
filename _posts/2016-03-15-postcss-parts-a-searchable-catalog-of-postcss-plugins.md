@@ -1,5 +1,5 @@
 ---
-title: 'PostCSS.parts | A searchable catalog of PostCSS plugins'
+title: PostCSS.parts | A searchable catalog of PostCSS plugins
 author: azu
 layout: post
 itemUrl: 'http://postcss.parts/'

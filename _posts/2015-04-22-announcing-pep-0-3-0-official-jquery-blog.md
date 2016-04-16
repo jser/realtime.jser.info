@@ -1,5 +1,5 @@
 ---
-title: 'Announcing PEP 0.3.0 | Official jQuery Blog'
+title: Announcing PEP 0.3.0 | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2015/04/21/announcing-pep-0-3-0/'

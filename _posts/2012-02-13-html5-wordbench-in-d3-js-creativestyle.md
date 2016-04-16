@@ -1,5 +1,5 @@
 ---
-title: '『「HTML5+WordBench勉強会 in 神戸」で「d3.js」について発表してきました。 | CreativeStyle』'
+title: 『「HTML5+WordBench勉強会 in 神戸」で「d3.js」について発表してきました。 | CreativeStyle』
 author: azu
 layout: post
 itemUrl: 'http://kadoppe.com/archives/2012/02/html5-wordbench-kobe-d3-js.html'

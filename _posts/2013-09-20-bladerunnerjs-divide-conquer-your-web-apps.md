@@ -1,5 +1,5 @@
 ---
-title: 'BladeRunnerJS - Divide & conquer your web apps'
+title: BladeRunnerJS - Divide & conquer your web apps
 author: azu
 layout: post
 itemUrl: 'http://bladerunnerjs.org/'

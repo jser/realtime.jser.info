@@ -9,7 +9,9 @@ tags:
   - AngularJS
   - 動画
 relatedLinks:
-  - title: "ng-conf 2014 - The World's First Angular Conference in Salt Lake City, Utah"
+  - title: >-
+      ng-conf 2014 - The World's First Angular Conference in Salt Lake City,
+      Utah
     url: 'http://ng-conf.org/'
 ---
 ng-conf.org 2014の動画

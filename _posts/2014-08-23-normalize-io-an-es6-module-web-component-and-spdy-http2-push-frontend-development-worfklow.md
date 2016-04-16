@@ -1,5 +1,7 @@
 ---
-title: 'normalize.io - an ES6 module, Web Component, and SPDY/HTTP2 Push frontend development worfklow'
+title: >-
+  normalize.io - an ES6 module, Web Component, and SPDY/HTTP2 Push frontend
+  development worfklow
 author: azu
 layout: post
 itemUrl: 'https://normalize.github.io/'

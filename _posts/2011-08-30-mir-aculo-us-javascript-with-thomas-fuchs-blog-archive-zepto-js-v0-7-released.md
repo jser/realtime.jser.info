@@ -1,5 +1,7 @@
 ---
-title: 『mir.aculo.us JavaScript with Thomas Fuchs » Blog Archive » Zepto.js v0.7 released』
+title: >-
+  『mir.aculo.us JavaScript with Thomas Fuchs » Blog Archive » Zepto.js v0.7
+  released』
 author: azu
 layout: post
 itemUrl: 'http://mir.aculo.us/2011/08/01/zepto-7/'

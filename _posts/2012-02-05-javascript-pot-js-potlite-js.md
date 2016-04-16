@@ -1,5 +1,5 @@
 ---
-title: '『同期処理を非同期に変換-JavaScriptライブラリPot.js+PotLite.jsリリースノート | 圧縮電子精神音楽浮遊構造体』'
+title: 『同期処理を非同期に変換-JavaScriptライブラリPot.js+PotLite.jsリリースノート | 圧縮電子精神音楽浮遊構造体』
 author: azu
 layout: post
 itemUrl: 'http://polygon-planet.blogspot.com/2012/02/javascriptpotjspotlitejs.html'

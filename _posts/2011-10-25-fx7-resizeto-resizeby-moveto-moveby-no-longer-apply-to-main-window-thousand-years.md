@@ -1,5 +1,7 @@
 ---
-title: fx7でresizeTo/resizeBy/moveTo/moveByがno longer apply to main windowな件 - Thousand Years
+title: >-
+  fx7でresizeTo/resizeBy/moveTo/moveByがno longer apply to main windowな件 -
+  Thousand Years
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/shogo4405/20111005/1317822030'

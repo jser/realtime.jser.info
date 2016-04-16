@@ -1,5 +1,5 @@
 ---
-title: "mixi Engineers' Blog » 詳細 ECMA-262-3 第8章 評価戦略"
+title: mixi Engineers' Blog » 詳細 ECMA-262-3 第8章 評価戦略
 author: azu
 layout: post
 itemUrl: 'http://alpha.mixi.co.jp/blog/?p=5446'

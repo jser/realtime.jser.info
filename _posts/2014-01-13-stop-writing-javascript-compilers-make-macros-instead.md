@@ -1,5 +1,5 @@
 ---
-title: 'Stop Writing JavaScript Compilers! Make Macros Instead'
+title: Stop Writing JavaScript Compilers! Make Macros Instead
 author: azu
 layout: post
 itemUrl: 'http://jlongster.com/Stop-Writing-JavaScript-Compilers--Make-Macros-Instead'

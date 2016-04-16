@@ -11,7 +11,7 @@ tags:
 relatedLinks:
   - title: YUI Library
     url: 'https://yuilibrary.com/yuiconf/2013/'
-  - title: 'YUIConf 2013 – An Amazing Two Days! - YUI Blog'
+  - title: YUIConf 2013 – An Amazing Two Days! - YUI Blog
     url: 'http://www.yuiblog.com/blog/2013/11/08/yuiconf-2013-an-amazing-two-days/'
 ---
 YUI Conf 2013の動画が公開された

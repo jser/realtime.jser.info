@@ -1,5 +1,5 @@
 ---
-title: "JavaScriptにおける非同期パターン #翻訳 « Tatyusa's Note"
+title: 'JavaScriptにおける非同期パターン #翻訳 « Tatyusa''s Note'
 author: azu
 layout: post
 itemUrl: 'http://tatyusa.logdown.com/posts/196064/javascript-period-in-non'

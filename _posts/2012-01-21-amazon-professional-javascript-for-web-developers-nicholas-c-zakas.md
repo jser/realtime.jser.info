@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Professional JavaScript for Web Developers [ペーパーバック]: Nicholas C. Zakas』'
+title: >-
+  『Amazon: Professional JavaScript for Web Developers [ペーパーバック]: Nicholas C.
+  Zakas』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/1118026691/book042-22/ref=nosim'

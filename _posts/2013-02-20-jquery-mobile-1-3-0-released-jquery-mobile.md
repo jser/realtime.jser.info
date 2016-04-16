@@ -1,5 +1,5 @@
 ---
-title: 'jQuery Mobile 1.3.0 Released | jQuery Mobile'
+title: jQuery Mobile 1.3.0 Released | jQuery Mobile
 author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2013/02/20/jquery-mobile-1-3-0-released/'

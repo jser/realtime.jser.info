@@ -1,5 +1,5 @@
 ---
-title: "HTML and URI's in Javascript ☯ plexus devblog"
+title: HTML and URI's in Javascript ☯ plexus devblog
 author: azu
 layout: post
 itemUrl: 'http://devblog.arnebrasseur.net/2014-05-HTML-and-URIs-in-Javascript'

@@ -1,5 +1,7 @@
 ---
-title: 'Timer APIs(Date.getTime, Date.now, performance.now, setTimeout, setInterval, requestAnimationFrame, setImmediate) with Canvas Animation - Qiita'
+title: >-
+  Timer APIs(Date.getTime, Date.now, performance.now, setTimeout, setInterval,
+  requestAnimationFrame, setImmediate) with Canvas Animation - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/TypoScript/items/ae07b7fe5d5d8d526110'

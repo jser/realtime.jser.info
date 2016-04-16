@@ -1,5 +1,5 @@
 ---
-title: "What's New in Modernizr 2 » SitePoint"
+title: What's New in Modernizr 2 » SitePoint
 author: azu
 layout: post
 itemUrl: 'http://blogs.sitepoint.com/modernizr-2-whats-new/'

@@ -1,5 +1,5 @@
 ---
-title: "Jank Free: Let's Make the Web Silky Smooth!"
+title: 'Jank Free: Let''s Make the Web Silky Smooth!'
 author: azu
 layout: post
 itemUrl: 'http://jankfree.org/'

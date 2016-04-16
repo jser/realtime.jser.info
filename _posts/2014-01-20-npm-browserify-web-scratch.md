@@ -1,5 +1,5 @@
 ---
-title: 'npmとbrowserifyを使ったクライアントサイドのウェブアプリ開発 | Web scratch'
+title: npmとbrowserifyを使ったクライアントサイドのウェブアプリ開発 | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0120/res3605/'

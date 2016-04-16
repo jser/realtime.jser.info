@@ -1,5 +1,7 @@
 ---
-title: 'Paul Irish - Google+ - New in Chrome DevTools: An exclusive touch cursor while…'
+title: >-
+  Paul Irish - Google+ - New in Chrome DevTools: An exclusive touch cursor
+  while…
 author: azu
 layout: post
 itemUrl: 'https://plus.google.com/+PaulIrish/posts/ZNsF3t8h2WX'

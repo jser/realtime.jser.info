@@ -1,5 +1,5 @@
 ---
-title: 'Using Deferreds in jQuery 1.5 | Eric Hynds'
+title: Using Deferreds in jQuery 1.5 | Eric Hynds
 author: azu
 layout: post
 itemUrl: 'http://www.erichynds.com/jquery/using-deferreds-in-jquery/'

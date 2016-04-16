@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Effective JavaScript: 30 Specific Ways to Harness the Power of JavaScript (Effective Software Development Series) [Paperback]: David Herman』'
+title: >-
+  『Amazon: Effective JavaScript: 30 Specific Ways to Harness the Power of
+  JavaScript (Effective Software Development Series) [Paperback]: David Herman』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321812182/book042-22/ref=nosim'

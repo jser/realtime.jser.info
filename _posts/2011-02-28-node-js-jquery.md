@@ -1,5 +1,5 @@
 ---
-title: 'node.jsとjQueryでスクレイピングするウェブアプリの作り方 | さくらたんどっとびーず'
+title: node.jsとjQueryでスクレイピングするウェブアプリの作り方 | さくらたんどっとびーず
 author: azu
 layout: post
 itemUrl: 'http://sakuratan.biz/archives/3393'

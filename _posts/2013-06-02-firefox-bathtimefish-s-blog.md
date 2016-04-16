@@ -1,5 +1,5 @@
 ---
-title: "Firefoxでアプリケーションキャッシュをデバッグする - bathtimefish's blog"
+title: Firefoxでアプリケーションキャッシュをデバッグする - bathtimefish's blog
 author: azu
 layout: post
 itemUrl: 'http://bathtimefish.hatenablog.com/entry/2013/06/01/150656'

@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 1.11 and 2.1 Released | Official jQuery Blog'
+title: jQuery 1.11 and 2.1 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2014/01/24/jquery-1-11-and-2-1-released/'

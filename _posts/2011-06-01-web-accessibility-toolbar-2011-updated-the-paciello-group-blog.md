@@ -1,5 +1,5 @@
 ---
-title: '『Web Accessibility Toolbar 2011 – Updated | The Paciello Group Blog』'
+title: 『Web Accessibility Toolbar 2011 – Updated | The Paciello Group Blog』
 author: azu
 layout: post
 itemUrl: 'http://www.paciellogroup.com/blog/2011/06/web-accessibility-toolbar-2011/'

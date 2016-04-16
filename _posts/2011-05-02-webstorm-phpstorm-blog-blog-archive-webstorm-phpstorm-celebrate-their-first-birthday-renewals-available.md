@@ -1,8 +1,11 @@
 ---
-title: 'WebStorm & PhpStorm Blog » Blog Archive » WebStorm & PhpStorm celebrate their First Birthday! Renewals available.'
+title: >-
+  WebStorm & PhpStorm Blog » Blog Archive » WebStorm & PhpStorm celebrate their
+  First Birthday! Renewals available.
 author: azu
 layout: post
-itemUrl: 'http://blogs.jetbrains.com/webide/2011/05/webstorm-phpstorm-celebrate-their-first-birthday-renewals-available/'
+itemUrl: >-
+  http://blogs.jetbrains.com/webide/2011/05/webstorm-phpstorm-celebrate-their-first-birthday-renewals-available/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
 date: '2011-05-02T23:20:00+00:00'
 ---

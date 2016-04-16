@@ -1,5 +1,5 @@
 ---
-title: 'Improving the Pointer Events Polyfill | Official jQuery Blog'
+title: Improving the Pointer Events Polyfill | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2014/12/17/improving-the-pointer-events-polyfill/'

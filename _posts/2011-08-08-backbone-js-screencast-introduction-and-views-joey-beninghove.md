@@ -1,5 +1,5 @@
 ---
-title: 'Backbone.js Screencast - Introduction and Views => joey beninghove'
+title: Backbone.js Screencast - Introduction and Views => joey beninghove
 author: azu
 layout: post
 itemUrl: 'http://joeybeninghove.com/2011/08/16/backbone-screencast-introduction-views/'

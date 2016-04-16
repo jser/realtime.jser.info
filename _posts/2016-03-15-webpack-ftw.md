@@ -1,5 +1,5 @@
 ---
-title: 'Webpack FTW!!!!'
+title: Webpack FTW!!!!
 author: azu
 layout: post
 itemUrl: 'https://k94n.com/webpack-ftw'

@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: できるクリエイター　逆引きHTML+CSSデザイン事典　Webクリエイターの現場で必要な基本と最新動向: 加藤 善規, 平澤 隆, できるシリーズ編集部』'
+title: >-
+  『Amazon: できるクリエイター　逆引きHTML+CSSデザイン事典　Webクリエイターの現場で必要な基本と最新動向: 加藤 善規, 平澤 隆,
+  できるシリーズ編集部』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844330918/book042-22/ref=nosim'

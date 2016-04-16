@@ -9,7 +9,10 @@ tags:
   - V8
   - ReleaseNote
 relatedLinks:
-  - title: 'Issue 3087 - v8 - ES6: Array.prototype.slice and friends should use ToLength instead of ToUint32 - V8 JavaScript Engine - Google Project Hosting'
+  - title: >-
+      Issue 3087 - v8 - ES6: Array.prototype.slice and friends should use
+      ToLength instead of ToUint32 - V8 JavaScript Engine - Google Project
+      Hosting
     url: 'https://code.google.com/p/v8/issues/detail?id=3087'
 ---
 V8 4.8リリース(Chrome 48で搭載)。

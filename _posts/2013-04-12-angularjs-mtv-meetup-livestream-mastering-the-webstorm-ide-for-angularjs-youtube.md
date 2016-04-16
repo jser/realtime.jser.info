@@ -1,5 +1,7 @@
 ---
-title: 'AngularJS MTV Meetup Livestream: Mastering the WebStorm IDE for AngularJS - YouTube'
+title: >-
+  AngularJS MTV Meetup Livestream: Mastering the WebStorm IDE for AngularJS -
+  YouTube
 author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=LJOyrSh1kDU'

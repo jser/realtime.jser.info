@@ -1,5 +1,5 @@
 ---
-title: "AngularJS: Novice to Ninja - O'Reilly Media"
+title: 'AngularJS: Novice to Ninja - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9780992279455.do'

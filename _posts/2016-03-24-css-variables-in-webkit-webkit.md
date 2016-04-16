@@ -1,5 +1,5 @@
 ---
-title: 'CSS Variables in WebKit | WebKit'
+title: CSS Variables in WebKit | WebKit
 author: azu
 layout: post
 itemUrl: 'https://webkit.org/blog/5989/css-variables-in-webkit/'

@@ -1,5 +1,7 @@
 ---
-title: '『Riloadr - A Cross-Browser Framework-Independent Responsive Images Loader | Web Builder Zone』'
+title: >-
+  『Riloadr - A Cross-Browser Framework-Independent Responsive Images Loader |
+  Web Builder Zone』
 author: azu
 layout: post
 itemUrl: 'http://css.dzone.com/articles/riloadr-cross-browser'

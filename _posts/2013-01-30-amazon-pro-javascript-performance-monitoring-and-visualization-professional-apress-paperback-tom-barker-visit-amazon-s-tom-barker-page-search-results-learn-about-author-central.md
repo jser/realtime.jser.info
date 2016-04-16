@@ -1,5 +1,8 @@
 ---
-title: "Amazon: Pro JavaScript Performance: Monitoring and Visualization (Professional Apress) [Paperback]: Tom Barker, Visit Amazon's Tom Barker Page, search results, Learn about Author Central"
+title: >-
+  Amazon: Pro JavaScript Performance: Monitoring and Visualization (Professional
+  Apress) [Paperback]: Tom Barker, Visit Amazon's Tom Barker Page, search
+  results, Learn about Author Central
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1430247495/book042-22/ref=nosim'

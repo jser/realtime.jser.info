@@ -1,5 +1,5 @@
 ---
-title: 'Home | Durandal'
+title: Home | Durandal
 author: azu
 layout: post
 itemUrl: 'http://durandaljs.com/'

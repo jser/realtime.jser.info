@@ -1,5 +1,7 @@
 ---
-title: ReleaseNotes - phantomjs - Release Notes - headless WebKit with JavaScript API - Google Project Hosting
+title: >-
+  ReleaseNotes - phantomjs - Release Notes - headless WebKit with JavaScript API
+  - Google Project Hosting
 author: azu
 layout: post
 itemUrl: 'http://code.google.com/p/phantomjs/wiki/ReleaseNotes'

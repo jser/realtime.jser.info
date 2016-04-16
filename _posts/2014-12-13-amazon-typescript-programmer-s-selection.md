@@ -1,5 +1,7 @@
 ---
-title: "Amazon: TypeScript実践プログラミング (Programmer's SELECTION): スティーブ・フェントン, 鈴木 幸敏, 株式会社クイープ"
+title: >-
+  Amazon: TypeScript実践プログラミング (Programmer's SELECTION): スティーブ・フェントン, 鈴木 幸敏,
+  株式会社クイープ
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4798139807?tag=amazon0abac-22'

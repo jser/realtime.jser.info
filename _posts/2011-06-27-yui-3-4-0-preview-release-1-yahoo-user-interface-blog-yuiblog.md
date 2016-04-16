@@ -1,5 +1,5 @@
 ---
-title: 'YUI 3.4.0 Preview Release 1 » Yahoo! User Interface Blog (YUIBlog)'
+title: YUI 3.4.0 Preview Release 1 » Yahoo! User Interface Blog (YUIBlog)
 author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2011/06/02/yui340pr1/'

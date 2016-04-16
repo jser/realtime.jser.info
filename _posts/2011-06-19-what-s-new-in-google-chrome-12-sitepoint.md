@@ -1,5 +1,5 @@
 ---
-title: "What's New in Google Chrome 12 » SitePoint"
+title: What's New in Google Chrome 12 » SitePoint
 author: azu
 layout: post
 itemUrl: 'http://blogs.sitepoint.com/whats-new-in-google-chrome-12/'

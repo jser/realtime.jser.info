@@ -1,5 +1,5 @@
 ---
-title: 'HTML5 Boilerplate hits 2.0! « Paul Irish'
+title: HTML5 Boilerplate hits 2.0! « Paul Irish
 author: azu
 layout: post
 itemUrl: 'http://paulirish.com/2011/html5-boilerplate-hits-2-0/'

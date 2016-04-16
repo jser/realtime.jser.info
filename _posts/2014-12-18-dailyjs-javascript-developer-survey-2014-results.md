@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - まとめ
 relatedLinks:
-  - title: 'DailyJS | JavaScript デベロッパー・サーベイ 2014 結果 | JSお散歩'
+  - title: DailyJS | JavaScript デベロッパー・サーベイ 2014 結果 | JSお散歩
     url: 'http://panda.node.ws/?p=1620'
 ---
 JavaScript開発者アンケート 2014年の結果が公開された。

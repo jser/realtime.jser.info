@@ -1,5 +1,5 @@
 ---
-title: "Amazon: Jquery Plugin Development Beginner's Guide: Giulio Bai"
+title: 'Amazon: Jquery Plugin Development Beginner''s Guide: Giulio Bai'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/1849512248/book042-22/ref=nosim'

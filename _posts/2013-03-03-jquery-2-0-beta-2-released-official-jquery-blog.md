@@ -1,5 +1,5 @@
 ---
-title: 'jQuery 2.0 Beta 2 Released | Official jQuery Blog'
+title: jQuery 2.0 Beta 2 Released | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/03/01/jquery-2-0-beta-2-released/'

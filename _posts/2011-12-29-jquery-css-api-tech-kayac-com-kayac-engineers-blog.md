@@ -1,5 +1,5 @@
 ---
-title: "jQueryのCSSセレクタAPIを高速に扱う方法 | tech.kayac.com - KAYAC engineers' blog"
+title: jQueryのCSSセレクタAPIを高速に扱う方法 | tech.kayac.com - KAYAC engineers' blog
 author: azu
 layout: post
 itemUrl: 'http://tech.kayac.com/archive/jquery-selector-api-tuneup.html'

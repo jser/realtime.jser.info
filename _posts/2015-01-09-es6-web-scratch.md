@@ -1,5 +1,5 @@
 ---
-title: 'ライブラリをES6で書いて公開する所から始めよう | Web Scratch'
+title: ライブラリをES6で書いて公開する所から始めよう | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/01/09/write-es6/'

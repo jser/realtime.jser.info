@@ -1,5 +1,7 @@
 ---
-title: 'Safari on iOS 9.3, Responsive Images, iPhone SE, shrink-to-fit and other new APIs | Breaking the Mobile Web'
+title: >-
+  Safari on iOS 9.3, Responsive Images, iPhone SE, shrink-to-fit and other new
+  APIs | Breaking the Mobile Web
 author: azu
 layout: post
 itemUrl: 'http://www.mobilexweb.com/blog/safari-on-ios-9-3-picture-shrink-fit-iphone-se'

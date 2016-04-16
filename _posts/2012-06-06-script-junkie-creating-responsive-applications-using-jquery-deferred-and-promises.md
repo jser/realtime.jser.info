@@ -1,5 +1,7 @@
 ---
-title: 'Script Junkie | Creating Responsive Applications Using jQuery Deferred and Promises'
+title: >-
+  Script Junkie | Creating Responsive Applications Using jQuery Deferred and
+  Promises
 author: azu
 layout: post
 itemUrl: 'http://msdn.microsoft.com/en-us/magazine/gg723713.aspx'

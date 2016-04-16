@@ -1,5 +1,5 @@
 ---
-title: 'Vue.jsにreduxを載せた話 | MMMブログ'
+title: Vue.jsにreduxを載せた話 | MMMブログ
 author: azu
 layout: post
 itemUrl: 'http://blog.mmmcorp.co.jp/blog/2015/12/03/vue-with-redux/'

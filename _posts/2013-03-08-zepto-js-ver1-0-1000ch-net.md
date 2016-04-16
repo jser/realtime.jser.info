@@ -1,5 +1,5 @@
 ---
-title: 'Zepto.js ver1.0がリリースされました | 1000ch.net'
+title: Zepto.js ver1.0がリリースされました | 1000ch.net
 author: azu
 layout: post
 itemUrl: 'http://1000ch.net/2013/03/05/ZeptoIsReleased/'

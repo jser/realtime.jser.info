@@ -1,5 +1,5 @@
 ---
-title: 'ECMAScriptの仕様策定に関するカンニングペーパー | Web Scratch'
+title: ECMAScriptの仕様策定に関するカンニングペーパー | Web Scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/10/18/ecmascript-paper/'

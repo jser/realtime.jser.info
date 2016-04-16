@@ -1,5 +1,5 @@
 ---
-title: 'WebStormからtestacularでテストとデバッグをする方法 | Web scratch'
+title: WebStormからtestacularでテストとデバッグをする方法 | Web scratch
 author: azu
 layout: post
 itemUrl: 'http://efcl.info/2012/1028/res3154/'

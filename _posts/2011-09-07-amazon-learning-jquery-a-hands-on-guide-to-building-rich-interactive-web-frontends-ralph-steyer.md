@@ -1,5 +1,7 @@
 ---
-title: '『Amazon: Learning jQuery: A Hands-on Guide to Building Rich Interactive Web Frontends: Ralph Steyer』'
+title: >-
+  『Amazon: Learning jQuery: A Hands-on Guide to Building Rich Interactive Web
+  Frontends: Ralph Steyer』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321815262/book042-22/ref=nosim'

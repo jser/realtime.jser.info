@@ -1,5 +1,5 @@
 ---
-title: '『sigma.js | a lightweight JavaScript graph drawing library』'
+title: 『sigma.js | a lightweight JavaScript graph drawing library』
 author: azu
 layout: post
 itemUrl: 'http://sigmajs.org/'

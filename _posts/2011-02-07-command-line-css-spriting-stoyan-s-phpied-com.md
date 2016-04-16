@@ -1,5 +1,5 @@
 ---
-title: "Command-line CSS spriting / Stoyan's phpied.com"
+title: Command-line CSS spriting / Stoyan's phpied.com
 author: azu
 layout: post
 itemUrl: 'http://www.phpied.com/command-line-css-spriting/'

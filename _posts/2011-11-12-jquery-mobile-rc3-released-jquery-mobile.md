@@ -1,5 +1,5 @@
 ---
-title: '『jQuery Mobile RC3 Released! | jQuery Mobile』'
+title: 『jQuery Mobile RC3 Released! | jQuery Mobile』
 author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2011/11/13/jquery-mobile-rc3-released/'

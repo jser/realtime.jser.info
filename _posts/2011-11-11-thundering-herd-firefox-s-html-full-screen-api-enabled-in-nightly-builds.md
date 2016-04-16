@@ -1,5 +1,5 @@
 ---
-title: "『Thundering Herd: Firefox's HTML full-screen API enabled in Nightly builds』"
+title: '『Thundering Herd: Firefox''s HTML full-screen API enabled in Nightly builds』'
 author: azu
 layout: post
 itemUrl: 'http://blog.pearce.org.nz/2011/11/firefoxs-html-full-screen-api-enabled.html'

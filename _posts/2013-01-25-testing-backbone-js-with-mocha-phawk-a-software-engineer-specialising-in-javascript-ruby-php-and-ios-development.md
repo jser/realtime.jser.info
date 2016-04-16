@@ -1,5 +1,7 @@
 ---
-title: 'Testing Backbone.js with mocha | phawk | a software engineer specialising in javascript, ruby, php and ios development'
+title: >-
+  Testing Backbone.js with mocha | phawk | a software engineer specialising in
+  javascript, ruby, php and ios development
 author: azu
 layout: post
 itemUrl: 'http://phawk.co.uk/articles/testing-backbone-with-mocha'

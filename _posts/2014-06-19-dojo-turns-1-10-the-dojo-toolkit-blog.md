@@ -1,5 +1,5 @@
 ---
-title: 'Dojo turns (1.)10 | The Dojo Toolkit Blog'
+title: Dojo turns (1.)10 | The Dojo Toolkit Blog
 author: azu
 layout: post
 itemUrl: 'http://dojotoolkit.org/blog/dojo-turns-1-10'

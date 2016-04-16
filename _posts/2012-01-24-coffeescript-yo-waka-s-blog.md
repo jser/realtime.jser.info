@@ -1,5 +1,5 @@
 ---
-title: "オレオレCoffeeScriptを作ろう - yo_waka's blog"
+title: オレオレCoffeeScriptを作ろう - yo_waka's blog
 author: azu
 layout: post
 itemUrl: 'http://waka.hatenablog.com/entry/2012/01/09/104504'

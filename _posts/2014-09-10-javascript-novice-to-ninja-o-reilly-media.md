@@ -1,5 +1,5 @@
 ---
-title: "JavaScript: Novice to Ninja - O'Reilly Media"
+title: 'JavaScript: Novice to Ninja - O''Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9780992461225.do'

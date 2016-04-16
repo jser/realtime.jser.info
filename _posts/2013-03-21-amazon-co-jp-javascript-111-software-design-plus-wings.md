@@ -1,5 +1,7 @@
 ---
-title: 'Amazon.co.jp： JavaScript ライブラリ実践活用〔厳選111〕 (Software Design plus): WINGSプロジェクト: 本'
+title: >-
+  Amazon.co.jp： JavaScript ライブラリ実践活用〔厳選111〕 (Software Design plus): WINGSプロジェクト:
+  本
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774156116/book042-22/ref=nosim'

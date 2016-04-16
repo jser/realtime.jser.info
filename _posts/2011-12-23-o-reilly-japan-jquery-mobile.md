@@ -1,5 +1,5 @@
 ---
-title: "O'Reilly Japan - jQuery Mobile"
+title: O'Reilly Japan - jQuery Mobile
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873115269/'

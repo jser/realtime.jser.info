@@ -10,9 +10,11 @@ tags:
   - package
   - ReleaseNote
 relatedLinks:
-  - title: 'Unregister and login commands (rebased) by sheerun · Pull Request #1719 · bower/bower'
+  - title: >-
+      Unregister and login commands (rebased) by sheerun · Pull Request #1719 ·
+      bower/bower
     url: 'https://github.com/bower/bower/pull/1719'
-  - title: "Accept npm's config variables in package.json · Issue #1711 · bower/bower"
+  - title: 'Accept npm''s config variables in package.json · Issue #1711 · bower/bower'
     url: 'https://github.com/bower/bower/issues/1711'
 ---
 Bower 1.4.0リリース。

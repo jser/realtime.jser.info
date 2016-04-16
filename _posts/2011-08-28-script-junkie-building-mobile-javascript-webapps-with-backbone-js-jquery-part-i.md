@@ -1,5 +1,7 @@
 ---
-title: '『Script Junkie | Building Mobile JavaScript WebApps With Backbone.js & jQuery: Part I』'
+title: >-
+  『Script Junkie | Building Mobile JavaScript WebApps With Backbone.js & jQuery:
+  Part I』
 author: azu
 layout: post
 itemUrl: 'http://msdn.microsoft.com/en-us/scriptjunkie/hh377172'

@@ -1,5 +1,5 @@
 ---
-title: "『Mobile JavaScript Application Development - O'Reilly Media』"
+title: 『Mobile JavaScript Application Development - O'Reilly Media』
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920025252.do'

@@ -12,11 +12,13 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: 'Adding promise support to runnables (and thus tests). by domenic · Pull Request #329 · visionmedia/mocha'
+  - title: >-
+      Adding promise support to runnables (and thus tests). by domenic · Pull
+      Request #329 · visionmedia/mocha
     url: 'https://github.com/visionmedia/mocha/pull/329'
   - title: azu/mocha-support-promise
     url: 'https://github.com/azu/mocha-support-promise'
-  - title: 'MochaがPromisesのテストをサポートしました | Web scratch'
+  - title: MochaがPromisesのテストをサポートしました | Web scratch
     url: 'http://efcl.info/2014/0314/res3708/'
 ---
 mocha 1.18.0リリース。

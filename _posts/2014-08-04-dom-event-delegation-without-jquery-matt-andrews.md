@@ -1,5 +1,5 @@
 ---
-title: 'DOM Event Delegation without jQuery | Matt Andrews'
+title: DOM Event Delegation without jQuery | Matt Andrews
 author: azu
 layout: post
 itemUrl: 'https://mattandre.ws/2014/08/small-beautiful-dom-delegation/'

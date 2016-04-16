@@ -1,5 +1,5 @@
 ---
-title: '『PhoneGap 1.6 Released! « PhoneGap』'
+title: 『PhoneGap 1.6 Released! « PhoneGap』
 author: azu
 layout: post
 itemUrl: 'http://phonegap.com/2012/04/11/phonegap-1-6-released/'

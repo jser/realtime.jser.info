@@ -1,5 +1,5 @@
 ---
-title: 'Moment.js | Timezone support for Moment.js'
+title: Moment.js | Timezone support for Moment.js
 author: azu
 layout: post
 itemUrl: 'http://momentjs.com/timezone/'

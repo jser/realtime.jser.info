@@ -1,5 +1,5 @@
 ---
-title: "Touch Events仕様のEditor's Draftが公開 | Web標準Blog | ミツエーリンクス"
+title: Touch Events仕様のEditor's Draftが公開 | Web標準Blog | ミツエーリンクス
 author: azu
 layout: post
 itemUrl: 'http://standards.mitsue.co.jp/archives/001497.html'

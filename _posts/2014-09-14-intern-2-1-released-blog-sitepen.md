@@ -1,5 +1,5 @@
 ---
-title: 'Intern 2.1 released | Blog | SitePen'
+title: Intern 2.1 released | Blog | SitePen
 author: azu
 layout: post
 itemUrl: 'http://www.sitepen.com/blog/2014/09/12/intern-2-1-released/'

@@ -1,5 +1,7 @@
 ---
-title: 'ProjectSeptemberInc/gl-react: OpenGL / WebGL bindings for React to implement complex effects over images and content, in the descriptive VDOM paradigm'
+title: >-
+  ProjectSeptemberInc/gl-react: OpenGL / WebGL bindings for React to implement
+  complex effects over images and content, in the descriptive VDOM paradigm
 author: azu
 layout: post
 itemUrl: 'https://github.com/ProjectSeptemberInc/gl-react'

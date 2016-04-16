@@ -1,5 +1,5 @@
 ---
-title: 'Performance Tools | CSS-Tricks'
+title: Performance Tools | CSS-Tricks
 author: azu
 layout: post
 itemUrl: 'https://css-tricks.com/performance-tools/'

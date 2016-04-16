@@ -1,5 +1,5 @@
 ---
-title: 'Node.js meet WebMatrix | 53 Bytes - by Justin Beckwith'
+title: Node.js meet WebMatrix | 53 Bytes - by Justin Beckwith
 author: azu
 layout: post
 itemUrl: 'http://jbeckwith.com/2012/06/07/node-js-meet-webmatrix-2/'

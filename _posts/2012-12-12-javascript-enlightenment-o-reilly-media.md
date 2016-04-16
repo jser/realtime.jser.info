@@ -1,5 +1,5 @@
 ---
-title: "JavaScript Enlightenment - O'Reilly Media"
+title: JavaScript Enlightenment - O'Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920027713.do'

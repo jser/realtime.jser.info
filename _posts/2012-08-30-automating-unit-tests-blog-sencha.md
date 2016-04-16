@@ -1,5 +1,5 @@
 ---
-title: 'Automating Unit Tests | Blog | Sencha'
+title: Automating Unit Tests | Blog | Sencha
 author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/automating-unit-tests/'

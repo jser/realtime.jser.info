@@ -1,5 +1,5 @@
 ---
-title: '写真サービス機能のブラウザ内実装 | 株式会社サイバーエージェント'
+title: 写真サービス機能のブラウザ内実装 | 株式会社サイバーエージェント
 author: azu
 layout: post
 itemUrl: 'https://www.cyberagent.co.jp/recruit/techreport/report/id=8548'

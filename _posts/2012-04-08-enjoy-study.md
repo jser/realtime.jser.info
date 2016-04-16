@@ -1,5 +1,5 @@
 ---
-title: 'グローバルコンテキストでビルトインオブジェクト/関数と同名のものを定義した場合の動作 - Enjoy*Study'
+title: グローバルコンテキストでビルトインオブジェクト/関数と同名のものを定義した場合の動作 - Enjoy*Study
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/onozaty/20120421/p1'
