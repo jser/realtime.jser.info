@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://kimbojs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-21T05:06:00+00:00'
+date: '2013-02-21T05:06:00Z'
 tags:
   - javascript
   - DOM

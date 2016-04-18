@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://kdzwinel.github.io/dailyjs-survey-sankey-diagrams/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-31T03:14:33+00:00'
+date: '2013-12-31T03:14:33Z'
 tags:
   - JavaScript
   - まとめ

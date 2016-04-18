@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781941222119.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-01T12:04:31+00:00'
+date: '2014-04-01T12:04:31Z'
 tags:
   - Grunt
   - book

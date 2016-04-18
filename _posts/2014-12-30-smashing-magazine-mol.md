@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://t32k.me/mol/log/style-class-conference/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-30T12:41:58+00:00'
+date: '2014-12-30T12:41:58Z'
 tags:
   - JavaScript
   - CSS

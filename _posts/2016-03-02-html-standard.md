@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://momdo.github.io/html/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-02T08:43:09+00:00'
+date: '2016-03-02T08:43:09Z'
 tags:
   - WHATWG
   - HTML

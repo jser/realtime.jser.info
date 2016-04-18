@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/@DmitrySoshnikov/oo-relationships-5020163ab162'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-26T04:03:35+00:00'
+date: '2016-01-26T04:03:35Z'
 tags:
   - ECMAScript
   - JavaScript

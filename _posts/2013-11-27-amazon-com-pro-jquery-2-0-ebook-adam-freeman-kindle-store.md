@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/Pro-jQuery-2-0-Adam-Freeman-ebook/dp/B00GX4OY36'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-27T05:56:58+00:00'
+date: '2013-11-27T05:56:58Z'
 tags:
   - jQuery
   - book

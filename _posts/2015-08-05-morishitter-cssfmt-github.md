@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/morishitter/cssfmt'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-05T14:29:06+00:00'
+date: '2015-08-05T14:29:06Z'
 tags:
   - CSS
   - Tools

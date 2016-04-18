@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/airportyh/empath'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-25T12:20:49+00:00'
+date: '2013-06-25T12:20:49Z'
 tags:
   - JavaScript
   - Tools

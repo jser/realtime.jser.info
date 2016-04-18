@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://thomasdavis.github.com/w3cjs/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-03T15:00:00+00:00'
+date: '2012-07-03T15:00:00Z'
 ---
 Nodeで実行するw3c html validator

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://danoc.me/blog/chrome-dev-summit-2015-notes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-13T12:34:42+00:00'
+date: '2015-12-13T12:34:42Z'
 tags:
   - google
   - イベント

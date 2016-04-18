@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://andydavies.me/blog/2013/10/22/how-the-browser-pre-loader-makes-pages-load-faster/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-26T11:54:48+00:00'
+date: '2014-05-26T11:54:48Z'
 tags:
   - browser
   - HTTP

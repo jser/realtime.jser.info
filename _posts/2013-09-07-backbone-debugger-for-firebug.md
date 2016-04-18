@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://dhruvaray.github.io/spa-eye/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-07T12:13:41+00:00'
+date: '2013-09-07T12:13:41Z'
 tags:
   - firefox
   - Firebug

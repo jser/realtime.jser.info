@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://angularjs.blogspot.com/2015/05/angular-140-jaracimrman-existence.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-28T07:25:42+00:00'
+date: '2015-05-28T07:25:42Z'
 tags:
   - AngularJS
   - ReleaseNote

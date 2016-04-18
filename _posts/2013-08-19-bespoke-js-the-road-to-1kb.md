@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://markdalgleish.github.io/presentation-bespoke.js-the-road-to-1kb/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-19T12:33:37+00:00'
+date: '2013-08-19T12:33:37Z'
 tags:
   - JavaScript
   - スライド

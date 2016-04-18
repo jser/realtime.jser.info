@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://dev.opera.com/blog/opera-27/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-27T17:50:03+00:00'
+date: '2015-01-27T17:50:03Z'
 tags:
   - Opera
   - ReleaseNote

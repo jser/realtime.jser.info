@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/0120/res3605/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-20T14:29:53+00:00'
+date: '2014-01-20T14:29:53Z'
 tags:
   - browserify
   - node.js

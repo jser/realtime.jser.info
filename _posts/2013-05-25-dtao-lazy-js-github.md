@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/dtao/lazy.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-25T15:34:19+00:00'
+date: '2013-05-25T15:34:19Z'
 tags:
   - JavaScript
   - library

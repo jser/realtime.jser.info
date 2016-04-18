@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/anguscroll/the-politics-of-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-07T13:26:05+00:00'
+date: '2013-05-07T13:26:05Z'
 tags:
   - JavaScript
   - 歴史

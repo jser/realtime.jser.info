@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/gaearon/react-makes-you-sad'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-03T03:04:21+00:00'
+date: '2016-03-03T03:04:21Z'
 tags:
   - React
   - tutorial

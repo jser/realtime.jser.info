@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920029274.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-01T14:24:18+00:00'
+date: '2013-06-01T14:24:18Z'
 tags:
   - HTML5
   - book

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developers.google.com/v8/design'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-27T13:09:44+00:00'
+date: '2013-07-27T13:09:44Z'
 tags:
   - JavaScript
   - V8

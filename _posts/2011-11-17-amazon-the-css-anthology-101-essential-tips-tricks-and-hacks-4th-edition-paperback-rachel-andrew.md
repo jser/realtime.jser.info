@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0987153021/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/index.json'
-date: '2011-11-17T07:00:00+00:00'
+date: '2011-11-17T07:00:00Z'
 ---
 2012年3月31日は発売。
 SirtePointのCSS本

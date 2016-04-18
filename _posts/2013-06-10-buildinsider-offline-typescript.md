@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/vvakame/buildinsider-offline-typescript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-10T06:20:58+00:00'
+date: '2013-06-10T06:20:58Z'
 tags:
   - TypeScript
   - スライド

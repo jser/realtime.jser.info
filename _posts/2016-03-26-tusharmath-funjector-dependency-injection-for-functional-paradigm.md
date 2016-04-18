@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/tusharmath/funjector'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-26T13:34:59+00:00'
+date: '2016-03-26T13:34:59Z'
 tags:
   - JavaScript
   - library

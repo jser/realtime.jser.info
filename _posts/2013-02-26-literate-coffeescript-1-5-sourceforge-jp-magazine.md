@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://sourceforge.jp/magazine/13/02/26/0533246'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-26T22:48:00+00:00'
+date: '2013-02-26T22:48:00Z'
 tags:
   - CoffeeScript
   - ReleaseNote

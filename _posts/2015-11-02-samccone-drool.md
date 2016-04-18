@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/samccone/drool'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-02T08:38:47+00:00'
+date: '2015-11-02T08:38:47Z'
 tags:
   - Chrome
   - webdriver

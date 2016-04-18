@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://medium.com/qubit-engineering/easily-testing-react-components-with-react-test-tree-f9e1668b1c2d
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-27T09:43:26+00:00'
+date: '2015-05-27T09:43:26Z'
 tags:
   - React
   - testing

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cowboy.github.io/state-of-grunt-fe-summit-2014-talk/#1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-29T14:17:37+00:00'
+date: '2014-09-29T14:17:37Z'
 tags:
   - Grunt
   - スライド

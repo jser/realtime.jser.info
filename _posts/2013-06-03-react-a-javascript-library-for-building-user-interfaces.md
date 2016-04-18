@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-03T12:26:24+00:00'
+date: '2013-06-03T12:26:24Z'
 tags:
   - E4X
   - JavaScript

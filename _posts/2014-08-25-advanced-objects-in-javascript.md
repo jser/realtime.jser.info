@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://bjorn.tipling.com/advanced-objects-in-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-25T12:26:31+00:00'
+date: '2014-08-25T12:26:31Z'
 tags:
   - JavaScript
   - ECMAScript

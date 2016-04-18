@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webstorm/2014/04/spy-js-webstorm-secret-service/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-11T15:16:53+00:00'
+date: '2014-04-11T15:16:53Z'
 tags:
   - JavaScript
   - debug

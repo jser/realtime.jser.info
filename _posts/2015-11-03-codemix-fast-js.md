@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/codemix/fast.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-03T07:24:41+00:00'
+date: '2015-11-03T07:24:41Z'
 tags:
   - JavaScript
   - library

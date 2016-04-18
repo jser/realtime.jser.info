@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/jonbretman/ask-not-what-javascript-can-do-for-you'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-14T11:41:41+00:00'
+date: '2013-09-14T11:41:41Z'
 tags:
   - JavaScript
   - スライド

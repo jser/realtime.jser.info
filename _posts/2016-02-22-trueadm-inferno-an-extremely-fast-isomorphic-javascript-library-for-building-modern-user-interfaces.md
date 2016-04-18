@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/trueadm/inferno'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-22T02:53:37+00:00'
+date: '2016-02-22T02:53:37Z'
 tags:
   - JavaScript
   - VirtualDOM

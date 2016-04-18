@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4883379167/amazon0abac-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-07T12:49:59+00:00'
+date: '2014-01-07T12:49:59Z'
 tags:
   - HTML5
   - WebPlatformAPI

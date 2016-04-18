@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.thinkinginreact.xyz/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-03T15:57:17+00:00'
+date: '2016-02-03T15:57:17Z'
 tags:
   - React
   - redux

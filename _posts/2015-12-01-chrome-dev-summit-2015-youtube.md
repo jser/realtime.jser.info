@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/playlist?list=PLNYkxOF6rcICcHeQY02XLvoGL34rZFWZn'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-01T12:02:16+00:00'
+date: '2015-12-01T12:02:16Z'
 tags:
   - Chrome
   - 動画

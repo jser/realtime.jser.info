@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-26T13:01:35+00:00'
+date: '2014-05-26T13:01:35Z'
 tags:
   - JavaScript
 ---

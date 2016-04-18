@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/vega/datalib'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-27T03:24:07+00:00'
+date: '2015-12-27T03:24:07Z'
 tags:
   - JavaScript
   - library

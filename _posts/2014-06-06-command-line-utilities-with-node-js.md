@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cruft.io/posts/node-command-line-utilities/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-06T05:55:46+00:00'
+date: '2014-06-06T05:55:46Z'
 tags:
   - node.js
   - tutorial

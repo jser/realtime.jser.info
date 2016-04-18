@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4777516822/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/index.json'
-date: '2012-05-18T21:32:00+00:00'
+date: '2012-05-18T21:32:00Z'
 ---
 2012年5月15日発売
 http://www.kohgakusha.co.jp/books/detail/978-4-7775-1682-7

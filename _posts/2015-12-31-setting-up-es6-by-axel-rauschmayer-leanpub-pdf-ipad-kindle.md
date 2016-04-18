@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://leanpub.com/setting-up-es6'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-31T11:06:10+00:00'
+date: '2015-12-31T11:06:10Z'
 tags:
   - JavaScript
   - ECMAScript

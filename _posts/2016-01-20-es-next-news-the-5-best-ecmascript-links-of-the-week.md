@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://esnextnews.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-20T14:08:28+00:00'
+date: '2016-01-20T14:08:28Z'
 tags:
   - JavaScript
   - ECMAScript

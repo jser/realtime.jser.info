@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.strongloop.com/announcing-a-new-and-improved-node-js-debugger/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-27T14:05:33+00:00'
+date: '2013-07-27T14:05:33Z'
 tags:
   - node.js
   - デバック

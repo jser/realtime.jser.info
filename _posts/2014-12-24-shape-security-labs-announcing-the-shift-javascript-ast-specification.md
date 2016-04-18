@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://engineering.shapesecurity.com/2014/12/announcing-shift-javascript-ast.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-24T03:26:34+00:00'
+date: '2014-12-24T03:26:34Z'
 tags:
   - JavaScript
   - AST

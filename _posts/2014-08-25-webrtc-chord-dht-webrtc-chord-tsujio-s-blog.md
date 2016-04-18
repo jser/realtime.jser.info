@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ntsujio.hatenablog.com/entry/2014/07/03/221023'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-25T09:12:55+00:00'
+date: '2014-08-25T09:12:55Z'
 tags:
   - JavaScript
   - WebRTC

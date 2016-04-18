@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://garann.github.io/template-chooser/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-05T15:32:54+00:00'
+date: '2013-06-05T15:32:54Z'
 tags:
   - JavaScript
   - library

@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://addyosmani.com/blog/devtools-visually-re-engineering-css-for-faster-paint-times/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-08T01:12:00+00:00'
+date: '2013-02-08T01:12:00Z'
 tags:
   - Chrome
   - デバック

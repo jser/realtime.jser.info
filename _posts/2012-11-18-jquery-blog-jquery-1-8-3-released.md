@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2012/11/13/jquery-1-8-3-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-18T12:20:00+00:00'
+date: '2012-11-18T12:20:00Z'
 ---
 jQuery 1.8.3リリース
 bugfixリリース。Android 2.3.4でtransitionsがクラッシュしてたのも含まれてる

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://flippinawesome.org/2013/06/24/what-are-generators/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-29T09:02:20+00:00'
+date: '2013-06-29T09:02:20Z'
 tags:
   - JavaScript
   - ECMA

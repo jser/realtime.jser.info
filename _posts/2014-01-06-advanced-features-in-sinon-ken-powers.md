@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.kenpowers.net/blog/advanced-features-in-sinon/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-06T13:34:46+00:00'
+date: '2014-01-06T13:34:46Z'
 tags:
   - JavaScript
   - testing

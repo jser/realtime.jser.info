@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://speakerdeck.com/yosuke_furukawa/dousitekounatuta-node-dot-jstoio-dot-jsfalsefen-lie-totong-he-falsexing-fang-korekaradoujin-hua-siteikufalseka
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-22T11:36:51+00:00'
+date: '2015-08-22T11:36:51Z'
 tags:
   - node.js
   - 歴史

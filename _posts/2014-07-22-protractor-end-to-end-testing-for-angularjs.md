@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://angular.github.io/protractor/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-22T12:37:08+00:00'
+date: '2014-07-22T12:37:08Z'
 tags:
   - AngularJS
   - testing

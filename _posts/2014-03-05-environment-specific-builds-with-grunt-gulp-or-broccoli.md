@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://addyosmani.com/blog/environment-specific-builds-with-grunt-gulp-or-broccoli/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-05T13:29:55+00:00'
+date: '2014-03-05T13:29:55Z'
 tags:
   - JavaScript
   - Grunt

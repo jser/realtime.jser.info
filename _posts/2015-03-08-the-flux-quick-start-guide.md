@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.jackcallister.com/2015/02/26/the-flux-quick-start-guide.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-08T13:29:56+00:00'
+date: '2015-03-08T13:29:56Z'
 tags:
   - Flux
   - JavaScript

@@ -7,6 +7,6 @@ layout: post
 itemUrl: >-
   http://www.yuiblog.com/blog/2011/08/18/announcing-yui-3-4-0-and-the-new-yuilibrary-com/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/index.json'
-date: '2011-08-13T13:45:00+00:00'
+date: '2011-08-13T13:45:00Z'
 ---
 YUI 3.4.0 リリース

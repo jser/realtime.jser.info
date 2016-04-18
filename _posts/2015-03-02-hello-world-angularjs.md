@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://helloworld.naver.com/helloworld/1172239'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-02T03:16:19+00:00'
+date: '2015-03-02T03:16:19Z'
 tags:
   - AngularJS
   - PDF

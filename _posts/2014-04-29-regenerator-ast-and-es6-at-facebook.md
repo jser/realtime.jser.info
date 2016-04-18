@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.hakkalabs.co/articles/ecmascript-6-at-facebook'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-29T08:19:11+00:00'
+date: '2014-04-29T08:19:11Z'
 tags:
   - JavaScript
   - AST

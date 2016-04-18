@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/shakiba/svgexport'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-02T16:05:45+00:00'
+date: '2014-10-02T16:05:45Z'
 tags:
   - node.js
   - SVG

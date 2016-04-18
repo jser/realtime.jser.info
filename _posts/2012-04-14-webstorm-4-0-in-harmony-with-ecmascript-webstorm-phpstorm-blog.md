@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blog.jetbrains.com/webide/2012/04/webstorm-4-0-in-harmony-with-ecmascript/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
-date: '2012-04-14T13:16:00+00:00'
+date: '2012-04-14T13:16:00Z'
 ---
 WebStorm 4.0リリース。
 ECMAScript Harmonyのサポート、JSTestDriverでのCode Coverageをサポート、補完候補順の改善、JSLint/JSHintのサポート強化、Node Pathの設定改善など

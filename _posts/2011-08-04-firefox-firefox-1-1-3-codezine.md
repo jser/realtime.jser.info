@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://codezine.jp/article/detail/6087'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/index.json'
-date: '2011-08-04T13:10:00+00:00'
+date: '2011-08-04T13:10:00Z'
 ---
 Firefoxの灯の作者本人による技術的な解説をしている連載

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2015/05/es6-in-depth-template-strings-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-17T12:22:31+00:00'
+date: '2015-05-17T12:22:31Z'
 tags:
   - JavaScript
   - ECMAScript

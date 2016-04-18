@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://davidwalsh.name/eslint'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-11T08:25:11+00:00'
+date: '2015-02-11T08:25:11Z'
 tags:
   - JavaScript
   - Tools

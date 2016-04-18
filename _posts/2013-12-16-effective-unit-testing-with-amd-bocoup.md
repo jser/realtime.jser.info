@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://weblog.bocoup.com/effective-unit-testing-with-amd/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-16T13:14:15+00:00'
+date: '2013-12-16T13:14:15Z'
 tags:
   - JavaScript
   - AMD

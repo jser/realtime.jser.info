@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mrale.ph/talks/goto2015/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-17T13:27:05+00:00'
+date: '2015-05-17T13:27:05Z'
 tags:
   - JavaScript
   - performance

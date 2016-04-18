@@ -5,6 +5,6 @@ layout: post
 itemUrl: >-
   http://zoompf.com/blog/2012/05/html5shiv-and-serving-content-from-code-repositories
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/index.json'
-date: '2012-05-04T23:52:00+00:00'
+date: '2012-05-04T23:52:00Z'
 ---
 html5shivをgooglecodeから直接読み込んだりしてる時のキャッシュの問題などについて

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/evanw/node-source-map-support'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-06T08:52:13+00:00'
+date: '2013-10-06T08:52:13Z'
 tags:
   - JavaScript
   - デバック

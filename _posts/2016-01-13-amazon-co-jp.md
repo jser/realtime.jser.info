@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4839956758/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-13T10:44:04+00:00'
+date: '2016-01-13T10:44:04Z'
 tags:
   - JavaScript
   - book

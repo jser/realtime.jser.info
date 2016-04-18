@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://famous.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-24T15:23:08+00:00'
+date: '2015-05-24T15:23:08Z'
 tags:
   - JavaScript
   - animation

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://blog.bitbucket.org/2011/10/03/bitbucket-now-rocks-git/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
-date: '2011-10-27T22:29:00+00:00'
+date: '2011-10-27T22:29:00Z'
 ---
 Bitbucketがgitをサポート

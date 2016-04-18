@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Jam3/web-audio-player'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-14T09:10:11+00:00'
+date: '2015-12-14T09:10:11Z'
 tags:
   - web
   - audio

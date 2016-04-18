@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4774175684'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-24T09:49:58+00:00'
+date: '2015-08-24T09:49:58Z'
 tags:
   - AngularJS
   - book

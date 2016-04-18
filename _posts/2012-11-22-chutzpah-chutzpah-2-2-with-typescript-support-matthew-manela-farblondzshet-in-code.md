@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://matthewmanela.com/blog/chutzpah-2-2-with-typescript-support/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-22T08:20:00+00:00'
+date: '2012-11-22T08:20:00Z'
 ---
 Visual StudioのJavaScript test runnerアドイン Chutzpah 2.2リリース。
 TypeScriptのサポート

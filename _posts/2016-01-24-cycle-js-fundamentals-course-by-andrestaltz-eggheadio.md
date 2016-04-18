@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://egghead.io/series/cycle-js-fundamentals'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-24T11:49:35+00:00'
+date: '2016-01-24T11:49:35Z'
 tags:
   - JavaScript
   - Rx

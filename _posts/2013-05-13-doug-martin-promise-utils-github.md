@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/doug-martin/promise-utils'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-13T12:38:26+00:00'
+date: '2013-05-13T12:38:26Z'
 tags:
   - JavaScript
   - library

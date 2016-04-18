@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.ponyfoo.com/2014/01/27/my-first-gulp-adventure'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-02T13:41:12+00:00'
+date: '2014-02-02T13:41:12Z'
 tags:
   - gulp
   - tutorial

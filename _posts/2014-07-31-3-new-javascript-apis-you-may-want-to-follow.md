@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.sitepoint.com/3-new-javascript-apis-may-want-follow/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-31T04:49:00+00:00'
+date: '2014-07-31T04:49:00Z'
 tags:
   - WebPlatformAPI
   - JavaScript

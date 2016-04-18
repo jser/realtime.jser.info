@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/kuy/items/c6784fe443f1d5c7bbdc'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-21T14:31:20+00:00'
+date: '2016-03-21T14:31:20Z'
 tags:
   - redux
 ---

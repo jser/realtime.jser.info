@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/typescript/archive/2015/11/30/announcing-typescript-1-7.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-01T01:04:28+00:00'
+date: '2015-12-01T01:04:28Z'
 tags:
   - TypeScript
   - ReleaseNote

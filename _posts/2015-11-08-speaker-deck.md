@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/fand/hurontoendonizhi-xu-woqu-rili-sufang-fa'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-08T15:01:45+00:00'
+date: '2015-11-08T15:01:45Z'
 tags:
   - JavaScript
   - スライド

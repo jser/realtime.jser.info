@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4798124281/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/index.json'
-date: '2011-08-23T09:10:00+00:00'
+date: '2011-08-23T09:10:00Z'
 ---
 2011年8月31日発売
 jQuery+jQuery UIについて書籍

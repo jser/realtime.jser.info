@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116211/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-05T06:36:35+00:00'
+date: '2013-06-05T06:36:35Z'
 tags:
   - JavaScript
   - book

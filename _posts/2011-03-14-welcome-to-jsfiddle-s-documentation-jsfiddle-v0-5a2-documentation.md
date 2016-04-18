@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://doc.jsfiddle.net/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-14T11:05:00+00:00'
+date: '2011-03-14T11:05:00Z'
 ---
 jsFiddleのAPIドキュメント。
 GitHubとの連携もできる

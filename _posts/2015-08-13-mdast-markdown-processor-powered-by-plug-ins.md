@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mdast.js.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-13T02:17:21+00:00'
+date: '2015-08-13T02:17:21Z'
 tags:
   - Markdown
   - JavaScript

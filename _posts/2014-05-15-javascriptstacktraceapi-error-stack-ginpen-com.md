@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2014/05/13/javascriptstacktraceapi/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-15T15:01:54+00:00'
+date: '2014-05-15T15:01:54Z'
 tags:
   - JavaScript
   - V8

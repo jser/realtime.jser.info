@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/web-perf/react-worker-dom'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-13T13:31:45+00:00'
+date: '2016-02-13T13:31:45Z'
 tags:
   - webworker
   - React

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/oreoshake/bsidesla-managing-content-security-policy'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-15T12:19:44+00:00'
+date: '2014-09-15T12:19:44Z'
 tags:
   - セキュリティ
   - CSP

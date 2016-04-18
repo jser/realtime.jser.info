@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/substack/node-browserify/blob/master/changelog.markdown#1200
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-27T06:48:02+00:00'
+date: '2015-10-27T06:48:02Z'
 tags:
   - browser
   - ReleaseNote

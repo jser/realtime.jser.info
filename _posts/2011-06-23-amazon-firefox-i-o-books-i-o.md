@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4777516032/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-23T15:00:00+00:00'
+date: '2011-06-23T15:00:00Z'
 ---
 2011年 5月25日発売
 Firefoxのマニュアル本

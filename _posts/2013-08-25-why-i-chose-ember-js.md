@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ryantablada.com/post/why-i-chose-ember-js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-25T04:17:35+00:00'
+date: '2013-08-25T04:17:35Z'
 tags:
   - JavaScript
   - MVC

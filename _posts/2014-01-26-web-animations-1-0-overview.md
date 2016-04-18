@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/cwdoh/kig29th-web-animations'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-26T06:36:26+00:00'
+date: '2014-01-26T06:36:26Z'
 tags:
   - web
   - animation

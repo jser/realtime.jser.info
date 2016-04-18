@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2016/03/promise-rejections-vs-exceptions.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-26T02:51:03+00:00'
+date: '2016-03-26T02:51:03Z'
 tags:
   - JavaScript
   - ECMAScript

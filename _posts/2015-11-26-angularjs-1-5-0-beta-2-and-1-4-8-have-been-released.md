@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://angularjs.blogspot.jp/2015/11/angularjs-15-beta2-and-14-releases.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-26T08:00:31+00:00'
+date: '2015-11-26T08:00:31Z'
 tags:
   - AngularJS
   - ReleaseNote

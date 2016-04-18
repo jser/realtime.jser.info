@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.windows.com/msedgedev/2015/07/14/bringing-componentization-to-the-web-an-overview-of-web-components/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-16T01:22:44+00:00'
+date: '2015-07-16T01:22:44Z'
 tags:
   - WebComponents
   - MSEdge

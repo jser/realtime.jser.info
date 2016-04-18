@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://cloudplatform.googleblog.com/2016/03/Node.js-on-Google-App-Engine-goes-beta.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-22T00:36:53+00:00'
+date: '2016-03-22T00:36:53Z'
 tags:
   - node.js
   - google

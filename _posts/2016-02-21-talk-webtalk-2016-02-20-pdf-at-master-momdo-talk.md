@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/momdo/talk/blob/master/webtalk_2016-02-20.pdf'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-21T15:16:30+00:00'
+date: '2016-02-21T15:16:30Z'
 tags:
   - W3C
   - WHATWG

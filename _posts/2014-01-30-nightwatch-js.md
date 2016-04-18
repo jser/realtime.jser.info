@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://nightwatchjs.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-30T13:44:25+00:00'
+date: '2014-01-30T13:44:25Z'
 tags:
   - webdriver
   - Selenium

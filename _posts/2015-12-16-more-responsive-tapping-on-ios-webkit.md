@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://webkit.org/blog/5610/more-responsive-tapping-on-ios/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-16T15:43:28+00:00'
+date: '2015-12-16T15:43:28Z'
 tags:
   - safari
   - webkit

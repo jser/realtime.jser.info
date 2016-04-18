@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tmcnab.github.io/Hyperglot/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-08T12:31:31+00:00'
+date: '2013-12-08T12:31:31Z'
 tags:
   - JavaScript
   - program

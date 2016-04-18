@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.getbootstrap.com/2013/02/07/bootstrap-2-3-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-08T17:24:00+00:00'
+date: '2013-02-08T17:24:00Z'
 tags:
   - twitter
   - css

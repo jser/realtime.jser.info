@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://0-9.sakura.ne.jp/pub/cod2012jp/start.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-17T12:00:00+00:00'
+date: '2012-06-17T12:00:00Z'
 ---
 JavaScriptのテストを書く7つの理由
 使用するテストフレームワークについて

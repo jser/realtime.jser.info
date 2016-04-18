@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/@mistadikay/rebem-react-bem-20d875157017'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-21T12:28:59+00:00'
+date: '2016-03-21T12:28:59Z'
 tags:
   - React
   - library

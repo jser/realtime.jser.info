@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://koajs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-23T10:30:32+00:00'
+date: '2013-12-23T10:30:32Z'
 tags:
   - node.js
   - web

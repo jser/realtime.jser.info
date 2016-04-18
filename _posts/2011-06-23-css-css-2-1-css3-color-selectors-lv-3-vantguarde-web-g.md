@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://web.g.hatena.ne.jp/vantguarde/20110608/1307471817'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-23T23:00:00+00:00'
+date: '2011-06-23T23:00:00Z'
 ---
 CSS 2.1とCSS3 Colorが勧告に

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/kimamula/items/0b4dff363933bfe74506'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-06T06:30:07+00:00'
+date: '2016-01-06T06:30:07Z'
 tags:
   - JavaScript
   - library

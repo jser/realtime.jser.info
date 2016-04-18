@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://peter.sh/2011/06/flexbox-web-sockets-inclusion-of-webrtc-and-smooth-scrolling/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
-date: '2011-05-31T15:00:00+00:00'
+date: '2011-05-31T15:00:00Z'
 ---
 SpellCheck API, Media Stream APIが実装。
 WebSocket protocol (-09)の実装を開始。

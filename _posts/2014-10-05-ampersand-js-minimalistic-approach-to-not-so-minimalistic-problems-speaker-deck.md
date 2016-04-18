@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://speakerdeck.com/kamilogorek/ampersand-dot-js-minimalistic-approach-to-not-so-minimalistic-problems
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-05T05:28:23+00:00'
+date: '2014-10-05T05:28:23Z'
 tags:
   - JavaScript
   - MVC

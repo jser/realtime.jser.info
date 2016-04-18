@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://v8project.blogspot.com/2015/07/v8-45-release.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-18T02:56:44+00:00'
+date: '2015-07-18T02:56:44Z'
 tags:
   - JavaScript
   - V8

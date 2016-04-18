@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774152439/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-31T06:54:00+00:00'
+date: '2012-08-31T06:54:00Z'
 ---
 2012年8月31日発売
 "逆引きリファレンスとして活用できるテクニック集"

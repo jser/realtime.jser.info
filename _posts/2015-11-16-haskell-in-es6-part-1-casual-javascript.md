@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-16T10:22:42+00:00'
+date: '2015-11-16T10:22:42Z'
 tags:
   - JavaScript
   - 関数型プログラミング

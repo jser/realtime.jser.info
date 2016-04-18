@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/groupon/testium'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-13T11:39:53+00:00'
+date: '2014-01-13T11:39:53Z'
 tags:
   - node.js
   - webdriver

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-03T12:51:16+00:00'
+date: '2016-03-03T12:51:16Z'
 tags:
   - browser
 ---

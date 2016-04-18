@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/dp/1491926783'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-25T07:54:52+00:00'
+date: '2015-03-25T07:54:52Z'
 tags:
   - JavaScript
   - HTML

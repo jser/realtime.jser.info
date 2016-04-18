@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://aurelio.audero.it/blog/2014/10/18/state-web-notifications-api/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-30T13:38:51+00:00'
+date: '2014-12-30T13:38:51Z'
 tags:
   - JavaScript
   - WebPlatformAPI

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://github.hubspot.com/offline/docs/welcome/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-14T07:19:19+00:00'
+date: '2014-12-14T07:19:19Z'
 tags:
   - JavaScript
   - library

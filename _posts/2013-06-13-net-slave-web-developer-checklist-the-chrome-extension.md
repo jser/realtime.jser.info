@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://madskristensen.net/post/Chrome-extension-Web-Developer-Checklist.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-13T05:00:31+00:00'
+date: '2013-06-13T05:00:31Z'
 tags:
   - Chrome
   - Extension

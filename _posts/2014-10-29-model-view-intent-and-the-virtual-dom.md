@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://staltz.com/mvi-freaklies/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-29T05:29:40+00:00'
+date: '2014-10-29T05:29:40Z'
 tags:
   - VirualDOM
   - JavaScript

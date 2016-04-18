@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/rikuo/20121203'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-29T02:52:00+00:00'
+date: '2012-12-29T02:52:00Z'
 ---
 SVG軽量化Tips

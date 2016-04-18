@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://polymer-project.appspot.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-20T12:34:16+00:00'
+date: '2013-05-20T12:34:16Z'
 tags:
   - WebComponents
   - JavaScript

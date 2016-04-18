@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/facebook/flow/blob/v0.7.0/Changelog'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-22T15:57:17+00:00'
+date: '2015-03-22T15:57:17Z'
 tags:
   - JavaScript
   - flowtype

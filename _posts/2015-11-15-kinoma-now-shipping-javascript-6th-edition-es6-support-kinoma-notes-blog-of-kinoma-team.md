@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.kinoma.com/2015/10/es6_support/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-15T14:18:12+00:00'
+date: '2015-11-15T14:18:12Z'
 tags:
   - JavaScript
   - ECMAScript

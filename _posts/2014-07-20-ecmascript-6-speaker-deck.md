@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/othree/ecmascript-6'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-20T13:28:05+00:00'
+date: '2014-07-20T13:28:05Z'
 tags:
   - ECMAScript
   - JavaScript

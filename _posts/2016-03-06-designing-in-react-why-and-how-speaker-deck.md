@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/fand/designing-in-react-why-and-how'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-06T02:34:14+00:00'
+date: '2016-03-06T02:34:14Z'
 tags:
   - React
   - CSS

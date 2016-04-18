@@ -6,6 +6,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4798030589'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/index.json'
-date: '2011-08-15T03:25:00+00:00'
+date: '2011-08-15T03:25:00Z'
 ---
 2011年8月発売

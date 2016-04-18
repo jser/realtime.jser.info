@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/ie/archive/2012/01/27/creating-files-through-blobbuilder.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
-date: '2012-01-01T07:10:00+00:00'
+date: '2012-01-01T07:10:00Z'
 ---
 IE10pp4でサポートされたBlobBuilderについて。
 window.navigator.msSaveOrOpenBlobでFile API:saveAs()みたいなblobの保存ができる

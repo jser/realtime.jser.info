@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/y-kawaz/20111002/1317489435'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
-date: '2011-10-29T23:24:00+00:00'
+date: '2011-10-29T23:24:00Z'
 ---
 jQuery 1.7から入る、on/offでのEvent Emitter的なイベントAPIと以前の形式のイベントAPIとの比較

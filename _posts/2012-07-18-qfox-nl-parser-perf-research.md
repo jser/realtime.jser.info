@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qfox.nl/weblog/258'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-18T15:00:00+00:00'
+date: '2012-07-18T15:00:00Z'
 ---
 パーサーなどで次のトークンのcharを取得してtypeを判定する処理について。
 色々な取得方法と決定方法のパフォーマンス比較。

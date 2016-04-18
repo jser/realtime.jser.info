@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.manning.com/sholmes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-31T03:13:20+00:00'
+date: '2013-12-31T03:13:20Z'
 tags:
   - node.js
   - book

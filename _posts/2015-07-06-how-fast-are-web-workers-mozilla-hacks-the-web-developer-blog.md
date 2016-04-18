@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-06T13:30:06+00:00'
+date: '2015-07-06T13:30:06Z'
 tags:
   - webworker
   - firefox

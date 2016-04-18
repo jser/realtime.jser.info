@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://js-next.hatenablog.com/entry/2014/03/08/185434'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-10T12:41:26+00:00'
+date: '2014-03-10T12:41:26Z'
 tags:
   - JavaScript
   - ECMAScript

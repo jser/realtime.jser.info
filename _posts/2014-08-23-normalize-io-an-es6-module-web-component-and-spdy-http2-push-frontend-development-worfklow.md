@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://normalize.github.io/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-23T08:03:46+00:00'
+date: '2014-08-23T08:03:46Z'
 tags:
   - node.js
   - CSS

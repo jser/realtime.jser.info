@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.forest.impress.co.jp/docs/review/20110201_422595.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-26T08:40:00+00:00'
+date: '2011-02-26T08:40:00Z'
 ---
 Visual StudioでHTML5のタグを対応させるツール

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://orera.g.hatena.ne.jp/edvakf/20111128/1322513641'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
-date: '2011-10-31T15:00:00+00:00'
+date: '2011-10-31T15:00:00Z'
 ---
 OperaにXHR2の実装が開始された

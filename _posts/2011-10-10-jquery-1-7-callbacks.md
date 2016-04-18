@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/kitokitoki/20111022/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/10/index.json'
-date: '2011-10-10T00:01:00+00:00'
+date: '2011-10-10T00:01:00Z'
 ---
 jQueryの$.Callbacksについての解説

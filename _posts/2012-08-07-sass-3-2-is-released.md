@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://chriseppstein.github.com/blog/2012/08/23/sass-3-2-is-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-07T17:58:00+00:00'
+date: '2012-08-07T17:58:00Z'
 ---
 Sass 3.2の機能紹介や変更点。
 プレースホルダーセレクタ、

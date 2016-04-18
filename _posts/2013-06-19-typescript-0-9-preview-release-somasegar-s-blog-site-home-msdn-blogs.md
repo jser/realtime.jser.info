@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/somasegar/archive/2013/06/18/typescript-0-9-preview-release.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-19T03:01:23+00:00'
+date: '2013-06-19T03:01:23Z'
 tags:
   - TypeScript
   - ReleaseNote

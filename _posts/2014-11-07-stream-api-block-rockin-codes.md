@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jxck.hatenablog.com/entry/whatwg-stream'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-07T15:17:33+00:00'
+date: '2014-11-07T15:17:33Z'
 tags:
   - stream
   - API

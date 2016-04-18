@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mweststrate/ts-npm-lint'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-26T02:32:54+00:00'
+date: '2015-11-26T02:32:54Z'
 tags:
   - TypeScript
   - npm

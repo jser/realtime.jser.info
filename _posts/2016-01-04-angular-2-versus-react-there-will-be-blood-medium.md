@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://medium.com/@housecor/angular-2-versus-react-there-will-be-blood-66595faafd51
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-04T12:36:21+00:00'
+date: '2016-01-04T12:36:21Z'
 tags:
   - AngularJS
   - React

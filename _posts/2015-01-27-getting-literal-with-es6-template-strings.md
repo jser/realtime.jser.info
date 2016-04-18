@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://updates.html5rocks.com/2015/01/ES6-Template-Strings'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-27T08:19:33+00:00'
+date: '2015-01-27T08:19:33Z'
 tags:
   - JavaScript
   - ECMAScript

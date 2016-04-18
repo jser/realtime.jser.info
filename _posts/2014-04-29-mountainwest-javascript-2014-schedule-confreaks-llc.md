@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.confreaks.com/events/mwjs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-29T03:22:10+00:00'
+date: '2014-04-29T03:22:10Z'
 tags:
   - JavaScript
   - 動画

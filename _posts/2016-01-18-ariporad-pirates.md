@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/ariporad/pirates'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-18T00:23:30+00:00'
+date: '2016-01-18T00:23:30Z'
 tags:
   - JavaScript
   - node.js

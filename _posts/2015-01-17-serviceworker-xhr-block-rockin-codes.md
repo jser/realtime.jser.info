@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jxck.hatenablog.com/entry/response-injection'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-17T07:21:14+00:00'
+date: '2015-01-17T07:21:14Z'
 tags:
   - JavaScript
   - ServiceWorker

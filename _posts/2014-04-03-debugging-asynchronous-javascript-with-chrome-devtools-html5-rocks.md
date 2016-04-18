@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/developertools/async-call-stack/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-03T14:43:27+00:00'
+date: '2014-04-03T14:43:27Z'
 tags:
   - JavaScript
   - Chrome

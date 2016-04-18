@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://facebook.github.io/relay/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-12T03:00:12+00:00'
+date: '2015-08-12T03:00:12Z'
 tags:
   - React
   - JavaScript

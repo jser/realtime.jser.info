@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://doc.esdoc.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-22T07:07:39+00:00'
+date: '2015-09-22T07:07:39Z'
 tags:
   - JSDoc
   - document

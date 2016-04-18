@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.w2lessons.com/2011/01/why-you-need-to-learn-javascript.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-28T13:56:00+00:00'
+date: '2011-01-28T13:56:00Z'
 ---
 なぜ今JavaScriptを学ぶ必要があるか?という話。
 今はクライアントでも複雑なUIを作成することができ、サーバサイドNode.jsのようなモノがある。

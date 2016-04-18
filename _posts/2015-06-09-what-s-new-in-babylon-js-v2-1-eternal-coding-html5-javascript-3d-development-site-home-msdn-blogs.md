@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/eternalcoding/archive/2015/06/08/what-s-new-in-babylon-js-v2-1.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-09T16:34:15+00:00'
+date: '2015-06-09T16:34:15Z'
 tags:
   - JavaScript
   - library

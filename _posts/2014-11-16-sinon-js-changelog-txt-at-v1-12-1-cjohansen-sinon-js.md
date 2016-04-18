@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/cjohansen/Sinon.JS/blob/v1.12.1/Changelog.txt'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-16T01:45:33+00:00'
+date: '2014-11-16T01:45:33Z'
 tags:
   - JavaScript
   - library

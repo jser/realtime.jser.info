@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://eloquentjavascript.net/2nd_edition/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-11T13:06:46+00:00'
+date: '2013-09-11T13:06:46Z'
 tags:
   - JavaScript
   - book

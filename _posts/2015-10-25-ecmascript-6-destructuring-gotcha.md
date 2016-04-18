@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.nczonline.net/blog/2015/10/ecmascript-6-destructuring-gotcha/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-25T11:09:09+00:00'
+date: '2015-10-25T11:09:09Z'
 tags:
   - ECMAScript
   - spec

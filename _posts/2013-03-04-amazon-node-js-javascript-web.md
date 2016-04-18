@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4797370904/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-04T11:15:00+00:00'
+date: '2013-03-04T11:15:00Z'
 tags:
   - node.js
   - サーバー

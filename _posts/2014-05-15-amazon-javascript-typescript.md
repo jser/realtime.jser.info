@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4048661450/amazon0abac-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-15T00:58:50+00:00'
+date: '2014-05-15T00:58:50Z'
 tags:
   - TypeScript
   - JavaScript

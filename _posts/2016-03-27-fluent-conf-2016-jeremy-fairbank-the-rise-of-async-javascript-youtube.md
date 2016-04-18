@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=QtgR94Q2pt4'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-27T14:11:02+00:00'
+date: '2016-03-27T14:11:02Z'
 tags:
   - JavaScript
   - '動画 '

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/danielstjules/mocha.parallel'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-16T06:48:37+00:00'
+date: '2015-09-16T06:48:37Z'
 tags:
   - JavaScript
   - testing

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/dhrname/20120818/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-15T11:48:00+00:00'
+date: '2012-08-15T11:48:00Z'
 ---
 SIE 3リリース

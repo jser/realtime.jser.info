@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://plot.ly/javascript/open-source-announcement/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-22T14:54:32+00:00'
+date: '2015-11-22T14:54:32Z'
 tags:
   - JavaScript
   - グラフ

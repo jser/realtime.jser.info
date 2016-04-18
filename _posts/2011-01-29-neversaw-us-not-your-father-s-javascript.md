@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://neversaw.us/2011/1/16/not-your-fathers-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-29T17:08:00+00:00'
+date: '2011-01-29T17:08:00Z'
 ---
 最近のエンジン向け(主にNode.jsを対象)にJavaScriptのベストプラクティスを書いている。
 -変数宣言はSingle var、変数の命名のパターン

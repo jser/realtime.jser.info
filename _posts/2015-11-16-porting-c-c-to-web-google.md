@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://docs.google.com/presentation/d/1liKVavDBbcg0w8izutvVopCWKGu5M7EJPvst1JlpN_s/present#slide=id.p
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-16T13:48:32+00:00'
+date: '2015-11-16T13:48:32Z'
 tags:
   - JavaScript
   - C言語

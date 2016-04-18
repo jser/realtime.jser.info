@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://benmccormick.org/2015/09/09/what-can-backbone-developers-learn-from-react/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-13T13:40:28+00:00'
+date: '2015-09-13T13:40:28Z'
 tags:
   - backbone.js
   - React

@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://speakerdeck.com/armorik83/da-xing-hurontoendokai-fa-niokerutypescripttoddd
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-05T09:10:11+00:00'
+date: '2016-03-05T09:10:11Z'
 tags:
   - TypeScript
   - DDD

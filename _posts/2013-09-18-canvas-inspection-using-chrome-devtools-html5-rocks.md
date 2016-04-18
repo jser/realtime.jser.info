@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/canvas/inspection/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-18T05:20:24+00:00'
+date: '2013-09-18T05:20:24Z'
 tags:
   - Chrome
   - canvas

@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/WebReflection/document-register-element#document-register-element
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-16T07:04:46+00:00'
+date: '2014-07-16T07:04:46Z'
 tags:
   - WebComponents
 relatedLinks:

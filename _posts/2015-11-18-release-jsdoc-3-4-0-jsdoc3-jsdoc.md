@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jsdoc3/jsdoc/releases/tag/3.4.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-18T12:22:59+00:00'
+date: '2015-11-18T12:22:59Z'
 tags:
   - JavaScript
   - document

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2013/10/dict-pattern.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-14T11:50:06+00:00'
+date: '2013-10-14T11:50:06Z'
 tags:
   - JavaScript
 ---

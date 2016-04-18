@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://postd.cc/how-do-promises-work/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-11T23:26:11+00:00'
+date: '2016-01-11T23:26:11Z'
 tags:
   - JavaScript
   - Promises

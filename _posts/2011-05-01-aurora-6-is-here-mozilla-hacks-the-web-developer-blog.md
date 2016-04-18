@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hacks.mozilla.org/2011/05/aurora-6-is-here/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
-date: '2011-05-01T02:16:00+00:00'
+date: '2011-05-01T02:16:00Z'
 ---
 progress要素のサポート、window.matchMedia API,バイナリを扱うAPIの改善,Server Sent Events,WebSocketsが復活。
 -element.dataset でdata-*属性値にアクセス/変更できる。

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/01/09/write-es6/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-09T15:02:23+00:00'
+date: '2015-01-09T15:02:23Z'
 tags:
   - JavaScript
   - ECMAScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/espadrine/aulx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-10T02:33:00+00:00'
+date: '2013-03-10T02:33:00Z'
 tags:
   - javascript
   - library

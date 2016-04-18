@@ -6,6 +6,6 @@ author: azu
 layout: post
 itemUrl: 'http://subtech.g.hatena.ne.jp/cho45/20110708/1310121676'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-26T03:30:00+00:00'
+date: '2011-07-26T03:30:00Z'
 ---
 vimparse.js +JSHintを使ったバリデーション

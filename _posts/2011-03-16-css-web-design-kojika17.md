@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://kojika17.com/2011/03/browsers-default-css.php'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-16T16:13:00+00:00'
+date: '2011-03-16T16:13:00Z'
 ---
 ブラウザのデフォルトCSSをまとめたチートシートの公開

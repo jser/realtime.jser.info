@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mdevils/node-jscs/releases/tag/v1.5.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-17T10:54:11+00:00'
+date: '2014-06-17T10:54:11Z'
 tags:
   - JavaScript
   - Tools

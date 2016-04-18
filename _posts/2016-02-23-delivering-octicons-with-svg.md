@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/blog/2112-delivering-octicons-with-svg'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-23T02:23:38+00:00'
+date: '2016-02-23T02:23:38Z'
 tags:
   - fonts
   - SVG

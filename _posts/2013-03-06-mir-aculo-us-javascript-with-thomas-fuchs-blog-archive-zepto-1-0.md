@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mir.aculo.us/2013/03/04/zepto-1-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-06T18:36:00+00:00'
+date: '2013-03-06T18:36:00Z'
 tags:
   - javascript
   - jQuery

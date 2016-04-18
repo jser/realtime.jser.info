@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mozillazine.jp/?p=4868'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-17T11:14:55+00:00'
+date: '2015-08-17T11:14:55Z'
 tags:
   - firefox
   - ReleaseNote

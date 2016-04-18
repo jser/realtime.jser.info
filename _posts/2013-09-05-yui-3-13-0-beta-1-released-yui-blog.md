@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2013/09/04/yui-3-13-0-beta-1-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-05T02:03:24+00:00'
+date: '2013-09-05T02:03:24Z'
 tags:
   - YUI
   - ReleaseNote

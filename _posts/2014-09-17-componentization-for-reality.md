@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ja.slideshare.net/ygoto3q/componentization-for-reality'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-17T14:08:10+00:00'
+date: '2014-09-17T14:08:10Z'
 tags:
   - JavaScript
   - スライド

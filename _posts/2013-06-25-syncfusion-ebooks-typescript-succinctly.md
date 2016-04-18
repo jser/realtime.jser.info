@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.syncfusion.com/resources/techportal/ebooks/typescript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-25T01:15:26+00:00'
+date: '2013-06-25T01:15:26Z'
 tags:
   - TypeScript
   - book

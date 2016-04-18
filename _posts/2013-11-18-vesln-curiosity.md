@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/vesln/curiosity'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-18T13:47:41+00:00'
+date: '2013-11-18T13:47:41Z'
 tags:
   - JavaScript
   - AST

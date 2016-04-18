@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://gruntjs.com/blog/2013-02-18-grunt-0.4.0-released'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-26T14:42:00+00:00'
+date: '2013-02-26T14:42:00Z'
 tags:
   - node.js
   - Tools

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.miguelgrinberg.com/post/writing-a-javascript-rest-client'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-23T11:36:13+00:00'
+date: '2013-06-23T11:36:13Z'
 tags:
   - JavaScript
   - API

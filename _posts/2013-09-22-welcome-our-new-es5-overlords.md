@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mikemaccana.github.io/rejectjs2013/#1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-22T05:20:41+00:00'
+date: '2013-09-22T05:20:41Z'
 tags:
   - JavaScript
   - スライド

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wise9.jp/archives/8077'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-03T04:20:00+00:00'
+date: '2012-11-03T04:20:00Z'
 ---
 enchant.js v0.6.0リリース。
 Canvas ベースの描画が標準となった。

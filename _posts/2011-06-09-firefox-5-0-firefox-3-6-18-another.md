@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/nyama/20110622/1308705867'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-09T15:00:00+00:00'
+date: '2011-06-09T15:00:00Z'
 ---
 Firefox5とFirefox 3.6.18(セキュリティアップデート)が同時にリリース
 リリース文のリンク集

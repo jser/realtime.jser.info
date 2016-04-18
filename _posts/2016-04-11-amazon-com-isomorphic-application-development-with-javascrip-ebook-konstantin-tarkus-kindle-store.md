@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://www.amazon.com/Isomorphic-Application-Development-JavaScrip-Konstantin-ebook/dp/B01DWFRFVG
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-11T09:27:21+00:00'
+date: '2016-04-11T09:27:21Z'
 tags:
   - JavaScript
   - book

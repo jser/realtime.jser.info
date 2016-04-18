@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://dev.mozilla.jp/2011/06/firefox6-backward-compatibility/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-10T15:00:00+00:00'
+date: '2011-06-10T15:00:00Z'
 ---
 Firefox6での後方互換性関係の修正。
 あまり使われてない&標準化されてないプロパティの廃止や逆に他のブラウザに合わせたりなど。

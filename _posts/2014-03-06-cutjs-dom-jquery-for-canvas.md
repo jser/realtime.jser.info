@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cutjs.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-06T06:08:19+00:00'
+date: '2014-03-06T06:08:19Z'
 tags:
   - JavaScript
   - jQuery

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lifesinger.org/blog/2011/01/seajs-v0-3-0pre/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-26T07:32:00+00:00'
+date: '2011-01-26T07:32:00Z'
 ---
 モジュールのロードに最適なフレームワークを作成するためには、SeaJS Module Loader v0.3.0 プレビュー版 というタイトルでJavaScriptでのモジュール化について書かれています。
 scriptタグでjsファイルを複数ロードする場合は4つの問題があります。

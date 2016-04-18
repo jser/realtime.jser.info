@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jqueryui.com/2013/01/jquery-ui-1-10-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-12T17:08:00+00:00'
+date: '2013-01-12T17:08:00Z'
 ---
 jQuery UI 1.10.0リリース。
 

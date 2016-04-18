@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/thlorenz/v8-perf'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-10T01:14:41+00:00'
+date: '2014-09-10T01:14:41Z'
 tags:
   - Chrome
   - V8

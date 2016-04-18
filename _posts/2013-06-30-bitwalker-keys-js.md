@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/bitwalker/keys.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-30T06:16:40+00:00'
+date: '2013-06-30T06:16:40Z'
 tags:
   - キーボード
   - JavaScript

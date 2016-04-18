@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/2990054'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-30T15:00:00+00:00'
+date: '2012-07-30T15:00:00Z'
 ---
 "プロトタイプと、あとクラス、継承、ミックスインと呼ばれている物の説明"
 ES5をベースにした、プロトタイプチェーン、new演算子の動作の説明。

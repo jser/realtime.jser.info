@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/s-a/iron-node'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-28T13:28:25+00:00'
+date: '2015-07-28T13:28:25Z'
 tags:
   - JavaScript
   - node.js

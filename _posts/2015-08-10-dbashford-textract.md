@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/dbashford/textract'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-10T13:20:22+00:00'
+date: '2015-08-10T13:20:22Z'
 tags:
   - JavaScript
   - library

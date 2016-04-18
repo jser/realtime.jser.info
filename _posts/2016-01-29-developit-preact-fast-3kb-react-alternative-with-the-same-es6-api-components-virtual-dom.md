@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/developit/preact'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-29T08:00:03+00:00'
+date: '2016-01-29T08:00:03Z'
 tags:
   - JavaScript
   - React

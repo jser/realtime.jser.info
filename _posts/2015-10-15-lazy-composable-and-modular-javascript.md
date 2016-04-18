@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://codewords.recurse.com/issues/four/lazy-composable-and-modular-javascript
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-15T08:59:08+00:00'
+date: '2015-10-15T08:59:08Z'
 tags:
   - JavaScript
   - ECMAScript

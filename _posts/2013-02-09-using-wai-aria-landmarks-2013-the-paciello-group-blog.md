@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.paciellogroup.com/blog/2013/02/using-wai-aria-landmarks-2013/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-09T09:36:00+00:00'
+date: '2013-02-09T09:36:00Z'
 tags:
   - WAI-ARIA
   - まとめ

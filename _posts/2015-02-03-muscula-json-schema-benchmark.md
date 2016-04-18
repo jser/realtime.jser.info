@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Muscula/json-schema-benchmark'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-03T14:31:20+00:00'
+date: '2015-02-03T14:31:20Z'
 tags:
   - node.js
   - JavaScript

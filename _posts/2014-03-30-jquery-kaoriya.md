@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.kaoriya.net/blog/2014/03/28/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-30T06:10:24+00:00'
+date: '2014-03-30T06:10:24Z'
 tags:
   - jQuery
   - JavaScript

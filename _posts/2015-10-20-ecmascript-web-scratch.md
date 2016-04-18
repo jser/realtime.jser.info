@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/10/18/ecmascript-paper/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-20T09:26:41+00:00'
+date: '2015-10-20T09:26:41Z'
 tags:
   - ECMAScript
   - まとめ

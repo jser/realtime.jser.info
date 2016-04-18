@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blog.jetbrains.com/webstorm/2013/09/welcome-webstorm-7-0-everything-you-need-at-your-fingertips-without-compromise/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-28T01:48:40+00:00'
+date: '2013-09-28T01:48:40Z'
 tags:
   - WebStorm
   - ReleaseNote

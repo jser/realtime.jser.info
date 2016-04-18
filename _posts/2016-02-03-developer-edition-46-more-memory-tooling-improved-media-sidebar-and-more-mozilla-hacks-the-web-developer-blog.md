@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://hacks.mozilla.org/2016/02/developer-edition-46-more-memory-tooling-improved-media-sidebar-and-more/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-03T08:33:42+00:00'
+date: '2016-02-03T08:33:42Z'
 tags:
   - firefox
   - debug

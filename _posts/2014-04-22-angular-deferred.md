@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/angular/deferred'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-22T15:32:32+00:00'
+date: '2014-04-22T15:32:32Z'
 tags:
   - JavaScript
   - Promises

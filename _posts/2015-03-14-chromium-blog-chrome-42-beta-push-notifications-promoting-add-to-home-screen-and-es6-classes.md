@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/03/chrome-42-beta-push-notifications_12.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-14T06:10:38+00:00'
+date: '2015-03-14T06:10:38Z'
 tags:
   - Chrome
   - ReleaseNote

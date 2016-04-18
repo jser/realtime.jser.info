@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://yj-creative.tumblr.com/post/100569738942/scripty-1-scripty01'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-26T01:14:08+00:00'
+date: '2014-10-26T01:14:08Z'
 tags:
   - JavaScript
   - スライド

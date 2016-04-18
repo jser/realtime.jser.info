@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/09/16/promises-spec-ref-list/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-16T11:24:58+00:00'
+date: '2014-09-16T11:24:58Z'
 tags:
   - JavaScript
   - Promises

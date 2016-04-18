@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://strongloop.com/strongblog/a-new-day-for-express/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-13T13:35:15+00:00'
+date: '2016-02-13T13:35:15Z'
 tags:
   - node.js
   - community

@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://blogs.windows.com/msedgedev/2015/05/06/a-break-from-the-past-part-2-saying-goodbye-to-activex-vbscript-attachevent/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-07T09:11:03+00:00'
+date: '2015-05-07T09:11:03Z'
 tags:
   - MSEdge
   - IE

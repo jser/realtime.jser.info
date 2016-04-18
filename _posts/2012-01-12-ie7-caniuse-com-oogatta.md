@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/oogatta/20120116/1326694238'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
-date: '2012-01-12T18:00:00+00:00'
+date: '2012-01-12T18:00:00Z'
 ---
 IE8以上対応の場合にできるようになることについて

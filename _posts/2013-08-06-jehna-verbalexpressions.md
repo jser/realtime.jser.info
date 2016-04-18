@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jehna/VerbalExpressions'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-06T12:20:09+00:00'
+date: '2013-08-06T12:20:09Z'
 tags:
   - JavaScript
   - 正規表現

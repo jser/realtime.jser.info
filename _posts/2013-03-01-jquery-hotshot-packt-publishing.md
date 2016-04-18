@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/jquery-hotshot/book'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-01T21:45:00+00:00'
+date: '2013-03-01T21:45:00Z'
 tags:
   - jQuery
   - book

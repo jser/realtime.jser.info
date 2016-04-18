@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/teramako/20130514/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-16T16:45:36+00:00'
+date: '2013-05-16T16:45:36Z'
 tags:
   - firefox
 ---

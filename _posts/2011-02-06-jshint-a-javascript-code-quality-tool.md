@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jshint.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-06T16:20:00+00:00'
+date: '2011-02-06T16:20:00Z'
 ---
 JSLintをフォークしたもの。
 個人というよりコミュニティやチームといった視点が置かれたコーディングルールチェックツール。

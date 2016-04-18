@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://vuejs.org/2014/03/22/vuejs-010-release/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-25T00:49:03+00:00'
+date: '2014-03-25T00:49:03Z'
 tags:
   - JavaScript
   - MVC

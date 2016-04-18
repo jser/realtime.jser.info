@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://strongloop.com/strongblog/new-io-js-features-you-may-not-be-using/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-14T02:30:18+00:00'
+date: '2015-06-14T02:30:18Z'
 tags:
   - node.js
   - JavaScript

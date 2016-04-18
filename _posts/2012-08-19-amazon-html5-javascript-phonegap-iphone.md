@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4839943710/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-19T12:26:00+00:00'
+date: '2012-08-19T12:26:00Z'
 ---
 2012年8月31日発売

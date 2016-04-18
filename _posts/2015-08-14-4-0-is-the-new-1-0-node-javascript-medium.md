@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/node-js-javascript/4-0-is-the-new-1-0-386597a3436d'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-14T06:31:15+00:00'
+date: '2015-08-14T06:31:15Z'
 tags:
   - node.js
   - ReleaseNote

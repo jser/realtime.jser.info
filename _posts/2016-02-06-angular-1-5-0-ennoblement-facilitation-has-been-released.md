@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://angularjs.blogspot.com/2016/02/angular-150-ennoblement-facilitation.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-06T12:29:03+00:00'
+date: '2016-02-06T12:29:03Z'
 tags:
   - AngularJS
   - ReleaseNote

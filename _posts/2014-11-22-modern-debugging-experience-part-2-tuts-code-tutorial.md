@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://code.tutsplus.com/tutorials/modern-debugging-experience-part-2--cms-22584
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-22T07:11:46+00:00'
+date: '2014-11-22T07:11:46Z'
 tags:
   - JavaScript
   - Chrome

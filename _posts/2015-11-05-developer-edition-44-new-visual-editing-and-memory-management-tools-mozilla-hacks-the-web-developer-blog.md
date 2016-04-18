@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://hacks.mozilla.org/2015/11/developer-edition-44-creative-tools-and-more/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-05T07:35:45+00:00'
+date: '2015-11-05T07:35:45Z'
 tags:
   - firefox
   - debug

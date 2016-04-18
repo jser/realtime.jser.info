@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/stomita/clipboard-hook'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-22T08:46:37+00:00'
+date: '2016-01-22T08:46:37Z'
 tags:
   - JavaScript
   - クリップボード

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/02/15/jquery-learning-center-welcome/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-13T18:54:00+00:00'
+date: '2013-02-13T18:54:00Z'
 tags:
   - jQuery
   - ReleaseNote

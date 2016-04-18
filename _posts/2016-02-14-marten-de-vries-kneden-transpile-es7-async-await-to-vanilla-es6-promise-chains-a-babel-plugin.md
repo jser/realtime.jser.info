@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/marten-de-vries/kneden'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-14T11:24:19+00:00'
+date: '2016-02-14T11:24:19Z'
 tags:
   - babel
   - plugin

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://javascriptair.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-22T14:52:47+00:00'
+date: '2015-11-22T14:52:47Z'
 tags:
   - JavaScript
   - podcast

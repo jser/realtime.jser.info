@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://www.amazon.com/Test-driven-JavaScript-Development-Kumar-Gupta-ebook/dp/B010T266P6
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-03T08:25:08+00:00'
+date: '2015-07-03T08:25:08Z'
 tags:
   - JavaScript
   - testing

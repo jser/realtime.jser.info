@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mattdesl/module-best-practices'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T14:23:34+00:00'
+date: '2014-10-19T14:23:34Z'
 tags:
   - node.js
   - JavaScript

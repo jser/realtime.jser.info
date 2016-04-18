@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/ChALkeR/notes/blob/master/Do-not-underestimate-credentials-leaks.md
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-07T15:12:22+00:00'
+date: '2015-12-07T15:12:22Z'
 tags:
   - node.js
   - セキュリティ

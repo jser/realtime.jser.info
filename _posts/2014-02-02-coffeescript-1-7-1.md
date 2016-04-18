@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.geta6.net/post/75337217382/coffeescript-1-7-1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-02T12:25:09+00:00'
+date: '2014-02-02T12:25:09Z'
 tags:
   - CoffeeScript
   - ReleaseNote

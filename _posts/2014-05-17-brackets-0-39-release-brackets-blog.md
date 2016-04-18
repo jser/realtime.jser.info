@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2014/05/15/brackets-0-39-release/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-17T18:41:33+00:00'
+date: '2014-05-17T18:41:33Z'
 tags:
   - editor
   - ReleaseNote

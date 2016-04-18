@@ -7,7 +7,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/mizchi/items/bd8befaffa8fe9f32522'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-15T02:08:34+00:00'
+date: '2015-03-15T02:08:34Z'
 tags:
   - JavaScript
   - データベース

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/yasuhiro-okada-aktsk/items/09ab40af831c6d73491b'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-22T13:39:33+00:00'
+date: '2015-11-22T13:39:33Z'
 tags:
   - JavaScript
   - Flux

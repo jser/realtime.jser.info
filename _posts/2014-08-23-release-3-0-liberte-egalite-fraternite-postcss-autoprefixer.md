@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/postcss/autoprefixer/releases/tag/3.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-23T03:09:31+00:00'
+date: '2014-08-23T03:09:31Z'
 tags:
   - CSS
   - node.js

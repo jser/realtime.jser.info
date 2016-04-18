@@ -7,7 +7,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/naomiaro/waveform-playlist'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-27T00:52:58+00:00'
+date: '2016-01-27T00:52:58Z'
 tags:
   - web
   - audio

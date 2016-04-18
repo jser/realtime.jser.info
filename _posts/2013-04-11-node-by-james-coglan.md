@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/okapies/5354929'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-11T14:03:23+00:00'
+date: '2013-04-11T14:03:23Z'
 tags:
   - JavaScript
   - 翻訳

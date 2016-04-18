@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://webreflection.blogspot.de/2013/03/5-reasons-you-should-avoid-proto.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-29T20:06:00+00:00'
+date: '2013-03-29T20:06:00Z'
 tags:
   - JavaScript
   - ECMA

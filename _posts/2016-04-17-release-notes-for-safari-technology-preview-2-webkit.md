@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://webkit.org/blog/6098/release-notes-for-safari-technology-preview-release-2/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-17T03:06:10+00:00'
+date: '2016-04-17T03:06:10Z'
 tags:
   - safari
   - ReleaseNote

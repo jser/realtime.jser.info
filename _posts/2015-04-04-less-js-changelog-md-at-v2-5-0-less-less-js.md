@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/less/less.js/blob/v2.5.0/CHANGELOG.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-04T03:20:54+00:00'
+date: '2015-04-04T03:20:54Z'
 tags:
   - CSS
   - JavaScript

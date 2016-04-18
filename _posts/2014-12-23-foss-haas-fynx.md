@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/foss-haas/fynx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-23T07:08:11+00:00'
+date: '2014-12-23T07:08:11Z'
 tags:
   - Flux
   - library

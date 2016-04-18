@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://shanetomlinson.com/2013/writing-testable-javascript-part-2-refactor-away-anti-patterns/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-10T14:51:00+00:00'
+date: '2013-03-10T14:51:00Z'
 tags:
   - javascript
   - event

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://dev.opera.com/blog/opera-35/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-03T08:03:59+00:00'
+date: '2016-02-03T08:03:59Z'
 tags:
   - Opera
   - Chrome

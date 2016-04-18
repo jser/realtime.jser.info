@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ricostacruz.com/backbone-patterns/#naming_convention'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-10T03:31:25+00:00'
+date: '2013-08-10T03:31:25Z'
 tags:
   - backbone.js
   - Tips

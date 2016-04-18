@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/jlongster/unshackling-javascript-with-macros'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-02T08:00:27+00:00'
+date: '2014-06-02T08:00:27Z'
 tags:
   - JavaScript
   - スライド

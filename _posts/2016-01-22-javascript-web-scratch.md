@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2016/01/22/es-usage-rate/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-22T10:38:44+00:00'
+date: '2016-01-22T10:38:44Z'
 tags:
   - JavaScript
   - ECMAScript

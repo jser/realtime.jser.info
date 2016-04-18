@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/659424'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-08T08:58:00+00:00'
+date: '2011-03-08T08:58:00Z'
 ---
 console.groupの実行してわかるサンプル

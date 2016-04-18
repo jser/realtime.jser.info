@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.getbootstrap.com/2013/07/27/bootstrap-3-rc1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-28T13:51:56+00:00'
+date: '2013-07-28T13:51:56Z'
 tags:
   - css
   - UI

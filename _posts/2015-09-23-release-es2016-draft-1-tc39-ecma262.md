@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/tc39/ecma262/releases/tag/es2016-draft-1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-23T06:00:49+00:00'
+date: '2015-09-23T06:00:49Z'
 tags:
   - ECMAScript
   - ReleaseNote

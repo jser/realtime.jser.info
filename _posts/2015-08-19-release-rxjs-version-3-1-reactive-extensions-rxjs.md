@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Reactive-Extensions/RxJS/releases/tag/v3.1.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-19T08:07:53+00:00'
+date: '2015-08-19T08:07:53Z'
 tags:
   - Rx
   - JavaScript

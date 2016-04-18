@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/node-js-javascript/io-js-week-of-may-29th-89bdeace6056'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-02T09:09:17+00:00'
+date: '2015-06-02T09:09:17Z'
 tags:
   - node.js
   - ReleaseNote

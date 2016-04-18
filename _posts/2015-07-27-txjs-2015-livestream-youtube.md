@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=6lEbk7xdlsQ'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-27T02:53:04+00:00'
+date: '2015-07-27T02:53:04Z'
 tags:
   - JavaScript
   - イベント

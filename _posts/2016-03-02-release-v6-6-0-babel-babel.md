@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/babel/babel/releases/tag/v6.6.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-02T02:40:28+00:00'
+date: '2016-03-02T02:40:28Z'
 tags:
   - babel
   - ReleaseNote

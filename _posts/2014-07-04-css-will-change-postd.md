@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://postd.cc/css-will-change-property/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-04T07:07:33+00:00'
+date: '2014-07-04T07:07:33Z'
 tags:
   - JavaScript
   - CSS

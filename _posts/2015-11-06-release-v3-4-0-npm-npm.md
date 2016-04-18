@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/npm/npm/releases/tag/v3.4.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-06T02:29:53+00:00'
+date: '2015-11-06T02:29:53Z'
 tags:
   - npm
   - ReleaseNote

@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mohayonao/web-audio-mock-api'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-02T14:58:29+00:00'
+date: '2016-03-02T14:58:29Z'
 tags:
   - 'web '
   - audio

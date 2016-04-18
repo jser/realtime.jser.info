@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2014/06/webide-lands-in-nightly/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-25T14:30:00+00:00'
+date: '2014-06-25T14:30:00Z'
 tags:
   - firefox
   - web

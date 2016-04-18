@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://uupaa.hatenablog.com/entry/2012/03/25/164257'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/index.json'
-date: '2012-03-06T01:20:00+00:00'
+date: '2012-03-06T01:20:00Z'
 ---
 WebSQLやWebStorageなどを使ってJavaScriptをキャッシュして次回読み込み時のコストを削減するライブラリについて

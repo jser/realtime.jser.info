@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/AriaFallah/WebpackTutorial'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-15T11:01:54+00:00'
+date: '2016-02-15T11:01:54Z'
 tags:
   - webpack
   - tutorial

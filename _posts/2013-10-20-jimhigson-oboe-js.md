@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jimhigson/oboe.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-20T11:27:12+00:00'
+date: '2013-10-20T11:27:12Z'
 tags:
   - JSON
   - JavaScript

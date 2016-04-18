@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://sporto.github.com/blog/2013/04/12/comparison-angular-backbone-can-ember/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-18T14:32:40+00:00'
+date: '2013-04-18T14:32:40Z'
 tags:
   - MVC
   - library

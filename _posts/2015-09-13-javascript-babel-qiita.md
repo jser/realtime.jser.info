@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/shuhei/items/96a852f7e0995fd42981'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-13T10:51:57+00:00'
+date: '2015-09-13T10:51:57Z'
 tags:
   - JavaScript
   - babel

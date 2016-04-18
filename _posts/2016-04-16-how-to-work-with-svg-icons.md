@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://fvsch.com/code/svg-icons/how-to/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-16T05:14:29+00:00'
+date: '2016-04-16T05:14:29Z'
 tags:
   - SVG
   - 画像

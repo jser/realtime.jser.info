@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.w3.org/2013/09/mobile-web-app-state/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-04T14:15:27+00:00'
+date: '2013-10-04T14:15:27Z'
 tags:
   - HTML5
   - W3C

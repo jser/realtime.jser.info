@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/cht8687/You-Dont-Need-Lodash-Underscore'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-12T03:18:55+00:00'
+date: '2016-02-12T03:18:55Z'
 tags:
   - JavaScript
 relatedLinks:

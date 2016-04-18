@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blog.cloudfour.com/safari-6-and-chrome-21-add-image-set-to-support-retina-images/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-14T20:56:00+00:00'
+date: '2012-08-14T20:56:00Z'
 ---
 Webkit系にprefix付き実装されたimage-setについて。
 デバイスピクセル比によって出す画像を変える。

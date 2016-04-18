@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/ForbesLindesay/sync-request'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-20T08:20:47+00:00'
+date: '2015-01-20T08:20:47Z'
 tags:
   - JavaScript
   - node.js

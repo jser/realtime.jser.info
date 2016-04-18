@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/typescript/archive/2015/07/27/introducing-typescript-nightlies.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-27T23:38:08+00:00'
+date: '2015-07-27T23:38:08Z'
 tags:
   - TypeScript
 ---

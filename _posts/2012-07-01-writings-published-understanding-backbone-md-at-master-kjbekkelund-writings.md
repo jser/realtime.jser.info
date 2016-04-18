@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/kjbekkelund/writings/blob/master/published/understanding-backbone.md/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-01T23:00:00+00:00'
+date: '2012-07-01T23:00:00Z'
 ---
 jQueryで書かれていたものをリファクタリングしながらBackboneを使った形にしていくチュートリアル。
 ステップごとにdiffを表示してて分かりやすい

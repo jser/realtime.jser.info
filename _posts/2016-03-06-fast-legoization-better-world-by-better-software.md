@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://glebbahmutov.com/blog/fast-legoization/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-06T02:48:21+00:00'
+date: '2016-03-06T02:48:21Z'
 tags:
   - JavaScript
   - webworker

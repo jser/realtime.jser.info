@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://wiki.ecmascript.org/doku.php?id=harmony:specification_drafts#january_15_2015_draft_rev_31
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-17T07:24:51+00:00'
+date: '2015-01-17T07:24:51Z'
 tags:
   - ECMAScript
   - spec

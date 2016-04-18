@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://cdn.oreillystatic.com/en/assets/1/event/93/An%20Overview%20of%20ECMAScript%206%20Presentation.pdf
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-02T10:58:00+00:00'
+date: '2013-06-02T10:58:00Z'
 tags:
   - ECMA
   - スライド

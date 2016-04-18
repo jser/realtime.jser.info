@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://engineering.linkedin.com/javascript/journey-promises-land'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-26T12:02:31+00:00'
+date: '2014-05-26T12:02:31Z'
 tags:
   - Promises
   - node.js

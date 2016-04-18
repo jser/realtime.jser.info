@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jqueryui.com/2012/04/jquery-ui-1-8-19/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
-date: '2012-04-14T06:00:00+00:00'
+date: '2012-04-14T06:00:00Z'
 ---
 jQuery UI 1.8.19リリース。
 bugfix中心のメンテナンスリリース

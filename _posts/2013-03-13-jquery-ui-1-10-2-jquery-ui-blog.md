@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jqueryui.com/2013/03/jquery-ui-1-10-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-13T04:21:00+00:00'
+date: '2013-03-13T04:21:00Z'
 tags:
   - jQuery
   - UI

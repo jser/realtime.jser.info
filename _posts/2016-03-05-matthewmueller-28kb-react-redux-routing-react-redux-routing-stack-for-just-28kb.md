@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/matthewmueller/28kb-react-redux-routing'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-05T09:12:53+00:00'
+date: '2016-03-05T09:12:53Z'
 tags:
   - JavaScript
   - React

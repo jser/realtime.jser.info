@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/staltz/flux-challenge'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-07T15:21:29+00:00'
+date: '2015-10-07T15:21:29Z'
 tags:
   - Flux
   - サンプル

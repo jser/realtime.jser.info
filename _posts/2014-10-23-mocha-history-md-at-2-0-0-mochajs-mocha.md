@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mochajs/mocha/blob/2.0.0/History.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-23T13:22:21+00:00'
+date: '2014-10-23T13:22:21Z'
 tags:
   - JavaScript
   - node.js

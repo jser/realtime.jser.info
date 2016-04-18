@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/a_bicky/20131027/1382875227'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-28T12:37:56+00:00'
+date: '2013-10-28T12:37:56Z'
 tags:
   - perl
   - JavaScript

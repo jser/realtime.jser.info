@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/testem/testem/releases/tag/v1.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-13T10:58:32+00:00'
+date: '2016-01-13T10:58:32Z'
 tags:
   - JavaScript
   - testing

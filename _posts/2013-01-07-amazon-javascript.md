@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844363123'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-07T19:16:00+00:00'
+date: '2013-01-07T19:16:00Z'
 ---
 2013年1月23日発売
 

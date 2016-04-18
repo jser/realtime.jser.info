@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://liginc.co.jp/web/js/151272'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-23T09:48:57+00:00'
+date: '2015-03-23T09:48:57Z'
 tags:
   - JavaScript
   - Rx

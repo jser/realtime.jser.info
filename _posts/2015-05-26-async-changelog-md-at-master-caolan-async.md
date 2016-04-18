@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/caolan/async/blob/master/CHANGELOG.md#v100'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-26T04:55:29+00:00'
+date: '2015-05-26T04:55:29Z'
 tags:
   - JavaScript
   - library

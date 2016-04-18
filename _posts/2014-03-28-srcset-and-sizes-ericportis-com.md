@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ericportis.com/posts/2014/srcset-sizes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-28T05:45:30+00:00'
+date: '2014-03-28T05:45:30Z'
 tags:
   - HTML
   - 画像

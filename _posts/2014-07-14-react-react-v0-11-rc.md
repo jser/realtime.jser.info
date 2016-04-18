@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2014/07/13/react-v0.11-rc1.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-14T13:15:09+00:00'
+date: '2014-07-14T13:15:09Z'
 tags:
   - JavaScript
   - library

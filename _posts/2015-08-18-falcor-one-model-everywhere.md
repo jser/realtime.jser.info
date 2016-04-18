@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://netflix.github.io/falcor/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-18T00:41:53+00:00'
+date: '2015-08-18T00:41:53Z'
 tags:
   - JavaScript
   - library

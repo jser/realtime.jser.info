@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://viget.com/extend/sharing-data-between-sass-and-javascript-with-json'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-12T01:36:19+00:00'
+date: '2014-06-12T01:36:19Z'
 tags:
   - JavaScript
   - Sass

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.mozilla.org/en-US/mobile/29.0/releasenotes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-29T14:47:00+00:00'
+date: '2014-04-29T14:47:00Z'
 tags:
   - firefox
   - ReleaseNote

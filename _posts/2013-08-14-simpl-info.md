@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.simpl.info/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-14T12:49:00+00:00'
+date: '2013-08-14T12:49:00Z'
 tags:
   - WebAPI
   - JavaScript

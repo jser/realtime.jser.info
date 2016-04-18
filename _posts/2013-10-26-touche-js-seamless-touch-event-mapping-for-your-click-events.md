@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://benhowdle.im/touche/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-26T17:22:33+00:00'
+date: '2013-10-26T17:22:33Z'
 tags:
   - JavaScript
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Constellation/iv/releases/tag/1.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-28T14:43:45+00:00'
+date: '2013-10-28T14:43:45Z'
 tags:
   - JavaScript
   - ECMAScript

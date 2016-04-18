@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/shuhei/items/6973fe694d29a193f224'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-18T11:52:25+00:00'
+date: '2014-12-18T11:52:25Z'
 tags:
   - protractor
   - E2E

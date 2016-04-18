@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://gihyo.jp/book/2014/978-4-7741-6711-4'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-29T12:29:46+00:00'
+date: '2014-08-29T12:29:46Z'
 tags:
   - TypeScript
   - book

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://socket.io/blog/socket.io-p2p/#'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-21T02:50:48+00:00'
+date: '2015-07-21T02:50:48Z'
 tags:
   - p2p
   - node.js

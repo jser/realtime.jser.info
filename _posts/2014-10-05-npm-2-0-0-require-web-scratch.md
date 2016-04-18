@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2014/10/04/npm2-local-module/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-05T04:04:02+00:00'
+date: '2014-10-05T04:04:02Z'
 tags:
   - npm
   - node.js

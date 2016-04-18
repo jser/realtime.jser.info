@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/zertosh/ssr-demo-kit'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-06T04:55:35+00:00'
+date: '2014-11-06T04:55:35Z'
 tags:
   - スライド
   - 動画

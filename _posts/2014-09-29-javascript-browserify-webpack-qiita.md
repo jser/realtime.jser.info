@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/derui@github/items/5233b4ef8fbde1e80d33'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-29T09:39:56+00:00'
+date: '2014-09-29T09:39:56Z'
 tags:
   - JavaScript
   - browserify

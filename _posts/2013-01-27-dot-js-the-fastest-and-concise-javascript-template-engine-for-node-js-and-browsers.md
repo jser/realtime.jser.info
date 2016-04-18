@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://olado.github.com/doT/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-27T10:44:00+00:00'
+date: '2013-01-27T10:44:00Z'
 ---
 JavaScriptテンプレートエンジン.
 

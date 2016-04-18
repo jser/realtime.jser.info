@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://jakearchibald.com/2016/streams-ftw/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-26T08:29:26+00:00'
+date: '2016-01-26T08:29:26Z'
 tags:
   - JavaScript
 ---

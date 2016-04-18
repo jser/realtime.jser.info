@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jscs-dev/node-jscs/releases/tag/v2.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-30T15:47:29+00:00'
+date: '2015-07-30T15:47:29Z'
 tags:
   - JavaScript
   - Tools

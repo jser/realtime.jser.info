@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://tech.pro/blog/1402/five-patterns-to-help-you-tame-asynchronous-javascript
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-08T12:59:35+00:00'
+date: '2013-07-08T12:59:35Z'
 tags:
   - JavaScript
   - まとめ

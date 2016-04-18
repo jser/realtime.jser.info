@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/harthur/kittydar'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-21T05:51:44+00:00'
+date: '2013-04-21T05:51:44Z'
 tags:
   - JavaScript
   - library

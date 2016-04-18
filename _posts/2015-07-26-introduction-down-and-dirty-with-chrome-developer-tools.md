@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blittle.github.io/chrome-dev-tools/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-26T13:35:53+00:00'
+date: '2015-07-26T13:35:53Z'
 tags:
   - Chrome
   - debug

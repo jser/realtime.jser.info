@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/journey-client-side-testing-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-27T08:55:25+00:00'
+date: '2015-01-27T08:55:25Z'
 tags:
   - JavaScript
   - testing

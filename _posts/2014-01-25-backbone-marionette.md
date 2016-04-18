@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/ryumatsukano/backbonemarionette'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-25T13:58:37+00:00'
+date: '2014-01-25T13:58:37Z'
 tags:
   - backbone.js
   - JavaScript

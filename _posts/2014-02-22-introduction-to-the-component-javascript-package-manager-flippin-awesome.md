@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://flippinawesome.org/2014/02/17/introduction-to-the-component-javascript-package-manager/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-22T12:19:52+00:00'
+date: '2014-02-22T12:19:52Z'
 tags:
   - JavaScript
   - Tools

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jqueryui.com/2012/11/jquery-ui-1-9-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-09T06:00:00+00:00'
+date: '2012-11-09T06:00:00Z'
 ---
 jQuery UI 1.9.2リリース

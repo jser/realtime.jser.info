@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.touchdevelop.com/blog/touchdevelopgoesopensource'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-11T10:46:17+00:00'
+date: '2015-02-11T10:46:17Z'
 tags:
   - JavaScript
   - TypeScript

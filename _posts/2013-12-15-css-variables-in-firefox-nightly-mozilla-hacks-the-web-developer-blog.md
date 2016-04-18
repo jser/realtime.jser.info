@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2013/12/css-variables-in-firefox-nightly/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-15T06:52:37+00:00'
+date: '2013-12-15T06:52:37Z'
 tags:
   - CSS
   - firefox

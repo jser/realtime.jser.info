@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.pocketjavascript.com/blog/2015/11/23/introducing-pokedex-org'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-25T13:37:18+00:00'
+date: '2015-11-25T13:37:18Z'
 tags:
   - JavaScript
   - performance

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/shiwano/typhen'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-21T07:29:43+00:00'
+date: '2015-01-21T07:29:43Z'
 tags:
   - TypeScript
   - Tools

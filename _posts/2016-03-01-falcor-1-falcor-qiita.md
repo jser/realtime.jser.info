@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/Quramy/items/5cf4f112d715c2e2d300'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-01T07:14:15+00:00'
+date: '2016-03-01T07:14:15Z'
 tags:
   - API
   - JavaScript

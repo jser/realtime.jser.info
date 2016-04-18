@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.microsoft.com/japan/presspass/detail.aspx?newsid=3969'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-15T13:39:00+00:00'
+date: '2011-03-15T13:39:00Z'
 ---
 IE9 日本だけ延期

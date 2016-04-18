@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.forest.impress.co.jp/docs/news/20120416_526780.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
-date: '2012-04-14T20:32:00+00:00'
+date: '2012-04-14T20:32:00Z'
 ---
 MSのIE検証用のVMイメージがアップデート(利用期限の延長)
 インストールはievmsを使うと便利

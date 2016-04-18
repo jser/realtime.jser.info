@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.kendoui.com/surveys/global-developer-survey-2013.aspx'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-08T12:46:19+00:00'
+date: '2013-08-08T12:46:19Z'
 tags:
   - HTML5
   - document

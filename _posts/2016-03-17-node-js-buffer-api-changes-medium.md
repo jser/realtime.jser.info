@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/@jasnell/node-js-buffer-api-changes-3c21f1048f97'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-17T08:28:02+00:00'
+date: '2016-03-17T08:28:02Z'
 tags:
   - node.js
 ---

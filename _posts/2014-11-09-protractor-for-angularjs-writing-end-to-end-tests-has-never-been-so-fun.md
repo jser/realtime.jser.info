@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ramonvictor.github.io/protractor/slides/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-09T01:51:43+00:00'
+date: '2014-11-09T01:51:43Z'
 tags:
   - protractor
   - AngularJS

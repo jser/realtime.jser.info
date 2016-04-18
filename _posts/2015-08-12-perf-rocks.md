@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://perf.rocks/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-12T12:43:07+00:00'
+date: '2015-08-12T12:43:07Z'
 tags:
   - performance
   - まとめ

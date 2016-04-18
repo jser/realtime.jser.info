@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2016/02/chrome-49-beta-css-custom-properties.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-03T08:18:14+00:00'
+date: '2016-02-03T08:18:14Z'
 tags:
   - Chrome
   - ReleaseNote

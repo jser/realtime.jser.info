@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1593272820/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-20T15:32:00+00:00'
+date: '2011-01-20T15:32:00Z'
 ---
 2011年1月22日発売
 [Eloquent JavaScript -- interactive tutorial](http://eloquentjavascript.net/ "Eloquent JavaScript -- interactive tutorial")の書籍版が発売。

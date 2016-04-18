@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://vojtajina.github.com/testacular/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-16T15:00:00+00:00'
+date: '2012-07-16T15:00:00Z'
 ---
 Node.js と Socket.ioを使ってJavaScriptテストフレームワーク。
 保存を監視して、開発しながらテストを実行するような環境。

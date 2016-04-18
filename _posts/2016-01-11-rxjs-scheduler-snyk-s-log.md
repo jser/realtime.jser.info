@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://saneyukis.hatenablog.com/entry/2016/01/04/055932'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-11T14:43:31+00:00'
+date: '2016-01-11T14:43:31Z'
 tags:
   - JavaScript
   - Rx

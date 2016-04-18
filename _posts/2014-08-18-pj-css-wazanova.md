@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wazanova.jp/items/1484'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-18T05:44:12+00:00'
+date: '2014-08-18T05:44:12Z'
 tags:
   - CSS
   - 設計

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://backbonejs.org'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-15T05:50:37+00:00'
+date: '2014-02-15T05:50:37Z'
 tags:
   - backbone.js
   - library

@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/nodejs/io.js/blob/master/CHANGELOG.md#2015-08-04-version-300-rvagg
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-05T12:49:51+00:00'
+date: '2015-08-05T12:49:51Z'
 tags:
   - node.js
   - ReleaseNote

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.thomasboyt.com/2013/06/21/es6-module-transpiler'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-30T03:08:56+00:00'
+date: '2013-06-30T03:08:56Z'
 tags:
   - JavaScript
   - ECMA

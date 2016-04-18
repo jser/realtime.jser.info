@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://updates.html5rocks.com/2015/03/push-notificatons-on-the-open-web'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-14T06:13:12+00:00'
+date: '2015-03-14T06:13:12Z'
 tags:
   - Chrome
   - ServiceWorker

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2014/06/es6-schedule.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-07T01:49:35+00:00'
+date: '2014-06-07T01:49:35Z'
 tags:
   - ECMAScript
 ---

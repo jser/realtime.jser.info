@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://pirosikick.github.io/eslintrc-editor/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-25T10:49:12+00:00'
+date: '2015-10-25T10:49:12Z'
 tags:
   - JavaScript
   - Tools

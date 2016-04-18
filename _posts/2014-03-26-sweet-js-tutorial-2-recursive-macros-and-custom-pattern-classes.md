@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://jlongster.com/Sweet.js-Tutorial--2--Recursive-Macros-and-Custom-Pattern-Classes
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-26T06:35:51+00:00'
+date: '2014-03-26T06:35:51Z'
 tags:
   - JavaScript
   - tutorial

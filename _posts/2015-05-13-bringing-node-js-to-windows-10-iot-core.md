@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blogs.windows.com/buildingapps/2015/05/12/bringing-node-js-to-windows-10-iot-core/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-13T06:59:55+00:00'
+date: '2015-05-13T06:59:55Z'
 tags:
   - node.js
   - JavaScript

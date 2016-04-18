@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/teramako/20130521/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-22T00:25:57+00:00'
+date: '2013-05-22T00:25:57Z'
 tags:
   - ECMA
   - i18n

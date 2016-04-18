@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/the-javascript-looping-evolution/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-10T12:43:54+00:00'
+date: '2015-08-10T12:43:54Z'
 tags:
   - JavaScript
   - ECMAScript

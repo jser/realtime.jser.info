@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/ie_ja/archive/2012/06/21/advances-in-javascript-performance-in-ie10-and-windows-8.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-08T03:00:00+00:00'
+date: '2012-06-08T03:00:00Z'
 ---
 Advances in JavaScript Performance in IE10 and Windows 8の日本語訳。
 IE10のChakraエンジンについて。

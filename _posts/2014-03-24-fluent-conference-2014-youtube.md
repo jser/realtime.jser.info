@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/playlist?list=PL055Epbe6d5bab7rZ3i83OtMmD-d9uq2K'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-24T02:56:39+00:00'
+date: '2014-03-24T02:56:39Z'
 tags:
   - JavaScript
   - イベント

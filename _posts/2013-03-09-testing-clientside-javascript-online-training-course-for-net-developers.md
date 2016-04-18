@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://pluralsight.com/training/Courses/TableOfContents/testing-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-09T01:57:00+00:00'
+date: '2013-03-09T01:57:00Z'
 tags:
   - javascript
   - 動画

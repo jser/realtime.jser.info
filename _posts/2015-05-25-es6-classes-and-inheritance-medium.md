@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/@mrzepinski/es6-classes-and-inheritance-607804080906'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-25T15:45:53+00:00'
+date: '2015-05-25T15:45:53Z'
 tags:
   - JavaScript
   - ECMAScript

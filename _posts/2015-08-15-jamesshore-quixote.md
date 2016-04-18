@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jamesshore/quixote'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-15T11:08:00+00:00'
+date: '2015-08-15T11:08:00Z'
 tags:
   - CSS
   - JavaScript

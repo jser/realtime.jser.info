@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/sapphire-al2o3/webgl-reference-jp'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-30T14:31:00+00:00'
+date: '2013-05-30T14:31:00Z'
 tags:
   - WebGL
   - リファレンス

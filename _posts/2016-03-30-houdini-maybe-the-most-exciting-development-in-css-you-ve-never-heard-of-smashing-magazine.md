@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://www.smashingmagazine.com/2016/03/houdini-maybe-the-most-exciting-development-in-css-youve-never-heard-of/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-30T08:16:26+00:00'
+date: '2016-03-30T08:16:26Z'
 tags:
   - CSS
 ---

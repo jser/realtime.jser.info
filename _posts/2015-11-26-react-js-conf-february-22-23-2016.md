@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://conf.reactjs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-26T00:59:02+00:00'
+date: '2015-11-26T00:59:02Z'
 tags:
   - React
   - イベント

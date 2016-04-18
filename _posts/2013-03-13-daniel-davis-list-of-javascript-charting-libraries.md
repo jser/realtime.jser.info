@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://my.opera.com/tagawa/blog/list-of-javascript-charting-libraries'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-13T22:48:00+00:00'
+date: '2013-03-13T22:48:00Z'
 tags:
   - javascript
   - グラフ

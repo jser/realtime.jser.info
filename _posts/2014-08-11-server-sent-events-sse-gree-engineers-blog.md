@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://labs.gree.jp/blog/2014/08/11070/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-11T12:33:51+00:00'
+date: '2014-08-11T12:33:51Z'
 tags:
   - JavaScript
   - W3C

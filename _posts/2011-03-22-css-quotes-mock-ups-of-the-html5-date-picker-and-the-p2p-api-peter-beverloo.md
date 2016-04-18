@@ -5,6 +5,6 @@ layout: post
 itemUrl: >-
   http://peter.sh/2011/03/css-quotes-mock-ups-of-the-html5-date-picker-and-the-p2p-api/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-22T18:20:00+00:00'
+date: '2011-03-22T18:20:00Z'
 ---
 ChromiumでHTML5 peer-to-peer connection APIの実装が始まった

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://googlechromereleases.blogspot.com/2014/10/stable-channel-update.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-09T08:17:08+00:00'
+date: '2014-10-09T08:17:08Z'
 tags:
   - Chrome
   - ReleaseNote

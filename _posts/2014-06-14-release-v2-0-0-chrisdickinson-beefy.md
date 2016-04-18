@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/chrisdickinson/beefy/releases/tag/v2.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-14T03:07:53+00:00'
+date: '2014-06-14T03:07:53Z'
 tags:
   - JavaScript
   - browserify

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://6to5.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-09T01:13:49+00:00'
+date: '2015-01-09T01:13:49Z'
 tags:
   - ECMAScript
   - JavaScript

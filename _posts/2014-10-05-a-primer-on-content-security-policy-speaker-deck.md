@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/polarblau/a-primer-on-content-security-policy'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-05T04:46:22+00:00'
+date: '2014-10-05T04:46:22Z'
 tags:
   - CSP
   - スライド

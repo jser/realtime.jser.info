@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/boo1ean/casual'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-06T04:30:14+00:00'
+date: '2014-02-06T04:30:14Z'
 tags:
   - JavaScript
   - library

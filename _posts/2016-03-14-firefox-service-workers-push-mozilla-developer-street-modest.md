@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://dev.mozilla.jp/2016/03/debugging-service-workers-and-push-with-firefox-devtools/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-14T14:43:33+00:00'
+date: '2016-03-14T14:43:33Z'
 tags:
   - firefox
   - debug

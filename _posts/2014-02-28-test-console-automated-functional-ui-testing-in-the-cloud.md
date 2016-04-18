@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://testconsole.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-28T13:18:13+00:00'
+date: '2014-02-28T13:18:13Z'
 tags:
   - webservice
   - debug

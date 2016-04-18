@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/hokaccha/introduction-to-react'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-22T07:30:21+00:00'
+date: '2015-02-22T07:30:21Z'
 tags:
   - JavaScript
   - React

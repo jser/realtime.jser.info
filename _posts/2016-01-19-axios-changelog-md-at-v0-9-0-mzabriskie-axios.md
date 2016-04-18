@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mzabriskie/axios/blob/v0.9.0/CHANGELOG.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-19T15:21:59+00:00'
+date: '2016-01-19T15:21:59Z'
 tags:
   - JavaScript
   - Promises

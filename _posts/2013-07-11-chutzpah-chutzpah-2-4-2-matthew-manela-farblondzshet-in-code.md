@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://matthewmanela.com/blog/chutzpah-2-4-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-11T07:10:55+00:00'
+date: '2013-07-11T07:10:55Z'
 tags:
   - JavaScript
   - windows

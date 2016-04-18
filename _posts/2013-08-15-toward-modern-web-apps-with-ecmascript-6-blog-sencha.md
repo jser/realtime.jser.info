@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/toward-modern-web-apps-with-ecmascript-6/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-15T12:49:13+00:00'
+date: '2013-08-15T12:49:13Z'
 tags:
   - JavaScript
   - ECMAScript

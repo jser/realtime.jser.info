@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.windows.com/msedgedev/2015/08/17/windows-10-virtual-machines-now-available-on-microsoft-edge-dev/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-18T07:59:02+00:00'
+date: '2015-08-18T07:59:02Z'
 tags:
   - MS
   - MSEdge

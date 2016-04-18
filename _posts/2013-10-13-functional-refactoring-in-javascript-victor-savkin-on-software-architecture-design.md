@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://victorsavkin.com/post/63551894251/functional-refactoring-in-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-13T08:13:13+00:00'
+date: '2013-10-13T08:13:13Z'
 tags:
   - JavaScript
 ---

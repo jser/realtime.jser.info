@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://shanetomlinson.com/2013/testing-javascript-frontend-part-1-anti-patterns-and-fixes/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-04T00:36:00+00:00'
+date: '2013-01-04T00:36:00Z'
 ---
 アンチパターンのコード例を元にテストしやすいJavaScriptの書き方について.
 

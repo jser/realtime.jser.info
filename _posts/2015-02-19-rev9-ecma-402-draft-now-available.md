@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://esdiscuss.org/topic/rev9-ecma-402-draft-now-available'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-19T08:15:25+00:00'
+date: '2015-02-19T08:15:25Z'
 tags:
   - ecma
   - spec

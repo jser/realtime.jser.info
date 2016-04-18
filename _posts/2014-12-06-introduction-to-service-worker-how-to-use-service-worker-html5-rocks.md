@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/service-worker/introduction/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-06T15:40:40+00:00'
+date: '2014-12-06T15:40:40Z'
 tags:
   - JavaScript
   - tutorial

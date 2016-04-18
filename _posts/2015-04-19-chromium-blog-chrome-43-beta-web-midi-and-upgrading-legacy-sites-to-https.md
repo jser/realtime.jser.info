@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/04/chrome-43-beta-web-midi-and-upgrading.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-19T13:24:17+00:00'
+date: '2015-04-19T13:24:17Z'
 tags:
   - Chrome
   - ReleaseNote

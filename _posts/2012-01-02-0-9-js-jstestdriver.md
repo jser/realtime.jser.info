@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://0-9.tumblr.com/post/15614207218/js-jstestdriver'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
-date: '2012-01-02T07:25:00+00:00'
+date: '2012-01-02T07:25:00Z'
 ---
 JsTestDriverのドキュメントについて

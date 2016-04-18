@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://guybedford.com/es6-modules-today'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-30T11:42:08+00:00'
+date: '2013-06-30T11:42:08Z'
 tags:
   - JavaScript
   - ECMA

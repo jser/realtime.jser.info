@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/uber/potter'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T06:03:31+00:00'
+date: '2014-10-19T06:03:31Z'
 tags:
   - node.js
   - console

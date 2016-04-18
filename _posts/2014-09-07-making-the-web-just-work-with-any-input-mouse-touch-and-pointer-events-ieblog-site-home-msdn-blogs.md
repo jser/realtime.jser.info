@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/ie/archive/2014/09/05/making-the-web-just-work-with-any-input.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-07T15:09:41+00:00'
+date: '2014-09-07T15:09:41Z'
 tags:
   - IE
   - browser

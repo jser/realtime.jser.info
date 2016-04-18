@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9780992279455.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-06T02:06:21+00:00'
+date: '2014-07-06T02:06:21Z'
 tags:
   - AngularJS
   - book

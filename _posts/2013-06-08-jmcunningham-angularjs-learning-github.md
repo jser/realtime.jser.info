@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jmcunningham/AngularJS-Learning'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-08T08:34:31+00:00'
+date: '2013-06-08T08:34:31Z'
 tags:
   - AngularJS
   - links

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tech.pepabo.com/2016/04/13/coffeescript-transpiled-es/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-14T01:23:06+00:00'
+date: '2016-04-14T01:23:06Z'
 tags:
   - CoffeeScript
   - JavaScript

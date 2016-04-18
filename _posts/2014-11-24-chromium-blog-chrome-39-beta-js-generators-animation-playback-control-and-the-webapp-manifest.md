@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2014/10/chrome-39-beta-js-generators-animation.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-24T14:03:38+00:00'
+date: '2014-11-24T14:03:38Z'
 tags:
   - Chrome
   - ReleaseNote

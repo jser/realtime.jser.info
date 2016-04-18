@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://jakearchibald.com/2016/streaming-template-literals/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-10T08:24:40+00:00'
+date: '2016-04-10T08:24:40Z'
 tags:
   - ECMAScript
   - JavaScript

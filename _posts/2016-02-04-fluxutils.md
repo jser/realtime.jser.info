@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/UyeongJu/fluxutils'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-04T08:49:25+00:00'
+date: '2016-02-04T08:49:25Z'
 tags:
   - Flux
   - スライド

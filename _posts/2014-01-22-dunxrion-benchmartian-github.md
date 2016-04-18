@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/dunxrion/benchmartian'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-22T02:44:42+00:00'
+date: '2014-01-22T02:44:42Z'
 tags:
   - JavaScript
   - Tools

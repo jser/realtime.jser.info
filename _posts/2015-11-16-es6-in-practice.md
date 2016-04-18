@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/teppeis/es6-in-practice'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-16T09:34:48+00:00'
+date: '2015-11-16T09:34:48Z'
 tags:
   - ECMAScript
   - スライド

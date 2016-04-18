@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/Phoenixmatrix/c1f552d5ed919def5994.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-15T13:33:52+00:00'
+date: '2016-03-15T13:33:52Z'
 tags:
   - JavaScript
   - Tools

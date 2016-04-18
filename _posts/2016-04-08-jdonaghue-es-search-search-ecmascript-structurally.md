@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jdonaghue/es-search'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-08T13:52:45+00:00'
+date: '2016-04-08T13:52:45Z'
 tags:
   - AST
   - 検索

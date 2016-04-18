@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4048869566/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-27T15:00:00+00:00'
+date: '2013-02-27T15:00:00Z'
 tags:
   - mobile
   - Sencha

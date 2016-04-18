@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://futurice.com/blog/reactive-mvc-and-the-virtual-dom'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-03T14:34:52+00:00'
+date: '2014-11-03T14:34:52Z'
 tags:
   - React
   - Flux

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/uupaa/20110123/1295721414'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-09T07:32:00+00:00'
+date: '2011-01-09T07:32:00Z'
 ---
 JavaScriptで演算子の組み合わせやビット演算などで短く書く方法。
 `-~n`とかゴルフでよく見かける。

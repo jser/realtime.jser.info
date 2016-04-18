@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lonely-pixel.com/blog/making-a-particle-engine-using-javascript-part-1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-28T15:39:30+00:00'
+date: '2014-02-28T15:39:30Z'
 tags:
   - JavaScript
 ---

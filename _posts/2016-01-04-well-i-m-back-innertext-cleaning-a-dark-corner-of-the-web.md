@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://robert.ocallahan.org/2016/01/innertext.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-04T12:21:56+00:00'
+date: '2016-01-04T12:21:56Z'
 tags:
   - firefox
   - DOM

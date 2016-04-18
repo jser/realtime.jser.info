@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/pmdartus/snapline'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-29T00:29:02+00:00'
+date: '2016-03-29T00:29:02Z'
 tags:
   - Chrome
   - debug

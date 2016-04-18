@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://coffeescript.org'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-27T01:17:08+00:00'
+date: '2014-08-27T01:17:08Z'
 tags:
   - CoffeeScript
   - ReleaseNote

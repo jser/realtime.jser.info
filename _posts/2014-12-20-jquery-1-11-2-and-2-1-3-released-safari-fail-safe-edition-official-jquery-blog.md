@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blog.jquery.com/2014/12/18/jquery-1-11-2-and-2-1-3-released-safari-fail-safe-edition/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-20T01:20:20+00:00'
+date: '2014-12-20T01:20:20Z'
 tags:
   - jQuery
   - ReleaseNote

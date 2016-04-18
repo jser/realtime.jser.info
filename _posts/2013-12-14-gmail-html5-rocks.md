@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/ja/tutorials/memory/effectivemanagement/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-14T09:26:54+00:00'
+date: '2013-12-14T09:26:54Z'
 tags:
   - google
   - mail

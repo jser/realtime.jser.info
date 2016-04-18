@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://media.fitzgeraldnick.com/velocity2014/presentation/html5/template.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-29T13:04:49+00:00'
+date: '2014-06-29T13:04:49Z'
 tags:
   - firefox
   - JavaScript

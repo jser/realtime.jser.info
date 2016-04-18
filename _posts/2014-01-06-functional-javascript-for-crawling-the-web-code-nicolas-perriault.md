@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://nicolas.perriault.net/code/2013/functional-javascript-for-crawling-the-web/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-06T12:51:16+00:00'
+date: '2014-01-06T12:51:16Z'
 tags:
   - JavaScript
   - DOM

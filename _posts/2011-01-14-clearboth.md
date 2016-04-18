@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.clearboth.org/wiki/doku.php?id=document:etc:recommend_books'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-14T23:32:00+00:00'
+date: '2011-01-14T23:32:00Z'
 ---
 韓国のフロントエンジニアに対して行ったアンケートの結果。
 "フロントエンド開発のための参考図書"

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://pirosikick.hateblo.jp/entry/2014/07/26/005952'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-28T10:49:18+00:00'
+date: '2014-07-28T10:49:18Z'
 tags:
   - TypeScript
   - WebGL

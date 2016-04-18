@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://fredkschott.com/post/2014/05/nodejs-testing-essentials/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-15T01:10:35+00:00'
+date: '2014-05-15T01:10:35Z'
 tags:
   - node.js
   - testing

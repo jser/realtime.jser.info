@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-10T07:20:34+00:00'
+date: '2015-07-10T07:20:34Z'
 tags:
   - JavaScript
   - DOM

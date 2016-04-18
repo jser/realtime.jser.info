@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://simonsmith.io/handling-props-and-classnames-in-react/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-03T08:45:11+00:00'
+date: '2016-02-03T08:45:11Z'
 tags:
   - React
 ---

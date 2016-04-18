@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://dailyjs.com/2014/12/01/javascript-survey/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-01T23:06:20+00:00'
+date: '2014-12-01T23:06:20Z'
 tags:
   - JavaScript
 ---

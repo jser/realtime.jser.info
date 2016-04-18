@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wesbos.com/javascript-modules/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-22T02:53:21+00:00'
+date: '2015-12-22T02:53:21Z'
 tags:
   - JavaScript
   - ECMAScript

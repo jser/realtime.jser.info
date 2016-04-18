@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/typescript/archive/2016/01/28/announcing-typescript-1-8-beta.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-29T03:49:01+00:00'
+date: '2016-01-29T03:49:01Z'
 tags:
   - TypeScript
   - ReleaseNote

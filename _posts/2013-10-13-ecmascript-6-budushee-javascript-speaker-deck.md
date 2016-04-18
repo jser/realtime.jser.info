@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/simonenko/ecmascript-6-budushchieie-javascript'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-13T03:47:50+00:00'
+date: '2013-10-13T03:47:50Z'
 tags:
   - ECMAScript
   - JavaScript

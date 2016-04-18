@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-22T12:32:11+00:00'
+date: '2014-07-22T12:32:11Z'
 tags:
   - WebComponents
   - library

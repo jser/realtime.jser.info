@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://dev.mozilla.jp/2013/12/split-console-pretty-print-minified-js-and-more-firefox-developer-tools-episode-28/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-22T06:30:11+00:00'
+date: '2013-12-22T06:30:11Z'
 tags:
   - JavaScript
   - firefox

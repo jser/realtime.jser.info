@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.g200kg.com/jp/docs/webaudio/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-17T13:30:52+00:00'
+date: '2013-05-17T13:30:52Z'
 tags:
   - WebAPI
   - sound

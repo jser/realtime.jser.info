@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://googledevjp.blogspot.com/2014/10/html5rocks.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-04T05:22:02+00:00'
+date: '2014-10-04T05:22:02Z'
 tags:
   - 翻訳
   - まとめ

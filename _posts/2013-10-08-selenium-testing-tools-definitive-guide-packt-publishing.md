@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.packtpub.com/selenium-testing-tools-definitive-guide/book'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-08T04:40:33+00:00'
+date: '2013-10-08T04:40:33Z'
 tags:
   - browser
   - testing

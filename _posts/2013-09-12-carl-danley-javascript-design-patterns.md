@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://carldanley.com/javascript-design-patterns/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-12T14:10:35+00:00'
+date: '2013-09-12T14:10:35Z'
 tags:
   - JavaScript
   - デザインパターン

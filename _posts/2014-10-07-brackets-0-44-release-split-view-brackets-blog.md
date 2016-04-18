@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2014/10/06/brackets-0-44-release-split-view/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-07T08:27:40+00:00'
+date: '2014-10-07T08:27:40Z'
 tags:
   - JavaScript
   - editor

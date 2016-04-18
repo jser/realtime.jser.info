@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.rjzaworski.com/2014/03/naming-javascript-functions/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-16T06:30:14+00:00'
+date: '2014-03-16T06:30:14Z'
 tags:
   - JavaScript
   - debug

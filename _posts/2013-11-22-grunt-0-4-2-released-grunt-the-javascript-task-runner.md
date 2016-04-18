@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://gruntjs.com/blog/2013-11-21-grunt-0.4.2-released'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-22T07:17:49+00:00'
+date: '2013-11-22T07:17:49Z'
 tags:
   - Grunt
   - ReleaseNote

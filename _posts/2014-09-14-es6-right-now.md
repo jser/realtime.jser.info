@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://johnkpaul.github.io/presentations/jqcon/2014/es6-now/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-14T09:10:04+00:00'
+date: '2014-09-14T09:10:04Z'
 tags:
   - ECMAScript
   - JavaScript

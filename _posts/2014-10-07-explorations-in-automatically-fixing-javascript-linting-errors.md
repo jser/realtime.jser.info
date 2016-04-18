@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/blog/fixmyjs/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-07T15:13:40+00:00'
+date: '2014-10-07T15:13:40Z'
 tags:
   - JavaScript
   - editor

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.andyet.com/2014/08/13/opinionated-rundown-of-js-frameworks'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-14T01:25:51+00:00'
+date: '2014-08-14T01:25:51Z'
 tags:
   - JavaScript
   - MVC

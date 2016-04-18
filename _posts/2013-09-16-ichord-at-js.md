@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/ichord/At.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-16T10:47:06+00:00'
+date: '2013-09-16T10:47:06Z'
 tags:
   - github
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wakaba.github.io/packages/slides/20130523-future'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-16T06:17:19+00:00'
+date: '2013-06-16T06:17:19Z'
 tags:
   - DOM
   - スライド

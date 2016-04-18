@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jquerymobile.com/blog/2012/09/05/jquery-mobile-1-2-beta-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/index.json'
-date: '2012-09-27T12:00:00+00:00'
+date: '2012-09-27T12:00:00Z'
 ---
 jQuery Mobile 1.2 Betaリリース。
 mobile safari/Android Browserで読み込むだけでXSSができる脆弱性が修正されてる

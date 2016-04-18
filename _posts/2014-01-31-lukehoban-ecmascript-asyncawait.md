@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/lukehoban/ecmascript-asyncawait'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-31T00:48:21+00:00'
+date: '2014-01-31T00:48:21Z'
 tags:
   - sweet.js
   - JavaScript

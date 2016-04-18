@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://speakerdeck.com/ariya/bringing-javascript-code-analysis-to-the-next-level
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/index.json'
-date: '2012-10-07T15:00:00+00:00'
+date: '2012-10-07T15:00:00Z'
 ---
 AriyaさんのEsrpimaについてのスライド。
 Esprimaを使ったコード解析のデモやツール等の紹介。

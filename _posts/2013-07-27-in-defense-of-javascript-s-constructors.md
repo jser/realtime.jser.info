@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2013/07/defending-constructors.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-27T12:57:55+00:00'
+date: '2013-07-27T12:57:55Z'
 tags:
   - JavaScript
 ---

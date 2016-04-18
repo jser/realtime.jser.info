@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.thomasboyt.com/2013/09/01/maintainable-grunt.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-02T01:12:23+00:00'
+date: '2013-09-02T01:12:23Z'
 tags:
   - Grunt
   - Tips

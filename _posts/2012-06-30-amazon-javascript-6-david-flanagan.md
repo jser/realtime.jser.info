@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4873115531/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-30T23:00:00+00:00'
+date: '2012-06-30T23:00:00Z'
 ---
 2012年8月10日発売
 サイ本JavaScript第6版のリファレンス部

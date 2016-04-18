@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://girliemac.com/blog/2011/12/21/quick-fun-css3-filter-effects/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-08T22:20:00+00:00'
+date: '2011-12-08T22:20:00Z'
 ---
 CSS Filter Effectsのサンプル集
 Webkitのnightlyで利用できる

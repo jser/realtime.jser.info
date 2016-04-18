@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://platform-status.mozilla.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-06T01:53:23+00:00'
+date: '2015-12-06T01:53:23Z'
 tags:
   - firefox
   - browser

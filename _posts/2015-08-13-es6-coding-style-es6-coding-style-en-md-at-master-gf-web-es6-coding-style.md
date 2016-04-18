@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/gf-web/es6-coding-style/blob/master/es6-coding-style-en.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-13T02:28:13+00:00'
+date: '2015-08-13T02:28:13Z'
 tags:
   - JavaScript
   - ECMAScript

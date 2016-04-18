@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/danvk/source-map-explorer'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-16T10:03:11+00:00'
+date: '2015-11-16T10:03:11Z'
 tags:
   - sourcemap
   - debug

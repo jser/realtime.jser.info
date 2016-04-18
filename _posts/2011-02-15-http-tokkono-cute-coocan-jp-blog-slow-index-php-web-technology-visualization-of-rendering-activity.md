@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://tokkono.cute.coocan.jp/blog/slow/index.php/web-technology/visualization-of-rendering-activity/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-15T09:15:00+00:00'
+date: '2011-02-15T09:15:00Z'
 ---
 リフローなどの時間をGUIで確認できるツールについての紹介
 dynaTrace(IE,Firefox向けベータもでた)とSpeedTracer(Webkit)を使ってリフローの観測

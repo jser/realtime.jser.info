@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/01/chrome-41-beta-new-es6-features-and.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-23T12:46:19+00:00'
+date: '2015-01-23T12:46:19Z'
 tags:
   - Chrome
   - ReleaseNote

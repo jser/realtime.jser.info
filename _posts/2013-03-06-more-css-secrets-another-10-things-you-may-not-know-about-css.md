@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lea.verou.me/more-css-secrets/#intro'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-06T00:09:00+00:00'
+date: '2013-03-06T00:09:00Z'
 tags:
   - css
   - スライド

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/angular/protractor/blob/2.5.0/CHANGELOG.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-08T13:46:19+00:00'
+date: '2015-10-08T13:46:19Z'
 tags:
   - JavaScript
   - testing

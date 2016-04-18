@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.mobilexweb.com/blog/safari-ios8-iphone6-web-developers-designers'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-21T03:34:52+00:00'
+date: '2014-09-21T03:34:52Z'
 tags:
   - ios
   - safari

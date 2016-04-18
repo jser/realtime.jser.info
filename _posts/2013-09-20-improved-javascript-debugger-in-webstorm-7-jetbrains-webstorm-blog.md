@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blog.jetbrains.com/webstorm/2013/09/improved-javascript-debugger-in-webstorm-7/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-20T17:09:51+00:00'
+date: '2013-09-20T17:09:51Z'
 tags:
   - WebStorm
   - デバック

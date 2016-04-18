@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/progressive-web-apps'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-19T13:12:42+00:00'
+date: '2016-01-19T13:12:42Z'
 tags:
   - web
 ---

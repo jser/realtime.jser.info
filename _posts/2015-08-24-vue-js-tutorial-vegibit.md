@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://vegibit.com/vue-js-tutorial/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-24T05:23:14+00:00'
+date: '2015-08-24T05:23:14Z'
 tags:
   - JavaScript
   - library

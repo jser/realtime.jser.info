@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920028277.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-01T09:27:00+00:00'
+date: '2013-03-01T09:27:00Z'
 tags:
   - javascript
   - jasmine

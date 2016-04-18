@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://meri-stuff.blogspot.com/2013/06/building-javascript-library-with-gruntjs.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-07T05:49:17+00:00'
+date: '2013-07-07T05:49:17Z'
 tags:
   - JavaScript
   - Tools

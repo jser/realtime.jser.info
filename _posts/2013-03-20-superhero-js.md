@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://superherojs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-20T02:24:00+00:00'
+date: '2013-03-20T02:24:00Z'
 tags:
   - javascript
   - links

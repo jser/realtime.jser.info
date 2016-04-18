@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/pivotal/jasmine/blob/v2.0.0/release_notes/20.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-23T06:50:28+00:00'
+date: '2013-12-23T06:50:28Z'
 tags:
   - JavaScript
   - testing

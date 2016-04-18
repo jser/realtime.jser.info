@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/kosei27/3850/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-26T12:24:40+00:00'
+date: '2013-12-26T12:24:40Z'
 tags:
   - Sass
 ---

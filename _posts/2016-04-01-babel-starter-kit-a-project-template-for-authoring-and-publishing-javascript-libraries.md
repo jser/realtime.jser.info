@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.kriasoft.com/babel-starter-kit/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-01T14:12:16+00:00'
+date: '2016-04-01T14:12:16Z'
 tags:
   - babel
   - JavaScript

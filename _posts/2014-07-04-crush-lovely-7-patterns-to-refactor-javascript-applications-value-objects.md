@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-04T15:18:39+00:00'
+date: '2014-07-04T15:18:39Z'
 tags:
   - JavaScript
   - API

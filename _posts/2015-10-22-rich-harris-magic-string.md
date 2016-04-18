@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Rich-Harris/magic-string'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-22T23:51:26+00:00'
+date: '2015-10-22T23:51:26Z'
 tags:
   - JavaScript
   - AST

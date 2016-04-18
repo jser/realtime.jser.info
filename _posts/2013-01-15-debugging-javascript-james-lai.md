@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jameslaicreative.com/debugging-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-15T17:40:00+00:00'
+date: '2013-01-15T17:40:00Z'
 ---
 JavaScriptデバッガーの使い方の紹介。
 

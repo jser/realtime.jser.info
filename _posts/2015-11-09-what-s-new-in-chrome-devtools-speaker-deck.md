@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/addyosmani/whats-new-in-chrome-devtools'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-09T13:00:55+00:00'
+date: '2015-11-09T13:00:55Z'
 tags:
   - Chrome
   - debug

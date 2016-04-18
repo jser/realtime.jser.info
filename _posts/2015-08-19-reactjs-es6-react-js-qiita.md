@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/nownabe/items/2d8b92d95186c3941de0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-19T02:41:16+00:00'
+date: '2015-08-19T02:41:16Z'
 tags:
   - React
   - ECMAScript

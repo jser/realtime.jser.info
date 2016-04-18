@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.cyberagent.co.jp/recruit/techreport/report/id=8548'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-26T01:34:48+00:00'
+date: '2014-10-26T01:34:48Z'
 tags:
   - ios
   - Android

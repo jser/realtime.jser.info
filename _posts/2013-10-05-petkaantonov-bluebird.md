@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/petkaantonov/bluebird'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-05T08:19:48+00:00'
+date: '2013-10-05T08:19:48Z'
 tags:
   - JavaScript
   - library

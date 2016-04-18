@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.windows.com/msedgedev/2015/09/30/asynchronous-code-gets-easier-with-es2016-async-function-support-in-chakra-and-microsoft-edge/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-01T06:41:22+00:00'
+date: '2015-10-01T06:41:22Z'
 tags:
   - ECMAScript
   - MSEdge

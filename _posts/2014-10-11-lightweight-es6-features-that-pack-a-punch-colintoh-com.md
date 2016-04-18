@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://colintoh.com/blog/lightweight-es6-features'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-11T05:17:41+00:00'
+date: '2014-10-11T05:17:41Z'
 tags:
   - ECMAScript
   - JavaScript

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://hamalog.tumblr.com/post/18387456380/imgloader-spin-js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-01T22:16:00+00:00'
+date: '2012-02-01T22:16:00Z'
 ---
 jQuery.ImgLoaderを使って画像のプリロードとspin.jsを使ってローディングインジケーターの表示についてのデモ

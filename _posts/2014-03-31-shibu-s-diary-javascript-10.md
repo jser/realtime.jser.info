@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.shibu.jp/article/92030639.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-31T14:07:15+00:00'
+date: '2014-03-31T14:07:15Z'
 tags:
   - node.js
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jviereck/regexp.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-16T10:50:35+00:00'
+date: '2013-09-16T10:50:35Z'
 tags:
   - JavaScript
   - 正規表現

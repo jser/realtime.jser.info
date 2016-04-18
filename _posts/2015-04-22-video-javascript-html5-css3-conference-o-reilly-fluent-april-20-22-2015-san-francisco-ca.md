@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://fluentconf.com/javascript-html-2015/public/content/video'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-22T06:10:13+00:00'
+date: '2015-04-22T06:10:13Z'
 tags:
   - JavaScript
   - イベント

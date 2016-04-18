@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://dev.modern.ie/platform/changelog/desktop/10547/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-21T16:03:14+00:00'
+date: '2015-09-21T16:03:14Z'
 tags:
   - MSEdge
   - ReleaseNote

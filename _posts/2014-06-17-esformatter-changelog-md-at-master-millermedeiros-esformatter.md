@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/millermedeiros/esformatter/blob/master/CHANGELOG.md#v020-2014-06-16
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-17T02:18:15+00:00'
+date: '2014-06-17T02:18:15Z'
 tags:
   - JavaScript
   - Tools

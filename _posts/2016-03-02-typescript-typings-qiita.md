@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/literalice/items/d83249a5646abcb0bec6'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-02T08:36:17+00:00'
+date: '2016-03-02T08:36:17Z'
 tags:
   - TypeScript
 ---

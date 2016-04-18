@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mozilla/oghliner'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-06T11:43:22+00:00'
+date: '2015-12-06T11:43:22Z'
 tags:
   - ServiceWorker
   - Tools

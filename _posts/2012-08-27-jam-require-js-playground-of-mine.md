@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/sDaigo/20120705/1341460980'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
-date: '2012-08-27T06:16:00+00:00'
+date: '2012-08-27T06:16:00Z'
 ---
 クライアントサイドJavaScriptのパッケージマネージャであるJamの使い方

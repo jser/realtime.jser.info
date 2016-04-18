@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=WKHWazblpbc'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-18T13:00:06+00:00'
+date: '2014-03-18T13:00:06Z'
 tags:
   - BusterJS
   - testing

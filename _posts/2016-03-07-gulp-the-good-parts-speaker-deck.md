@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/jmblog/gulp-the-good-parts'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-07T09:49:27+00:00'
+date: '2016-03-07T09:49:27Z'
 tags:
   - gulp
   - スライド

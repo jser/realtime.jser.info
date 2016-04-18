@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/windowsazure/archive/2012/09/06/webmatrix-2-is-released-new-windows-azure-features.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/09/index.json'
-date: '2012-09-20T22:30:00+00:00'
+date: '2012-09-20T22:30:00Z'
 ---
 WebMatrix 2リリース。
 NodeとかHTML5との補完が入った.

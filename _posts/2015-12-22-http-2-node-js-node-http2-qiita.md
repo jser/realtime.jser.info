@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/takaaki7/items/70898443050ca260e94c'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-22T06:12:16+00:00'
+date: '2015-12-22T06:12:16Z'
 tags:
   - node.js
   - HTTP2

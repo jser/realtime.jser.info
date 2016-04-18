@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/tricknotes/introduction-for-browser-side-mvc'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-12T09:28:00+00:00'
+date: '2012-12-12T09:28:00Z'
 ---
 Todoを例にしたMVCの役割についてのスライド。
 Backbone.jsを使ったアプローチについて

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://thlorenz.com/blog/live-editing-browserify'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-31T00:22:47+00:00'
+date: '2014-01-31T00:22:47Z'
 tags:
   - Chrome
   - browserify

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/ruyadorno/ntl'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-13T05:51:42+00:00'
+date: '2016-02-13T05:51:42Z'
 tags:
   - npm
   - console

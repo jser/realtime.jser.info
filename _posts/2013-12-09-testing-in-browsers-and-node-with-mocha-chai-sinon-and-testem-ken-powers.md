@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.kenpowers.net/blog/testing-in-browsers-and-node/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-09T12:33:24+00:00'
+date: '2013-12-09T12:33:24Z'
 tags:
   - node.js
   - browser

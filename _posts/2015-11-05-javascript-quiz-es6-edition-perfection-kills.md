@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://perfectionkills.com/javascript-quiz-es6/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-05T07:51:51+00:00'
+date: '2015-11-05T07:51:51Z'
 tags:
   - ECMAScript
   - JavaScript

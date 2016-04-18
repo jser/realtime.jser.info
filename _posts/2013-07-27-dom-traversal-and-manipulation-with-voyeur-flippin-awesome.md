@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://flippinawesome.org/2013/07/22/dom-traversal-and-manipulation-with-voyeur/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-27T13:41:27+00:00'
+date: '2013-07-27T13:41:27Z'
 tags:
   - JavaScript
   - DOM

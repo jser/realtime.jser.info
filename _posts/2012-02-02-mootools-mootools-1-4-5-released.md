@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mootools.net/blog/2012/02/26/mootools-1-4-5-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-02T21:43:00+00:00'
+date: '2012-02-02T21:43:00Z'
 ---
 MooTools 1.4.5リリース
 Fx.CSSのバグを修正

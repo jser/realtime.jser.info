@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/y_fujieda/items/a0a69151cf7307039f74'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-01T02:51:46+00:00'
+date: '2016-01-01T02:51:46Z'
 tags:
   - Chrome
   - debug

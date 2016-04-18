@@ -7,7 +7,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1449302599/amazon0abac-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-11T00:51:30+00:00'
+date: '2013-10-11T00:51:30Z'
 tags:
   - HTML5
   - book

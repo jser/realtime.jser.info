@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2015/02/soundscript.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-04T14:30:23+00:00'
+date: '2015-02-04T14:30:23Z'
 tags:
   - JavaScript
   - google

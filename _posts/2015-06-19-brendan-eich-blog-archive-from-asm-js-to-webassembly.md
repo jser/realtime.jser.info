@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://brendaneich.com/2015/06/from-asm-js-to-webassembly/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-19T06:17:26+00:00'
+date: '2015-06-19T06:17:26Z'
 tags:
   - WebAssembly
   - asm.js

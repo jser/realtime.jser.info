@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2015/02/broadcastchannel-api-in-firefox-38/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-13T01:55:15+00:00'
+date: '2015-05-13T01:55:15Z'
 tags:
   - firefox
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.forest.impress.co.jp/docs/news/20110615_453279.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-18T07:00:00+00:00'
+date: '2011-06-18T07:00:00Z'
 ---
 IE9.0.1のリリース。
 MS11-050 : Internet Explorer の重要な更新

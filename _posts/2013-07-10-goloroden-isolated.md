@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/goloroden/isolated'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-10T12:55:52+00:00'
+date: '2013-07-10T12:55:52Z'
 tags:
   - node.js
   - testing

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.microsoft.com/japan/msbc/Express/ie_support/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-13T12:37:44+00:00'
+date: '2016-01-13T12:37:44Z'
 tags:
   - IE
 relatedLinks:

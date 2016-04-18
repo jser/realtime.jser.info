@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/es7/observe/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-25T15:20:24+00:00'
+date: '2014-05-25T15:20:24Z'
 tags:
   - ECMAScript
   - JavaScript

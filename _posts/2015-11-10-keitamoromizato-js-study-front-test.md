@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/KeitaMoromizato/js-study-front-test'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-10T03:45:16+00:00'
+date: '2015-11-10T03:45:16Z'
 tags:
   - JavaScript
   - testing

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/dunxrion/console.snapshot'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-01T02:22:47+00:00'
+date: '2013-07-01T02:22:47Z'
 tags:
   - canvas
   - デバック

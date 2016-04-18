@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2015/08/24/flux-utils/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-24T12:26:26+00:00'
+date: '2015-08-24T12:26:26Z'
 tags:
   - JavaScript
   - Flux

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://ponyfoo.com/articles/javascript-developer-survey-results'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-11T04:36:18+00:00'
+date: '2015-12-11T04:36:18Z'
 tags:
   - JavaScript
   - まとめ

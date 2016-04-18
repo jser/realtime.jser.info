@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://eslint.org/blog/2014/12/eslint-0.11.0-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-31T01:32:47+00:00'
+date: '2014-12-31T01:32:47Z'
 tags:
   - ECMAScript
   - JavaScript

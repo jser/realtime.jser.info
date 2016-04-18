@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/code-adventures/a3a046a04836'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-06T12:02:42+00:00'
+date: '2014-01-06T12:02:42Z'
 tags:
   - node.js
   - ReleaseNote

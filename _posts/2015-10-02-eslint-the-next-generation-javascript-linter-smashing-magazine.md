@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://www.smashingmagazine.com/2015/09/eslint-the-next-generation-javascript-linter/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-02T04:30:25+00:00'
+date: '2015-10-02T04:30:25Z'
 tags:
   - JavaScript
   - Tools

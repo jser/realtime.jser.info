@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cssreflow.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-05T00:18:00+00:00'
+date: '2013-02-05T00:18:00Z'
 tags:
   - firefox
   - webservice

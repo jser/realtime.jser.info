@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2015/11/19/grunt-rebooted/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-22T14:39:21+00:00'
+date: '2015-11-22T14:39:21Z'
 tags:
   - Grunt
   - jQuery

@@ -6,6 +6,6 @@ author: azu
 layout: post
 itemUrl: 'http://mir.aculo.us/2011/08/01/zepto-7/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/index.json'
-date: '2011-08-30T20:05:00+00:00'
+date: '2011-08-30T20:05:00Z'
 ---
 zepto.js 0.7がリリース

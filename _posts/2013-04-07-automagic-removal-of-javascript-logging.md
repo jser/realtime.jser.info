@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ariya.ofilabs.com/2013/04/automagic-removal-of-javascript-logging.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-07T07:50:40+00:00'
+date: '2013-04-07T07:50:40Z'
 tags:
   - JavaScript
   - console

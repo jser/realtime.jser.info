@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jspro.com/toolsandlibraries/unit-testing-backbone-js-applications/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-05T05:42:00+00:00'
+date: '2013-03-05T05:42:00Z'
 tags:
   - javascript
   - testing

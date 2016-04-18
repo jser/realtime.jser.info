@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/nodejs/node/pull/4765'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-19T23:01:46+00:00'
+date: '2016-01-19T23:01:46Z'
 tags:
   - node.js
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://neue.cc/2012/07/20_378.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/index.json'
-date: '2012-07-06T23:00:00+00:00'
+date: '2012-07-06T23:00:00Z'
 ---
 C#のLINQライクに使えるlinq.js 3.0.0βリリース。
 破壊的変更なのでメソッド名などの互換性はなくなり、よりJavaScriptライクな感じに。

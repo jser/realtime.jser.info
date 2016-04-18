@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2012/12/23/transition/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-08T01:24:00+00:00'
+date: '2012-12-08T01:24:00Z'
 ---
 CSSのTransitionsの使いかた.
 transitionでアニメーションするプロパティについて

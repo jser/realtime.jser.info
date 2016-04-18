@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/kiita312/items/49a1f03445b19cf407b7'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-06T12:34:14+00:00'
+date: '2015-12-06T12:34:14Z'
 tags:
   - JavaScript
   - Flux

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-20T05:04:56+00:00'
+date: '2016-02-20T05:04:56Z'
 tags:
   - React
 ---

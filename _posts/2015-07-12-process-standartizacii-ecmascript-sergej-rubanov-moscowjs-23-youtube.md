@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=5HNrQJsv4gU'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-12T22:53:58+00:00'
+date: '2015-07-12T22:53:58Z'
 tags:
   - ECMAScript
   - JavaScript

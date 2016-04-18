@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.nealjs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-09T12:44:06+00:00'
+date: '2015-11-09T12:44:06Z'
 tags:
   - React
   - UI

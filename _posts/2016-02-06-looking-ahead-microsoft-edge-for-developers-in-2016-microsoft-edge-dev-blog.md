@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://blogs.windows.com/msedgedev/2016/02/03/2016-platform-priorities/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-06T14:13:30+00:00'
+date: '2016-02-06T14:13:30Z'
 tags:
   - MSEdge
   - JavaScript

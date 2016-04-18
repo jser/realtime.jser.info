@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://gmarty.github.io/jsSMS/Reject.JS-2013-Slides/#/intro'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-22T05:42:16+00:00'
+date: '2013-09-22T05:42:16Z'
 tags:
   - JavaScript
   - スライド

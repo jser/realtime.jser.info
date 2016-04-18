@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/rtsao/csjs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-01T03:48:55+00:00'
+date: '2016-03-01T03:48:55Z'
 tags:
   - JavaScript
   - CSS

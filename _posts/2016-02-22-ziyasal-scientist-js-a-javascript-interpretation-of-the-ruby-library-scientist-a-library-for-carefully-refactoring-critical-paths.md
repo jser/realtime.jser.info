@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/ziyasal/scientist.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-22T11:06:11+00:00'
+date: '2016-02-22T11:06:11Z'
 tags:
   - JavaScript
   - testing

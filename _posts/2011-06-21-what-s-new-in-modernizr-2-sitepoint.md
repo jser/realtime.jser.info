@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://blogs.sitepoint.com/modernizr-2-whats-new/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-21T23:00:00+00:00'
+date: '2011-06-21T23:00:00Z'
 ---
 Modernizr 2の新しい機能について

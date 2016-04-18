@@ -7,6 +7,6 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/thebeebs/archive/2012/01/09/how-to-name-a-web-browser-by-those-who-have.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/01/index.json'
-date: '2012-01-19T11:40:00+00:00'
+date: '2012-01-19T11:40:00Z'
 ---
 ブラウザの名前の由来のまとめ

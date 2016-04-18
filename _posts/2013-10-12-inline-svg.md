@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/kadoppe/inline-svg'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-12T13:02:49+00:00'
+date: '2013-10-12T13:02:49Z'
 tags:
   - SVG
   - スライド

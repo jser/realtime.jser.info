@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.natural-science.or.jp/article/20120220155529.php'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-10T17:19:00+00:00'
+date: '2012-02-10T17:19:00Z'
 ---
 Three.jsのチュートリアル。

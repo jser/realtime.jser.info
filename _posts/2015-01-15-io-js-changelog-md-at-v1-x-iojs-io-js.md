@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/iojs/io.js/blob/v1.x/CHANGELOG.md#2015-01-14-version-101'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-15T21:45:27+00:00'
+date: '2015-01-15T21:45:27Z'
 tags:
   - node.js
   - ReleaseNote

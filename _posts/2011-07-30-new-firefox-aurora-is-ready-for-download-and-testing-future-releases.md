@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.mozilla.com/futurereleases/2011/07/07/firefoxaurora7/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-30T12:30:00+00:00'
+date: '2011-07-30T12:30:00Z'
 ---
 Firefox Aurora 7のメモリなどの改善点について
 - http://internet.watch.impress.co.jp/docs/news/20110708_459184.html

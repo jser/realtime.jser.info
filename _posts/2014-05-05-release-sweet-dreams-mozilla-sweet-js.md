@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mozilla/sweet.js/releases/tag/v0.6.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-05T11:12:03+00:00'
+date: '2014-05-05T11:12:03Z'
 tags:
   - JavaScript
   - AST

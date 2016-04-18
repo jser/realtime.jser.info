@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/perezvon/20120303/1330783666'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/index.json'
-date: '2012-03-27T03:20:00+00:00'
+date: '2012-03-27T03:20:00Z'
 ---
 UglifyJSの--defineと--define-from-moduleを使って定数の書き換えを行う方法。圧縮以外の使い方について

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.knockmeout.net/2013/10/knockout-3-highlights.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-26T16:17:40+00:00'
+date: '2013-10-26T16:17:40Z'
 tags:
   - JavaScript
   - MVC

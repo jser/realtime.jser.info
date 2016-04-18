@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://css-tricks.com/complete-guide-table-element/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-21T02:52:37+00:00'
+date: '2013-09-21T02:52:37Z'
 tags:
   - HTML
   - CSS

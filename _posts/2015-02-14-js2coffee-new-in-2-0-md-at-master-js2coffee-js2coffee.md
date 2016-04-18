@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/js2coffee/js2coffee/blob/master/notes/New_in_2.0.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-14T13:37:21+00:00'
+date: '2015-02-14T13:37:21Z'
 tags:
   - JavaScript
   - CoffeeScript

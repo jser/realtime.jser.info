@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://danielfm.github.io/jshamcrest/index.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-29T02:16:53+00:00'
+date: '2013-04-29T02:16:53Z'
 tags:
   - JavaScript
   - testing

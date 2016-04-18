@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://developer.hatenastaff.com/entry/2016/04/09/180000'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-11T08:37:09+00:00'
+date: '2016-04-11T08:37:09Z'
 tags:
   - React
   - npm

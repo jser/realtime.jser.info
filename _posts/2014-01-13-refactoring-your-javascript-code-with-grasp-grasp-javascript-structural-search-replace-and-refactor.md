@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://graspjs.com/blog/2014/01/07/refactoring-javascript-with-grasp/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-13T14:03:48+00:00'
+date: '2014-01-13T14:03:48Z'
 tags:
   - JavaScript
   - Tools

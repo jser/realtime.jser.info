@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Wizek/Tree'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
-date: '2012-04-01T12:48:00+00:00'
+date: '2012-04-01T12:48:00Z'
 ---
 JavaScriptテストフレームワーク。
 名前の通り出力する内容がツリーになっていて似た目もユニーク。

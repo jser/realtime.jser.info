@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/yandex/soundcloud-soundcloud'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-02T05:35:22+00:00'
+date: '2013-11-02T05:35:22Z'
 tags:
   - JavaScript
   - スライド

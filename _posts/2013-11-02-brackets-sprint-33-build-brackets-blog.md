@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2013/11/01/brackets-sprint-33-build/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-02T07:22:25+00:00'
+date: '2013-11-02T07:22:25Z'
 tags:
   - JavaScript
   - IDE

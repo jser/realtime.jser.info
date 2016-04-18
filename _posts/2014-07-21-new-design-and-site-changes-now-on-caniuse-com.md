@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://caniuse.com/feed/148'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-21T12:46:13+00:00'
+date: '2014-07-21T12:46:13Z'
 tags:
   - webservice
   - browser

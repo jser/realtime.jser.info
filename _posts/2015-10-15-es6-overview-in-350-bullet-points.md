@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://ponyfoo.com/articles/es6'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-15T15:17:08+00:00'
+date: '2015-10-15T15:17:08Z'
 tags:
   - ECMAScript
   - まとめ

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hail2u.net/documents/bulletproof-icon-fonts.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-28T12:05:16+00:00'
+date: '2014-01-28T12:05:16Z'
 tags:
   - CSS
   - fonts

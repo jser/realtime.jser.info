@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://browserify.org/announcing_browserify_v2'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-22T21:36:00+00:00'
+date: '2013-02-22T21:36:00Z'
 tags:
   - javascript
   - node.js

@@ -6,6 +6,6 @@ author: azu
 layout: post
 itemUrl: 'http://sourceforge.jp/magazine/11/07/28/0931214'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-06T19:45:00+00:00'
+date: '2011-07-06T19:45:00Z'
 ---
 Firefoxの標準JavaScriptエンジン「SpiderMonkey」の代わりにNarcissusをデフォルトエンジンとして利用できるようにするアドオン。

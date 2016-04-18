@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://ahmadnassri.github.io/har-resources'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-15T07:20:51+00:00'
+date: '2015-04-15T07:20:51Z'
 tags:
   - HTTP
   - performance

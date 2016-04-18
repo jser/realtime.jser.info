@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://yosuke-furukawa.hatenablog.com/entry/2013/06/01/173308'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-04T12:30:52+00:00'
+date: '2013-06-04T12:30:52Z'
 tags:
   - JavaScript
   - node.js

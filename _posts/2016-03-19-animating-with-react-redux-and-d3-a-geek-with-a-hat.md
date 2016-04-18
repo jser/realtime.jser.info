@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-19T04:24:08+00:00'
+date: '2016-03-19T04:24:08Z'
 tags:
   - React
   - redux

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/nikgraf/belle/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-18T04:50:58+00:00'
+date: '2015-07-18T04:50:58Z'
 tags:
   - React
   - UI

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://v8project.blogspot.com/2016/03/v8-release-50.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-16T07:10:35+00:00'
+date: '2016-03-16T07:10:35Z'
 tags:
   - V8
   - ReleaseNote

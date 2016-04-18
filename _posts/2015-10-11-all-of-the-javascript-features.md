@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jsfeatures.in/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-11T05:36:52+00:00'
+date: '2015-10-11T05:36:52Z'
 tags:
   - JavaScript
   - ECMAScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://webos-goodies.jp/archives/html5study201106.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-09T07:00:00+00:00'
+date: '2011-06-09T07:00:00Z'
 ---
 Closure Library の機能紹介、入門などについてのスライド
 USTREAMの録画

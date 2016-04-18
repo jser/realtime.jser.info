@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.w3.org/News/2011.html#entry-8992'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-23T07:00:00+00:00'
+date: '2011-01-23T07:00:00Z'
 ---
 "W3C Introduces an HTML5 Logo "
 HTML5のロゴ画像が決定されたそうだ。

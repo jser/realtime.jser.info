@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.coderstats.net/todomvc-complexity/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-28T05:39:47+00:00'
+date: '2013-09-28T05:39:47Z'
 tags:
   - JavaScript
   - まとめ

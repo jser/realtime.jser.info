@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://medium.com/@yoshuawuyts/mastering-the-filesystem-in-node-js-4706b7cb0801
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-29T12:55:46+00:00'
+date: '2015-09-29T12:55:46Z'
 tags:
   - node.js
   - library

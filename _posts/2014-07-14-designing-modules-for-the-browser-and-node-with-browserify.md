@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://www.slideshare.net/kwhinnery/designing-modules-for-the-browser-and-node-with-browserify
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-14T15:26:20+00:00'
+date: '2014-07-14T15:26:20Z'
 tags:
   - browserify
   - スライド

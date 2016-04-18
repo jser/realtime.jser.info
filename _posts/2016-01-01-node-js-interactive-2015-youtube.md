@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/playlist?list=PLfMzBWSH11xYjL8oFumSfzOf6-kr8_t-o'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-01T00:54:05+00:00'
+date: '2016-01-01T00:54:05Z'
 tags:
   - node.js
   - 動画

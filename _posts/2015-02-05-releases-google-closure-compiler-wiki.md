@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/google/closure-compiler/wiki/Releases#february-2-2015-v20150126
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-05T13:08:32+00:00'
+date: '2015-02-05T13:08:32Z'
 tags:
   - JavaScript
   - ReleaseNote

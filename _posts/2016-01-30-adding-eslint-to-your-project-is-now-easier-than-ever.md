@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://devnull.guru/adding-eslint-to-your-project-is-easier-than-ever/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-30T14:15:29+00:00'
+date: '2016-01-30T14:15:29Z'
 tags:
   - JavaScript
   - Bluetooth

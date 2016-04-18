@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/koba04/get-started-react-dot-js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-30T12:54:38+00:00'
+date: '2014-09-30T12:54:38Z'
 tags:
   - JavaScript
   - VirualDOM

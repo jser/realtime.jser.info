@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2013/07/es6-modules.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-28T14:41:49+00:00'
+date: '2013-07-28T14:41:49Z'
 tags:
   - JavaScript
   - ECMA

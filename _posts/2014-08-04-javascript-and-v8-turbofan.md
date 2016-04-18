@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ariya.ofilabs.com/2014/08/javascript-and-v8-turbofan.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-04T05:16:35+00:00'
+date: '2014-08-04T05:16:35Z'
 tags:
   - JavaScript
   - V8

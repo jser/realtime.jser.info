@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://planetorion.org/news/2014/06/orion-6-0-language-tooling-enhancements/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-21T05:40:21+00:00'
+date: '2014-06-21T05:40:21Z'
 tags:
   - editor
   - ReleaseNote

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mozilla.jp/blog/entry/6763/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/05/index.json'
-date: '2011-05-04T20:24:00+00:00'
+date: '2011-05-04T20:24:00Z'
 ---
 Firefox 次期バージョン (Firefox 5) のベータ版を公開
 Firefox5ではCSSアニメーションが実装された。

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.torounit.com/blog/2011/06/07/793/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/index.json'
-date: '2011-06-22T15:00:00+00:00'
+date: '2011-06-22T15:00:00Z'
 ---
 ie9.jsの機能について。
 CSSハックができなくなる

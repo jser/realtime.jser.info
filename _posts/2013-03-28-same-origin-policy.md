@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/hasegawayosuke/20130330/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-28T19:30:00+00:00'
+date: '2013-03-28T19:30:00Z'
 tags:
   - HTTP
   - web

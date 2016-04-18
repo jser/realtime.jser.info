@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.talater.com/annyang/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-08T04:27:26+00:00'
+date: '2013-09-08T04:27:26Z'
 tags:
   - JavaScript
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/thejameskyle/the-super-tiny-compiler'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-04T10:17:30+00:00'
+date: '2016-04-04T10:17:30Z'
 tags:
   - JavaScript
   - tutorial

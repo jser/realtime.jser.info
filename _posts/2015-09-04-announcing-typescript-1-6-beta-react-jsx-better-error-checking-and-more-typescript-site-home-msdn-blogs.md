@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-04T07:23:39+00:00'
+date: '2015-09-04T07:23:39Z'
 tags:
   - TypeScript
   - ReleaseNote

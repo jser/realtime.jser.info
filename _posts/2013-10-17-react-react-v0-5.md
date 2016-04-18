@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2013/10/16/react-v0.5.0.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-17T00:40:29+00:00'
+date: '2013-10-17T00:40:29Z'
 tags:
   - JavaScript
   - DOM

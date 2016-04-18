@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://thenewcode.com/777/Create-Fullscreen-HTML5-Page-Background-Video'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-01T01:38:15+00:00'
+date: '2016-01-01T01:38:15Z'
 tags:
   - JavaScript
   - 動画

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://dev.opera.com/articles/view/introducing-ecmascript-5-1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-21T17:00:00+00:00'
+date: '2011-12-21T17:00:00Z'
 ---
 dev.operaのES5紹介

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/dfilatov/vidom'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-01T15:50:22+00:00'
+date: '2016-02-01T15:50:22Z'
 tags:
   - JavaScript
   - React

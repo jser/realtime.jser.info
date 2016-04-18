@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.manning.com/jongboom/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-27T07:45:42+00:00'
+date: '2014-08-27T07:45:42Z'
 tags:
   - firefox
   - OS

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shmck.com/comparing-angular-1-x-2-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-08T13:46:21+00:00'
+date: '2015-03-08T13:46:21Z'
 tags:
   - AngularJS
   - JavaScript

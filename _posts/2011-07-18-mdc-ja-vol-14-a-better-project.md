@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/potappo/20110714/1310572023'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-18T11:45:00+00:00'
+date: '2011-07-18T11:45:00Z'
 ---
 MDCの翻訳ドキュメントについての月刊通信
 MDCにはFirefox以外でもWebなどに関する新しいドキュメントが多い。

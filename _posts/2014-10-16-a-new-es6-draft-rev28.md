@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://esdiscuss.org/topic/a-new-es6-draft-rev28'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-16T02:53:07+00:00'
+date: '2014-10-16T02:53:07Z'
 tags:
   - ECMAScript
   - spec

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.impressjapan.jp/books/1113101018'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-22T01:06:16+00:00'
+date: '2013-11-22T01:06:16Z'
 tags:
   - JavaScript
   - jQuery

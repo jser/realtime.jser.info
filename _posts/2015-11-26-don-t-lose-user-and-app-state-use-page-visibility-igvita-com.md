@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://www.igvita.com/2015/11/20/dont-lose-user-and-app-state-use-page-visibility/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-26T02:37:55+00:00'
+date: '2015-11-26T02:37:55Z'
 tags:
   - JavaScript
   - まとめ

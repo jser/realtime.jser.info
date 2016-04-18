@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://speakerdeck.com/nkzawa/socket-dot-io-1-dot-0falsebian-geng-dian-nei-bu-de-nahua
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-23T12:33:24+00:00'
+date: '2014-06-23T12:33:24Z'
 tags:
   - WebSocket
   - スライド

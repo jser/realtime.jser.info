@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://emberjs.com/blog/2014/12/08/ember-1-9-0-released.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-10T08:25:27+00:00'
+date: '2014-12-10T08:25:27Z'
 tags:
   - JavaScript
   - library

@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://speakerdeck.com/helielson/react-a-javascript-library-for-building-user-interfaces
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-04T17:02:13+00:00'
+date: '2014-10-04T17:02:13Z'
 tags:
   - React
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/tmpvar/jsdom/blob/6.2.0/Changelog.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-25T06:42:32+00:00'
+date: '2015-08-25T06:42:32Z'
 tags:
   - JavaScript
   - DOM

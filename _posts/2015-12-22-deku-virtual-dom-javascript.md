@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://smart.ataglance.jp/2015-12-17-use-virtual-dom-with-deku/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-22T07:00:38+00:00'
+date: '2015-12-22T07:00:38Z'
 tags:
   - JavaScript
   - VirtualDOM

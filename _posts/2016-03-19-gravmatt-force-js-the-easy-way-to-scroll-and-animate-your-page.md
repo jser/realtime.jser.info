@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/gravmatt/force-js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-19T04:08:10+00:00'
+date: '2016-03-19T04:08:10Z'
 tags:
   - JavaScript
   - animation

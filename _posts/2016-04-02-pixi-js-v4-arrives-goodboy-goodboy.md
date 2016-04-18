@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.goodboydigital.com/pixi-js-v4/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-02T07:21:43+00:00'
+date: '2016-04-02T07:21:43Z'
 tags:
   - game
   - WebGL

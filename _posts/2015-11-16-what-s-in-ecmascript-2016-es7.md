@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2015/11/tc39-process.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-16T09:31:09+00:00'
+date: '2015-11-16T09:31:09Z'
 tags:
   - ECMAScript
   - spec

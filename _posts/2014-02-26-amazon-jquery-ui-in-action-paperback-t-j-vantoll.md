@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1617291935/amazon0abac-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-26T00:16:33+00:00'
+date: '2014-02-26T00:16:33Z'
 tags:
   - jQuery
   - UI

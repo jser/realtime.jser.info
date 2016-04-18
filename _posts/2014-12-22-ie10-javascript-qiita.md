@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/Jxck_/items/fe8a1c49cac717e52ae3'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-22T12:31:46+00:00'
+date: '2014-12-22T12:31:46Z'
 tags:
   - IE
   - JavaScript

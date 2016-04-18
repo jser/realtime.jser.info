@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://appendto.com/2014/02/l33t-literals-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-24T12:05:16+00:00'
+date: '2014-03-24T12:05:16Z'
 tags:
   - JavaScript
   - library

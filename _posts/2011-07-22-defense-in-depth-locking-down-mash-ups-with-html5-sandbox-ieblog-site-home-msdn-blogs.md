@@ -7,6 +7,6 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/ie/archive/2011/07/14/defense-in-depth-locking-down-mash-ups-with-html5-sandbox.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-22T20:45:00+00:00'
+date: '2011-07-22T20:45:00Z'
 ---
 iframeのsandbox属性についての解説

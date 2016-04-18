@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/web-components-ready-production/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-08T07:00:54+00:00'
+date: '2014-08-08T07:00:54Z'
 tags:
   - WebComponents
 ---

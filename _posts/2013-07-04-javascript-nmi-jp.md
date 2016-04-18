@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://nmi.jp/archives/488'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-04T01:59:03+00:00'
+date: '2013-07-04T01:59:03Z'
 tags:
   - JavaScript
 ---

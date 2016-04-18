@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.cutt.co.jp/book/978-4-87783-354-1.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-18T06:01:13+00:00'
+date: '2014-12-18T06:01:13Z'
 tags:
   - TypeScript
   - book

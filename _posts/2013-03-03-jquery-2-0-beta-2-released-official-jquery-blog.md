@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2013/03/01/jquery-2-0-beta-2-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-03T04:30:00+00:00'
+date: '2013-03-03T04:30:00Z'
 tags:
   - jQuery
   - ReleaseNote

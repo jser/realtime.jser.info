@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.w3.org/2015/10/w3c-highlights/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-19T09:56:16+00:00'
+date: '2015-11-19T09:56:16Z'
 tags:
   - W3C
   - まとめ

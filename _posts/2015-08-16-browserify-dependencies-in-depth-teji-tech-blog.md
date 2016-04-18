@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.tejitak.com/blog/?p=1468'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-16T14:59:17+00:00'
+date: '2015-08-16T14:59:17Z'
 tags:
   - browserify
 ---

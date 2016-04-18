@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/w3ctag/promises-guide'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-08T12:01:32+00:00'
+date: '2014-02-08T12:01:32Z'
 tags:
   - Promises
   - spec

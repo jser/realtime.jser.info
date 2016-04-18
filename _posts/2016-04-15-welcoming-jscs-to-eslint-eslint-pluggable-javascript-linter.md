@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://eslint.org/blog/2016/04/welcoming-jscs-to-eslint'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-15T17:05:50+00:00'
+date: '2016-04-15T17:05:50Z'
 tags:
   - JavaScript
   - Tools

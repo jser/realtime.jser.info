@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://dojotoolkit.org/blog/dojo-1-7-1-is-released'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-13T17:20:00+00:00'
+date: '2011-12-13T17:20:00Z'
 ---
 Dojo 1.7.1リリース

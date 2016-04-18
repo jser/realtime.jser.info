@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://swizec.com/blog/reactflux-can-do-in-just-137-lines-what-jquery-can-do-in-10/swizec/6740
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-29T08:22:07+00:00'
+date: '2015-10-29T08:22:07Z'
 tags:
   - JavaScript
   - 設計

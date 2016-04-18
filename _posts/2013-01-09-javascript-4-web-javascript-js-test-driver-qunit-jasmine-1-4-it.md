@@ -7,6 +7,6 @@ author: azu
 layout: post
 itemUrl: 'http://www.atmarkit.co.jp/ait/articles/1301/21/news017.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-09T07:32:00+00:00'
+date: '2013-01-09T07:32:00Z'
 ---
 JSTDとQUnit,Jasmine adapterについて

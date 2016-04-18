@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mochajs/mocha/blob/master/HISTORY.md#230--2015-08-30'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-01T06:16:14+00:00'
+date: '2015-09-01T06:16:14Z'
 tags:
   - JavaScript
   - testing

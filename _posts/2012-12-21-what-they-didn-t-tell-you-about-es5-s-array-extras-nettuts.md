@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://net.tutsplus.com/tutorials/javascript-ajax/what-they-didnt-tell-you-about-es5s-array-extras/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-21T16:28:00+00:00'
+date: '2012-12-21T16:28:00Z'
 ---
 ES5で追加されたArrayメソッドについて.
 applyと合わせたTips、[...].filter(RegExp.prototype.test, /^b/);のようなprototypeメソッド渡して使う応用的な方法についても

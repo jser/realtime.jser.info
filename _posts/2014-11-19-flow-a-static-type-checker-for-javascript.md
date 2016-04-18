@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://flowtype.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-19T06:08:06+00:00'
+date: '2014-11-19T06:08:06Z'
 tags:
   - flowtype
   - facebook

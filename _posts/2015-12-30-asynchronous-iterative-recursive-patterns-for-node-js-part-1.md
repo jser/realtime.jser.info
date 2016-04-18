@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mostafa-samir.github.io/async-iterative-patterns-pt1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-30T12:17:39+00:00'
+date: '2015-12-30T12:17:39Z'
 tags:
   - JavaScript
   - node.js

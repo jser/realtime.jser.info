@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/termi/es6-transpiler'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-16T12:45:14+00:00'
+date: '2014-03-16T12:45:14Z'
 tags:
   - JavaScript
   - ECMAScript

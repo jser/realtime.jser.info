@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=_UmmaPe8Bzc'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-27T14:37:43+00:00'
+date: '2013-07-27T14:37:43Z'
 tags:
   - JavaScript
   - testing

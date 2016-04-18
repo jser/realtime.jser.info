@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2014/09/firefox-tools-adapter/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-14T09:22:27+00:00'
+date: '2014-09-14T09:22:27Z'
 tags:
   - firefox
   - debug

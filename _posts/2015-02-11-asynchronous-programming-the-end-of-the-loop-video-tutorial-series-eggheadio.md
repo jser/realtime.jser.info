@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://egghead.io/series/mastering-asynchronous-programming-the-end-of-the-loop
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-11T14:27:33+00:00'
+date: '2015-02-11T14:27:33Z'
 tags:
   - JavaScript
   - 動画

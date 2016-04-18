@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://docs.google.com/presentation/d/1e0z1pT9JuEh8G5DOtib6XFDHK0GUFtrZrU3IfxJynaA/preview#slide=id.p
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-24T08:06:38+00:00'
+date: '2013-11-24T08:06:38Z'
 tags:
   - JavaScript
   - AngularJS

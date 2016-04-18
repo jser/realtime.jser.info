@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2011/0226/res2291/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-01T00:05:00+00:00'
+date: '2011-02-01T00:05:00Z'
 ---
 JavaScript内のコメントからドキュメントを生成するツールのまとめ

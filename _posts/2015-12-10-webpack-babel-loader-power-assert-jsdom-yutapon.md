@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://yutapon.hatenablog.com/entry/webpack%2Bbabel-loader%2Bpower-assert%2Bjsdom-skeleton
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-10T07:49:55+00:00'
+date: '2015-12-10T07:49:55Z'
 tags:
   - JavaScript
   - 設定

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/sangotaro/hurontoendomvctoflux'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-14T08:32:47+00:00'
+date: '2015-08-14T08:32:47Z'
 tags:
   - Flux
   - スライド

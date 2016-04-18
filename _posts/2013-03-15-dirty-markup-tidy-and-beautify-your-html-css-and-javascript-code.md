@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.dirtymarkup.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-15T05:33:00+00:00'
+date: '2013-03-15T05:33:00Z'
 tags:
   - HTML
   - css

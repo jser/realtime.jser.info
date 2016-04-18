@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/ie/archive/2013/12/12/understanding-the-real-world-performance-of-your-web-application-across-ie11-and-other-browsers.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-14T08:48:12+00:00'
+date: '2013-12-14T08:48:12Z'
 tags:
   - WebPlatformAPI
   - browser

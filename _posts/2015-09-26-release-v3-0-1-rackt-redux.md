@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/rackt/redux/releases/tag/v3.0.1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-26T06:09:01+00:00'
+date: '2015-09-26T06:09:01Z'
 tags:
   - JavaScript
   - Flux

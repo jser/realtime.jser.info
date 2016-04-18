@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/jquery-alternative-tips/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-29T02:13:11+00:00'
+date: '2013-09-29T02:13:11Z'
 tags:
   - jQuery
   - JavaScript

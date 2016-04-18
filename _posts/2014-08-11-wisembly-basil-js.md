@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Wisembly/basil.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-11T08:17:38+00:00'
+date: '2014-08-11T08:17:38Z'
 tags:
   - JavaScript
   - library

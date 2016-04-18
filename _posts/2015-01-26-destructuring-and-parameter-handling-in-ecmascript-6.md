@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2015/01/es6-destructuring.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-26T07:20:36+00:00'
+date: '2015-01-26T07:20:36Z'
 tags:
   - ECMAScript
   - JavaScript

@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://freshbrewedcode.com/jimcowart/2013/02/07/client-side-messaging-essentials/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-14T19:12:00+00:00'
+date: '2013-02-14T19:12:00Z'
 tags:
   - javascript
   - event

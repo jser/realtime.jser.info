@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://matthewmanela.com/blog/chutzpah-3-2-a-smarter-approach-to-compilation/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-12T03:01:15+00:00'
+date: '2014-03-12T03:01:15Z'
 tags:
   - JavaScript
   - testing

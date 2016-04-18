@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/kazuk_i/20110407/1302130947'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
-date: '2011-04-22T23:26:00+00:00'
+date: '2011-04-22T23:26:00Z'
 ---
 Backbone.jsの設計について。
 クライアントサイドによるMVC

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jshint/jshint/releases/tag/2.5.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-07T05:26:18+00:00'
+date: '2014-04-07T05:26:18Z'
 tags:
   - JavaScript
   - Tools

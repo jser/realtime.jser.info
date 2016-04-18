@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blog.jetbrains.com/webstorm/2014/10/webstorm-9-released-meteor-support-react-and-jsx-gulp-integration-and-more/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-22T14:45:49+00:00'
+date: '2014-10-22T14:45:49Z'
 tags:
   - WebStorm
   - ReleaseNote

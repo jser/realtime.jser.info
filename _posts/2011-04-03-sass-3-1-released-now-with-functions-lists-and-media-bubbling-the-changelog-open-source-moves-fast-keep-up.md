@@ -6,6 +6,6 @@ author: azu
 layout: post
 itemUrl: 'http://thechangelog.com/post/4926466447/sass-sass-makes-css-fun-again'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
-date: '2011-04-03T13:35:00+00:00'
+date: '2011-04-03T13:35:00Z'
 ---
 Sass3.1がリリースされた。

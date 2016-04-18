@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/matthewmueller/socrates'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-02T22:52:01+00:00'
+date: '2016-03-02T22:52:01Z'
 tags:
   - redux
   - JavaScript

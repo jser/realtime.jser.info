@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/maxogden/art-of-node'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-24T10:57:00+00:00'
+date: '2013-03-24T10:57:00Z'
 tags:
   - node.js
   - tutorial

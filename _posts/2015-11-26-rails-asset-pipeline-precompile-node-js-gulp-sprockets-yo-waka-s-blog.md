@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://waka.github.io/2015/11/25/gulp_sprockets.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-26T08:04:12+00:00'
+date: '2015-11-26T08:04:12Z'
 tags:
   - gulp
   - rails

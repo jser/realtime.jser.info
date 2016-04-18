@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://projects.eclipse.org/projects/eclipse.orion/reviews/5.0.0-release-review
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-07T08:02:27+00:00'
+date: '2014-03-07T08:02:27Z'
 tags:
   - JavaScript
   - browser

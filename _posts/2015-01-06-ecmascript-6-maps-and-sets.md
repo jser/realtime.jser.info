@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2015/01/es6-maps-sets.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-06T02:20:02+00:00'
+date: '2015-01-06T02:20:02Z'
 tags:
   - ECMAScript
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v5.3.0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-17T15:29:32+00:00'
+date: '2015-12-17T15:29:32Z'
 tags:
   - node.js
   - ReleaseNote

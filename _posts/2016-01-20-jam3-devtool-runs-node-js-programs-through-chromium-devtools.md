@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/Jam3/devtool'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-20T22:43:55+00:00'
+date: '2016-01-20T22:43:55Z'
 tags:
   - node.js
   - debug

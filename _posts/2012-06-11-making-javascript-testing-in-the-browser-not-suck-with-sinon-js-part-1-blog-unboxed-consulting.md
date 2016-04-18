@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://www.unboxedconsulting.com/blog/making-javascript-testing-in-the-browser-not-suck-with-sinon-js-part-1
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-11T06:00:00+00:00'
+date: '2012-06-11T06:00:00Z'
 ---
 Sinon.jsを使ったテストについて。
 fakeXHRとfakeTimer

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.kohgakusha.co.jp/books/detail/978-4-7775-1665-0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-11T08:57:00+00:00'
+date: '2012-02-11T08:57:00Z'
 ---
 2012年2月25日発売
 BlueGriffon本。

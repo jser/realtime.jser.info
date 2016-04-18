@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.windows.com/msedgedev/2015/11/16/introducing-edgehtml-13-our-first-platform-update-for-microsoft-edge/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-26T13:24:51+00:00'
+date: '2015-11-26T13:24:51Z'
 tags:
   - MSEdge
   - ReleaseNote

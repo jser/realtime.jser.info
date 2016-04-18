@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/playlist?list=PL42hYWKFRfN689rx3pVReAkYjs2F05Kum'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-11T13:45:15+00:00'
+date: '2015-02-11T13:45:15Z'
 tags:
   - node.js
   - イベント

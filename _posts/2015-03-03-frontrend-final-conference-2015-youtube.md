@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/playlist?list=PLTo9gQMPMgGaVv9e-ZsrzhWvu5BgyWpi-'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-03T03:09:42+00:00'
+date: '2015-03-03T03:09:42Z'
 tags:
   - JavaScript
   - CSS

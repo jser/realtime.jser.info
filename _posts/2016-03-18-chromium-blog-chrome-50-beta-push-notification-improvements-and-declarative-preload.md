@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2016/03/chrome-50-beta-push-notification.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-18T15:17:27+00:00'
+date: '2016-03-18T15:17:27Z'
 tags:
   - Chrome
   - ReleaseNote

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://christianalfoni.github.io/react-webpack-cookbook/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-29T02:52:52+00:00'
+date: '2016-02-29T02:52:52Z'
 tags:
   - React
   - book

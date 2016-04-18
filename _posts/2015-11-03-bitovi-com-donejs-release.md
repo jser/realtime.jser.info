@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.bitovi.com/donejs-release/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-03T09:55:22+00:00'
+date: '2015-11-03T09:55:22Z'
 tags:
   - JavaScript
   - MVC

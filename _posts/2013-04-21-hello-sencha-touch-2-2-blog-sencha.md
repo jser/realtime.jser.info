@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.sencha.com/blog/hello-sencha-touch-2-2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-21T14:36:54+00:00'
+date: '2013-04-21T14:36:54Z'
 tags:
   - Sencha
   - mobile

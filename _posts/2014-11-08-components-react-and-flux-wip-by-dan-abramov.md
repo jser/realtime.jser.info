@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://slides.com/danabramov/components-react-flux-wip#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-08T11:34:06+00:00'
+date: '2014-11-08T11:34:06Z'
 tags:
   - React
   - Flux

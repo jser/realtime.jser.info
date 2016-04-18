@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://ariya.blogspot.com/2011/01/phantomjs-minimalistic-headless-webkit.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-10T19:48:00+00:00'
+date: '2011-01-10T19:48:00Z'
 ---
 JavaScriptファイルを実行できるWebkitベースのコマンドラインツール
 PhantomJSの面白い所はDOMやCanvasなど他のコマンドラインツールで触れにくい部分もネイティブにアクセスできるため、リッチアプリケーションなどのテストツールとして活用できそうです。

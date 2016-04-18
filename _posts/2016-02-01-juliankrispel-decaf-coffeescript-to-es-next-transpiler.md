@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/juliankrispel/decaf'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-01T00:30:11+00:00'
+date: '2016-02-01T00:30:11Z'
 tags:
   - CoffeeScript
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/osamum_ms/1928/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-05T08:20:36+00:00'
+date: '2013-09-05T08:20:36Z'
 tags:
   - IE
   - デバック

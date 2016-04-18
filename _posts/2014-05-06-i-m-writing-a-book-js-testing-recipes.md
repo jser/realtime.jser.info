@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jstesting.jcoglan.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-06T08:26:45+00:00'
+date: '2014-05-06T08:26:45Z'
 tags:
   - JavaScript
   - testing

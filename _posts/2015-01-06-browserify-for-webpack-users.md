@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/substack/68f8d502be42d5cd4942'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-06T02:33:38+00:00'
+date: '2015-01-06T02:33:38Z'
 tags:
   - browserify
   - webpack

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/items/6e5648831c214ae2cf14'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/index.json'
-date: '2012-12-01T13:18:00+00:00'
+date: '2012-12-01T13:18:00Z'
 ---
 DevToolsのBreakPoints条件を使って式を評価して、console.logや値の代入やスタックトレースの保存等をする

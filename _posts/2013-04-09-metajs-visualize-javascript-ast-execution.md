@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://int3.github.io/metajs/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-09T08:14:46+00:00'
+date: '2013-04-09T08:14:46Z'
 tags:
   - JavaScript
 ---

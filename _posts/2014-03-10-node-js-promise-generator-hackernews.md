@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://rdepf.hatenablog.jp/entry/2014/03/07/122337'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-10T12:32:07+00:00'
+date: '2014-03-10T12:32:07Z'
 tags:
   - JavaScript
   - Promises

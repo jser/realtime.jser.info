@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://coding.smashingmagazine.com/2012/10/09/designing-javascript-apis-usability/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/index.json'
-date: '2012-10-18T07:00:00+00:00'
+date: '2012-10-18T07:00:00Z'
 ---
 jQueryのInterfaceを参考に、JavaScriptのAPIデザインを良くするにはどうするかという記事。
 引数の扱いやエラーハンドリング、非同期、デバッグしやすいAPI、ドキュメントなどについて

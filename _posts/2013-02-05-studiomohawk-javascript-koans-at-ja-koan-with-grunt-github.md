@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/studiomohawk/javascript-koans/tree/ja-koan-with-grunt'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-05T16:30:00+00:00'
+date: '2013-02-05T16:30:00Z'
 tags:
   - javascript
   - testing

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/devongovett/slang/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/07/index.json'
-date: '2011-07-21T01:00:00+00:00'
+date: '2011-07-21T01:00:00Z'
 ---
 文字列を操作するユーティリティライブラリ

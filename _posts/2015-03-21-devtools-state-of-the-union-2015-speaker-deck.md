@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/addyosmani/devtools-state-of-the-union-2015'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-21T13:21:13+00:00'
+date: '2015-03-21T13:21:13Z'
 tags:
   - Chrome
   - debug

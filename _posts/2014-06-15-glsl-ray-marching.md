@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://wgld.org/o/tools/slide/doc/001/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-15T14:21:59+00:00'
+date: '2014-06-15T14:21:59Z'
 tags:
   - WebGL
   - スライド

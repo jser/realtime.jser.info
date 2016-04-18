@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/cjohansen/Sinon.JS/blob/v1.11.1/Changelog.txt'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-28T00:14:31+00:00'
+date: '2014-10-28T00:14:31Z'
 tags:
   - JavaScript
   - testing

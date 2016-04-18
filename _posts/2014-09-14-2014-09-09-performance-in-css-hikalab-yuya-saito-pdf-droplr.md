@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.pr/f/sP4H'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-14T07:55:00+00:00'
+date: '2014-09-14T07:55:00Z'
 tags:
   - CSS
   - browser

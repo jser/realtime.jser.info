@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://markojs.com/blog/announcing-marko-v3/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-18T08:40:59+00:00'
+date: '2016-03-18T08:40:59Z'
 tags:
   - JavaScript
   - template

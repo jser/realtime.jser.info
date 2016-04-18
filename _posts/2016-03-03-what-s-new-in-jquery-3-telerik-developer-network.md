@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/whats-new-in-jquery-3/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-03T06:56:07+00:00'
+date: '2016-03-03T06:56:07Z'
 tags:
   - jQuery
 ---

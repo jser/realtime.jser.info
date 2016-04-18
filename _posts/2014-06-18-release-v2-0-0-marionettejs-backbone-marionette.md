@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/marionettejs/backbone.marionette/releases/tag/v2.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-18T04:00:09+00:00'
+date: '2014-06-18T04:00:09Z'
 tags:
   - backbone.js
   - library

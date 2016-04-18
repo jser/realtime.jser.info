@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/zloirock/core-js/releases/tag/v2.1.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-09T01:39:18+00:00'
+date: '2016-02-09T01:39:18Z'
 tags:
   - JavaScript
   - ECMAScript

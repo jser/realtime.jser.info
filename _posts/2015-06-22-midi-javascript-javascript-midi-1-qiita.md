@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/PianoScoreJP/items/2f03ae61d91db0334d45'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-22T09:57:00+00:00'
+date: '2015-06-22T09:57:00Z'
 tags:
   - JavaScript
   - audio

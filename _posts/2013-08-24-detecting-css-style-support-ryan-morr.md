@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ryanmorr.com/detecting-css-style-support/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-24T21:50:58+00:00'
+date: '2013-08-24T21:50:58Z'
 tags:
   - CSS
   - JavaScript

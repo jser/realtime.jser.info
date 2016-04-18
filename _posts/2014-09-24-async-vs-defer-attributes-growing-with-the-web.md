@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.growingwiththeweb.com/2014/02/async-vs-defer-attributes.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-24T14:53:32+00:00'
+date: '2014-09-24T14:53:32Z'
 tags:
   - HTML
   - JavaScript

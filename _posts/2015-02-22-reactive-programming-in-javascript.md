@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://ahomu.github.io/s/150221-frontrend_conference/index.html#1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-22T05:24:31+00:00'
+date: '2015-02-22T05:24:31Z'
 tags:
   - JavaScript
   - program

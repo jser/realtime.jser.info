@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/making-internets/why-using-chain-is-a-mistake-9bc1f80d51ba'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-18T08:57:03+00:00'
+date: '2016-02-18T08:57:03Z'
 tags:
   - JavaScript
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/reworkcss/css'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-07T16:27:42+00:00'
+date: '2014-06-07T16:27:42Z'
 tags:
   - CSS
   - library

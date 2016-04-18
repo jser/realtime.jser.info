@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/ariya/esprima/blob/master/ChangeLog'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-28T05:37:31+00:00'
+date: '2014-03-28T05:37:31Z'
 tags:
   - JavaScript
   - ECMAScript

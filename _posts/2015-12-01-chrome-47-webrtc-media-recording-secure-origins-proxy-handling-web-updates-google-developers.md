@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2015/10/chrome-47-webrtc'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-01T12:00:54+00:00'
+date: '2015-12-01T12:00:54Z'
 tags:
   - Chrome
   - ReleaseNote

@@ -6,6 +6,6 @@ author: azu
 layout: post
 itemUrl: 'http://code.google.com/p/chromium/issues/detail?id=72975'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-28T07:10:00+00:00'
+date: '2011-03-28T07:10:00Z'
 ---
 Chrome on XPでWebGLがオフになった。

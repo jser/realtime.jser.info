@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://safx-dev.blogspot.com/2013/08/javascriptsource-map.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-20T13:03:40+00:00'
+date: '2013-08-20T13:03:40Z'
 tags:
   - JavaScript
   - program

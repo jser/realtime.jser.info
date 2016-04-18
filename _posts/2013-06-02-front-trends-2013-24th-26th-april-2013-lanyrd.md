@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lanyrd.com/2013/front-trends/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-02T09:38:40+00:00'
+date: '2013-06-02T09:38:40Z'
 tags:
   - JavaScript
   - event

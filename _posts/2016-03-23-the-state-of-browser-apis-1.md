@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hwclass.in/2016/03/09/the-next-generation-of-browser-apis/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-23T14:20:59+00:00'
+date: '2016-03-23T14:20:59Z'
 tags:
   - JavaScript
   - WebPlatformAPI

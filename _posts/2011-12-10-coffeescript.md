@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://coffeescript.org/#changelog'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-10T20:20:00+00:00'
+date: '2011-12-10T20:20:00Z'
 ---
 CoffeeScript 1.2.0リリース
 --watchと--joinが一緒に使えるようになった。

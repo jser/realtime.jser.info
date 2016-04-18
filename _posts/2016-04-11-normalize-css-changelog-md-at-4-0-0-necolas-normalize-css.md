@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/necolas/normalize.css/blob/4.0.0/CHANGELOG.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-11T09:33:08+00:00'
+date: '2016-04-11T09:33:08Z'
 tags:
   - CSS
   - ReleaseNote

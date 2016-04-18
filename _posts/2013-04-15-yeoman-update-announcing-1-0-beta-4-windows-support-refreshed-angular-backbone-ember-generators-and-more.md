@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/blog/yeoman-update-announcing-1-0-beta-4/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-15T13:22:40+00:00'
+date: '2013-04-15T13:22:40Z'
 tags:
   - JavaScript
   - node.js

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://hyper-text.org/archives/2013/06/firefox_22_release.shtml'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-27T13:35:01+00:00'
+date: '2013-06-27T13:35:01Z'
 tags:
   - firefox
   - ReleaseNote

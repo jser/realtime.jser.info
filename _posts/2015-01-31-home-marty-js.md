@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://martyjs.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-31T11:48:08+00:00'
+date: '2015-01-31T11:48:08Z'
 tags:
   - JavaScript
   - Flux

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.mozilla.org/en-US/firefox/33.0/releasenotes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-16T15:12:02+00:00'
+date: '2014-10-16T15:12:02Z'
 tags:
   - firefox
   - ReleaseNote

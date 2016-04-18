@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2012/0324/res3020/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/index.json'
-date: '2012-03-07T15:40:00+00:00'
+date: '2012-03-07T15:40:00Z'
 ---
 BusterJSの基本的な部分についてのスライド

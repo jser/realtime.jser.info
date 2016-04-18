@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://mojs.io/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-28T07:46:51+00:00'
+date: '2015-11-28T07:46:51Z'
 tags:
   - JavaScript
   - animation

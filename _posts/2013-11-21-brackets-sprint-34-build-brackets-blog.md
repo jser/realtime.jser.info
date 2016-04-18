@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.brackets.io/2013/11/20/1240/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
-date: '2013-11-21T01:12:48+00:00'
+date: '2013-11-21T01:12:48Z'
 tags:
   - JavaScript
   - editor

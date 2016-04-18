@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://flippinawesome.org/2014/02/17/what-every-javascript-developer-should-know-about-floating-points/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-17T13:04:42+00:00'
+date: '2014-02-17T13:04:42Z'
 tags:
   - JavaScript
 relatedLinks:

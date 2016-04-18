@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jquery/esprima/releases/tag/2.5.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-03T07:59:32+00:00'
+date: '2015-08-03T07:59:32Z'
 tags:
   - JavaScript
   - AST

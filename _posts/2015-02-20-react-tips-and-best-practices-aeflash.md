@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://aeflash.com/2015-02/react-tips-and-best-practices.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-20T02:18:29+00:00'
+date: '2015-02-20T02:18:29Z'
 tags:
   - JavaScript
   - React

@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/nowokay/20121003#1349225070'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/10/index.json'
-date: '2012-10-29T07:00:00+00:00'
+date: '2012-10-29T07:00:00Z'
 ---
 NetBeansにWebkitの内蔵ブラウザが入った

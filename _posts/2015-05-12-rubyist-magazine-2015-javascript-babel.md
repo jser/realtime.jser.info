@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://magazine.rubyist.net/?0050-ECMAScript2015'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-12T07:36:35+00:00'
+date: '2015-05-12T07:36:35Z'
 tags:
   - JavaScript
   - ECMAScript

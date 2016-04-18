@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/shootaroo/jit-grunt'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-22T13:22:32+00:00'
+date: '2013-12-22T13:22:32Z'
 tags:
   - Grunt
 ---

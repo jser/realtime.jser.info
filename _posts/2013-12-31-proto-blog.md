@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://nextdeveloper.hatenablog.com/entry/2013/12/15/191719'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-31T07:08:59+00:00'
+date: '2013-12-31T07:08:59Z'
 tags:
   - ECMAScript
   - spec

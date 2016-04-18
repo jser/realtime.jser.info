@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://babeljs.io/blog/2015/05/14/function-bind'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-17T14:08:52+00:00'
+date: '2015-05-17T14:08:52Z'
 tags:
   - ECMAScript
   - JavaScript

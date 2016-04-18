@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/necolas/adaptation-and-components'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-01T15:04:18+00:00'
+date: '2014-05-01T15:04:18Z'
 tags:
   - CSS
   - HTML

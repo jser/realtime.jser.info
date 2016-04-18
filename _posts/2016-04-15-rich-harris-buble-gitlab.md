@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gitlab.com/Rich-Harris/buble'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
-date: '2016-04-15T08:53:28+00:00'
+date: '2016-04-15T08:53:28Z'
 tags:
   - babel
   - JavaScript

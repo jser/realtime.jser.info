@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mauriciosoares/core.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-31T21:50:53+00:00'
+date: '2014-12-31T21:50:53Z'
 tags:
   - JavaScript
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://aerotwist.com/blog/react-plus-performance-equals-what/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-04T06:07:25+00:00'
+date: '2015-07-04T06:07:25Z'
 tags:
   - React
   - DOM

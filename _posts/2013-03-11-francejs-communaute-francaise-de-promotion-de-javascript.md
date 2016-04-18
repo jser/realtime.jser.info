@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://francejs.org/manifeste.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-11T03:09:00+00:00'
+date: '2013-03-11T03:09:00Z'
 tags:
   - javascript
   - community

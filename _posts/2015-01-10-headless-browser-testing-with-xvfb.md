@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tobyho.com/2015/01/09/headless-browser-testing-xvfb/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-10T00:27:03+00:00'
+date: '2015-01-10T00:27:03Z'
 tags:
   - console
   - firefox

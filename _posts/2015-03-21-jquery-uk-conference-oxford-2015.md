@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://jqueryuk.com/2015/videos.php'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-21T13:22:38+00:00'
+date: '2015-03-21T13:22:38Z'
 tags:
   - jQuery
   - 動画

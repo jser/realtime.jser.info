@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://mathiasbynens.be/notes/es6-const'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-06T14:31:30+00:00'
+date: '2016-02-06T14:31:30Z'
 tags:
   - ECMAScript
   - JavaScript

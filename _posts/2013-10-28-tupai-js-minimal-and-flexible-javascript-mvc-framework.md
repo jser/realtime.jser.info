@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://tupaijs.com/index.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-28T14:12:01+00:00'
+date: '2013-10-28T14:12:01Z'
 tags:
   - JavaScript
   - MVC

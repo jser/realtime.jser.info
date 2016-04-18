@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.chromestatus.com/features'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-08T13:39:00+00:00'
+date: '2013-03-08T13:39:00Z'
 tags:
   - Chrome
   - まとめ

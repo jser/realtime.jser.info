@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://cuaoar.jp/2013/02/edge-reflow.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-16T11:42:00+00:00'
+date: '2013-02-16T11:42:00Z'
 tags:
   - design
   - adobe

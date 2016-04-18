@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://socket.io/blog/socket-io-1-2-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-28T06:20:12+00:00'
+date: '2014-10-28T06:20:12Z'
 tags:
   - node.js
   - JavaScript

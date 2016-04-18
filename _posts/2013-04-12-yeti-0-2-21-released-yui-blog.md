@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.yuiblog.com/blog/2013/04/11/yeti-0-2-21-released/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/index.json'
-date: '2013-04-12T08:22:33+00:00'
+date: '2013-04-12T08:22:33Z'
 tags:
   - JavaScript
   - testing

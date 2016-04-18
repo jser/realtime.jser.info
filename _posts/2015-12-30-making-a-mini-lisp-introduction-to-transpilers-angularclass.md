@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://angularclass.com/making-a-mini-lisp-introduction-to-transpilers/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-30T12:43:45+00:00'
+date: '2015-12-30T12:43:45Z'
 tags:
   - JavaScript
 ---

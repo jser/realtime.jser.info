@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://news.qooxdoo.org/qooxdoo-5-0-released'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/index.json'
-date: '2015-06-20T05:58:14+00:00'
+date: '2015-06-20T05:58:14Z'
 tags:
   - JavaScript
   - UI

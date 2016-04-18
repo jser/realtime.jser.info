@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.html5rocks.com/en/tutorials/webperformance/usertiming/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-25T14:46:32+00:00'
+date: '2014-01-25T14:46:32Z'
 tags:
   - JavaScript
   - browserify

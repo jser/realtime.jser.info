@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://efcl.info/2013/0303/res3214/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-03T10:39:00+00:00'
+date: '2013-03-03T10:39:00Z'
 tags:
   - javascript
   - testing

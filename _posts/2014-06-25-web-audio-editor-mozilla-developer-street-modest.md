@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://dev.mozilla.jp/2014/06/introducing-the-web-audio-editor-in-firefox-developer-tools/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-25T02:23:41+00:00'
+date: '2014-06-25T02:23:41Z'
 tags:
   - firefox
   - audio

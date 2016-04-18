@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://vimeo.com/40929961'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/index.json'
-date: '2012-05-23T15:56:00+00:00'
+date: '2012-05-23T15:56:00Z'
 ---
 フロントエンド開発のツールやエコシステム、ライブラリなどについての発表
 スライド http://dl.dropbox.com/u/39519/talks/tooling-q1/index.html

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://staltz.com/unidirectional-user-interface-architectures.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-27T01:54:24+00:00'
+date: '2015-08-27T01:54:24Z'
 tags:
   - Flux
   - JavaScript

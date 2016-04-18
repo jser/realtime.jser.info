@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blogs.windows.com/msedgedev/2015/09/18/ortc-api-is-now-available-in-microsoft-edge/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-29T12:59:48+00:00'
+date: '2015-09-29T12:59:48Z'
 tags:
   - MSEdge
   - WebRTC

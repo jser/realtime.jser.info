@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2015/10/firebug-devtools-integration/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-29T08:12:52+00:00'
+date: '2015-10-29T08:12:52Z'
 tags:
   - firefox
   - Firebug

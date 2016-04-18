@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/yoshikawa_t/1888/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-09T09:00:14+00:00'
+date: '2013-09-09T09:00:14Z'
 tags:
   - DOM
   - JavaScript

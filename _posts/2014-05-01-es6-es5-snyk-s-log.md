@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://saneyukis.hatenablog.com/entry/2014/04/30/015807'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-01T14:21:42+00:00'
+date: '2014-05-01T14:21:42Z'
 tags:
   - JavaScript
 ---

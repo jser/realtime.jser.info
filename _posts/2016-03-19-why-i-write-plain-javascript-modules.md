@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://ponyfoo.com/articles/why-i-write-plain-javascript-modules'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-19T03:58:45+00:00'
+date: '2016-03-19T03:58:45Z'
 tags:
   - DOM
   - library

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116587/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
-date: '2014-01-24T07:17:26+00:00'
+date: '2014-01-24T07:17:26Z'
 tags:
   - JavaScript
   - backbone.js

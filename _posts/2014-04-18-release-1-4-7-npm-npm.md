@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/npm/npm/releases/tag/v1.4.7'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-18T05:00:51+00:00'
+date: '2014-04-18T05:00:51Z'
 tags:
   - node.js
   - Tools

@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4798139807?tag=amazon0abac-22'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/index.json'
-date: '2014-12-13T16:17:28+00:00'
+date: '2014-12-13T16:17:28Z'
 tags:
   - TypeScript
   - book

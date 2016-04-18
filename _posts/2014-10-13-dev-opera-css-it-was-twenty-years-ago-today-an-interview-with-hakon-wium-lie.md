@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://dev.opera.com/articles/css-twenty-years-hakon/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-13T12:24:03+00:00'
+date: '2014-10-13T12:24:03Z'
 tags:
   - CSS
   - 歴史

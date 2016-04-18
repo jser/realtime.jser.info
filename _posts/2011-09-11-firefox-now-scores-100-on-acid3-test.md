@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://browserfame.com/212/firefox-acid3-test-100'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/09/index.json'
-date: '2011-09-11T05:00:00+00:00'
+date: '2011-09-11T05:00:00Z'
 ---
 Acid3のテストが更新されて、Firefoxも100/100を達成できるようになった。
 https://bugzilla.mozilla.org/show_bug.cgi?id=410460

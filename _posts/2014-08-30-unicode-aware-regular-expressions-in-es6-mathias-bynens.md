@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://mathiasbynens.be/notes/es6-unicode-regex'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
-date: '2014-08-30T14:33:18+00:00'
+date: '2014-08-30T14:33:18Z'
 tags:
   - ECMAScript
   - JavaScript

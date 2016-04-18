@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/HugoGiraudel/SJSJ'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-30T09:48:45+00:00'
+date: '2015-12-30T09:48:45Z'
 tags:
   - JavaScript
   - dictionary

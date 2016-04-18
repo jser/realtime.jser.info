@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://blogs.msdn.com/b/osamum/archive/2015/08/07/about-windows-10-s-new-web-browsers.aspx
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-10T09:28:42+00:00'
+date: '2015-08-10T09:28:42Z'
 tags:
   - IE
   - MSEdge

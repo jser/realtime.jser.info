@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/twada/power-assert/releases/tag/v0.11.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-19T04:43:31+00:00'
+date: '2015-04-19T04:43:31Z'
 tags:
   - JavaScript
   - testing

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/fkei/frontrend-vol7-html5-audio'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/index.json'
-date: '2014-04-21T09:26:22+00:00'
+date: '2014-04-21T09:26:22Z'
 tags:
   - JavaScript
   - HTML

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://1000ch.net/2013/03/05/ZeptoIsReleased/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-08T07:30:00+00:00'
+date: '2013-03-08T07:30:00Z'
 tags:
   - jQuery
   - javascript

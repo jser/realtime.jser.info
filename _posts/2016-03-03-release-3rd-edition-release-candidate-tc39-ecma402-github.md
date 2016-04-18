@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/tc39/ecma402/releases/tag/3.0-rc-1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-03T10:01:31+00:00'
+date: '2016-03-03T10:01:31Z'
 tags:
   - ECMAScript
   - spec

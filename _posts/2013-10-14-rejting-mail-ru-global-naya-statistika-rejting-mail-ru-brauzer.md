@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://top.mail.ru/browsers?id=250#sids=chrome,mob,firefox,opera,msie&percent=0
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/index.json'
-date: '2013-10-14T13:55:20+00:00'
+date: '2013-10-14T13:55:20Z'
 tags:
   - アクセス解析
   - browser

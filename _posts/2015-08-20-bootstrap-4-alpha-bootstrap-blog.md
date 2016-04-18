@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.getbootstrap.com/2015/08/19/bootstrap-4-alpha/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-20T09:49:16+00:00'
+date: '2015-08-20T09:49:16Z'
 tags:
   - CSS
   - library

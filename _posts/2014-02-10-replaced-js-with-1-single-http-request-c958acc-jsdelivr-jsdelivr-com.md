@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/jsdelivr/jsdelivr.com/commit/c958acc742a1bb8d2966ff48a09632284e1dfa05
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-10T13:09:40+00:00'
+date: '2014-02-10T13:09:40Z'
 tags:
   - JavaScript
   - library

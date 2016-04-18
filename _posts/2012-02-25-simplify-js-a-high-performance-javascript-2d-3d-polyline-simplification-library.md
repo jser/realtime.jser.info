@@ -6,6 +6,6 @@ author: azu
 layout: post
 itemUrl: 'http://mourner.github.com/simplify-js/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/index.json'
-date: '2012-02-25T09:04:00+00:00'
+date: '2012-02-25T09:04:00Z'
 ---
 シンプルな折れ線グラフ用のライブラリ

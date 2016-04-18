@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://people.mozilla.org/~bbirtles/pres/html5j-2014/#/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-28T07:14:04+00:00'
+date: '2014-10-28T07:14:04Z'
 tags:
   - JavaScript
   - CSS

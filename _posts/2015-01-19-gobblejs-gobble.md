@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/gobblejs/gobble'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-19T13:51:18+00:00'
+date: '2015-01-19T13:51:18Z'
 tags:
   - JavaScript
   - Tools

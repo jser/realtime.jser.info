@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/gabrielbull/react-desktop'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
-date: '2015-10-15T08:05:48+00:00'
+date: '2015-10-15T08:05:48Z'
 tags:
   - React
   - mac

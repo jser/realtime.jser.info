@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/getify/es-feature-tests'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-07T13:14:58+00:00'
+date: '2015-05-07T13:14:58Z'
 tags:
   - JavaScript
   - library

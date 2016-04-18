@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/onozaty/20120421/p1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/index.json'
-date: '2012-04-08T19:12:00+00:00'
+date: '2012-04-08T19:12:00Z'
 ---
 var URL = window.URL || window.webkitURL;
 のようなコードをグローバル空間で実行した場合にエラーが起きる事について

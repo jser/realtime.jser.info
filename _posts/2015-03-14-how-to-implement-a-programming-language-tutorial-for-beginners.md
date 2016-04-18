@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://lisperator.net/pltut/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
-date: '2015-03-14T05:44:49+00:00'
+date: '2015-03-14T05:44:49Z'
 tags:
   - JavaScript
   - tutorial

@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://hacks.mozilla.org/2016/03/developer-edition-47-user-agent-emulation-popup-debugging-and-more/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-23T12:52:02+00:00'
+date: '2016-03-23T12:52:02Z'
 tags:
   - firefox
   - JavaScript

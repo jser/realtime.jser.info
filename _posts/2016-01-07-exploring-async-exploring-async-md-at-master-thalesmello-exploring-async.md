@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/thalesmello/exploring-async/blob/master/exploring_async.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-07T07:45:47+00:00'
+date: '2016-01-07T07:45:47Z'
 tags:
   - JavaScript
   - tutorial

@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.mobilexweb.com/blog/safari-on-ios-9-3-picture-shrink-fit-iphone-se'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-26T10:26:49+00:00'
+date: '2016-03-26T10:26:49Z'
 tags:
   - ios
   - safari

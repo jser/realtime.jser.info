@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://zapier.com/engineering/intro-to-web-workers/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-14T06:25:19+00:00'
+date: '2013-06-14T06:25:19Z'
 tags:
   - JavaScript
   - WebAPI

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://paulirish.com/2011/11-more-things-i-learned-from-the-jquery-source/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-16T02:44:00+00:00'
+date: '2011-01-16T02:44:00Z'
 ---
 jQueryから学ぶ11の事
 中で出てくるコードは[11 More Things I Learned from the jQuery Source](https://gist.github.com/7871ac0364af27f27152 "11 More Things I Learned from the jQuery Source")に

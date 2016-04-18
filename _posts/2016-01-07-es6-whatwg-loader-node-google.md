@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://docs.google.com/presentation/d/1tXziuBheum53jk-FgtFkEUGKNVTdHzbpzhJLk7FatGc/edit#slide=id.p
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-07T07:56:34+00:00'
+date: '2016-01-07T07:56:34Z'
 tags:
   - ECMAScript
   - node.js

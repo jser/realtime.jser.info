@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://markdalgleish.github.io/presentation-build-wars-gulp-vs-grunt/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
-date: '2014-02-17T12:44:02+00:00'
+date: '2014-02-17T12:44:02Z'
 tags:
   - Grunt
   - gulp

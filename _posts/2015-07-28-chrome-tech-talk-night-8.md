@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.cyberagent.co.jp/techinfo_detail/id=10782'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-28T13:15:01+00:00'
+date: '2015-07-28T13:15:01Z'
 tags:
   - Chrome
   - 動画

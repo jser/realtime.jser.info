@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/adobe-research/theseus'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-20T12:54:47+00:00'
+date: '2013-05-20T12:54:47Z'
 tags:
   - node.js
   - JavaScript

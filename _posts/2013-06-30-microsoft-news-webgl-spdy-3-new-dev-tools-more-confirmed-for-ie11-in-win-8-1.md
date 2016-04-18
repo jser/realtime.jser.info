@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   http://microsoft-news.com/webgl-spdy3-new-dev-tools-more-confirmed-for-ie11-in-win-8-1/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-30T02:57:43+00:00'
+date: '2013-06-30T02:57:43Z'
 tags:
   - IE
   - デバック

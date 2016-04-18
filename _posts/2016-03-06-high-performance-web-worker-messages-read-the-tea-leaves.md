@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://nolanlawson.com/2016/02/29/high-performance-web-worker-messages/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-06T02:46:09+00:00'
+date: '2016-03-06T02:46:09Z'
 tags:
   - webworker
   - performance

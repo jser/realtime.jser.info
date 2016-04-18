@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://www.amirharel.com/2011/01/23/create-your-own-ajaxstore-with-xmlhttprequest-level-2/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-08T13:24:00+00:00'
+date: '2011-01-08T13:24:00Z'
 ---
 XHR Level2の扱いについて。
 サーバ側のレスポンスヘッダ設定

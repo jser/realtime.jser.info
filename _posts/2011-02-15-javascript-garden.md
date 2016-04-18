@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://bonsaiden.github.com/JavaScript-Garden/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/02/index.json'
-date: '2011-02-15T00:10:00+00:00'
+date: '2011-02-15T00:10:00Z'
 ---
 JavaScriptの変わってるとこやパフォーマンスや仕組みなどかなり詳細に書かれた内容。
 かなり深く掘り下げていたりしてJavaScript Patternsと同じくらい薦められる読み物。

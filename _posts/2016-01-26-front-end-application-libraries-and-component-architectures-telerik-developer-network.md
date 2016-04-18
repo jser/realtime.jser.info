@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://developer.telerik.com/featured/front-end-application-frameworks-component-architectures/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-26T15:00:12+00:00'
+date: '2016-01-26T15:00:12Z'
 tags:
   - JavaScript
   - library

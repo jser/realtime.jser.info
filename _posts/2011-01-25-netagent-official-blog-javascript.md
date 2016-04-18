@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.netagent-blog.jp/archives/51739962.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-25T04:20:00+00:00'
+date: '2011-01-25T04:20:00Z'
 ---
 記号プログラミングと難読化エンコーダーの合わせ技でよい難読化を行う手法についての解説。
 eval 関数を使うところを、Firefox 独自実装の crypto.generateCRMFRequest メソッドを利用。

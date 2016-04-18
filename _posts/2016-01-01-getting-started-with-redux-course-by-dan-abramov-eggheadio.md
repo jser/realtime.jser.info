@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://egghead.io/series/getting-started-with-redux'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-01T05:56:12+00:00'
+date: '2016-01-01T05:56:12Z'
 tags:
   - redux
   - JavaScript

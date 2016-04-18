@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://blog.koba04.com/post/2014/03/23/browserify-in-backbone-marionette-project/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-24T12:19:31+00:00'
+date: '2014-03-24T12:19:31Z'
 tags:
   - browserify
   - Grunt

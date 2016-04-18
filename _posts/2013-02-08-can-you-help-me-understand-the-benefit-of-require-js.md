@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/desandro/4686136'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-08T09:18:00+00:00'
+date: '2013-02-08T09:18:00Z'
 tags:
   - AMD
   - javascript

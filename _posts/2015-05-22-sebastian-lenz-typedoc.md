@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/sebastian-lenz/typedoc'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
-date: '2015-05-22T11:40:36+00:00'
+date: '2015-05-22T11:40:36Z'
 tags:
   - TypeScript
   - API

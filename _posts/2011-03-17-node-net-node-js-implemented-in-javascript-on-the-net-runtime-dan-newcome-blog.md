@@ -7,6 +7,6 @@ layout: post
 itemUrl: >-
   http://newcome.wordpress.com/2010/05/08/node-net-node-js-implemented-in-javascript-on-the-net-runtime/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/03/index.json'
-date: '2011-03-17T18:47:00+00:00'
+date: '2011-03-17T18:47:00Z'
 ---
 Node.jsをJScript.NETで実装したものが公開

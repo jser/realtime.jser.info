@@ -5,6 +5,6 @@ layout: post
 itemUrl: >-
   http://0-9.tumblr.com/post/23471470020/javascript-unittest-on-sinonjs-jstestdriver
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/index.json'
-date: '2012-05-06T23:32:00+00:00'
+date: '2012-05-06T23:32:00Z'
 ---
 SinonJSとJsTestDriverを組み合わせて使う時に利用できる初期セットアップ

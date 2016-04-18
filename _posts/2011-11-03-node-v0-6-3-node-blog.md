@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.nodejs.org/2011/11/25/node-v0-6-3/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/11/index.json'
-date: '2011-11-03T23:00:00+00:00'
+date: '2011-11-03T23:00:00Z'
 ---
 Node.js 0.6.3リリース。
 npmが同梱されるようになった

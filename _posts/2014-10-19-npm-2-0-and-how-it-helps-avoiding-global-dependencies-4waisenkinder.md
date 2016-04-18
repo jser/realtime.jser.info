@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   http://4waisenkinder.de/blog/2014/10/18/npm-2-dot-0-and-the-much-better-star-npm-run-star-command/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T02:57:17+00:00'
+date: '2014-10-19T02:57:17Z'
 tags:
   - node.js
   - npm

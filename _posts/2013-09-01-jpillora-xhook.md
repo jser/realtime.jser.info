@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/jpillora/xhook'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/index.json'
-date: '2013-09-01T12:28:52+00:00'
+date: '2013-09-01T12:28:52Z'
 tags:
   - XHR
   - JavaScript

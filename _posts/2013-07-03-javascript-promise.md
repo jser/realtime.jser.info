@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/OrgaChem/5903697'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-03T13:03:24+00:00'
+date: '2013-07-03T13:03:24Z'
 tags:
   - JavaScript
   - 翻訳

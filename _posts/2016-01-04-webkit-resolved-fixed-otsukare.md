@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.otsukare.info/2016/01/04/webkit-resolved-fixed'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-04T11:29:07+00:00'
+date: '2016-01-04T11:29:07Z'
 tags:
   - firefox
   - webkit

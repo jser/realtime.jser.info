@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.datchley.name/es6-rest-spread-defaults-and-destructuring/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-26T03:25:22+00:00'
+date: '2015-12-26T03:25:22Z'
 tags:
   - JavaScript
   - ECMAScript

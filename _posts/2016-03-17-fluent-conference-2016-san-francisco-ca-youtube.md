@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://www.youtube.com/watch?v=9UYoKyuFXrM&list=PL055Epbe6d5bQubu5EWf_kUNA3ef_qbmL
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-17T09:49:45+00:00'
+date: '2016-03-17T09:49:45Z'
 tags:
   - JavaScript
   - イベント

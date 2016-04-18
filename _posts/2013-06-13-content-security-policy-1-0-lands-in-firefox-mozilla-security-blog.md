@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://blog.mozilla.org/security/2013/06/11/content-security-policy-1-0-lands-in-firefox/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-13T00:51:53+00:00'
+date: '2013-06-13T00:51:53Z'
 tags:
   - firefox
   - セキュリティ

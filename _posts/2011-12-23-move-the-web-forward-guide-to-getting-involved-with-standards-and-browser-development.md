@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://movethewebforward.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/index.json'
-date: '2011-12-23T07:20:00+00:00'
+date: '2011-12-23T07:20:00Z'
 ---
 Web開発者向けのガイドライン
 ブログやリファレンス、学び方や質問の仕方などについて

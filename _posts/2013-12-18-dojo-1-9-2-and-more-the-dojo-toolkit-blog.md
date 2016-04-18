@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://dojotoolkit.org/blog/dojo-1-9-2-and-more'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
-date: '2013-12-18T00:35:27+00:00'
+date: '2013-12-18T00:35:27Z'
 tags:
   - JavaScript
   - library

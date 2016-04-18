@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/index.json'
-date: '2015-08-28T01:57:35+00:00'
+date: '2015-08-28T01:57:35Z'
 tags:
   - WebPlatformAPI
   - JavaScript

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/alfredkam/yakojs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/index.json'
-date: '2015-04-10T01:58:43+00:00'
+date: '2015-04-10T01:58:43Z'
 tags:
   - JavaScript
   - グラフ

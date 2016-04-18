@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://groups.google.com/forum/#!msg/codemirror/Ry_Mx8BGcQU/NFqd0odfYHQJ'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-22T00:41:24+00:00'
+date: '2014-10-22T00:41:24Z'
 tags:
   - JavaScript
   - editor

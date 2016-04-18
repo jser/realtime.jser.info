@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.playfuljs.com/a-first-person-engine-in-265-lines/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/index.json'
-date: '2014-06-09T12:25:14+00:00'
+date: '2014-06-09T12:25:14Z'
 tags:
   - JavaScript
   - game

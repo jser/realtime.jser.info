@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.chromium.org/2015/09/chrome-46-beta-flexible-animations-and.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/index.json'
-date: '2015-09-03T02:46:52+00:00'
+date: '2015-09-03T02:46:52Z'
 tags:
   - Chrome
   - ReleaseNote

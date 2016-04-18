@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/substack/browserify-handbook'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/index.json'
-date: '2014-05-20T12:46:38+00:00'
+date: '2014-05-20T12:46:38Z'
 tags:
   - node.js
   - browserify

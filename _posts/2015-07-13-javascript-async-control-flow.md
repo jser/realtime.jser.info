@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://kaye.us/javascript-async-control-flow/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/index.json'
-date: '2015-07-13T12:51:27+00:00'
+date: '2015-07-13T12:51:27Z'
 tags:
   - JavaScript
   - ECMAScript

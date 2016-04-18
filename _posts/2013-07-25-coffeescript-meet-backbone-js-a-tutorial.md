@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://adamjspooner.github.io/coffeescript-meet-backbonejs/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
-date: '2013-07-25T13:02:02+00:00'
+date: '2013-07-25T13:02:02Z'
 tags:
   - CoffeeScript
   - backbone.js

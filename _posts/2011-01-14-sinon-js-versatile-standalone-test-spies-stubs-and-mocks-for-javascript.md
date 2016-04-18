@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://sinonjs.org/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-14T14:28:00+00:00'
+date: '2011-01-14T14:28:00Z'
 ---
 JavaScriptテストライブラリ。
 スタブ、モックやFake系の機能が備わっていて、通信やタイマーなどJavaScriptのテストで扱いにくいものテストできます。

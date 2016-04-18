@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/angular/protractor/blob/3.0.0/CHANGELOG.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
-date: '2015-11-18T12:19:57+00:00'
+date: '2015-11-18T12:19:57Z'
 tags:
   - E2E
   - testing

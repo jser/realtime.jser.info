@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/react/blog/2014/10/16/react-v0.12-rc1.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
-date: '2014-10-19T12:24:55+00:00'
+date: '2014-10-19T12:24:55Z'
 tags:
   - React
   - ReleaseNote

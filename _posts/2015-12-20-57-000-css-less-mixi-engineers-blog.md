@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://alpha.mixi.co.jp/entry/2015/12/20/000000'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-20T10:25:20+00:00'
+date: '2015-12-20T10:25:20Z'
 tags:
   - CSS
   - LESS

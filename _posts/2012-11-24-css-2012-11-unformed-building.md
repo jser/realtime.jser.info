@@ -4,6 +4,6 @@ author: azu
 layout: post
 itemUrl: 'http://unformedbuilding.com/articles/css-unprefixed-2012-11/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
-date: '2012-11-24T14:00:00+00:00'
+date: '2012-11-24T14:00:00Z'
 ---
 Firefox 16, Opera 12.10, Internet Explorer 10でCSSのベンダーprefixが外れたものについてのまとめ

@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://takenspc.hatenablog.com/entry/2015/12/03/235927'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/index.json'
-date: '2015-12-05T12:52:34+00:00'
+date: '2015-12-05T12:52:34Z'
 tags:
   - W3C
   - spec

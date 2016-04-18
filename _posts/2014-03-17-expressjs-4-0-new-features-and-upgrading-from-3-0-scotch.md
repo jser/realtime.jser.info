@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/index.json'
-date: '2014-03-17T12:49:11+00:00'
+date: '2014-03-17T12:49:11Z'
 tags:
   - node.js
   - ReleaseNote

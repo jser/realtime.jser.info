@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://flowtype.org/blog/2015/02/20/Flow-Comments.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
-date: '2015-02-21T17:36:57+00:00'
+date: '2015-02-21T17:36:57Z'
 tags:
   - flowtype
   - Tools

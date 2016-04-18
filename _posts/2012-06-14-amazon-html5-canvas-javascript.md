@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4822284921/book042-22/ref=nosim'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/index.json'
-date: '2012-06-14T09:00:00+00:00'
+date: '2012-06-14T09:00:00Z'
 ---
 2012年6月21日発売
 Foundation HTML5 Canvasの翻訳本

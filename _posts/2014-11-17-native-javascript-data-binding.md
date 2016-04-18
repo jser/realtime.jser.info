@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.sellarafaeli.com/blog/native_javascript_data_binding'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/index.json'
-date: '2014-11-17T12:13:39+00:00'
+date: '2014-11-17T12:13:39Z'
 tags:
   - JavaScript
   - tutorial

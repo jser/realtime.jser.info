@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://ponyfoo.com/articles/weakref'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-11T03:18:35+00:00'
+date: '2016-03-11T03:18:35Z'
 tags:
   - ECMAScript
   - JavaScript

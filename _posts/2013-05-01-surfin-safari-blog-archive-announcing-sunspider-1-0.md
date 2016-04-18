@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.webkit.org/blog/2364/announcing-sunspider-1-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/index.json'
-date: '2013-05-01T15:26:04+00:00'
+date: '2013-05-01T15:26:04Z'
 tags:
   - webkit
   - browser

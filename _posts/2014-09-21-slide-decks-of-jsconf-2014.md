@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://gist.github.com/nikcorg/1fe60d2da6e22653806c'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-21T11:36:29+00:00'
+date: '2014-09-21T11:36:29Z'
 tags:
   - JavaScript
   - event
