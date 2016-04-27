@@ -8,6 +8,9 @@ date: '2016-04-26T22:53:22Z'
 tags:
   - node.js
   - ReleaseNote
+relatedLinks:
+  - title: Node.js v6.0 (Current) がリリースされました。 - from scratch
+    url: 'http://yosuke-furukawa.hatenablog.com/entry/2016/04/27/110027'
 ---
 Node.js 6.0.0(LTS)リリース。
 v8のアップデートを含むため、Native addonは`npm rebuid`での再ビルドが必要。
