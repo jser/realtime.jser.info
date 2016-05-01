@@ -9,6 +9,9 @@ tags:
   - JavaScript
   - Tools
   - ReleaseNote
+relatedLinks:
+  - title: ESLint v2.9.0 - Qiita
+    url: 'http://qiita.com/mysticatea/items/1d377b67465664009ad5'
 ---
 ESLint v2.9.0リリース。
 Autofix `--fix` オプションの改善。
