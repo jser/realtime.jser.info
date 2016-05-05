@@ -9,4 +9,4 @@ tags:
   - JavaScript
   - library
 ---
-postMessageのらっぱーらいぶらり
+postMessageのラッパーライブラリ
