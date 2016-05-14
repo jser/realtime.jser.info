@@ -14,4 +14,4 @@ relatedLinks:
     url: 'https://github.com/blesh/redux-observable'
 ---
 Netflixで使ってる`redux-observable`について。
-なぜ`redux-`なのか? - ReduxはReact周りでよく知られているパターンであり、既に様々Reduxのツールが存在するからであるという話
+なぜ`redux-`なのか? - ReduxはReact周りでよく知られているパターンであり、既に様々なRedux関連ツールが存在するからであるという話
