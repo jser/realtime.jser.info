@@ -10,4 +10,4 @@ tags:
   - スライド
   - performance
 ---
-webpacのビルド速度改善についてのスライド
+webpackのビルド速度改善についてのスライド
