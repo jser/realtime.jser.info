@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 MSEdge build 14342リリース。
-ES6 modulesを扱える`<script type="module">`をフラグ付きでサポート、ES2016の新しい機能である`**`、`Object.values`、`Object.entries`、`String#pad*`を全てサポートなど
+ES6 modulesを扱える`<script type="module">`をフラグ付きでサポート、ES2016/2017の新しい機能である`**`、`Object.values`、`Object.entries`、`String#pad*`のサポートなど
