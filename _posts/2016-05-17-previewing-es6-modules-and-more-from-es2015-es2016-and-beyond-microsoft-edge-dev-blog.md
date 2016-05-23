@@ -10,6 +10,9 @@ date: '2016-05-17T23:36:26Z'
 tags:
   - MSEdge
   - ReleaseNote
+relatedLinks:
+  - title: Microsoft Edge で Modules を使ってみる - Browser
+    url: 'http://browser.hatenablog.com/entry/2016/05/22/220131'
 ---
 MSEdge build 14342リリース。
 ES6 modulesを扱える`<script type="module">`をフラグ付きでサポート、ES2016/2017の新しい機能である`**`、`Object.values`、`Object.entries`、`String#pad*`のサポートなど
