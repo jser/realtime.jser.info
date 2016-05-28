@@ -11,8 +11,8 @@ tags:
 relatedLinks:
   - title: ESLint v2.11.0 - Qiita
     url: 'http://qiita.com/mysticatea/items/979bee6cd462f135f217'
-  - title: Dummy
-    url: 'http://example.com/'
+  - title: 'Suggestion: Object.hasOwnProperty'
+    url: 'https://esdiscuss.org/topic/suggestion-object-hasownproperty'
 ---
 ESLint v2.11.0リリース。
 JSCS互換のルールの追加、`obj.hasOwnProperty`の利用に関するルールの追加など
