@@ -1,5 +1,5 @@
 ---
-title: "Fullstack React \uD83D\uDC2C: React Tutorial: Cloning Yelp"
+title: 'Fullstack React : React Tutorial: Cloning Yelp'
 author: azu
 layout: post
 itemUrl: 'https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/'
