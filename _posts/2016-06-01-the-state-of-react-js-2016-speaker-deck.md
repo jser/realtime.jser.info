@@ -8,5 +8,8 @@ date: '2016-06-01T13:16:39Z'
 tags:
   - React
   - スライド
+relatedLinks:
+  - title: 第65回 HTML5とか勉強会 ー React最新情報 - YouTube
+    url: 'https://www.youtube.com/watch?v=C8bMahvTkHA'
 ---
 Reactの最近の変更や今後の変更、非推奨になる予定の機能についてなど
