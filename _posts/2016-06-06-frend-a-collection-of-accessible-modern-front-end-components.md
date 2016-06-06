@@ -6,9 +6,9 @@ itemUrl: 'http://frend.co/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/index.json'
 date: '2016-06-06T10:48:04Z'
 tags:
-  - React
+  - DOM
   - library
   - accessibility
   - WAI-ARIA
 ---
-AccessibleなReact Component集
+AccessibleなDOM UIを実現するためのJavaScriptライブラリ。CSSフレームワークのように特定のクラスを付けた要素にWAI-ARIAの属性を付加していく。
