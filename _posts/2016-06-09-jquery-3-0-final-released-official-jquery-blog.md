@@ -17,4 +17,4 @@ relatedLinks:
 ---
 jQuery 3.0リリース。
 ajaxとeffectを取り除いたslimビルドの公開。
-`jQuery.Deferred`がPromise A/+互換に、- 非推奨イベントの削除、再度`requestAnimationFrame`を利用するように変更など
+`jQuery.Deferred`がPromise A/+互換に、非推奨イベントの削除、再度`requestAnimationFrame`を利用するように変更など
