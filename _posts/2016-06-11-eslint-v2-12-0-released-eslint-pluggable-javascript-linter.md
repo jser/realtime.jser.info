@@ -11,6 +11,8 @@ tags:
 relatedLinks:
   - title: "\uD83E\uDD84 Utilize glob ignore option for massive perf win \uD83E\uDD84 by samccone · Pull Request #6215 · eslint/eslint"
     url: 'https://github.com/eslint/eslint/pull/6215'
+  - title: ESLint v2.12.0 - Qiita
+    url: 'http://qiita.com/mysticatea/items/7bf844b32f8295eeb061'
 ---
 ESLint v2.12.0リリース。
 JSCS互換のルールの追加、全てのビルトインルールを読み込む`eslint:all`の追加、パフォーマンスの改善など
