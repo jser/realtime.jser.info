@@ -14,6 +14,8 @@ relatedLinks:
   - title: 'jquery/jquery-migrate: APIs and features removed from jQuery core'
     url: >-
       https://github.com/jquery/jquery-migrate#migrate-older-jquery-code-to-jquery-30
+  - title: 【翻訳まとめ】jQuery 3.0 アップグレードガイド - Qiita
+    url: 'http://qiita.com/fmy/items/345a264a1cf2e2a73f62'
 ---
 jQuery 3.0リリース。
 ajaxとeffectを取り除いたslimビルドの公開。
