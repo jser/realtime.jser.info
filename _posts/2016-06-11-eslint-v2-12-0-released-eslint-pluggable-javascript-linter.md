@@ -9,7 +9,9 @@ tags:
   - ESLint
   - ReleaseNote
 relatedLinks:
-  - title: "\uD83E\uDD84 Utilize glob ignore option for massive perf win \uD83E\uDD84 by samccone · Pull Request #6215 · eslint/eslint"
+  - title: >-
+      Utilize glob ignore option for massive perf win by samccone · Pull Request
+      #6215 · eslint/eslint
     url: 'https://github.com/eslint/eslint/pull/6215'
   - title: ESLint v2.12.0 - Qiita
     url: 'http://qiita.com/mysticatea/items/7bf844b32f8295eeb061'
