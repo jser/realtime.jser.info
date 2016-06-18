@@ -10,4 +10,4 @@ tags:
   - testing
   - 翻訳
 ---
-REact ComponentをTDDする話
+React ComponentをTDDする話
