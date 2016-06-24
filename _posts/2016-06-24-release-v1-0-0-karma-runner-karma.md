@@ -10,11 +10,7 @@ tags:
   - testing
   - library
   - ReleaseNote
-relatedLinks:
-  - title: >-
-      Transition from contextWindow to postMessage by twolfson · Pull Request
-      #1984 · karma-runner/karma
-    url: 'https://github.com/karma-runner/karma/pull/1984'
 ---
 Karma 1.0.0リリース。
-preprocessorの実行順序をファイル種別で制御できるように、テストを実行するHTMLの構造を変更など
+preprocessorの実行順序をファイル種別で制御できるようになるなど
+
