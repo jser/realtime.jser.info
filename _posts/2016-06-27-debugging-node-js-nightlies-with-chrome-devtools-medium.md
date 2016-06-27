@@ -10,4 +10,4 @@ tags:
   - node.js
   - V8
 ---
-Node.jsのnightlyに入ったChromeの開発者ツールでのデバッグの方法につい
+Node.jsのnightlyに入ったChromeの開発者ツールでのデバッグの方法について
