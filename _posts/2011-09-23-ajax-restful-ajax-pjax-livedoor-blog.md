@@ -1,5 +1,5 @@
 ---
-title: 'こてさきAjax:RESTfulなAjaxを実現する pjax - livedoor Blog（ブログ）'
+title: 'こてさきAjax:RESTfulなAjaxを実現する pjax - livedoor Blog(ブログ)'
 author: azu
 layout: post
 itemUrl: 'http://blog.livedoor.jp/kotesaki/archives/1736450.html'

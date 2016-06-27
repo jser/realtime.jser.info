@@ -1,5 +1,5 @@
 ---
-title: 今日から使える！ Sass/compass ゆるめ勉強会
+title: 今日から使える! Sass/compass ゆるめ勉強会
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/yuka2py/sasscompass-28389532'

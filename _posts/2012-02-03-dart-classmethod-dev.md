@@ -1,5 +1,5 @@
 ---
-title: Dart逆引きリファレンス ｜ Classmethod.dev()
+title: Dart逆引きリファレンス | Classmethod.dev()
 author: azu
 layout: post
 itemUrl: 'http://dev.classmethod.jp/client-side/dart_reference_index/'

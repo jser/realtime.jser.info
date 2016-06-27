@@ -1,5 +1,5 @@
 ---
-title: 3日時間をもらったので TypeScriptを触ってみた
+title: 3日時間をもらったので TypeScriptを触ってみた
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/y-kato/3-typescript'

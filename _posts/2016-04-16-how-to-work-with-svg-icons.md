@@ -1,5 +1,5 @@
 ---
-title: "How to work with SVG\_icons"
+title: How to work with SVG icons
 author: azu
 layout: post
 itemUrl: 'http://fvsch.com/code/svg-icons/how-to/'

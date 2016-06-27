@@ -1,5 +1,5 @@
 ---
-title: Nightly の XMLHttpRequest で text/html がパース可能に！ - hogehoge @teramako
+title: Nightly の XMLHttpRequest で text/html がパース可能に! - hogehoge @teramako
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/teramako/20111122/p1'

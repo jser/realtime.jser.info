@@ -1,13 +1,10 @@
 ---
-title: >-
-  A Taste of JavaScript’s New Parallel Primitives ★ Mozilla Hacks – the Web
-  developer blog
+title: A Taste of JavaScript’s New Parallel Primitives ★ Mozilla Hacks – the Web developer blog
 author: azu
 layout: post
-itemUrl: >-
-  https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/
+itemUrl: 'https://hacks.mozilla.org/2016/05/a-taste-of-javascripts-new-parallel-primitives/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/index.json'
-date: '2016-05-07T04:48:28Z'
+date: '2016-05-07T04:48:28+00:00'
 tags:
   - JavaScript
 relatedLinks:

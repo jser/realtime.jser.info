@@ -1,5 +1,5 @@
 ---
-title: MDC-ja 通信 vol.14 - A Better Project＠はてなダイアリー
+title: MDC-ja 通信 vol.14 - A Better Project@はてなダイアリー
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/potappo/20110714/1310572023'

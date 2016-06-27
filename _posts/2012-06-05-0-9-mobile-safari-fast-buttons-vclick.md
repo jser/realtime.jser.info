@@ -1,5 +1,5 @@
 ---
-title: '0-9, mobile safari向けFast Buttons（vclick）実装'
+title: '0-9, mobile safari向けFast Buttons(vclick)実装'
 author: azu
 layout: post
 itemUrl: 'http://0-9.tumblr.com/post/25504422960/fast-buttons-for-mobile-safari'

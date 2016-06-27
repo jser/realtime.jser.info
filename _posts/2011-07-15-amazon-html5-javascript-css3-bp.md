@@ -1,5 +1,5 @@
 ---
-title: '『Amazon: HTML5･JavaScript･CSS3アプリケーション開発入門 (日経BPパソコンベストムック): 日経ソフトウエア』'
+title: '『Amazon: HTML5・JavaScript・CSS3アプリケーション開発入門 (日経BPパソコンベストムック): 日経ソフトウエア』'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4822222675'

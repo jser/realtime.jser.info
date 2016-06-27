@@ -1,5 +1,5 @@
 ---
-title: JavaScript Advent Calendar 2011 参加者募集！ - by edvakf in hatena
+title: JavaScript Advent Calendar 2011 参加者募集! - by edvakf in hatena
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/edvakf/20111110/1320936218'

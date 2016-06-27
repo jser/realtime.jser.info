@@ -1,5 +1,5 @@
 ---
-title: IE対応でよく利用するhtml5shivの使用方法変更について｜Blog｜Skyward Design
+title: IE対応でよく利用するhtml5shivの使用方法変更について|Blog|Skyward Design
 author: azu
 layout: post
 itemUrl: 'http://www.skyward-design.net/blog/archives/000134.html'

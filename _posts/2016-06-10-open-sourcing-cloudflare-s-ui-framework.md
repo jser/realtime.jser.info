@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://blog.cloudflare.com/cf-ui/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/index.json'
-date: '2016-06-10T12:24:24Z'
+date: '2016-06-10T12:24:24+00:00'
 tags:
   - React
   - UI

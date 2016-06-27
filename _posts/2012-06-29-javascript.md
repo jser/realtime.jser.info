@@ -1,5 +1,5 @@
 ---
-title: サウンドプログラミング用のJavaScriptライブラリができた！！！！ - 音の鳴るブログ
+title: サウンドプログラミング用のJavaScriptライブラリができた!!!! - 音の鳴るブログ
 author: azu
 layout: post
 itemUrl: 'http://mohayonao.hatenablog.com/entry/2012/06/02/221251'

@@ -1,5 +1,5 @@
 ---
-title: Pixi.js v3 - Goodboy™ — Goodboy™
+title: Pixi.js v3 - GoodboyTM — GoodboyTM
 author: azu
 layout: post
 itemUrl: 'http://www.goodboydigital.com/pixi-js-v3/'

@@ -1,10 +1,10 @@
 ---
-title: O'Reilly Japan - プログラミング HTML5 Canvas
+title: "O'Reilly Japan - プログラミング HTML5 Canvas"
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116877/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-07T03:32:36Z'
+date: '2014-07-07T03:32:36+00:00'
 tags:
   - canvas
   - book

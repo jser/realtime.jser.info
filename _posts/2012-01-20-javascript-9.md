@@ -1,5 +1,5 @@
 ---
-title: 'JavaScriptの初見で読みづらいシンタックス＆パターン9種 ::ハブろぐ'
+title: 'JavaScriptの初見で読みづらいシンタックス&パターン9種 ::ハブろぐ'
 author: azu
 layout: post
 itemUrl: >-

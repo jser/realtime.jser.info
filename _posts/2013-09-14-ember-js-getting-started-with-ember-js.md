@@ -1,5 +1,5 @@
 ---
-title: はじめる Ember.js！！ ~ Getting started with ember.js ~
+title: はじめる Ember.js!! ~ Getting started with ember.js ~
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/tricknotes/getting-started-with-emberjs'

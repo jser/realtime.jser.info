@@ -1,5 +1,5 @@
 ---
-title: ブラウザレンダリング 最適化テクニック
+title: ブラウザレンダリング 最適化テクニック
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/classmethod/ss-23437633'

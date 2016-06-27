@@ -1,5 +1,5 @@
 ---
-title: スマートフォンに最適なウェブサイトガイドライン｜コラム アユダンテ株式会社
+title: スマートフォンに最適なウェブサイトガイドライン|コラム アユダンテ株式会社
 author: azu
 layout: post
 itemUrl: 'http://www.ayudante.jp/column/2012-06-08/17-46/'

@@ -1,5 +1,5 @@
 ---
-title: JavaScriptのMVCフレームワークたち ｜ Classmethod.dev()
+title: JavaScriptのMVCフレームワークたち | Classmethod.dev()
 author: azu
 layout: post
 itemUrl: 'http://dev.classmethod.jp/ria/javascript-mvc-frameworks/'

@@ -1,5 +1,5 @@
 ---
-title: ES6 — classes and inheritance — Medium
+title: ES6 — classes and inheritance — Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/@mrzepinski/es6-classes-and-inheritance-607804080906'

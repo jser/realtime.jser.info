@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: JavaScriptリファレンス 第6版 [単行本（ソフトカバー）]: David Flanagan, 木下 哲也'
+title: 'Amazon: JavaScriptリファレンス 第6版 [単行本(ソフトカバー)]: David Flanagan, 木下 哲也'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4873115531/book042-22/ref=nosim'

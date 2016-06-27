@@ -1,5 +1,5 @@
 ---
-title: 『HTML5による物理シミュレーション環境の構築 ～WebGLライブラリThree.js 入門（１／３）～』
+title: 『HTML5による物理シミュレーション環境の構築 ~WebGLライブラリThree.js 入門(1/3)~』
 author: azu
 layout: post
 itemUrl: 'http://www.natural-science.or.jp/article/20120220155529.php'

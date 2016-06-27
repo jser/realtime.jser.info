@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: JavaScriptテクニックバイブル ~効率的な開発に役立つ150の技 [単行本（ソフトカバー）]: JSサポーターズ'
+title: 'Amazon: JavaScriptテクニックバイブル ~効率的な開発に役立つ150の技 [単行本(ソフトカバー)]: JSサポーターズ'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774152439/book042-22/ref=nosim'

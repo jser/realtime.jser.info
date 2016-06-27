@@ -1,5 +1,5 @@
 ---
-title: そのコード、本当にjQueryが必要ですか？ネイティブ関数の代替えTips集 | ゆっくりと…
+title: そのコード、本当にjQueryが必要ですか?ネイティブ関数の代替えTips集 | ゆっくりと...
 author: azu
 layout: post
 itemUrl: >-

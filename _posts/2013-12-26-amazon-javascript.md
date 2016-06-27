@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: プログラマの力のためのコードパズル ~JavaScriptで挑むコードゴルフとアルゴリズム [単行本（ソフトカバー）]: 柳井 政和'
+title: 'Amazon: プログラマの力のためのコードパズル ~JavaScriptで挑むコードゴルフとアルゴリズム [単行本(ソフトカバー)]: 柳井 政和'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774162531/amazon0abac-22/ref=nosim'

@@ -1,10 +1,10 @@
 ---
-title: Learning JavaScript Design Patterns - O'Reilly Media
+title: "Learning JavaScript Design Patterns - O'Reilly Media"
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920025832.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/05/index.json'
-date: '2012-05-13T08:04:00Z'
+date: '2012-05-13T08:04:00+00:00'
 ---
 著:Addy Osmani
 JavaScriptのデザインパターン本。

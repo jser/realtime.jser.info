@@ -1,5 +1,5 @@
 ---
-title: jQuery 3.0 Release Candidate…Released! | Official jQuery Blog
+title: jQuery 3.0 Release Candidate...Released! | Official jQuery Blog
 author: azu
 layout: post
 itemUrl: 'http://blog.jquery.com/2016/05/20/jquery-3-0-release-candidate-released/'

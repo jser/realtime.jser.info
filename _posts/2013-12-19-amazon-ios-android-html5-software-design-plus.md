@@ -1,7 +1,7 @@
 ---
 title: >-
   Amazon: [iOS/Android対応] HTML5 ハイブリッドアプリ開発[実践]入門 (Software Design plus)
-  [単行本（ソフトカバー）]: 久保田 光則, アシアル株式会社
+  [単行本(ソフトカバー)]: 久保田 光則, アシアル株式会社
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774162116/amazon0abac-22/ref=nosim'

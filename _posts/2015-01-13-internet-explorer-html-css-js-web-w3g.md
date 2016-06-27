@@ -1,5 +1,5 @@
 ---
-title: Internet ExplorerのどのバージョンからどのHTML/CSS/JSに対応しているかの一覧｜Web制作 W3G
+title: Internet ExplorerのどのバージョンからどのHTML/CSS/JSに対応しているかの一覧|Web制作 W3G
 author: azu
 layout: post
 itemUrl: 'https://w3g.jp/blog/ie_supportlist'

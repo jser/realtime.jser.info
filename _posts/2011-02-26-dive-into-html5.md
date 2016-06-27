@@ -1,5 +1,5 @@
 ---
-title: 結局どうすればいいの？ - Dive Into HTML5
+title: 結局どうすればいいの? - Dive Into HTML5
 author: azu
 layout: post
 itemUrl: 'http://hail2u.net/documents/diveintohtml5-semantics.html'

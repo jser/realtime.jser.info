@@ -1,5 +1,5 @@
 ---
-title: SVGOを使ったSVGの軽量化方法（アニメーションさせるときの注意とか）｜2.IDEA
+title: SVGOを使ったSVGの軽量化方法(アニメーションさせるときの注意とか)|2.IDEA
 author: azu
 layout: post
 itemUrl: 'http://2ndidea.com/svg/optimize-svg-with-svgo/'

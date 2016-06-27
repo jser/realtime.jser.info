@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: 14歳からはじめるHTML5 & JavaScriptわくわくゲームプログラミング教室Windows／Macintosh対応: 大槻有一郎'
+title: 'Amazon: 14歳からはじめるHTML5 & JavaScriptわくわくゲームプログラミング教室Windows/Macintosh対応: 大槻有一郎'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4899772971/book042-22/ref=nosim'

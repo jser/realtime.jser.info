@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript for… by Thomas S. Bradford [Leanpub PDF/iPad/Kindle]'
+title: 'JavaScript for... by Thomas S. Bradford [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/javascriptforassholes'

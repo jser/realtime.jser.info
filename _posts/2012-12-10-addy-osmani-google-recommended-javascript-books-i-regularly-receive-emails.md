@@ -1,7 +1,7 @@
 ---
 title: >-
   Addy Osmani - Google+ - Recommended JavaScript books I regularly receive
-  emails…
+  emails...
 author: azu
 layout: post
 itemUrl: 'https://plus.google.com/115133653231679625609/posts/H3onog42Msj'

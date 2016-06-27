@@ -1,5 +1,5 @@
 ---
-title: ウェブ関連仕様 日本語訳（ www.hcn.zaq.ne.jp/___/WEB/ ）
+title: ウェブ関連仕様 日本語訳( www.hcn.zaq.ne.jp/___/WEB/ )
 author: azu
 layout: post
 itemUrl: 'http://www.hcn.zaq.ne.jp/___/WEB/'

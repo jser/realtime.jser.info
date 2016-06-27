@@ -1,5 +1,5 @@
 ---
-title: 『Core の更新，CSS 精度の改善． « Opera-users.jp』
+title: '『Core の更新,CSS 精度の改善. « Opera-users.jp』'
 author: azu
 layout: post
 itemUrl: 'http://opera-users.jp/translations/weekly/2012-02-28-precision-engine/'

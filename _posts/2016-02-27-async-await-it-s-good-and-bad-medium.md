@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/@benlesh/async-await-it-s-good-and-bad-15cf121ade40'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
-date: '2016-02-27T05:03:22Z'
+date: '2016-02-27T05:03:22+00:00'
 tags:
   - ECMAScript
   - JavaScript

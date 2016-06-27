@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: 開発者のためのChromeガイドブック [単行本（ソフトカバー）]: 吉川 徹, あんどうやすし, 田中 洋一郎, 小松 健作'
+title: 'Amazon: 開発者のためのChromeガイドブック [単行本(ソフトカバー)]: 吉川 徹, あんどうやすし, 田中 洋一郎, 小松 健作'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844334220/book042-22/ref=nosim'

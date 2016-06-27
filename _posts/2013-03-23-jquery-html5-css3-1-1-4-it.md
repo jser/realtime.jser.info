@@ -1,5 +1,5 @@
 ---
-title: jQuery×HTML5×CSS3を真面目に勉強（1）：パララックスエフェクトの基本 (1/4) - ＠IT
+title: 'jQuery×HTML5×CSS3を真面目に勉強(1):パララックスエフェクトの基本 (1/4) - @IT'
 author: azu
 layout: post
 itemUrl: 'http://www.atmarkit.co.jp/ait/articles/1303/28/news005.html'

@@ -1,5 +1,5 @@
 ---
-title: '知ってて当然？初級者のためのJavaScriptで使う即時関数(function(){...})()の全て - 三等兵'
+title: '知ってて当然?初級者のためのJavaScriptで使う即時関数(function(){...})()の全て - 三等兵'
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/sandai/20110824/p1'

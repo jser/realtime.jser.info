@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon.co.jp： JavaScript ライブラリ実践活用〔厳選111〕 (Software Design plus): WINGSプロジェクト:
+  Amazon.co.jp: JavaScript ライブラリ実践活用〔厳選111〕 (Software Design plus): WINGSプロジェクト:
   本
 author: azu
 layout: post

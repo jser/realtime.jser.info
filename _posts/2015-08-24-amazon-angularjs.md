@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: AngularJS　アプリケーションプログラミング: 山田 祥寛'
+title: 'Amazon: AngularJS アプリケーションプログラミング: 山田 祥寛'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4774175684'

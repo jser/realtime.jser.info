@@ -1,10 +1,10 @@
 ---
-title: O'Reilly Japan - 入門 モダンJavaScript
+title: "O'Reilly Japan - 入門 モダンJavaScript"
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116051/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-03T15:54:00Z'
+date: '2013-02-03T15:54:00+00:00'
 tags:
   - javascript
   - book

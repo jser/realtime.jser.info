@@ -1,5 +1,5 @@
 ---
-title: 'ReactでTDD（テスト駆動開発）を始めよう : 環境構築からテスト作成、機能実装までの詳解ガイド | プログラミング | POSTD'
+title: 'ReactでTDD(テスト駆動開発)を始めよう : 環境構築からテスト作成、機能実装までの詳解ガイド | プログラミング | POSTD'
 author: azu
 layout: post
 itemUrl: 'http://postd.cc/getting-started-with-tdd-in-react/'

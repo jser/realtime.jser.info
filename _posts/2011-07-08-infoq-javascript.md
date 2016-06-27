@@ -1,5 +1,5 @@
 ---
-title: 'InfoQ: 仮想パネル：最先端のJavaScriptユニットテスティング'
+title: 'InfoQ: 仮想パネル:最先端のJavaScriptユニットテスティング'
 author: azu
 layout: post
 itemUrl: 'http://www.infoq.com/jp/articles/javascript-unit-testing'

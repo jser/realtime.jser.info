@@ -1,5 +1,5 @@
 ---
-title: ASCII.jp：CSSの記述が3倍速くなる「LESS」の使い方
+title: 'ASCII.jp:CSSの記述が3倍速くなる「LESS」の使い方'
 author: azu
 layout: post
 itemUrl: 'http://ascii.jp/elem/000/000/668/668205/'

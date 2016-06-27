@@ -1,5 +1,5 @@
 ---
-title: 『やっとこ、JavaScript Gardenの翻訳が終わりました…。 - Life goes on』
+title: 『やっとこ、JavaScript Gardenの翻訳が終わりました...。 - Life goes on』
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/Layzie/20111113/1321183431'

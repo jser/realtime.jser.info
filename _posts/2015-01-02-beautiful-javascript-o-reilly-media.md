@@ -1,10 +1,10 @@
 ---
-title: Beautiful JavaScript - O'Reilly Media
+title: "Beautiful JavaScript - O'Reilly Media"
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920030706.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/index.json'
-date: '2015-01-02T12:39:34Z'
+date: '2015-01-02T12:39:34+00:00'
 tags:
   - JavaScript
   - book

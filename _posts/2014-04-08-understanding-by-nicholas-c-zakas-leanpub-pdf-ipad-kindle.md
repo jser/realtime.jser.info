@@ -1,5 +1,5 @@
 ---
-title: 'Understanding… by Nicholas C. Zakas [Leanpub PDF/iPad/Kindle]'
+title: 'Understanding... by Nicholas C. Zakas [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/understandinges6'

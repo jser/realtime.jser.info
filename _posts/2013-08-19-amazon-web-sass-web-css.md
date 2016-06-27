@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon: Web制作者のためのSassの教科書 これからのWebデザインの現場で必須のCSSメタ言語 [単行本（ソフトカバー）]: 平澤 隆, 森田
+  Amazon: Web制作者のためのSassの教科書 これからのWebデザインの現場で必須のCSSメタ言語 [単行本(ソフトカバー)]: 平澤 隆, 森田
   壮
 author: azu
 layout: post

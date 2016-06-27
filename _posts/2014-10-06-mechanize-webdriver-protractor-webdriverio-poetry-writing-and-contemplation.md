@@ -1,6 +1,6 @@
 ---
 title: >-
-  まだmechanizeで消耗してるの? WebDriverで銀行をスクレイピング（ProtractorとWebdriverIOを例に） -
+  まだmechanizeで消耗してるの? WebDriverで銀行をスクレイピング(ProtractorとWebdriverIOを例に) -
   詩と創作・思索のひろば (Poetry, Writing and Contemplation)
 author: azu
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: 速習ECMAScript6: 次世代の標準JavaScriptを今すぐマスター！ [Kindle版]: 山田祥寛'
+title: 'Amazon: 速習ECMAScript6: 次世代の標準JavaScriptを今すぐマスター! [Kindle版]: 山田祥寛'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/B014MS5XWK?tag=amazon0abac-22'

@@ -1,5 +1,5 @@
 ---
-title: "A \uD835\uDF7A-calculus interpreter"
+title: A λ-calculus interpreter
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: __proto__が変わりゆく件について - 株式会社ネクスト　エンジニアBlog
+title: __proto__が変わりゆく件について - 株式会社ネクスト エンジニアBlog
 author: azu
 layout: post
 itemUrl: 'http://nextdeveloper.hatenablog.com/entry/2013/12/15/191719'

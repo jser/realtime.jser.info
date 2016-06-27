@@ -1,10 +1,10 @@
 ---
-title: O'Reilly Japan - 開眼！ JavaScript
+title: "O'Reilly Japan - 開眼！ JavaScript"
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116211/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/index.json'
-date: '2013-06-05T06:36:35Z'
+date: '2013-06-05T06:36:35+00:00'
 tags:
   - JavaScript
   - book

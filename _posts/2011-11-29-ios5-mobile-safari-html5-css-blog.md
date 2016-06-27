@@ -1,5 +1,5 @@
 ---
-title: iOS5のMobile Safariから使えるようになったHTML5・CSSを試してみました【前編】 - くらげだらけ（くだくらげのBLOG）
+title: iOS5のMobile Safariから使えるようになったHTML5・CSSを試してみました【前編】 - くらげだらけ(くだくらげのBLOG)
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/kudakurage/20111025/1319475131'

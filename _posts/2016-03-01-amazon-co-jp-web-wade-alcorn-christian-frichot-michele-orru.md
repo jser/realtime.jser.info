@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon.co.jp： ブラウザハック Webブラウザからの攻撃手法とその防御法総覧: Wade Alcorn, Christian Frichot,
+  Amazon.co.jp: ブラウザハック Webブラウザからの攻撃手法とその防御法総覧: Wade Alcorn, Christian Frichot,
   Michele Orru, 園田 道夫, はせがわ ようすけ, 西村 宗晃, 株式会社プロシステムエルオーシー: 本
 author: azu
 layout: post

@@ -1,10 +1,10 @@
 ---
-title: 'Let''s Code: Test-Driven Javascript | Coming July 2012'
+title: "Let's Code: Test-Driven Javascript | Coming July 2012"
 author: azu
 layout: post
 itemUrl: 'http://www.letscodejavascript.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/01/index.json'
-date: '2013-01-31T15:00:00Z'
+date: '2013-01-31T15:00:00+00:00'
 tags:
   - testing
   - javascript

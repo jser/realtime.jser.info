@@ -1,5 +1,5 @@
 ---
-title: 'Amazon.co.jp： JavaScript逆引きハンドブック: 古籏 一浩: 本'
+title: 'Amazon.co.jp: JavaScript逆引きハンドブック: 古籏 一浩: 本'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4863541082/book042-22/ref=nosim'

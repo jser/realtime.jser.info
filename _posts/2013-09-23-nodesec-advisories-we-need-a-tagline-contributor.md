@@ -1,5 +1,5 @@
 ---
-title: NodeSec Advisories | We need a tagline contributor™
+title: NodeSec Advisories | We need a tagline contributorTM
 author: azu
 layout: post
 itemUrl: 'https://nodesecurity.io/'

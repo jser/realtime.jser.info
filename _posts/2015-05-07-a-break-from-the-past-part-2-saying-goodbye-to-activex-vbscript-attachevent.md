@@ -1,7 +1,7 @@
 ---
 title: >-
   A break from the past, part 2: Saying goodbye to ActiveX, VBScript,
-  attachEvent…
+  attachEvent...
 author: azu
 layout: post
 itemUrl: >-

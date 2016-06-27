@@ -1,5 +1,5 @@
 ---
-title: 最強オブジェクト指向言語 JavaScript 再入門！
+title: 最強オブジェクト指向言語 JavaScript 再入門!
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/yuka2py/javascript-23768378'

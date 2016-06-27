@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon.co.jp： JavaScriptエンジニア養成読本
+  Amazon.co.jp: JavaScriptエンジニア養成読本
   [Webアプリ開発の定番構成Backbone.js+CoffeeScript+Gruntを1冊で習得! ] (Software Design plus):
   吾郷 協, 山田 順久, 竹馬 光太郎, 和智 大二郎: 本
 author: azu

@@ -1,5 +1,5 @@
 ---
-title: '『Compact Web - Remind '
+title: 『Compact Web - Remind
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/tomokazu/compact-web-remind-web-compression'

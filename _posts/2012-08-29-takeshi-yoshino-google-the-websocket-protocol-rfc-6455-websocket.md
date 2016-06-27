@@ -1,5 +1,5 @@
 ---
-title: Takeshi Yoshino - Google+ - The WebSocket Protocol (RFC 6455) の歴史 WebSocket…
+title: Takeshi Yoshino - Google+ - The WebSocket Protocol (RFC 6455) の歴史 WebSocket...
 author: azu
 layout: post
 itemUrl: 'https://plus.google.com/u/0/103969044621963378195/posts/af6Fg972tGQ'

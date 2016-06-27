@@ -1,7 +1,7 @@
 ---
 title: >-
   Developer Edition 48 – Firebug features, editable storage, inspector
-  improvements and more… ★ Mozilla Hacks – the Web developer blog
+  improvements and more... ★ Mozilla Hacks – the Web developer blog
 author: azu
 layout: post
 itemUrl: >-

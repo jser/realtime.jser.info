@@ -1,5 +1,5 @@
 ---
-title: ここがすごいぞ！ stylelint！ - Qiita
+title: ここがすごいぞ! stylelint! - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/inuscript/items/ff4f6972c988afbec3a8'

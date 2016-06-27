@@ -1,5 +1,5 @@
 ---
-title: JavaScriptの文字列を反転する１０の方法とそのパフォーマンス - 風と宇宙とプログラム
+title: JavaScriptの文字列を反転する10の方法とそのパフォーマンス - 風と宇宙とプログラム
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/mindcat/20110821/1313946427'

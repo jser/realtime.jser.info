@@ -1,5 +1,5 @@
 ---
-title: '『HTML5 Boilerplate, Initializr 2をこれから使う人が押さえるべき5つの原則 | ゆっくりと…』'
+title: '『HTML5 Boilerplate, Initializr 2をこれから使う人が押さえるべき5つの原則 | ゆっくりと...』'
 author: azu
 layout: post
 itemUrl: >-

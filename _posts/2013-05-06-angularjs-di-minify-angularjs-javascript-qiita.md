@@ -1,5 +1,5 @@
 ---
-title: 'AngularJSのDIの仕組み、minify対策は覚えておこう！ #AngularJS #JavaScript - Qiita [キータ]'
+title: 'AngularJSのDIの仕組み、minify対策は覚えておこう! #AngularJS #JavaScript - Qiita [キータ]'
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/items/363f430d21ec729f1b7d'

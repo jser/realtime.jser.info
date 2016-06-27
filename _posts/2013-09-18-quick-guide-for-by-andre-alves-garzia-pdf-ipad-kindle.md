@@ -1,5 +1,5 @@
 ---
-title: 'Quick Guide For… by Andre Alves Garzia [PDF/iPad/Kindle]'
+title: 'Quick Guide For... by Andre Alves Garzia [PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/quickguidefirefoxosdevelopment'

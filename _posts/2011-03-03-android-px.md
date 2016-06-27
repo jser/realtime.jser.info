@@ -1,5 +1,5 @@
 ---
-title: Androidサイトは横幅何pxで作ればいいのか？ - さくっとモバイル
+title: Androidサイトは横幅何pxで作ればいいのか? - さくっとモバイル
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/acidgraphix/20110126/1296018143'

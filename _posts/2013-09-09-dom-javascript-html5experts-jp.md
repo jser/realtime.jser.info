@@ -1,5 +1,5 @@
 ---
-title: DOM操作の最適化によるJavaScriptチューニング（前編） | HTML5Experts.jp
+title: DOM操作の最適化によるJavaScriptチューニング(前編) | HTML5Experts.jp
 author: azu
 layout: post
 itemUrl: 'http://html5experts.jp/yoshikawa_t/1888/'

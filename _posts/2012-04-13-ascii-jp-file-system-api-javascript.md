@@ -1,5 +1,5 @@
 ---
-title: 『ASCII.jp：ブラウザーにファイルを残せるFile system APIの使い方｜古籏一浩のJavaScriptラボ』
+title: '『ASCII.jp:ブラウザーにファイルを残せるFile system APIの使い方|古籏一浩のJavaScriptラボ』'
 author: azu
 layout: post
 itemUrl: 'http://ascii.jp/elem/000/000/686/686064/'

@@ -1,5 +1,5 @@
 ---
-title: JavaScript の イテレータ を極める！ - Qiita
+title: JavaScript の イテレータ を極める! - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/kura07/items/cf168a7ea20e8c2554c6'

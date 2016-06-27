@@ -1,10 +1,10 @@
 ---
-title: O'Reilly Japan - JavaScriptクックブック
+title: "O'Reilly Japan - JavaScriptクックブック"
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873114941/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/04/index.json'
-date: '2011-04-20T00:51:00Z'
+date: '2011-04-20T00:51:00+00:00'
 ---
 2011年04月22日 発売
 浅く広くな感じの書籍

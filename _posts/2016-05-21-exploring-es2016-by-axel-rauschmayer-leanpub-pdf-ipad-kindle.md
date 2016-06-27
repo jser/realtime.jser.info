@@ -1,5 +1,5 @@
 ---
-title: 'Exploring ES2016… by Axel Rauschmayer [Leanpub PDF/iPad/Kindle]'
+title: 'Exploring ES2016... by Axel Rauschmayer [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/exploring-es2016-es2017'

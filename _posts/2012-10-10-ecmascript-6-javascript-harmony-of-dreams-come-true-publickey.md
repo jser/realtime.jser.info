@@ -1,6 +1,6 @@
 ---
 title: >-
-  見えてきた「ECMAScript 6」。JavaScriptの生みの親が書く「Harmony of Dreams Come True」 －
+  見えてきた「ECMAScript 6」。JavaScriptの生みの親が書く「Harmony of Dreams Come True」 -
   Publickey
 author: azu
 layout: post

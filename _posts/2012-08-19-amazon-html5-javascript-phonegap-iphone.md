@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: HTML5/JavaScriptとPhoneGapで作るiPhoneアプリ開発入門 [単行本（ソフトカバー）]: 富田 宏昭'
+title: 'Amazon: HTML5/JavaScriptとPhoneGapで作るiPhoneアプリ開発入門 [単行本(ソフトカバー)]: 富田 宏昭'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4839943710/book042-22/ref=nosim'

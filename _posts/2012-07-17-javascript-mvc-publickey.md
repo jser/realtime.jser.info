@@ -1,5 +1,5 @@
 ---
-title: JavaScript MVC座談会。遅くならない？ それぞれの特徴は？ サーバとの通信は？（前編） － Publickey
+title: JavaScript MVC座談会。遅くならない? それぞれの特徴は? サーバとの通信は?(前編) - Publickey
 author: azu
 layout: post
 itemUrl: 'http://www.publickey1.jp/blog/12/javascript_mvc_1.html'

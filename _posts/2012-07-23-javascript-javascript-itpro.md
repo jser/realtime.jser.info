@@ -1,5 +1,5 @@
 ---
-title: JavaScriptをシンプルに - JavaScriptをシンプルに：ITpro
+title: 'JavaScriptをシンプルに - JavaScriptをシンプルに:ITpro'
 author: azu
 layout: post
 itemUrl: 'http://itpro.nikkeibp.co.jp/article/COLUMN/20120620/404224/'

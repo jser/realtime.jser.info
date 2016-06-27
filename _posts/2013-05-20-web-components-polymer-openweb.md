@@ -1,5 +1,5 @@
 ---
-title: Web Components普及の夜明け！？Polymerを試してみた。 | OpenWeb
+title: Web Components普及の夜明け!?Polymerを試してみた。 | OpenWeb
 author: azu
 layout: post
 itemUrl: >-

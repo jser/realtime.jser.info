@@ -2,7 +2,7 @@
 title: >-
   Amazon: WebクリエイターのためのCreateJSスタイルブック
   ~JavaScript+HTML5で作るアニメーション/インタラクティブコンテンツ~ (Web Designing Books)
-  [単行本（ソフトカバー）]: 野中 文雄
+  [単行本(ソフトカバー)]: 野中 文雄
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4839945179/amazon0abac-22/ref=nosim'

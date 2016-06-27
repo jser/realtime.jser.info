@@ -1,5 +1,5 @@
 ---
-title: 打造最出色的模块加载框架：SeaJS Module Loader v0.3.0 预览版 - 岁月如歌
+title: '打造最出色的模块加载框架:SeaJS Module Loader v0.3.0 预览版 - 岁月如歌'
 author: azu
 layout: post
 itemUrl: 'http://lifesinger.org/blog/2011/01/seajs-v0-3-0pre/'

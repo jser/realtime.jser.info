@@ -1,5 +1,5 @@
 ---
-title: '『uglify-me : UglifyJS のフロントエンドを作った - Scalaとlift　のはずだった　・・・』'
+title: '『uglify-me : UglifyJS のフロントエンドを作った - Scalaとlift のはずだった ・・・』'
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/scalar/20120125/1327514618'

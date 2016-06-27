@@ -1,5 +1,5 @@
 ---
-title: 作業効率が10倍アップする Chrome Developer Tools の使い方 - テックノート＠ama-ch
+title: 作業効率が10倍アップする Chrome Developer Tools の使い方 - テックノート@ama-ch
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/ama-ch/20111103/1320318302'

@@ -1,10 +1,10 @@
 ---
-title: O'Reilly Chimera - A new interactive online learning platform (beta)
+title: "O'Reilly Chimera - A new interactive online learning platform (beta)"
 author: azu
 layout: post
 itemUrl: 'http://chimera.labs.oreilly.com/books/1230000000545/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/index.json'
-date: '2013-03-22T22:03:00Z'
+date: '2013-03-22T22:03:00+00:00'
 tags:
   - HTTP
   - book

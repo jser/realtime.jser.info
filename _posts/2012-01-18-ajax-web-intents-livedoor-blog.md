@@ -1,5 +1,5 @@
 ---
-title: '『こてさきAjax:マルチデバイス連携を実現する Web Intents ～マルチデバイス連携編～ - livedoor Blog（ブログ）』'
+title: '『こてさきAjax:マルチデバイス連携を実現する Web Intents ~マルチデバイス連携編~ - livedoor Blog(ブログ)』'
 author: azu
 layout: post
 itemUrl: 'http://blog.livedoor.jp/kotesaki/archives/1771448.html'

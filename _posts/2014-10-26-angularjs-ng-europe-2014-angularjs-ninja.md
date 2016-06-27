@@ -1,5 +1,5 @@
 ---
-title: AngularJS カンファレンス（ng-europe 2014）のスライドまとめ - AngularJS Ninja
+title: AngularJS カンファレンス(ng-europe 2014)のスライドまとめ - AngularJS Ninja
 author: azu
 layout: post
 itemUrl: 'http://angularjsninja.com/blog/2014/10/24/slides-at-ngeurope-2014/'

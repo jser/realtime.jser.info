@@ -1,5 +1,5 @@
 ---
-title: 'Fixing the JavaScript typeof operator « JavaScript, JavaScript…'
+title: 'Fixing the JavaScript typeof operator « JavaScript, JavaScript...'
 author: azu
 layout: post
 itemUrl: >-

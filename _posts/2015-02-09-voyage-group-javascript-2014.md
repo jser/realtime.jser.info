@@ -1,5 +1,5 @@
 ---
-title: 'VOYAGE GROUP　エンジニアブログ : 今、クライアントサイドのJavaScriptを書く前に知っておきたいこと ~ 2014年トレンド総まとめ'
+title: 'VOYAGE GROUP エンジニアブログ : 今、クライアントサイドのJavaScriptを書く前に知っておきたいこと ~ 2014年トレンド総まとめ'
 author: azu
 layout: post
 itemUrl: 'http://tech.voyagegroup.com/archives/8046369.html'

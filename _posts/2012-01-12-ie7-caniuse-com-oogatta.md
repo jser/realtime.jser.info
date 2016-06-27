@@ -1,5 +1,5 @@
 ---
-title: IE7 が死んだらできるいくつかのこと（ caniuse.com から見繕っただけ） - oogattaの勉強日記
+title: IE7 が死んだらできるいくつかのこと( caniuse.com から見繕っただけ) - oogattaの勉強日記
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/oogatta/20120116/1326694238'

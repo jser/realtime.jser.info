@@ -1,5 +1,5 @@
 ---
-title: 'Hayato Ito - Google+ - #io12    #io12j Google I/O のkeynote のあとの、セッション、「Web…'
+title: 'Hayato Ito - Google+ - #io12    #io12j Google I/O のkeynote のあとの、セッション、「Web...'
 author: azu
 layout: post
 itemUrl: 'https://plus.google.com/u/0/116445437433162945363/posts/gksZ6eE2QmP'

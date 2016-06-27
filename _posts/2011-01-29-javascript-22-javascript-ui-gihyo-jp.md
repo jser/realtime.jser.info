@@ -1,5 +1,5 @@
 ---
-title: これでできる！ クロスブラウザJavaScript入門：第22回　JavaScriptによるUIの実装：ドラッグ｜gihyo.jp … 技術評論社
+title: 'これでできる! クロスブラウザJavaScript入門:第22回 JavaScriptによるUIの実装:ドラッグ|gihyo.jp ... 技術評論社'
 author: azu
 layout: post
 itemUrl: 'http://gihyo.jp/dev/serial/01/crossbrowser-javascript/0022'

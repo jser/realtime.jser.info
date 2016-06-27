@@ -1,5 +1,5 @@
 ---
-title: Delivering Hapi-ness — What I Learned Building… — Medium
+title: Delivering Hapi-ness — What I Learned Building... — Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/what-i-learned-building/a525df6c0b0c'

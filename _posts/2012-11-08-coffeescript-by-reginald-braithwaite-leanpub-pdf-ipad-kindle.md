@@ -1,5 +1,5 @@
 ---
-title: 'CoffeeScript… by Reginald Braithwaite [Leanpub PDF/iPad/Kindle]'
+title: 'CoffeeScript... by Reginald Braithwaite [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/coffeescript-ristretto'

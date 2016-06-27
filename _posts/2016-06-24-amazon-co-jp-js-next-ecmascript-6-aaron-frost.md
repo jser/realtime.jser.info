@@ -1,5 +1,5 @@
 ---
-title: 'Amazon.co.jp： Js.next: Ecmascript 6: Aaron Frost: 洋書'
+title: 'Amazon.co.jp: Js.next: Ecmascript 6: Aaron Frost: 洋書'
 author: azu
 layout: post
 itemUrl: 'https://www.amazon.co.jp/Js-next-Ecmascript-6-Aaron-Frost/dp/1449336361'

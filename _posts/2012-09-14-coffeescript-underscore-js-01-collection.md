@@ -1,5 +1,5 @@
 ---
-title: 'コードで一言: CoffeeScriptで学ぶ Underscore.js 01（Collection編）'
+title: 'コードで一言: CoffeeScriptで学ぶ Underscore.js 01(Collection編)'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,6 +1,6 @@
 ---
 title: >-
-  jQueryの$()が多機能すぎる件について。5種類も仕事があるよ。（軽めのjQuery Advent Calendar 2012 – 01日目） |
+  jQueryの$()が多機能すぎる件について。5種類も仕事があるよ。(軽めのjQuery Advent Calendar 2012 – 01日目) |
   Ginpen.com
 author: azu
 layout: post

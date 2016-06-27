@@ -1,11 +1,10 @@
 ---
-title: Using FormData to send forms with XHR as key/value pairs - Robert's talk
+title: "Using FormData to send forms with XHR as key/value pairs - Robert's talk"
 author: azu
 layout: post
-itemUrl: >-
-  http://robertnyman.com/2013/02/11/using-formdata-to-send-forms-with-xhr-as-keyvalue-pairs/
+itemUrl: 'http://robertnyman.com/2013/02/11/using-formdata-to-send-forms-with-xhr-as-keyvalue-pairs/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/index.json'
-date: '2013-02-17T20:06:00Z'
+date: '2013-02-17T20:06:00+00:00'
 tags:
   - javascript
   - XHR

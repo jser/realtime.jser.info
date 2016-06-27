@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon: ゲームプログラミングのためのHTML5 Canvas入門―JavaScriptの基本から本格的ゲームの作成まで [単行本（ソフトカバー）]:
+  Amazon: ゲームプログラミングのためのHTML5 Canvas入門―JavaScriptの基本から本格的ゲームの作成まで [単行本(ソフトカバー)]:
   ロブ・ホークス, 長尾高弘
 author: azu
 layout: post

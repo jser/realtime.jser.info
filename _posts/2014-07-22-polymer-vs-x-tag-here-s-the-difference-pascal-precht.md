@@ -1,11 +1,10 @@
 ---
-title: Polymer vs. X-Tag - Here's the difference · Pascal Precht
+title: "Polymer vs. X-Tag - Here's the difference · Pascal Precht"
 author: azu
 layout: post
-itemUrl: >-
-  http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/
+itemUrl: 'http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
-date: '2014-07-22T12:32:11Z'
+date: '2014-07-22T12:32:11+00:00'
 tags:
   - WebComponents
   - library

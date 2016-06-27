@@ -1,5 +1,5 @@
 ---
-title: JavaScriptで競技プログラミングを始めよう！ - ひよっこプログラマのプログラミング
+title: JavaScriptで競技プログラミングを始めよう! - ひよっこプログラマのプログラミング
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/otaks/20121216/1355670113'

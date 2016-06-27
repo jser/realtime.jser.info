@@ -1,5 +1,5 @@
 ---
-title: 'NetBeans 7.3が出ました！ | Work Tool Smith [ワークツールスミス]'
+title: 'NetBeans 7.3が出ました! | Work Tool Smith [ワークツールスミス]'
 author: azu
 layout: post
 itemUrl: >-

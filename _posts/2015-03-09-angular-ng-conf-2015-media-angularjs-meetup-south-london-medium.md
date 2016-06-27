@@ -1,5 +1,5 @@
 ---
-title: Angular — ng-conf 2015 media — AngularJs Meetup — South London — Medium
+title: Angular — ng-conf 2015 media — AngularJs Meetup — South London — Medium
 author: azu
 layout: post
 itemUrl: >-

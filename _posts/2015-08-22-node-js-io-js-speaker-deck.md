@@ -1,5 +1,5 @@
 ---
-title: どうしてこうなった？ Node.jsとio.jsの分裂と統合の行方。これからどう進化していくのか？ // Speaker Deck
+title: どうしてこうなった? Node.jsとio.jsの分裂と統合の行方。これからどう進化していくのか? // Speaker Deck
 author: azu
 layout: post
 itemUrl: >-

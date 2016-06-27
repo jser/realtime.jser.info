@@ -1,5 +1,5 @@
 ---
-title: '『こてさきAjax:WebRTC事始め - livedoor Blog（ブログ）』'
+title: '『こてさきAjax:WebRTC事始め - livedoor Blog(ブログ)』'
 author: azu
 layout: post
 itemUrl: 'http://blog.livedoor.jp/kotesaki/archives/1794148.html'

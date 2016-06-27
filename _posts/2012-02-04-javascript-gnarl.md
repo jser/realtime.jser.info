@@ -1,5 +1,5 @@
 ---
-title: '『JavaScriptの挙動は仕様を見ればだいたい書いてある - gnarl,技術メモ”’￥』'
+title: '『JavaScriptの挙動は仕様を見ればだいたい書いてある - gnarl,技術メモ”’¥』'
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/gnarl/20120224/1330011565'

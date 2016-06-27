@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: Backbone.jsガイドブック [単行本（ソフトカバー）]: 高橋 侑久'
+title: 'Amazon: Backbone.jsガイドブック [単行本(ソフトカバー)]: 高橋 侑久'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4899773501/book042-22/ref=nosim'

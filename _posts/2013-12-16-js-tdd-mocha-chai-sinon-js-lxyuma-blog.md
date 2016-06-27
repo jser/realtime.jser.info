@@ -1,5 +1,5 @@
 ---
-title: jsでTDD！MochaとChaiとsinon.js入門 - @lxyuma BLOG
+title: jsでTDD!MochaとChaiとsinon.js入門 - @lxyuma BLOG
 author: azu
 layout: post
 itemUrl: 'http://lxyuma.hatenablog.com/entry/2013/12/15/211637'

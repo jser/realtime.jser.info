@@ -1,5 +1,5 @@
 ---
-title: 'Principles of… by Nicholas C. Zakas [PDF/iPad/Kindle]'
+title: 'Principles of... by Nicholas C. Zakas [PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/oopinjavascript'

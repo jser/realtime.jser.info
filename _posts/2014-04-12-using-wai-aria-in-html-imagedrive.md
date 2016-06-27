@@ -1,5 +1,5 @@
 ---
-title: Using WAI-ARIA in HTML の日本語訳を公開しました ｜ IMAGEDRIVE
+title: Using WAI-ARIA in HTML の日本語訳を公開しました | IMAGEDRIVE
 author: azu
 layout: post
 itemUrl: 'http://blog.imagedrive.jp/web/2014-04-09/using-wai-aria-in-html-ja'

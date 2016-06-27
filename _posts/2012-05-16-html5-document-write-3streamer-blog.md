@@ -1,5 +1,5 @@
 ---
-title: HTML5でdocument.writeは使ってはいけない？ | 3streamer blog
+title: HTML5でdocument.writeは使ってはいけない? | 3streamer blog
 author: azu
 layout: post
 itemUrl: 'http://blog.3streamer.net/html5-css3/document-write-html5-181/'

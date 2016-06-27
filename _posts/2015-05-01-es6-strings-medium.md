@@ -1,5 +1,5 @@
 ---
-title: ES6 — strings — Medium
+title: ES6 — strings — Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/@mrzepinski/es6-string-bae03d964d43'

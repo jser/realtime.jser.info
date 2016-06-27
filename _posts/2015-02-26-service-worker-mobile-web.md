@@ -1,5 +1,5 @@
 ---
-title: Service worker が拓く mobile web の新しいかたち
+title: Service worker が拓く mobile web の新しいかたち
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/kinukox/service-worker-mobile-web'

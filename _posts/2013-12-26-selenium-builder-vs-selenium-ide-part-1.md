@@ -1,5 +1,5 @@
 ---
-title: 徹底比較！Selenium Builder vs Selenium IDE – Part 1 | 品質向上ブログ
+title: 徹底比較!Selenium Builder vs Selenium IDE – Part 1 | 品質向上ブログ
 author: azu
 layout: post
 itemUrl: 'http://blog.trident-qa.com/2013/12/selenium-builder-vs-ide-1/'

@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript glossary… by Andrea Giammarchi [PDF/iPad/Kindle]'
+title: 'JavaScript glossary... by Andrea Giammarchi [PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/jsglossary'

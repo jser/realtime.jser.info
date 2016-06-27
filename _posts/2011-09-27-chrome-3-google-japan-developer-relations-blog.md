@@ -1,5 +1,5 @@
 ---
-title: Chrome が 3 歳になりました！ - Google Japan Developer Relations Blog
+title: Chrome が 3 歳になりました! - Google Japan Developer Relations Blog
 author: azu
 layout: post
 itemUrl: 'http://googledevjp.blogspot.com/2011/09/chrome-3.html'

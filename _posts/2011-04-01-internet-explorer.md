@@ -1,5 +1,5 @@
 ---
-title: 'Internet Explorerの中の人に聞く、ブラウザの未来とは : ライフハッカー［日本版］'
+title: 'Internet Explorerの中の人に聞く、ブラウザの未来とは : ライフハッカー[日本版]'
 author: azu
 layout: post
 itemUrl: 'http://www.lifehacker.jp/2011/04/110425internet_explorer9.html'

@@ -1,5 +1,5 @@
 ---
-title: 開眼！JavaScript－ 言語仕様から学ぶJavaScriptの本質｜Ohmsha
+title: 開眼!JavaScript- 言語仕様から学ぶJavaScriptの本質|Ohmsha
 author: azu
 layout: post
 itemUrl: 'http://ssl.ohmsha.co.jp/cgi-bin/menu.cgi?ISBN=978-4-87311-621-1'

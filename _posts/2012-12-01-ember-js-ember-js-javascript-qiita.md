@@ -1,5 +1,5 @@
 ---
-title: 'あなたはいつEmber.jsを使うべきか？ #Ember.js #JavaScript - Qiita'
+title: 'あなたはいつEmber.jsを使うべきか? #Ember.js #JavaScript - Qiita'
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/items/14644b9d10b7eec74ee4'

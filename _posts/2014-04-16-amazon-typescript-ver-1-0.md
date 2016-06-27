@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon: TypeScriptリファレンス Ver.1.0対応 [単行本（ソフトカバー）]: 株式会社トップゲート 若命 全洋,
+  Amazon: TypeScriptリファレンス Ver.1.0対応 [単行本(ソフトカバー)]: 株式会社トップゲート 若命 全洋,
   日本マイクロソフト株式会社 井上 章, 丸山 弘詩
 author: azu
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: 'Amazon.co.jp： コーディングが５倍早くなるjQueryセレクター超活用 eBook: Paul Cyan: Kindleストア'
+title: 'Amazon.co.jp: コーディングが5倍早くなるjQueryセレクター超活用 eBook: Paul Cyan: Kindleストア'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: Mozilla 勉強会＠東京 8thで話しました - snyk_s log edit.hateblo
+title: Mozilla 勉強会@東京 8thで話しました - snyk_s log edit.hateblo
 author: azu
 layout: post
 itemUrl: 'http://saneyukis.hatenablog.com/entry/2012/12/09/180412'

@@ -1,5 +1,5 @@
 ---
-title: React - Redux 基礎：Action 編 - Qiita
+title: 'React - Redux 基礎:Action 編 - Qiita'
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/yasuhiro-okada-aktsk/items/09ab40af831c6d73491b'

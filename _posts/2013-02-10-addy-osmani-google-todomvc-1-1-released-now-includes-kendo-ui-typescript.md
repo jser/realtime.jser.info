@@ -1,7 +1,7 @@
 ---
 title: >-
   Addy Osmani - Google+ - TodoMVC 1.1 Released: Now Includes Kendo UI,
-  TypeScript,…
+  TypeScript,...
 author: azu
 layout: post
 itemUrl: 'https://plus.google.com/115133653231679625609/posts/6ABtV7ntwPp'

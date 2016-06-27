@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920044796.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
-date: '2016-01-09T09:30:45Z'
+date: '2016-01-09T09:30:45+00:00'
 tags:
   - WebRTC
   - JavaScript

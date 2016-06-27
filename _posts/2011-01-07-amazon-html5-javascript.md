@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: HTML5+JavaScript アイデア＆実践サンプル: 古籏一浩'
+title: 'Amazon: HTML5+JavaScript アイデア&実践サンプル: 古籏一浩'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4048704486/book042-22/ref=nosim'

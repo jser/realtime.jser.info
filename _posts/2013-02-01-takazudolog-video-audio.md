@@ -1,5 +1,5 @@
 ---
-title: Takazudolog - 地獄のvideo／audio要素
+title: Takazudolog - 地獄のvideo/audio要素
 author: azu
 layout: post
 itemUrl: 'http://takazudo.github.com/blog/entry/2013-02-06-videoaudio.html'

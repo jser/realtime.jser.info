@@ -1,5 +1,5 @@
 ---
-title: '『Amazon: ホームページ辞典 第5版 HTML・CSS・JavaScript [単行本（ソフトカバー）]: 株式会社アンク』'
+title: '『Amazon: ホームページ辞典 第5版 HTML・CSS・JavaScript [単行本(ソフトカバー)]: 株式会社アンク』'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4798125199/book042-22/ref=nosim'

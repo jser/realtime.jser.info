@@ -1,5 +1,5 @@
 ---
-title: requestAnimationFrame ＜ よーしおまえらー、アニメーションにsetInterval使うなよー - くろまほうさいきょうでんせつ
+title: requestAnimationFrame < よーしおまえらー、アニメーションにsetInterval使うなよー - くろまほうさいきょうでんせつ
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/calpo/20110523/p1'

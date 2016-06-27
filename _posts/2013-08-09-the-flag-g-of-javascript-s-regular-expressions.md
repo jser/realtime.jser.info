@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.2ality.com/2013/08/regexp-g.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
-date: '2013-08-09T13:13:38Z'
+date: '2013-08-09T13:13:38+00:00'
 tags:
   - JavaScript
   - 正規表現

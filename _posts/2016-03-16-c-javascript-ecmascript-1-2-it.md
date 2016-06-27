@@ -1,5 +1,5 @@
 ---
-title: '特集：C#×JavaScript：ECMAScriptの最新情報を得るには (1/2) - ＠IT'
+title: '特集:C#×JavaScript:ECMAScriptの最新情報を得るには (1/2) - @IT'
 author: azu
 layout: post
 itemUrl: 'http://www.atmarkit.co.jp/ait/articles/1603/11/news042.html'

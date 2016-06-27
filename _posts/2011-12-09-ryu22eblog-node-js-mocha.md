@@ -1,5 +1,5 @@
 ---
-title: '『ryu22eBlog : Node.jsのテスティングフレームワーク「Mocha」（前編）』'
+title: '『ryu22eBlog : Node.jsのテスティングフレームワーク「Mocha」(前編)』'
 author: azu
 layout: post
 itemUrl: 'http://blog.livedoor.jp/ryu22e/archives/65636256.html'

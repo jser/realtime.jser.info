@@ -1,5 +1,5 @@
 ---
-title: jQueryプラグインのオプションとHTML5 data-*属性でハマった時に幸せになれるかもしれないまとめ | ゆっくりと…
+title: jQueryプラグインのオプションとHTML5 data-*属性でハマった時に幸せになれるかもしれないまとめ | ゆっくりと...
 author: azu
 layout: post
 itemUrl: >-

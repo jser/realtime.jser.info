@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: 体系的に学ぶ 安全なWebアプリケーションの作り方　脆弱性が生まれる原理と対策の実践 (アマゾン文庫): 徳丸 浩'
+title: 'Amazon: 体系的に学ぶ 安全なWebアプリケーションの作り方 脆弱性が生まれる原理と対策の実践 (アマゾン文庫): 徳丸 浩'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4797361190/book042-22/ref=nosim'

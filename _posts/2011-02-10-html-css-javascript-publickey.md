@@ -1,5 +1,5 @@
 ---
-title: モバイルアプリケーション開発のためのHTML/CSS/JavaScript関連技術まとめ － Publickey
+title: モバイルアプリケーション開発のためのHTML/CSS/JavaScript関連技術まとめ - Publickey
 author: azu
 layout: post
 itemUrl: 'http://www.publickey1.jp/blog/11/htmlcssjavascript.html'

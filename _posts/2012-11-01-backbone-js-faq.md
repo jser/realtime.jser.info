@@ -1,5 +1,5 @@
 ---
-title: 'Backbone.js FAQ 日本語訳 - '
+title: Backbone.js FAQ 日本語訳 -
 author: azu
 layout: post
 itemUrl: >-

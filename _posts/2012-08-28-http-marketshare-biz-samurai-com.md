@@ -1,5 +1,5 @@
 ---
-title: 彩雲｜マーケットシェアチェックツール
+title: 彩雲|マーケットシェアチェックツール
 author: azu
 layout: post
 itemUrl: 'http://marketshare.biz-samurai.com/'

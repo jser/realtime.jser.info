@@ -8,10 +8,10 @@ var path = require("path");
 var fs = require("fs");
 function pickFromMatter(item) {
     var object = {
-        title: item.title,
+        title: item.title.trim().normalize('NFKC'),
         author: "azu",
         layout: "post",
-        itemUrl: item.url,
+        itemUrl: item.url.trim(),
         // e.g.) data/2015/08/index.json
         editJSONPath: "https://github.com/jser/jser.info/edit/gh-pages/data/" + moment.utc(item.date).format("YYYY/MM") + "/index.json",
         date: moment.utc(item.date).format()
@@ -25,10 +25,13 @@ function pickFromMatter(item) {
     }
     return object;
 }
+function dumpYaml(frontMatter) {
+    return yaml.safeDump(frontMatter);
+}
 function createPost(item) {
     var frontMatter = pickFromMatter(item);
     return ("---\n" +
-    yaml.safeDump(frontMatter) +
+    dumpYaml(frontMatter) +
     "---\n" +
     String(item.content) + "\n").replace(/[\n\r]/g, '\n');
 }

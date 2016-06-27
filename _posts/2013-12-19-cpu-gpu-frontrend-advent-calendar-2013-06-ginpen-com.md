@@ -1,7 +1,7 @@
 ---
 title: >-
-  スムーズなアニメーションを実装するコツと仕組みを説明するよ。CPUとGPUを理解しハードウェアアクセラレーションを駆使するのだ！（Frontrend
-  Advent Calendar 2013 – 06日目） | Ginpen.com
+  スムーズなアニメーションを実装するコツと仕組みを説明するよ。CPUとGPUを理解しハードウェアアクセラレーションを駆使するのだ!(Frontrend
+  Advent Calendar 2013 – 06日目) | Ginpen.com
 author: azu
 layout: post
 itemUrl: 'http://ginpen.com/2013/12/06/hardware-acceleration/'

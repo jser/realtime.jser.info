@@ -1,5 +1,7 @@
 ---
-title: "Front-end Application Libraries and Component Architectures -\_Telerik Developer Network"
+title: >-
+  Front-end Application Libraries and Component Architectures - Telerik
+  Developer Network
 author: azu
 layout: post
 itemUrl: >-

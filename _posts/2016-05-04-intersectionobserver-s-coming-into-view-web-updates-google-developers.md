@@ -1,10 +1,10 @@
 ---
-title: IntersectionObserver’s Coming into View | Web Updates - Google Developers
+title: 'IntersectionObserver’s Coming into View | Web Updates - Google Developers'
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2016/04/intersectionobserver'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/index.json'
-date: '2016-05-04T15:42:22Z'
+date: '2016-05-04T15:42:22+00:00'
 tags:
   - WebPlatformAPI
   - performance

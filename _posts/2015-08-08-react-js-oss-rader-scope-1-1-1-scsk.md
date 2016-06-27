@@ -1,7 +1,7 @@
 ---
 title: >-
-  オープンソースソフトウェアへの取り組み： 技術コラム・特集： React.jsでOSS Rader Scopeを再実装する： 第1回 はじめに （1/1）
-  ｜ SCSK株式会社
+  オープンソースソフトウェアへの取り組み: 技術コラム・特集: React.jsでOSS Rader Scopeを再実装する: 第1回 はじめに (1/1)
+  | SCSK株式会社
 author: azu
 layout: post
 itemUrl: 'http://www.scsk.jp/product/oss/tec_guide/reactjs/1_column1_1.html'

@@ -1,5 +1,5 @@
 ---
-title: するするさせたい：サイボウズ採用情報のアニメーション（その1） - fragmentary
+title: 'するするさせたい:サイボウズ採用情報のアニメーション(その1) - fragmentary'
 author: azu
 layout: post
 itemUrl: 'http://myakura.hatenablog.com/entry/2016/05/12/083000'

@@ -1,5 +1,5 @@
 ---
-title: Pixi.JS v4 Arrives - Goodboy™ — Goodboy™
+title: Pixi.JS v4 Arrives - GoodboyTM — GoodboyTM
 author: azu
 layout: post
 itemUrl: 'http://www.goodboydigital.com/pixi-js-v4/'

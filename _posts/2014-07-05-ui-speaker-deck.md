@@ -1,5 +1,5 @@
 ---
-title: お前自分ちのページャUIが本当に速いと思ってんの？ // Speaker Deck
+title: お前自分ちのページャUIが本当に速いと思ってんの? // Speaker Deck
 author: azu
 layout: post
 itemUrl: >-

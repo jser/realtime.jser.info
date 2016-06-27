@@ -1,10 +1,10 @@
 ---
-title: 'JavaScript: Novice to Ninja - O''Reilly Media'
+title: "JavaScript: Novice to Ninja - O'Reilly Media"
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9780992461225.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/index.json'
-date: '2014-09-10T07:55:20Z'
+date: '2014-09-10T07:55:20+00:00'
 tags:
   - JavaScript
   - book

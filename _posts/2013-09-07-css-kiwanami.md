@@ -1,5 +1,5 @@
 ---
-title: CSSガイドラインを翻訳してみた - 技術日記＠kiwanami
+title: CSSガイドラインを翻訳してみた - 技術日記@kiwanami
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/kiwanami/20130905/1378353853'

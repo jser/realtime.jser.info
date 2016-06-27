@@ -1,5 +1,5 @@
 ---
-title: コードのバグはコードで見つけよう！｜サイバーエージェント 公式エンジニアブログ
+title: コードのバグはコードで見つけよう!|サイバーエージェント 公式エンジニアブログ
 author: azu
 layout: post
 itemUrl: 'http://ameblo.jp/principia-ca/entry-11837554210.html'

@@ -1,5 +1,5 @@
 ---
-title: 高レイテンシ下での改善，Microdata，QRESYNCへ対応 | Opera-users.jp
+title: '高レイテンシ下での改善,Microdata,QRESYNCへ対応 | Opera-users.jp'
 author: azu
 layout: post
 itemUrl: >-

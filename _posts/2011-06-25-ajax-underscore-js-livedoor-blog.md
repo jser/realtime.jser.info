@@ -1,5 +1,5 @@
 ---
-title: 'こてさきAjax:underscore.jsを調べてみた - livedoor Blog（ブログ）'
+title: 'こてさきAjax:underscore.jsを調べてみた - livedoor Blog(ブログ)'
 author: azu
 layout: post
 itemUrl: 'http://blog.livedoor.jp/kotesaki/archives/1700571.html'

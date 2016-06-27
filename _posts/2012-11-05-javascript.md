@@ -1,5 +1,5 @@
 ---
-title: 静的型付けをもつJavaScriptへのトランスコンパイル言語を味見してみた その２ ｜ クラスメソッド開発ブログ
+title: 静的型付けをもつJavaScriptへのトランスコンパイル言語を味見してみた その2 | クラスメソッド開発ブログ
 author: azu
 layout: post
 itemUrl: 'http://dev.classmethod.jp/server-side/language/haxe-jsx-typescript2/'

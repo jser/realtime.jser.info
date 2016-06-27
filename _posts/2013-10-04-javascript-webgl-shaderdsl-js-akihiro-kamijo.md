@@ -1,5 +1,5 @@
 ---
-title: アドビの新プロジェクト：JavaScript で WebGL シェーダを記述できる ShaderDSL.js - akihiro kamijo
+title: 'アドビの新プロジェクト:JavaScript で WebGL シェーダを記述できる ShaderDSL.js - akihiro kamijo'
 author: azu
 layout: post
 itemUrl: 'http://cuaoar.jp/2013/10/javascript-webgl-shaderd.html'

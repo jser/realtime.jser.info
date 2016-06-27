@@ -1,5 +1,5 @@
 ---
-title: TypeScriptとは？ Visual Studioを使って開発してみよう - Build Insider
+title: TypeScriptとは? Visual Studioを使って開発してみよう - Build Insider
 author: azu
 layout: post
 itemUrl: 'http://www.buildinsider.net/web/typescriptvs/01'

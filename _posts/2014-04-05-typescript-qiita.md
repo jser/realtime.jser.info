@@ -1,5 +1,5 @@
 ---
-title: TypeScriptの型定義ファイルを共有しよう！ - Qiita
+title: TypeScriptの型定義ファイルを共有しよう! - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/vvakame/items/1980d4b6cc222e03fdcb'

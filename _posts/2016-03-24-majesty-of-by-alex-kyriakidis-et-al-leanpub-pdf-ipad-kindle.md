@@ -1,5 +1,5 @@
 ---
-title: 'Majesty Of… by Alex Kyriakidis et al. [Leanpub PDF/iPad/Kindle]'
+title: 'Majesty Of... by Alex Kyriakidis et al. [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/vuejs/'

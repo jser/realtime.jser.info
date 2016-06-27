@@ -1,5 +1,5 @@
 ---
-title: 'ブラウザストレージ技術とプライベートブラウジング（改訂版） - Nothing ventured, nothing gained.'
+title: 'ブラウザストレージ技術とプライベートブラウジング(改訂版) - Nothing ventured, nothing gained.'
 author: azu
 layout: post
 itemUrl: 'http://takoratta.hatenablog.com/entry/2014/07/11/130000'

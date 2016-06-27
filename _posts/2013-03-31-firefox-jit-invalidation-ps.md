@@ -1,5 +1,5 @@
 ---
-title: FirefoxでJITコンパイルの「正しさ」を担保する”Invalidation” | ψ（プサイ）の興味関心空間
+title: FirefoxでJITコンパイルの「正しさ」を担保する”Invalidation” | ψ(プサイ)の興味関心空間
 author: azu
 layout: post
 itemUrl: 'http://ledyba.org/2013/02/27181531.php'

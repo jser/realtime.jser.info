@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript… by Reginald Braithwaite [Leanpub PDF/iPad/Kindle]'
+title: 'JavaScript... by Reginald Braithwaite [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/javascript-spessore'

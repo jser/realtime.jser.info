@@ -1,5 +1,5 @@
 ---
-title: 'Extending JavaScript Natives « JavaScript, JavaScript…'
+title: 'Extending JavaScript Natives « JavaScript, JavaScript...'
 author: azu
 layout: post
 itemUrl: 'http://javascriptweblog.wordpress.com/2011/12/05/extending-javascript-natives/'

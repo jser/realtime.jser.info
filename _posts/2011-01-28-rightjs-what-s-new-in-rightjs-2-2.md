@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://rightjs.org/tutorials/what-new-in-rjs22'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/index.json'
-date: '2011-01-28T04:52:00Z'
+date: '2011-01-28T04:52:00+00:00'
 ---
 JavaScriptフレームワークであるRightJSの2.2がリリースされました。
 * Native CSS Transitions Support In Fx

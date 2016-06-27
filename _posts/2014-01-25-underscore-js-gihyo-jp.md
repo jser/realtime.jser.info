@@ -1,5 +1,5 @@
 ---
-title: Underscore.jsの入り口：連載｜gihyo.jp … 技術評論社
+title: 'Underscore.jsの入り口:連載|gihyo.jp ... 技術評論社'
 author: azu
 layout: post
 itemUrl: 'http://gihyo.jp/dev/serial/01/underscorejs'

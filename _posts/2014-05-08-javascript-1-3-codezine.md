@@ -1,5 +1,5 @@
 ---
-title: JavaScriptでスパイ、スタブ、モックなどのテストダブルを行う （1/3）：CodeZine
+title: 'JavaScriptでスパイ、スタブ、モックなどのテストダブルを行う (1/3):CodeZine'
 author: azu
 layout: post
 itemUrl: 'http://codezine.jp/article/detail/7729'

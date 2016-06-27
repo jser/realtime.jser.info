@@ -1,10 +1,10 @@
 ---
-title: An Introduction to jQuery's Deferred Objects
+title: "An Introduction to jQuery's Deferred Objects"
 author: azu
 layout: post
 itemUrl: 'http://www.sitepoint.com/introduction-jquery-deferred-objects/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/index.json'
-date: '2016-03-23T12:47:34Z'
+date: '2016-03-23T12:47:34+00:00'
 tags:
   - jQuery
 ---

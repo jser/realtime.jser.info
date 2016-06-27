@@ -1,5 +1,5 @@
 ---
-title: 'ECMAScript 2015… by Maciej Rzepiński [Leanpub PDF/iPad/Kindle]'
+title: 'ECMAScript 2015... by Maciej Rzepiński [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/ecmascript2015es6guide'

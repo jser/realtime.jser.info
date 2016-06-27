@@ -1,5 +1,5 @@
 ---
-title: Titanium Studioのデバッグ機能が無料で使えるようになりました！ « Appcelerator Developer Center
+title: Titanium Studioのデバッグ機能が無料で使えるようになりました! « Appcelerator Developer Center
 author: azu
 layout: post
 itemUrl: >-

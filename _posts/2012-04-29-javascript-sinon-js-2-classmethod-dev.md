@@ -1,5 +1,5 @@
 ---
-title: 『javascriptのテストのはなし：Sinon.JS(その2) ｜ Classmethod.dev()』
+title: '『javascriptのテストのはなし:Sinon.JS(その2) | Classmethod.dev()』'
 author: azu
 layout: post
 itemUrl: 'http://dev.classmethod.jp/etc/javascript_testing_framework_sinonjs/'

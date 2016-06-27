@@ -1,5 +1,5 @@
 ---
-title: EPUB 3 仕様書・関連文書日本語訳一覧 ｜ IMAGEDRIVE
+title: EPUB 3 仕様書・関連文書日本語訳一覧 | IMAGEDRIVE
 author: azu
 layout: post
 itemUrl: 'http://blog.imagedrive.jp/epub3'

@@ -1,5 +1,5 @@
 ---
-title: RequireJS等はもう古い。WebPackとは？｜1 pixel｜サイバーエージェント公式クリエイターズブログ
+title: RequireJS等はもう古い。WebPackとは?|1 pixel|サイバーエージェント公式クリエイターズブログ
 author: azu
 layout: post
 itemUrl: 'http://ameblo.jp/ca-1pixel/entry-11884453208.html'

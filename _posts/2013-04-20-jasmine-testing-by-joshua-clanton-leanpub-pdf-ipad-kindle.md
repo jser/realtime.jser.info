@@ -1,5 +1,5 @@
 ---
-title: 'Jasmine Testing… by Joshua Clanton [Leanpub PDF/iPad/Kindle]'
+title: 'Jasmine Testing... by Joshua Clanton [Leanpub PDF/iPad/Kindle]'
 author: azu
 layout: post
 itemUrl: 'https://leanpub.com/jasmine-testing/'

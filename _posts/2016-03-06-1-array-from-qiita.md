@@ -1,5 +1,5 @@
 ---
-title: なぜ絵文字を含む文字を1文字ずつに分けるのにArray.fromだけで十分なのか？ - Qiita
+title: なぜ絵文字を含む文字を1文字ずつに分けるのにArray.fromだけで十分なのか? - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/alucky0707/items/697598e49ff56191c139'

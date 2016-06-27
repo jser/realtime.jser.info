@@ -1,5 +1,5 @@
 ---
-title: 『【Sassを覚えよう！】もくじ的なのと参考リンク - CSS HappyLife』
+title: 『【Sassを覚えよう!】もくじ的なのと参考リンク - CSS HappyLife』
 author: azu
 layout: post
 itemUrl: 'http://css-happylife.com/archives/2012/0130_0415.php'
