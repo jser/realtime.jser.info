@@ -14,6 +14,11 @@ tags:
 relatedLinks:
   - title: 'David Baron''s weblog: Running animations on the compositor thread'
     url: 'http://dbaron.org/log/20150916-compositor-animations'
+  - title: >-
+      Developer Edition 49：ネットワークモニタでのスタックトレース表示、など | Mozilla Developer Street
+      (modest)
+    url: >-
+      https://dev.mozilla.jp/2016/06/developer-edition-49-network-request-stack-traces-and-more/
 ---
 Firefox 49の開発者ツールについて。
 ネットワークパネルでどこから通信が発生したのかスタックトレースできるように、エラーメッセージの詳細をMDNで見られるように、アクセシビリティの改善など
