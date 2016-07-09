@@ -8,6 +8,9 @@ date: '2016-07-08T04:48:10Z'
 tags:
   - jQuery
   - ReleaseNote
+relatedLinks:
+  - title: Bugsnag Blog - A Warning About jQuery 3
+    url: 'http://blog.bugsnag.com/a-warning-about-jquery-3'
 ---
 jQuery 3.1.0リリース。
 `jQuery.readyException`で`ready`時に起きたエラーのログを取れるように
