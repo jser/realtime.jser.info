@@ -13,6 +13,8 @@ relatedLinks:
   - title: 'What&#39;s new in TypeScript · Microsoft/TypeScript Wiki'
     url: >-
       https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-20
+  - title: TypeScript 2.0 Beta 変更点 - Qiita
+    url: 'http://qiita.com/vvakame/items/ae239f3d6f6f08f7c719'
 ---
 TypeScript 2.0βリリース。
 Non-nullable Type、module定義に`*`などが使えるように。
