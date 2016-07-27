@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.amazon.com/Front-End-Web-Development-Ranch-Guide/dp/0134433947'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/07/index.json'
-date: '2016-07-27T05:35:59Z'
+date: '2016-07-27T05:35:58Z'
 tags:
   - JavaScript
   - CSS
