@@ -2,7 +2,7 @@
 title: mocha/CHANGELOG.md at master · mochajs/mocha
 author: azu
 layout: post
-itemUrl: 'https://github.com/mochajs/mocha/blob/master/CHANGELOG.md'
+itemUrl: 'https://github.com/mochajs/mocha/blob/master/CHANGELOG.md#300--2016-07-31'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/08/index.json'
 date: '2016-08-01T12:30:58Z'
 tags:
