@@ -1,5 +1,5 @@
 ---
-title: 'reBEM: React ♥ BEM — Medium'
+title: 'reBEM: React :hearts: BEM — Medium'
 author: azu
 layout: post
 itemUrl: 'https://medium.com/@mistadikay/rebem-react-bem-20d875157017'

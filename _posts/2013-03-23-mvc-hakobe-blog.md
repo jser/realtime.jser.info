@@ -1,5 +1,5 @@
 ---
-title: クライアントサイドMVCには何が必須? - HAKOBE blog ♨
+title: 'クライアントサイドMVCには何が必須? - HAKOBE blog :hotsprings:'
 author: azu
 layout: post
 itemUrl: 'http://hakobe932.hatenablog.com/entry/2013/03/22/010357'

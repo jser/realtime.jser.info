@@ -27,3 +27,5 @@ lsi:         false
 limit_posts: 1000
 sass:
   sass_dir: public/_scss
+gems:
+  - jemoji

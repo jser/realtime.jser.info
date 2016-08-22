@@ -1,5 +1,5 @@
 ---
-title: ▶ TXJS 2015 Livestream - YouTube
+title: ':arrow_forward: TXJS 2015 Livestream - YouTube'
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=6lEbk7xdlsQ'

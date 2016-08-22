@@ -1,5 +1,5 @@
 ---
-title: '▶ AngularJS + TypeScript : Workflow - YouTube'
+title: ':arrow_forward: AngularJS + TypeScript : Workflow - YouTube'
 author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=0-6vT7xgE4Y'

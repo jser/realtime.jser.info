@@ -1,5 +1,5 @@
 ---
-title: '▶ Tale of npm, css and html - YouTube'
+title: ':arrow_forward: Tale of npm, css and html - YouTube'
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=27GYm6nRv6E'

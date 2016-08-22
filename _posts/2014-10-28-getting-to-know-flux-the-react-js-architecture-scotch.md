@@ -1,5 +1,5 @@
 ---
-title: 'Getting To Know Flux, the React.js Architecture ♥ Scotch'
+title: 'Getting To Know Flux, the React.js Architecture :hearts: Scotch'
 author: azu
 layout: post
 itemUrl: >-

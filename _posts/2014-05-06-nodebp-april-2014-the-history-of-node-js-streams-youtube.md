@@ -1,5 +1,5 @@
 ---
-title: '▶ Nodebp April 2014: The History of Node.js Streams - YouTube'
+title: ':arrow_forward: Nodebp April 2014: The History of Node.js Streams - YouTube'
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=g5ewQEuXjsQ'

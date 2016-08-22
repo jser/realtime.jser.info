@@ -1,5 +1,5 @@
 ---
-title: 'ExpressJS 4.0: New Features and Upgrading from 3.0 ♥ Scotch'
+title: 'ExpressJS 4.0: New Features and Upgrading from 3.0 :hearts: Scotch'
 author: azu
 layout: post
 itemUrl: 'http://scotch.io/bar-talk/expressjs-4-0-new-features-and-upgrading-from-3-0'

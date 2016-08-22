@@ -1,5 +1,5 @@
 ---
-title: ECMAScript® 2016 Language Specification
+title: 'ECMAScript:registered: 2016 Language Specification'
 author: azu
 layout: post
 itemUrl: 'http://www.ecma-international.org/ecma-262/7.0/'

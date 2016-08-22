@@ -1,5 +1,5 @@
 ---
-title: npm3 ❓ // Speaker Deck
+title: 'npm3 :question: // Speaker Deck'
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/watilde/npm3'

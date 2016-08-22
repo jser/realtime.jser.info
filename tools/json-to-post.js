@@ -6,9 +6,12 @@ var moment = require("moment");
 var slugg = require("slugg");
 var path = require("path");
 var fs = require("fs");
+var emojiText = require("emoji-text");
 function pickFromMatter(item) {
     var object = {
-        title: item.title.trim().normalize('NFKC'),
+        title: emojiText.convert(item.title.trim().normalize('NFKC'), {
+            delimiter: ':'
+        }),
         author: "azu",
         layout: "post",
         itemUrl: item.url.trim(),
@@ -52,6 +55,6 @@ function createPostFrom(item) {
     fs.writeFileSync(path.join(postDir, fileName), createPost(item), "utf8");
 }
 
-items.forEach(function (item) {
+items.forEach(function(item) {
     createPostFrom(item);
 });

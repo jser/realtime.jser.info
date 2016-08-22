@@ -1,5 +1,5 @@
 ---
-title: 『The Basics of jQuery ↩ Andrée』
+title: '『The Basics of jQuery :leftwards_arrow_with_hook: Andrée』'
 author: azu
 layout: post
 itemUrl: 'http://andreehansson.se/the-basics-of-jquery/'

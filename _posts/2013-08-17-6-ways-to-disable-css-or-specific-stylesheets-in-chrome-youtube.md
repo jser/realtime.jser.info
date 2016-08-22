@@ -1,5 +1,7 @@
 ---
-title: ▶ 6 Ways To Disable CSS Or Specific Stylesheets In Chrome - YouTube
+title: >-
+  :arrow_forward: 6 Ways To Disable CSS Or Specific Stylesheets In Chrome -
+  YouTube
 author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=hftoly8QhEs'

@@ -12,6 +12,7 @@
   "author": "azu",
   "license": "MIT",
   "dependencies": {
+    "emoji-text": "^0.2.6",
     "js-yaml": "^3.3.1",
     "moment": "^2.10.6",
     "slugg": "^1.0.0"

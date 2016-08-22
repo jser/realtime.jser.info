@@ -1,5 +1,5 @@
 ---
-title: ▶ Introducing the Polymer Designer tool - YouTube
+title: ':arrow_forward: Introducing the Polymer Designer tool - YouTube'
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=djQh8XKRzRg'

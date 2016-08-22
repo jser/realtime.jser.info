@@ -1,5 +1,7 @@
 ---
-title: '▶ InstaBuster: JavaScript testing with LightTable & Buster.JS - YouTube'
+title: >-
+  :arrow_forward: InstaBuster: JavaScript testing with LightTable & Buster.JS -
+  YouTube
 author: azu
 layout: post
 itemUrl: 'http://www.youtube.com/watch?v=WKHWazblpbc'

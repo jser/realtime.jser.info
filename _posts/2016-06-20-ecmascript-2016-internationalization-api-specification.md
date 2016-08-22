@@ -1,5 +1,5 @@
 ---
-title: ECMAScript® 2016 Internationalization API Specification
+title: 'ECMAScript:registered: 2016 Internationalization API Specification'
 author: azu
 layout: post
 itemUrl: 'http://www.ecma-international.org/ecma-402/3.0/'

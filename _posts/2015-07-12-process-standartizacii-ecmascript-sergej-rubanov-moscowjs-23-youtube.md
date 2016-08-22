@@ -1,5 +1,7 @@
 ---
-title: '▶ "Процесс стандартизации ECMAScript", Сергей Рубанов, MoscowJS 23 - YouTube'
+title: >-
+  :arrow_forward: "Процесс стандартизации ECMAScript", Сергей Рубанов, MoscowJS
+  23 - YouTube
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=5HNrQJsv4gU'

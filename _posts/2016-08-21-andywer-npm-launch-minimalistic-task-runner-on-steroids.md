@@ -1,5 +1,5 @@
 ---
-title: "andywer/npm-launch: \uD83D\uDE80 Minimalistic task runner on steroids!"
+title: 'andywer/npm-launch: :rocket: Minimalistic task runner on steroids!'
 author: azu
 layout: post
 itemUrl: 'https://github.com/andywer/npm-launch'
