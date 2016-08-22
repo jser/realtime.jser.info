@@ -8,5 +8,8 @@ date: '2016-08-19T16:13:37Z'
 tags:
   - 'web '
   - audio
+relatedLinks:
+  - title: What’s new in Web Audio? | Mozilla Developer Street (modest)
+    url: 'https://dev.mozilla.jp/2016/08/whats-new-in-web-audio-2/'
 ---
 ここ1年のWeb Audio APIの変更点について
