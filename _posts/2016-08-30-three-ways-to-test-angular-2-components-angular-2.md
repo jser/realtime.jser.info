@@ -9,4 +9,4 @@ tags:
   - AngularJS
   - testing
 ---
-AngularJS 2のコンポーネントをテスト刷る方法について
+AngularJS 2のコンポーネントをテストする方法について
