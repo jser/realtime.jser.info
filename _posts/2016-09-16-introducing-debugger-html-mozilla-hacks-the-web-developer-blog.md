@@ -8,6 +8,9 @@ date: '2016-09-16T05:20:45Z'
 tags:
   - firefox
   - debug
+relatedLinks:
+  - title: debugger.html のご紹介 | Mozilla Developer Street (modest)
+    url: 'https://dev.mozilla.jp/2016/09/introducing-debugger-html/'
 ---
 debugger.htmlというソースパネルライクな新しいデバッガーについて。
 Firefox、Chrome、Node.jsに対応し、Remote Debug Protocolでデータをやり取りする。
