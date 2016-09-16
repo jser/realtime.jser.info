@@ -9,7 +9,7 @@ tags:
   - HTML
   - 翻訳
 relatedLinks:
-  - title: 普通のHTMLの書き方（またはHTML Best Practices日本語版） - Weblog - Hail2u.net
+  - title: 普通のHTMLの書き方(またはHTML Best Practices日本語版) - Weblog - Hail2u.net
     url: 'https://hail2u.net/blog/webdesign/html-best-practices-in-japanese.html'
   - title: HTML5のSVG要素では名前空間宣言が省略できる - 週刊SVG
     url: >-

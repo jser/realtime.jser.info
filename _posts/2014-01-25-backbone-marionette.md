@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - スライド
 relatedLinks:
-  - title: 和訳：BackboneとAngularを比較する - @lxyuma BLOG
+  - title: '和訳:BackboneとAngularを比較する - @lxyuma BLOG'
     url: 'http://lxyuma.hatenablog.com/entry/2013/11/05/074404'
 ---
 Marionette.jsについてのスライド。

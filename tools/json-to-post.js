@@ -25,7 +25,7 @@ function pickFromMatter(item) {
 
     if (item.relatedLinks && item.relatedLinks.length > 0) {
         object.relatedLinks = item.relatedLinks.map(function(item){
-            item.title = emojiText.convert(item.title.trim().normalize('NFKC'), {
+            item.title = emojiText.convert(item.title.normalize('NFKC'), {
                 delimiter: ':'
             });
             return item

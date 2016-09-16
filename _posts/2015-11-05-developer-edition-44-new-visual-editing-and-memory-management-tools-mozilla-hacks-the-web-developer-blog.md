@@ -12,7 +12,7 @@ tags:
   - firefox
   - debug
 relatedLinks:
-  - title: Developer Edition 44：新しいスタイル調整機能とメモリー管理ツール | Mozilla Japan ブログ
+  - title: 'Developer Edition 44:新しいスタイル調整機能とメモリー管理ツール | Mozilla Japan ブログ'
     url: 'http://www.mozilla.jp/blog/entry/10510/'
 ---
 Firefox 44での開発者ツールについて。

@@ -17,7 +17,7 @@ relatedLinks:
   - title: Fetch Referrer Policy Sample
     url: >-
       https://googlechrome.github.io/samples/fetch-api/fetch-referrer-policy.html
-  - title: CSS Containment Module Level 3 （日本語訳）
+  - title: CSS Containment Module Level 3 (日本語訳)
     url: 'https://triple-underscore.github.io/css-containment-ja.html'
 ---
 Chrome 52 Betaリリース。

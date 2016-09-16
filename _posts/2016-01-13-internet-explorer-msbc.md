@@ -11,7 +11,7 @@ relatedLinks:
   - title: Internet Explorer End of Support
     url: 'https://www.microsoft.com/en-us/WindowsForBusiness/End-of-IE-support'
   - title: >-
-      レガシーブラウザのサポートは本日で 終了です。～さようならOld IE～ - monoe's blog - Site Home - MSDN
+      レガシーブラウザのサポートは本日で 終了です。~さようならOld IE~ - monoe's blog - Site Home - MSDN
       Blogs
     url: >-
       http://blogs.msdn.com/b/osamum/archive/2016/01/13/legacy-browser-died-good-bye-old-ie.aspx

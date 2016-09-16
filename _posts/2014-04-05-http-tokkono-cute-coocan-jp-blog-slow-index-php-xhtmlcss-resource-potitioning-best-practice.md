@@ -13,7 +13,7 @@ tags:
 relatedLinks:
   - title: Content Loaded
     url: 'http://contentloaded.com/'
-  - title: CSSのロードタイミングの不備が引き起こす、FOUCとは？ - ふろしき.js
+  - title: CSSのロードタイミングの不備が引き起こす、FOUCとは? - ふろしき.js
     url: 'http://furoshiki.hatenadiary.jp/entry/2013/06/27/052327'
 ---
 script要素の場所と`async`と`defer`属性について。

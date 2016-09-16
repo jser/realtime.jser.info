@@ -10,7 +10,7 @@ tags:
   - ECMAScript
   - book
 relatedLinks:
-  - title: 'Understanding… by Nicholas C. Zakas [Leanpub PDF/iPad/Kindle]'
+  - title: 'Understanding... by Nicholas C. Zakas [Leanpub PDF/iPad/Kindle]'
     url: 'https://leanpub.com/understandinges6'
 ---
 ES6について解説している書籍。

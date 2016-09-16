@@ -10,7 +10,7 @@ tags:
   - ECMAScript
   - AMD
 relatedLinks:
-  - title: '▶ Practical Workflows for ES6 Modules, Fluent 2014 - YouTube'
+  - title: ':arrow_forward: Practical Workflows for ES6 Modules, Fluent 2014 - YouTube'
     url: 'https://www.youtube.com/watch?v=0VUjM-jJf2U'
 ---
 ES6 moduleとmodule loaderについて。

@@ -10,8 +10,8 @@ tags:
   - スライド
 relatedLinks:
   - title: >-
-      俺の話を聞け、5分だけでもいい　ーJavaScriptだいすきな男たちとJavaScriptを学ぼう！【JSオジサン#3】 JSオジサン 先生 -
-      無料動画学習｜schoo（スクー）
+      俺の話を聞け、5分だけでもいい ーJavaScriptだいすきな男たちとJavaScriptを学ぼう!【JSオジサン#3】 JSオジサン 先生 -
+      無料動画学習|schoo(スクー)
     url: 'https://schoo.jp/class/1190'
 ---
 コンポーネントベースで考えるウェブ開発についてスライド。

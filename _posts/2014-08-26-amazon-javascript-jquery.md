@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - book
 relatedLinks:
-  - title: JavaScript逆引きレシピ jQuery対応（9784798139470）：翔泳社の電子書籍
+  - title: 'JavaScript逆引きレシピ jQuery対応(9784798139470):翔泳社の電子書籍'
     url: 'http://www.shoeisha.co.jp/ebooks/detail/9784798139470'
 ---
 2014年8月29日発売

@@ -12,8 +12,8 @@ tags:
   - Tools
 relatedLinks:
   - title: >-
-      ▶ Babel: Beyond the Basics — Sebastian McKenzie, Creator of Babel -
-      YouTube
+      :arrow_forward: Babel: Beyond the Basics — Sebastian McKenzie, Creator of
+      Babel - YouTube
     url: 'https://www.youtube.com/watch?v=F1BIeVe99EQ'
 ---
 Babel作者によるBabelの紹介スライド。

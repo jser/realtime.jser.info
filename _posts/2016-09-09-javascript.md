@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - book
 relatedLinks:
-  - title: JavaScript本格入門　～モダンスタイルによる基礎からAjax・jQueryまで：書籍案内｜技術評論社
+  - title: 'JavaScript本格入門 ~モダンスタイルによる基礎からAjax・jQueryまで:書籍案内|技術評論社'
     url: 'http://gihyo.jp/book/2010/978-4-7741-4466-5'
 ---
 2016年9月30日発売

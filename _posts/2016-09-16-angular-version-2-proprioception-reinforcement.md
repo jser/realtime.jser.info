@@ -9,7 +9,7 @@ tags:
   - AngularJS
   - ReleaseNote
 relatedLinks:
-  - title: "\uD83C\uDF89✨ Angular 2.0.0がリリースされました \uD83C\uDF89✨ · Angular2 Info"
+  - title: ':tada::sparkles: Angular 2.0.0がリリースされました :tada::sparkles: · Angular2 Info'
     url: 'https://ng2-info.github.io/2016/09/angular-2-final/'
 ---
 AngularJS 2リリース

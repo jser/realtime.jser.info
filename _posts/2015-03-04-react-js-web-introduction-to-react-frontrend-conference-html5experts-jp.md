@@ -11,7 +11,7 @@ tags:
   - JavaScript
   - React
 relatedLinks:
-  - title: ▶ Introduction To React by Kazuhito Hokamura - YouTube
+  - title: ':arrow_forward: Introduction To React by Kazuhito Hokamura - YouTube'
     url: 'https://www.youtube.com/watch?v=Biam884qSjg'
 ---
 Reactの概念をわかりやすく解説してる。 

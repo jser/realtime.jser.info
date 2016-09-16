@@ -11,7 +11,7 @@ tags:
 relatedLinks:
   - title: 'AngularJS: Developer Guide: Migrating from Previous Versions'
     url: 'https://docs.angularjs.org/guide/migration#migrating-from-1-3-to-1-4'
-  - title: もうすぐリリースされるAngularJS 1.4の機能を先取りチェックしよう （1/2）：CodeZine
+  - title: 'もうすぐリリースされるAngularJS 1.4の機能を先取りチェックしよう (1/2):CodeZine'
     url: 'http://codezine.jp/article/detail/8698'
   - title: JavaScript - AngularJSの1.3から1.4へのバージョンアップ - Qiita
     url: 'http://qiita.com/tsuchikazu@github/items/282bd7a990170a9adfb6'

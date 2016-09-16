@@ -10,7 +10,7 @@ tags:
   - HTML
   - スライド
 relatedLinks:
-  - title: ▶ Nicolas Gallagher - Adaptation and Components - YouTube
+  - title: ':arrow_forward: Nicolas Gallagher - Adaptation and Components - YouTube'
     url: >-
       https://www.youtube.com/watch?v=m0oMHG6ZXvo&list=PLZriQCloF6GDEOUPK7tlaWAtJhPW21ZDF
   - title: component/component

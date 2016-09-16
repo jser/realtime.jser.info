@@ -11,7 +11,9 @@ tags:
   - Promises
   - スライド
 relatedLinks:
-  - title: '▶ JavaScript Promises: Thinking Sync in an Async World - YouTube'
+  - title: >-
+      :arrow_forward: JavaScript Promises: Thinking Sync in an Async World -
+      YouTube
     url: 'http://www.youtube.com/watch?v=wc72cyYt8-c'
 ---
 ES6 Promisesの流れについてまとまってるスライド.

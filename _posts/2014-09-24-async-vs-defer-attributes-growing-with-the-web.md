@@ -9,7 +9,7 @@ tags:
   - HTML
   - JavaScript
 relatedLinks:
-  - title: サイトに適したリソース配置とasync/defer完全マスター – レンダリング優先のグッド・プラクティス | ゆっくりと…
+  - title: サイトに適したリソース配置とasync/defer完全マスター – レンダリング優先のグッド・プラクティス | ゆっくりと...
     url: >-
       http://tokkono.cute.coocan.jp/blog/slow/index.php/xhtmlcss/resource-potitioning-best-practice/
 ---

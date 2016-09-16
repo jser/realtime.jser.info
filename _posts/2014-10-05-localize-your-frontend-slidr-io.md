@@ -12,7 +12,9 @@ tags:
   - スライド
   - AngularJS
 relatedLinks:
-  - title: '▶ Tina Umlandt – Localize your frontend! [Reject.JS 2014] - YouTube'
+  - title: >-
+      :arrow_forward: Tina Umlandt – Localize your frontend! [Reject.JS 2014] -
+      YouTube
     url: >-
       https://www.youtube.com/watch?v=Lu4mholN2lA&index=3&list=PL37ZVnwpeshF8Sr8JZNFU6boKMmod9YBw
 ---

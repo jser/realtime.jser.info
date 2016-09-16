@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: >-
       主要ブラウザで実行可能なバイナリ形式「WebAssembly」の開発がスタート。Chrome、WebKit、Firefox、Microsoft
-      Edge、LLVM、Unityらがサポートを相次いで表明 － Publickey
+      Edge、LLVM、Unityらがサポートを相次いで表明 - Publickey
     url: 'http://www.publickey1.jp/blog/15/webassembly.html'
   - title: design/HighLevelGoals.md at master · WebAssembly/design
     url: 'https://github.com/WebAssembly/design/blob/master/HighLevelGoals.md'

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - performance
 relatedLinks:
-  - title: addEventListener()の第３引数の意味とかをちゃんと理解する為のメモ - 今日もスミマセン。
+  - title: addEventListener()の第3引数の意味とかをちゃんと理解する為のメモ - 今日もスミマセン。
     url: 'http://d.hatena.ne.jp/snaka72/20100925/1285404467'
   - title: >-
       Add feature test for passive event listener support · Issue #1894 ·

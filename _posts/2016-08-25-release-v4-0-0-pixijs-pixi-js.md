@@ -11,7 +11,7 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: PixiJS v4 Arrives - Goodboy™ — Goodboy™
+  - title: PixiJS v4 Arrives - GoodboyTM — GoodboyTM
     url: 'http://www.goodboydigital.com/pixi-js-v4/'
 ---
 pixi.js 4.0.0リリース

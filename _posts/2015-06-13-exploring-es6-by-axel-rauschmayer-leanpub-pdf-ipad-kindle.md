@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: 'Exploring ES6: Upgrade to the next version of JavaScript'
     url: 'http://exploringjs.com/'
-  - title: ②ality – JavaScript and more
+  - title: 2ality – JavaScript and more
     url: 'http://www.2ality.com/'
 ---
 Dr. AxelによるECMAScript 6についての書籍。ES6とは何かという話から、それぞれの機能と仕様について詳しく書かれている。

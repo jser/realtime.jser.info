@@ -15,7 +15,7 @@ relatedLinks:
   - title: Sass and Compass in Action
     url: 'http://t32k.me/mol/log/sass-and-compass-in-action/'
   - title: >-
-      Amazon.co.jp： Sass and Compass in Action: Wynn Netherland, Nathan
+      Amazon.co.jp: Sass and Compass in Action: Wynn Netherland, Nathan
       Weizenbaum, Chris Eppstein, Brandon Mathis: 洋書
     url: 'http://www.amazon.co.jp/dp/1617290149/'
 ---

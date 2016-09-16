@@ -10,7 +10,7 @@ tags:
   - safari
   - ReleaseNote
 relatedLinks:
-  - title: ECMAScript® 2017 Language Specification
+  - title: 'ECMAScript:registered: 2017 Language Specification'
     url: >-
       https://tc39.github.io/ecma262/#sec-arrow-function-definitions-static-semantics-early-errors
 ---

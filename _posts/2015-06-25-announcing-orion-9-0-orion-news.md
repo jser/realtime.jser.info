@@ -10,7 +10,7 @@ tags:
   - IDE
   - ReleaseNote
 relatedLinks:
-  - title: Eclipse、Webブラウザ上で動作する統合開発環境「Orion 9.0」をリリース：CodeZine
+  - title: 'Eclipse、Webブラウザ上で動作する統合開発環境「Orion 9.0」をリリース:CodeZine'
     url: 'http://codezine.jp/article/detail/8798'
 ---
 Orion 9.0リリース。

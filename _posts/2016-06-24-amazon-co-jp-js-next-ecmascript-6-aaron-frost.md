@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - book
 relatedLinks:
-  - title: "JS.Next\_-\_O&#39;Reilly Media"
+  - title: 'JS.Next - O&#39;Reilly Media'
     url: 'http://shop.oreilly.com/product/0636920026396.do'
 ---
 2017年4月25日発売

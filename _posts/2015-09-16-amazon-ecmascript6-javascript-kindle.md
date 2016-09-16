@@ -10,7 +10,7 @@ tags:
   - ECMAScript
   - book
 relatedLinks:
-  - title: 【新刊紹介】『速習 ECMAScript 6』発売、次期JavaScript仕様を短期間でキャッチアップ！：CodeZine（コードジン）
+  - title: '【新刊紹介】『速習 ECMAScript 6』発売、次期JavaScript仕様を短期間でキャッチアップ!:CodeZine(コードジン)'
     url: 'http://codezine.jp/article/detail/8963'
 ---
 ES6についてのKindle本

@@ -16,7 +16,7 @@ relatedLinks:
     url: >-
       https://docs.google.com/presentation/d/19gdTwicIb-tkZ1bg8117pKVJ5oLnBbf1FsRUfDuFSQg/present#slide=id.g40421410250356b_1
   - title: >-
-      ハイパフォーマンスなWebを実現するasm.js／WebAssemblyとは――Mozillaのルーク・ワグナー氏に聞く：CodeZine（コードジン）
+      ハイパフォーマンスなWebを実現するasm.js/WebAssemblyとは――Mozillaのルーク・ワグナー氏に聞く:CodeZine(コードジン)
     url: 'http://codezine.jp/article/detail/9072'
 ---
 今までのブラウザのプラグイン(ネイティブコード)とJavaScriptについてのスライド。
