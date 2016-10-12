@@ -13,5 +13,5 @@ relatedLinks:
     url: 'https://github.com/hasharray/jsperf'
 ---
 JavaScriptのコードのパフォーマンス計測サイト。
-jsperf.com と似てような感じのサイト。
-データはGitHubに自動的にコミットされ、Jekyllを使った静的サイトとして配信されてる。
+jsperf.com と似たような感じのサイト。
+データはGitHubへ自動的にコミットされ、Jekyllを使った静的サイトとして配信されてる。
