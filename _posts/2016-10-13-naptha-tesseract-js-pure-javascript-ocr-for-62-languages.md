@@ -1,5 +1,5 @@
 ---
-title: "naptha/tesseract.js: Pure Javascript OCR for 62 Languages :book::tada:\uD83D\uDDA5"
+title: 'naptha/tesseract.js: Pure Javascript OCR for 62 Languages'
 author: azu
 layout: post
 itemUrl: 'https://github.com/naptha/tesseract.js'
