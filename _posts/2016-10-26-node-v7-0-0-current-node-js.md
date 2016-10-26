@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Node v7.0.0リリース。
-v8のアップデート、WHATWG URL Parserの試験的サポートなど
+V8のアップデート、WHATWG URL Parserの試験的サポートなど
