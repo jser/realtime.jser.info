@@ -14,6 +14,9 @@ tags:
 relatedLinks:
   - title: Cooperative Scheduling of Background Tasks(日本語訳)
     url: 'https://triple-underscore.github.io/requestidlecallback-ja.html'
+  - title: Using requestIdleCallback  |  Web  |  Google Developers
+    url: >-
+      https://developers.google.com/web/updates/2015/08/using-requestidlecallback
 ---
 Firefox 52で実装される`requestIdleCallback`についての解説。
 `timeRemaining()`、`timeout`オプションやキャンセルした場合についてなど。
