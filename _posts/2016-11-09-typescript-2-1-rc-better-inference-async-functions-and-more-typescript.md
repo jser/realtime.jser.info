@@ -9,6 +9,9 @@ date: '2016-11-09T08:04:19Z'
 tags:
   - TypeScript
   - ReleaseNote
+relatedLinks:
+  - title: TypeScript 2.1.1 変更点 - Qiita
+    url: 'http://qiita.com/vvakame/items/305749d3d6dc6bf877c6'
 ---
 TypeScript 2.1 RCリリース。
-`any`型の改善、async/awaitがES3/ES5出力でも動くようになるなど
+`any`型の改善、tsconfig.jsonの`extends`対応、async/awaitがES3/ES5へ出力できるようになるなど
