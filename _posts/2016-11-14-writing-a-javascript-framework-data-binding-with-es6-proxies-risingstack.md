@@ -14,4 +14,4 @@ relatedLinks:
     url: 'https://github.com/RisingStack/nx-observe'
 ---
 ProxyやReflect APIを使い、値の変更を監視するObservableライブラリ。
-ES5のgetter/setterを使ったアプリーチとの比較
+ES5のgetter/setterを使ったアプローチとの比較
