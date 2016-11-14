@@ -12,4 +12,5 @@ tags:
   - CSS
   - 画像
 ---
-背景画像が表示されるまで、`linear-gradient`を使った模様を代替表示する
+`background-image`に指定した画像が表示されるまで、`linear-gradient`を使った模様を代替表示するFallbackについて
+
