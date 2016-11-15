@@ -10,4 +10,4 @@ tags:
   - accessibility
   - library
 ---
-axe-coreをつかったReactのアクセシビリティチェックライブラリ
+axe-coreをつかったアクセシビリティチェックを行うReactライブラリ
