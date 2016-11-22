@@ -9,4 +9,4 @@ tags:
   - JavaScript
   - library
 ---
-Modernizrの色々な機能が利用できるかを一括で判定するライブラリ
+Modernizrのように色々な機能が利用できるかを一括で判定するライブラリ
