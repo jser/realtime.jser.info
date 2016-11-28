@@ -15,5 +15,5 @@ relatedLinks:
   - title: 'John Resig&#39;s Micro-Templating in 140 bytes'
     url: 'https://gist.github.com/Fedia/20d41d8533e0903f0123'
 ---
-John Resigの140kbで動くMicro Templatingがどのような仕組みで動いているのかを見ていく記事。
+John Resigの140bytesで動くMicro Templatingがどのような仕組みで動いているのかを見ていく記事。
 Functionコンストラクタ、正規表現など構成要素を丁寧に解説してる
