@@ -10,8 +10,6 @@ tags:
   - ReleaseNote
   - security
 relatedLinks:
-  - title: ''
-    url: 'https://nodejs.org/en/blog/weekly-updates/weekly-update.2016-11-24/'
   - title: 'Weekly Update - November 24th, 2016 | Node.js'
     url: 'https://nodejs.org/en/blog/weekly-updates/weekly-update.2016-11-24/'
 ---
