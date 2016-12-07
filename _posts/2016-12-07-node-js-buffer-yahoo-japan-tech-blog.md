@@ -9,6 +9,9 @@ tags:
   - node.js
   - JavaScript
   - security
+relatedLinks:
+  - title: notes/Lets-fix-Buffer-API.md at master · ChALkeR/notes
+    url: 'https://github.com/ChALkeR/notes/blob/master/Lets-fix-Buffer-API.md'
 ---
 Node.jsの`new Buffer`のセキュリティ的な問題点についての解説。
 非推奨となった`new Buffer`の代わりとなる`Buffer.from`/`Buffer.alloc`/`Buffer.allocUnsafe`について
