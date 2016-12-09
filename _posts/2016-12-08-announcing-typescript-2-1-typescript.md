@@ -9,6 +9,9 @@ date: '2016-12-08T01:00:33Z'
 tags:
   - TypeScript
   - ReleaseNote
+relatedLinks:
+  - title: TypeScript 2.1.4 変更点 - Qiita
+    url: 'http://qiita.com/vvakame/items/fc7e37d0296c63f41f4f'
 ---
 TypeScript 2.1リリース。
 async/await、Object Rest & Spread、`keyof` type、Mapped Typeのサポートなど
