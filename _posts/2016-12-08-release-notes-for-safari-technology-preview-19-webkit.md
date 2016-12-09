@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Safari Technology Preview Release 19リリース。
-Touch Barのサポート、Pointer Lock APIの有効化、WebDriver時は`navigator.webdriver`が触れるようになるなど
+ES6 modulesのサポート、Touch Barのサポート、Pointer Lock APIの有効化、WebDriver時は`navigator.webdriver`が触れるようになるなど
