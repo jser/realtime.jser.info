@@ -17,8 +17,6 @@ relatedLinks:
   - title: 'Angular: Angular 1.6 - Expression Sandbox Removal'
     url: >-
       http://angularjs.blogspot.jp/2016/09/angular-16-expression-sandbox-removal.html
-  - title: 'Angular 1.6 is here, this is what you need to know'
-    url: 'https://toddmotto.com/angular-1-6-is-here'
 ---
 AngularJS 1.6.0リリース。
 jqLiteをjQuery 3の挙動に合わせるように、expression sandboxを削除。
