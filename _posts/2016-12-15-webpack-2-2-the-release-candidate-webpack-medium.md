@@ -12,4 +12,4 @@ relatedLinks:
     url: 'https://github.com/webpack/webpack/releases/tag/v2.2.0-rc.0'
 ---
 webpack 2.2.0 RCリリース。
-2.x系初のRCリリースとなってる
+2.x系のRCリリースとなってる
