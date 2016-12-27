@@ -12,5 +12,5 @@ relatedLinks:
   - title: 'Release v1.0.0 :tada: · yeoman/generator'
     url: 'https://github.com/yeoman/generator/releases/tag/v1.0.0'
 ---
-Yeoman-generator 1.0リリース。
+Yeoman-generator 1.0りりイース。
 `composeWith`のAPIを簡略化、Yarnサポート、deprecatedなAPIを削除など
