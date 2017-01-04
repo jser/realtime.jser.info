@@ -8,7 +8,7 @@ date: '2014-05-01T14:50:10Z'
 tags:
   - CSS
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: CSSConf Australia 2014
     url: 'http://2014.cssconf.com.au/'

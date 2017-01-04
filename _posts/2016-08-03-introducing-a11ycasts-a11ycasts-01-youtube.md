@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/08/inde
 date: '2016-08-03T23:14:19Z'
 tags:
   - accessibility
-  - 動画
+  - video
 relatedLinks:
   - title: >-
       Chrome Developers on Twitter: &#34;Just launched ~ A11ycasts! A new series

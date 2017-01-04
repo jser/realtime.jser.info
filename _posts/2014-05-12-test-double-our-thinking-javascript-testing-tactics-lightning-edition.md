@@ -9,7 +9,7 @@ date: '2014-05-12T09:32:44Z'
 tags:
   - JavaScript
   - testing
-  - 動画
+  - video
   - slide
 ---
 JasmineとCoffeeScriptを使ったテスト。

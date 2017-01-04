@@ -8,7 +8,7 @@ date: '2014-12-06T12:58:19Z'
 tags:
   - JavaScript
   - ECMAScript
-  - 動画
+  - video
   - slide
 relatedLinks:
   - title: ES7 Async Generator from azu on Twitter

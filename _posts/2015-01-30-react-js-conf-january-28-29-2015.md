@@ -8,6 +8,6 @@ date: '2015-01-30T05:57:38Z'
 tags:
   - React
   - イベント
-  - 動画
+  - video
 ---
 React.js Confの動画まとめ

@@ -8,6 +8,6 @@ date: '2013-04-21T05:40:51Z'
 tags:
   - JavaScript
   - library
-  - 動画
+  - video
 ---
 Ember.jsについて扱う動画チュートリアルサイト

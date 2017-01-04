@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/inde
 date: '2014-02-20T05:30:30Z'
 tags:
   - CSS
-  - 動画
+  - video
 ---
 CSS animation eventについてのスクリーンキャスト

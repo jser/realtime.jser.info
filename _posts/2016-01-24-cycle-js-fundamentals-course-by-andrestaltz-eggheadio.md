@@ -8,6 +8,6 @@ date: '2016-01-24T11:49:35Z'
 tags:
   - JavaScript
   - Rx
-  - 動画
+  - video
 ---
 Cycle.js作者によるCycle.jsとRxJSについてのスクリーンキャスト。

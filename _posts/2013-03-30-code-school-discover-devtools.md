@@ -8,7 +8,7 @@ date: '2013-03-30T20:42:00Z'
 tags:
   - Chrome
   - デバック
-  - 動画
+  - video
   - tutorial
 ---
 Chrome Dev Toolsの動画チュートリアル。

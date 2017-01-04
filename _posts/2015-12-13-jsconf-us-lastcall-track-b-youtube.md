@@ -8,7 +8,7 @@ date: '2015-12-13T04:22:54Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: JSConf US Last Call - jsconf.micDrop()
     url: 'http://lastcall.jsconf.us/'

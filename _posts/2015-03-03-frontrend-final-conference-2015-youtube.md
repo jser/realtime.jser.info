@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - CSS
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: Frontrend Conference - A conference for front-end developer(2015年2月21日開催)
     url: 'http://frontrend.github.io/conference/'

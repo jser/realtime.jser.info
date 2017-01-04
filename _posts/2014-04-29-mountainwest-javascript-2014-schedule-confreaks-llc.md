@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/inde
 date: '2014-04-29T03:22:10Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - イベント
 relatedLinks:
   - title: MountainWest JavaScript 2014 - YouTube

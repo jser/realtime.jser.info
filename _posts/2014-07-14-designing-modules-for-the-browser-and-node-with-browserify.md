@@ -9,7 +9,7 @@ date: '2014-07-14T15:26:20Z'
 tags:
   - browserify
   - slide
-  - 動画
+  - video
 relatedLinks:
   - title: browser field
     url: 'https://github.com/substack/browserify-handbook#browser-field'

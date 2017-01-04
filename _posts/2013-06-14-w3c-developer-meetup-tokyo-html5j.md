@@ -9,6 +9,6 @@ tags:
   - W3C
   - イベント
   - slide
-  - 動画
+  - video
 ---
 W3C Developer Meetup - Tokyoのスライドと動画まとめ

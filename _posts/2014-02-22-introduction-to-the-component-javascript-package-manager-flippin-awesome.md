@@ -9,7 +9,7 @@ date: '2014-02-22T12:19:52Z'
 tags:
   - JavaScript
   - Tools
-  - 動画
+  - video
 ---
 JavaScriptパッケージ管理ツールのComponentについてのチュートリアル。
 

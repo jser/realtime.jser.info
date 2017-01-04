@@ -8,7 +8,7 @@ date: '2014-11-26T08:11:10Z'
 tags:
   - JavaScript
   - WebComponents
-  - 動画
+  - video
 ---
 Custom Elements についての解説。
 Custom Elementsの作り方、仕組み、ライフサイクルコールバック、ユースケースについて

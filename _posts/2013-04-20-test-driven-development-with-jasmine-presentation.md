@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/inde
 date: '2013-04-20T10:36:59Z'
 tags:
   - jasmine
-  - 動画
+  - video
   - slide
   - testing
 ---

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - ECMAScript
   - Tools
-  - 動画
+  - video
 relatedLinks:
   - title: jspm.io - Frictionless Browser Package Management
     url: 'http://jspm.io/'

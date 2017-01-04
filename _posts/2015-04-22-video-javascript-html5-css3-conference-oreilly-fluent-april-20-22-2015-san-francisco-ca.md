@@ -10,6 +10,6 @@ date: '2015-04-22T06:10:13Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 Fluent Conf 2015の動画が公開されている

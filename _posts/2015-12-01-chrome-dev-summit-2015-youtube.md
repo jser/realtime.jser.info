@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/inde
 date: '2015-12-01T12:02:16Z'
 tags:
   - Chrome
-  - 動画
+  - video
   - イベント
   - まとめ
 relatedLinks:

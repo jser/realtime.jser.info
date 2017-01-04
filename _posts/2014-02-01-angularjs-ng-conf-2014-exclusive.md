@@ -8,7 +8,7 @@ date: '2014-02-01T16:57:10Z'
 tags:
   - AngularJS
   - イベント
-  - 動画
+  - video
   - slide
 relatedLinks:
   - title: >-

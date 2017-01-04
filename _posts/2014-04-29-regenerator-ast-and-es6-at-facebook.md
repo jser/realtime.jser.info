@@ -8,7 +8,7 @@ date: '2014-04-29T08:19:11Z'
 tags:
   - JavaScript
   - AST
-  - 動画
+  - video
   - slide
 relatedLinks:
   - title: Technical and Social Progress Toward ECMAScript 6 at Facebook

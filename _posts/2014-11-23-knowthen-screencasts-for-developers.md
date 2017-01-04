@@ -8,6 +8,6 @@ date: '2014-11-23T02:24:59Z'
 tags:
   - JavaScript
   - node.js
-  - 動画
+  - video
 ---
 JavaScriptについてのスクリーンキャストをするサイト

@@ -10,6 +10,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/inde
 date: '2013-10-15T13:02:01Z'
 tags:
   - JavaScript
-  - 動画
+  - video
 ---
 Object.observe()についての発表

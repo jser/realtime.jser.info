@@ -8,7 +8,7 @@ date: '2014-04-14T01:06:19Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 meet.jsの動画が公開された。
 メモリ管理、gulp、WebComponents、Selenium Builderの話等

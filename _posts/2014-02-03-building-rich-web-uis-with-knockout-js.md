@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - Knockout.js
   - tutorial
-  - 動画
+  - video
 relatedLinks:
   - title: O'reilly Fluent 2014
     url: 'http://fluentconf.com/fluent2014'

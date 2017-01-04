@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-05T05:13:31Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - まとめ
 ---
 Reject.JS 2014 の動画が公開された

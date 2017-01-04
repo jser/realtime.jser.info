@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/inde
 date: '2014-12-06T15:43:42Z'
 tags:
   - npm
-  - 動画
+  - video
 relatedLinks:
   - title: Getting Started
     url: 'https://docs.npmjs.com/getting-started/what-is-npm'

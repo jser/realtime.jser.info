@@ -10,7 +10,7 @@ date: '2015-09-27T00:36:32Z'
 tags:
   - JavaScript
   - library
-  - 動画
+  - video
   - tutorial
 ---
 JavaScriptライブラリを書いてGitHubに公開し、npmにpublishすることについてのスクリーンキャスト。

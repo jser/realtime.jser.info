@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/inde
 date: '2014-11-06T04:55:35Z'
 tags:
   - slide
-  - 動画
+  - video
 ---
 SoundCloudの人のReactによるサーバーサイドレンダリングのスライドと動画とサンプル

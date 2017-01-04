@@ -8,7 +8,7 @@ date: '2015-10-02T00:07:19Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: BrazilJS
     url: 'http://braziljs.com.br/'

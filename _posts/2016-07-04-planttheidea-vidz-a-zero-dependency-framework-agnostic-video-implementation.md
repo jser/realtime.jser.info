@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/07/inde
 date: '2016-07-04T09:37:54Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - library
 ---
 Video要素でのロードやイベントハンドリングなどを扱うライブラリ

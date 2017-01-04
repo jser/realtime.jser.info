@@ -8,7 +8,7 @@ date: '2013-02-09T09:36:00Z'
 tags:
   - WAI-ARIA
   - まとめ
-  - 動画
+  - video
 ---
 ARIA Landmark Rolesについて.
 JAWSを使ったlandmark rolesの動作の動画やroleに指定できる属性値についてまとめれている

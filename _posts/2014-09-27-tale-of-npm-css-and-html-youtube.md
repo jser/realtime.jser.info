@@ -9,7 +9,7 @@ tags:
   - npm
   - browserify
   - CSS
-  - 動画
+  - video
 ---
 browserifyとnpmを使った開発、またbrowserifyのcss版と言えるparcelifyについてのスクリーンキャスト
 https://github.com/rotundasoftware/parcelify

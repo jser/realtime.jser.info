@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/inde
 date: '2013-09-20T01:20:17Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - tutorial
 ---
  Page Visibilityを使って動画を停止させるチュートリアル

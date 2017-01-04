@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/inde
 date: '2015-11-09T12:34:53Z'
 tags:
   - JavaScript
-  - 動画
+  - video
 ---
 ユニットテストについてのスクリーンキャスト

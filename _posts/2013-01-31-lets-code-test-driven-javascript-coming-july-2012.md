@@ -8,6 +8,6 @@ date: '2013-01-31T15:00:00Z'
 tags:
   - testing
   - javascript
-  - 動画
+  - video
 ---
 テスト駆動JavaScriptについてのスクリーンキャスト講座 Let's Code: Test-Driven JavascriptのサイトがPublic Open

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/inde
 date: '2016-01-01T00:54:05Z'
 tags:
   - node.js
-  - 動画
+  - video
   - まとめ
 relatedLinks:
   - title: >-

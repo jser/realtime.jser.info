@@ -9,7 +9,7 @@ date: '2015-03-15T09:31:25Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: poteto/emberconf-2015
     url: 'https://github.com/poteto/emberconf-2015'

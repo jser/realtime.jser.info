@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/inde
 date: '2013-05-11T05:51:48Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - library
 ---
 JavaScriptで書かれたMPEG1動画デコーダーライブライ

@@ -9,6 +9,6 @@ date: '2014-05-18T10:34:01Z'
 tags:
   - WebStorm
   - tutorial
-  - 動画
+  - video
 ---
 WebStormを使ったNodeアプリ開発のスクリーンキャスト

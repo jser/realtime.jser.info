@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/inde
 date: '2015-01-04T02:09:29Z'
 tags:
   - SVG
-  - 動画
+  - video
 ---
 SVGとは何かというのが簡単にまとめられたスクリーンキャスト

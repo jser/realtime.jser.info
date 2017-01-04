@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-05T07:59:54Z'
 tags:
   - React
-  - 動画
+  - video
 ---
 ReactEurope 2016の動画まとめ

@@ -9,7 +9,7 @@ date: '2015-03-09T13:37:20Z'
 tags:
   - AngularJS
   - イベント
-  - 動画
+  - video
   - slide
 relatedLinks:
   - title: ng-conf 2015 - The World's Original Angular Conference

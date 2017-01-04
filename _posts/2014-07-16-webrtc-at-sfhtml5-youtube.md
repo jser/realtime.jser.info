@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/inde
 date: '2014-07-16T14:49:35Z'
 tags:
   - WebRTC
-  - 動画
+  - video
 ---
 SFHTML5のWebRTCイベントの動画

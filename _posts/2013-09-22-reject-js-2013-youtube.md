@@ -8,7 +8,7 @@ date: '2013-09-22T05:43:09Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 Reject.JS 2013の動画が公開された。
 http://rejectjs.org/

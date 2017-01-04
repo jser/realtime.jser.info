@@ -8,6 +8,6 @@ date: '2013-06-29T08:50:05Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 ScotlandJSの発表動画が公開された

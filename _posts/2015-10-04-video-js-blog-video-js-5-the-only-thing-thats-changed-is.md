@@ -8,7 +8,7 @@ date: '2015-10-04T14:00:47Z'
 tags:
   - JavaScript
   - library
-  - 動画
+  - video
   - ReleaseNote
 ---
 Video.js 5リリース。

@@ -9,6 +9,6 @@ tags:
   - Chrome
   - browserify
   - debug
-  - 動画
+  - video
 ---
 Chrome DevToolsのファイルマッピング機能を使うことで、browserifyの元ファイルもChrome DevToolsから編集出来る

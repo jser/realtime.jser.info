@@ -9,7 +9,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-07T00:38:49Z'
 tags:
   - redux
-  - 動画
+  - video
   - tutorial
 relatedLinks:
   - title: Dan Abramov - The Redux Journey at react-europe 2016 - YouTube

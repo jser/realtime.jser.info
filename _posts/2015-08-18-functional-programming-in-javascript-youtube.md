@@ -8,6 +8,6 @@ date: '2015-08-18T12:40:49Z'
 tags:
   - JavaScript
   - 関数型プログラミング
-  - 動画
+  - video
 ---
 関数型JavaScriptについてのスクリーンキャスト

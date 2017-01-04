@@ -10,7 +10,7 @@ date: '2013-06-01T11:09:35Z'
 tags:
   - event
   - JavaScript
-  - 動画
+  - video
   - slide
 ---
 Fluent 2013 のスライドと動画

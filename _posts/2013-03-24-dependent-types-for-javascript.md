@@ -9,7 +9,7 @@ tags:
   - javascript
   - PDF
   - slide
-  - 動画
+  - video
 ---
 JavaScript論文 - DJS(Dependent JavaScript) についての発表
 Logicなアプローチ/型コメント

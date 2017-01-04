@@ -8,6 +8,6 @@ date: '2014-08-31T14:17:58Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 Forward JSの動画が公開されている

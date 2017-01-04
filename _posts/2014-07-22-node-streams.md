@@ -8,7 +8,7 @@ date: '2014-07-22T08:50:19Z'
 tags:
   - node.js
   - stream
-  - 動画
+  - video
 ---
 node.jsのStreamについてのスクリーンキャスト。
 ランダムな単語を流すStreamを作り、transform streamで変換してWriteStreamに流すサンプルについて

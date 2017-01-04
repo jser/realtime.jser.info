@@ -8,7 +8,7 @@ date: '2013-07-07T06:16:30Z'
 tags:
   - jQuery
   - slide
-  - 動画
+  - video
   - イベント
 ---
 jQuery Conference in Portland 2013のスライドと動画が公開されてる

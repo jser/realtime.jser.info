@@ -8,7 +8,7 @@ date: '2013-02-01T23:24:00Z'
 tags:
   - HTML5
   - javascript
-  - 動画
+  - video
   - music
 ---
 video／audio要素のQ&A

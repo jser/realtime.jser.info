@@ -9,7 +9,7 @@ tags:
   - AngularJS
   - browserify
   - slide
-  - 動画
+  - video
 ---
 AngularとBroserifyについての発表動画とスライド。
 BroserifyについてWhat/Why、AngularJSとどう合わせるかのHowが書かれてる。

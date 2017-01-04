@@ -9,7 +9,7 @@ tags:
   - React
   - JavaScript
   - slide
-  - 動画
+  - video
 ---
 ReactのComponentの作り方やテストについて詳しい発表
 http://presentboldly.com/bejonbee/real-world-react-v012

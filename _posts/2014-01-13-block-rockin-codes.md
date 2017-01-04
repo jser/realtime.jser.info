@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/inde
 date: '2014-01-13T12:22:22Z'
 tags:
   - node.js
-  - 動画
+  - video
 relatedLinks:
   - title: visionmedia/co
     url: 'https://github.com/visionmedia/co'

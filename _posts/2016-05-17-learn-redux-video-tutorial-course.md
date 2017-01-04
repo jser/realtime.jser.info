@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/inde
 date: '2016-05-17T15:54:40Z'
 tags:
   - redux
-  - 動画
+  - video
 ---
 Reduxを使ったウェブアプリ開発に関するスクリーンキャスト

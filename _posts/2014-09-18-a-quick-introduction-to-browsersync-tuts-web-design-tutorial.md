@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/inde
 date: '2014-09-18T12:05:57Z'
 tags:
   - browser
-  - 動画
+  - video
   - Tools
 ---
 BrowserSyncについて紹介するスクリーンキャスト

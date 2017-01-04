@@ -10,6 +10,6 @@ date: '2015-11-16T10:20:52Z'
 tags:
   - React
   - flowtype
-  - 動画
+  - video
 ---
 ReactとFlowTypeを使った開発についての動画

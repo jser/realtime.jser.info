@@ -8,7 +8,7 @@ date: '2014-09-11T12:55:12Z'
 tags:
   - JavaScript
   - Tools
-  - 動画
+  - video
 ---
 JavaScriptベースのビルドツールであるBroccoliについての動画
 https://github.com/broccolijs/broccoli

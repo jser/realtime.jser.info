@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/inde
 date: '2015-03-21T13:22:38Z'
 tags:
   - jQuery
-  - 動画
+  - video
   - まとめ
 relatedLinks:
   - title: Coverage of jQuery UK 2015 | Lanyrd

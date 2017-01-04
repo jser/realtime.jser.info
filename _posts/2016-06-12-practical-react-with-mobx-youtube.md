@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-12T04:26:05Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - library
 relatedLinks:
   - title: 'mobxjs/mobx: Simple, scalable state management.'

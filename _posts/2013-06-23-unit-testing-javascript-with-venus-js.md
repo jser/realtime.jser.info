@@ -9,6 +9,6 @@ date: '2013-06-23T12:17:02Z'
 tags:
   - JavaScript
   - testing
-  - 動画
+  - video
 ---
 LinkedInが公開してるテストフレームワークのVenus.jsについての動画

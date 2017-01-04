@@ -10,7 +10,7 @@ tags:
   - WebComponents
   - library
   - イベント
-  - 動画
+  - video
 ---
 Polymer Summit 2015の動画一覧
 https://www.polymer-project.org/summit

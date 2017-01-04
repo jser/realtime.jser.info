@@ -8,7 +8,7 @@ date: '2016-07-05T14:40:09Z'
 tags:
   - V8
   - Chrome
-  - 動画
+  - video
 relatedLinks:
   - title: BlinkOn6 One Pager - Google ドキュメント
     url: >-

@@ -9,7 +9,7 @@ date: '2013-09-20T17:09:51Z'
 tags:
   - WebStorm
   - デバック
-  - 動画
+  - video
 ---
 WebStorm 7JavaScriptデバッグ機能について。
 Live Edit、Elements tab、ブレークした時に変数を見られるVariables viewの改善など

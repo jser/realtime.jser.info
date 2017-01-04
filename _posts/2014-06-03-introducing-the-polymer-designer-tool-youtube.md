@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-03T14:04:40Z'
 tags:
   - WebComponents
-  - 動画
+  - video
   - design
   - Tools
 relatedLinks:

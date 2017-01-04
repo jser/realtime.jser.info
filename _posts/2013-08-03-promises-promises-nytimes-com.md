@@ -8,6 +8,6 @@ date: '2013-08-03T15:55:43Z'
 tags:
   - JavaScript
   - slide
-  - 動画
+  - video
 ---
 Domenic DenicolaによるPromiseについての発表動画

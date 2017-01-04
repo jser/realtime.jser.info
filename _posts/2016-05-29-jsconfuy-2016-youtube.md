@@ -8,7 +8,7 @@ date: '2016-05-29T14:24:04Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: 'JSConf Uruguay 2016 - Montevideo, April 15th-16th'
     url: 'https://jsconf.uy/'

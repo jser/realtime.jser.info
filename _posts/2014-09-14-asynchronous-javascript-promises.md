@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - Promises
   - slide
-  - 動画
+  - video
 relatedLinks:
   - title: Asynchronous JavaScript & Promises by Alex Castrounis
     url: 'http://slides.com/alexcastrounis/async-js-promises#/'

@@ -8,6 +8,6 @@ date: '2014-11-22T05:33:38Z'
 tags:
   - JavaScript
   - node.js
-  - 動画
+  - video
 ---
 http://nodevember.org/ の動画が公開されている

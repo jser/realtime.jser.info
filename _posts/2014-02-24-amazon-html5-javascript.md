@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/inde
 date: '2014-02-24T14:17:08Z'
 tags:
   - canvas
-  - 動画
+  - video
   - JavaScript
   - book
 relatedLinks:

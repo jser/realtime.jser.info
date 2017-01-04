@@ -9,7 +9,7 @@ date: '2013-10-03T12:24:29Z'
 tags:
   - WebStorm
   - testing
-  - 動画
+  - video
   - tutorial
 ---
 WebStorm7 の karma 連携についてのスクリーンキャスト.

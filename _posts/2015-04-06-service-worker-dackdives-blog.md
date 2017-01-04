@@ -8,7 +8,7 @@ date: '2015-04-06T11:32:11Z'
 tags:
   - ServiceWorker
   - slide
-  - 動画
+  - video
   - まとめ
 ---
 Service Workerハッカソンのスライドや動画のまとめ

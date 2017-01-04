@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/inde
 date: '2013-02-23T21:54:00Z'
 tags:
   - jQuery
-  - 動画
+  - video
   - tutorial
 ---
 Code SchoolにjQueryのチュートリアル的なコースがオープンされた

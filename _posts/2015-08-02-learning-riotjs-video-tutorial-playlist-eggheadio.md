@@ -8,7 +8,7 @@ date: '2015-08-02T02:53:17Z'
 tags:
   - JavaScript
   - tutorial
-  - 動画
+  - video
   - library
 ---
 Riot.JSについてのスクリーンキャストシリーズ

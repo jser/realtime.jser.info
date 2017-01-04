@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - windows
   - IDE
-  - 動画
+  - video
 ---
 Chutzpah Test Adapter を使ったQUnitのテストについての動画

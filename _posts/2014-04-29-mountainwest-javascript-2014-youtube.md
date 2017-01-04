@@ -8,7 +8,7 @@ date: '2014-04-29T03:01:14Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 MountainWest JavaScript 2014の動画が公開された。
 http://mtnwestjs.org/2014/

@@ -9,6 +9,6 @@ tags:
   - firefox
   - animation
   - debug
-  - 動画
+  - video
 ---
 Firefox 43に実装された開発者ツールのアニメーションインスペクタについて動画

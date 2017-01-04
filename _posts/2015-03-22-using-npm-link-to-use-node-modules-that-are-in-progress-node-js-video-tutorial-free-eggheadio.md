@@ -11,6 +11,6 @@ date: '2015-03-22T16:20:10Z'
 tags:
   - node.js
   - npm
-  - 動画
+  - video
 ---
 npm linkを使った開発についてのスクリーンキャスト

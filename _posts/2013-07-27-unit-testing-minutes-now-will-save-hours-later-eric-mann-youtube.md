@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - testing
   - jQuery
-  - 動画
+  - video
 ---
 ユニットテストについての発表。
 http://eamann.com/slides/unit-testing/

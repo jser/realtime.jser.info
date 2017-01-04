@@ -8,7 +8,7 @@ date: '2015-10-29T09:55:52Z'
 tags:
   - ECMAScript
   - JavaScript
-  - 動画
+  - video
 ---
 async/awaitについてのスクリーンキャスト。
 PromiseでGitHub APIを叩くものを書いて、それをasync/awaitに書き換えながら紹介している

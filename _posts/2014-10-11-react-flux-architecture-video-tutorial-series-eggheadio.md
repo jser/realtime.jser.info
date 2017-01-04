@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-11T10:49:15Z'
 tags:
   - React
-  - 動画
+  - video
 relatedLinks:
   - title: dummy
     url: 'http://dummy'

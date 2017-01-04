@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/inde
 date: '2014-01-16T22:40:48Z'
 tags:
   - AngularJS
-  - 動画
+  - video
 relatedLinks:
   - title: >-
       ng-conf 2014 - The World's First Angular Conference in Salt Lake City,

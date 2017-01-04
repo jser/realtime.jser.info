@@ -10,6 +10,6 @@ date: '2013-09-24T13:20:19Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 http://2013.jsconf.eu/ の動画が公開された

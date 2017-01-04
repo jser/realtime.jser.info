@@ -8,7 +8,7 @@ date: '2013-07-07T08:51:14Z'
 tags:
   - TypeScript
   - slide
-  - 動画
+  - video
 ---
 Anders HejlsbergによるTypeScriptについての発表。
 主にデモやTypeScriptで作られてるウェブアプリの紹介等

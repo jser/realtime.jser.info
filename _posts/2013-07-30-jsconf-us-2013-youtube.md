@@ -8,7 +8,7 @@ date: '2013-07-30T00:36:02Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 ---
 JSConf US 2013の動画が公開された
 http://2013.jsconf.us/

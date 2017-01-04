@@ -9,6 +9,6 @@ tags:
   - TypeScript
   - AngularJS
   - WebStorm
-  - 動画
+  - video
 ---
 AngularJS + TypeScript + WebStorm + Gruntでの開発ワークフローについての動画

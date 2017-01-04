@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-18T06:00:42Z'
 tags:
   - Chrome
-  - 動画
+  - video
   - イベント
 ---
 Chrome Mobile Summit 2013のパネルディスカッション動画が公開された。

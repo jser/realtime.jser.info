@@ -8,7 +8,7 @@ date: '2015-06-23T01:55:32Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: JSConf US 2015 - The best conference for JS and the Web. Period
     url: 'http://2015.jsconf.us/'

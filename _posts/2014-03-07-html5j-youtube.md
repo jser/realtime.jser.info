@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/inde
 date: '2014-03-07T07:38:15Z'
 tags:
   - HTML5
-  - 動画
+  - video
   - イベント
 relatedLinks:
   - title: Enterprise x HTML5 Conference 2014 - エンタープライズIT向けWeb標準技術のソリューション展

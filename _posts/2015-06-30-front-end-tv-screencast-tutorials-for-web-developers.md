@@ -8,6 +8,6 @@ date: '2015-06-30T13:35:30Z'
 tags:
   - JavaScript
   - CSS
-  - 動画
+  - video
 ---
 JavaScriptyやCSSや関連するツールなどについて5分程度のスクリーンキャストをやっているサイト

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/inde
 date: '2013-12-31T06:25:24Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - イベント
 relatedLinks:
   - title: JSConf.Asia

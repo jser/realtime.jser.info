@@ -8,7 +8,7 @@ date: '2013-06-02T09:38:40Z'
 tags:
   - JavaScript
   - event
-  - 動画
+  - video
   - slide
   - まとめ
 ---

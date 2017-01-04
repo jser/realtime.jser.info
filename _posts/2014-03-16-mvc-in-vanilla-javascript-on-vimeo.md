@@ -8,6 +8,6 @@ date: '2014-03-16T07:34:26Z'
 tags:
   - JavaScript
   - MVC
-  - 動画
+  - video
 ---
 ライブラリを使わないで、Model,View,CollectionというBackbone.jsっぽい要素を使ったアプリを作るスクリーンキャスト

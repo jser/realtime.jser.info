@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/inde
 date: '2016-05-22T22:47:32Z'
 tags:
   - google
-  - 動画
+  - video
 relatedLinks:
   - title: Google I/O 2016
     url: 'https://events.google.com/io2016/'

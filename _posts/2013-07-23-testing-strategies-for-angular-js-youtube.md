@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/inde
 date: '2013-07-23T13:58:14Z'
 tags:
   - AngularJS
-  - 動画
+  - video
   - testing
 ---
 AngularJSのテストについてのスクリーンキャスト

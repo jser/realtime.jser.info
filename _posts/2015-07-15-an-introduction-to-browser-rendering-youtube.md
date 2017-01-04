@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/inde
 date: '2015-07-15T08:28:41Z'
 tags:
   - browser
-  - 動画
+  - video
 ---
 ブラウザのレンダリングフローについてのスクリーンキャスト

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/inde
 date: '2013-03-09T01:57:00Z'
 tags:
   - javascript
-  - 動画
+  - video
 ---
 有料のsubscriber向けだけど、QUnit,Jasmine,Mocha,モック,Jasmineのspy,Sinon.JS, Utilなどについてのオンライン講座

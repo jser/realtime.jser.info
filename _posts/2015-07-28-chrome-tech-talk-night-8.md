@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/inde
 date: '2015-07-28T13:15:01Z'
 tags:
   - Chrome
-  - 動画
+  - video
   - イベント
 relatedLinks:
   - title: 'Chrome Tech Talk Night #8 - connpass'

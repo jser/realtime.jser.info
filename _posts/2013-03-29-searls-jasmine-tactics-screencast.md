@@ -9,6 +9,6 @@ tags:
   - jasmine
   - JavaScript
   - testing
-  - 動画
+  - video
 ---
 Backbone.jsで書いたWebアプリをJasmineを使ってテストしながらリファクタリングするスクリーンキャスト

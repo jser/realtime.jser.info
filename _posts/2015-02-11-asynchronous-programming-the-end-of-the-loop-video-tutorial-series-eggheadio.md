@@ -10,7 +10,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/inde
 date: '2015-02-11T14:27:33Z'
 tags:
   - JavaScript
-  - 動画
+  - video
 ---
 NetflixのJafar HusainさんよるJavaScriptの非同期プログラミングについてのスクリーンキャスト。
 聞きやすくて、分かりやすくて、書き起こしもある

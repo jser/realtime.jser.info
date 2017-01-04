@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/inde
 date: '2016-09-17T06:39:29Z'
 tags:
   - JavaScript
-  - 動画
+  - video
 ---
 現在策定中の仕様も含めて非同期処理について。
 Promise、Async/Await。

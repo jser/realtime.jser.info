@@ -8,7 +8,7 @@ date: '2016-05-29T14:18:03Z'
 tags:
   - node.js
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: NodeConf London 2016
     url: 'http://london.nodeconf.com/'

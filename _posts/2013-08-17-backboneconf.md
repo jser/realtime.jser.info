@@ -8,6 +8,6 @@ date: '2013-08-17T05:17:51Z'
 tags:
   - backbone.js
   - slide
-  - 動画
+  - video
 ---
 http://backboneconf.com/2013/ の動画とスライドが公開された。

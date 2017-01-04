@@ -8,7 +8,7 @@ date: '2014-03-24T02:56:39Z'
 tags:
   - JavaScript
   - イベント
-  - 動画
+  - video
 relatedLinks:
   - title: 'Fluent 2014 - O''Reilly Conferences, March 11 - 13, 2014, San Francisco, CA'
     url: 'http://fluentconf.com/fluent2014'

@@ -10,7 +10,7 @@ date: '2015-07-12T22:53:58Z'
 tags:
   - ECMAScript
   - JavaScript
-  - 動画
+  - video
   - slide
 relatedLinks:
   - title: ES process by Sergey Rubanov

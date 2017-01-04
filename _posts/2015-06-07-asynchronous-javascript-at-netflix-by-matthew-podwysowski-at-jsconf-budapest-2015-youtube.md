@@ -9,7 +9,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/inde
 date: '2015-06-07T15:19:45Z'
 tags:
   - JavaScript
-  - 動画
+  - video
   - slide
 relatedLinks:
   - title: mattpodwysocki/jsconfbp-2015

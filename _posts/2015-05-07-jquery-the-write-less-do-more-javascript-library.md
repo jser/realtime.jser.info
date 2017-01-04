@@ -8,7 +8,7 @@ date: '2015-05-07T08:58:47Z'
 tags:
   - JavaScript
   - audio
-  - 動画
+  - video
   - slide
 ---
 WebAudio、MediaStream Processing API、Web Speech API、Speech Recognition APIの紹介的なスライド

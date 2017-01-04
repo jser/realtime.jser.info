@@ -8,6 +8,6 @@ date: '2014-06-22T13:09:00Z'
 tags:
   - node-webkit
   - slide
-  - 動画
+  - video
 ---
 node-webkitやatom-shellのようにNodeJSをベースとしたデスクトップアプリについて

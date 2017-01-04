@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/inde
 date: '2014-01-17T00:40:11Z'
 tags:
   - YUI
-  - 動画
+  - video
 relatedLinks:
   - title: YUI Library
     url: 'https://yuilibrary.com/yuiconf/2013/'
