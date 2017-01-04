@@ -8,7 +8,7 @@ date: '2013-08-11T10:34:37Z'
 tags:
   - backbone.js
   - イベント
-  - スライド
+  - slide
   - まとめ
 ---
 BACKBONECONF 2013 のスライドまとめ

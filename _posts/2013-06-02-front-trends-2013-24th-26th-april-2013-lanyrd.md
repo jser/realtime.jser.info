@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - event
   - 動画
-  - スライド
+  - slide
   - まとめ
 ---
 Front-Trends 2013

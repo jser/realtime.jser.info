@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/inde
 date: '2014-11-27T08:10:10Z'
 tags:
   - React
-  - スライド
+  - slide
 ---
 Reactの特徴について分かりやすくまとめられているスライド。
 Immutable、Virtual DOM、PropとState、DRYにするためのMixin、Isomorphicについて

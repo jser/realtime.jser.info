@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-18T04:31:47Z'
 tags:
   - HTML
-  - スライド
+  - slide
 ---
 `<link rel>`についてのスライド
 prefetch、resource loading、feature detectionについて

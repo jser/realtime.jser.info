@@ -8,7 +8,7 @@ date: '2016-10-09T00:45:59Z'
 tags:
   - React
   - Tools
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       facebookincubator/create-react-app: Create React apps with no build

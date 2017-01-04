@@ -8,6 +8,6 @@ date: '2014-06-02T08:35:32Z'
 tags:
   - JavaScript
   - library
-  - スライド
+  - slide
 ---
 Ember,Angular,React,Polymer,Backbone ライブラリについて、それぞれがどのような目的で作られたのか、またどのような要素/特徴を持ってるについてよくまとまってるスライド

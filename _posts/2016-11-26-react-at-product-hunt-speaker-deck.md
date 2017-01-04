@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/11/inde
 date: '2016-11-26T10:11:00Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 relatedLinks:
   - title: 'producthunt/duxy: RESTful resources'
     url: 'https://github.com/producthunt/duxy'

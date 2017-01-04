@@ -8,7 +8,7 @@ date: '2015-04-29T11:11:26Z'
 tags:
   - JavaScript
   - 歴史
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       :arrow_forward: ECMAScript Harmony: Rise of the Compilers - Brendan Eich

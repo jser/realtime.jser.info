@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/inde
 date: '2016-05-16T08:32:43Z'
 tags:
   - webpack
-  - スライド
+  - slide
   - performance
 ---
 webpackのビルド速度改善についてのスライド

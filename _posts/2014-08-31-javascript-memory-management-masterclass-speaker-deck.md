@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - browser
   - debug
-  - スライド
+  - slide
 relatedLinks:
   - title: JavaScript Memory Management Masterclass のメモ | wIssue Note
     url: >-

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-22T13:09:00Z'
 tags:
   - node-webkit
-  - スライド
+  - slide
   - 動画
 ---
 node-webkitやatom-shellのようにNodeJSをベースとしたデスクトップアプリについて

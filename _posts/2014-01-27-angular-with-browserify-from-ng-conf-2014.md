@@ -8,7 +8,7 @@ date: '2014-01-27T06:08:09Z'
 tags:
   - AngularJS
   - browserify
-  - スライド
+  - slide
   - 動画
 ---
 AngularとBroserifyについての発表動画とスライド。

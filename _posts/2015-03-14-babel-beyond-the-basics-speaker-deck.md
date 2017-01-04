@@ -8,7 +8,7 @@ date: '2015-03-14T05:48:25Z'
 tags:
   - JavaScript
   - ECMAScript
-  - スライド
+  - slide
   - Tools
 relatedLinks:
   - title: >-

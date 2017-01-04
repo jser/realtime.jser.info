@@ -8,7 +8,7 @@ date: '2014-03-16T09:38:59Z'
 tags:
   - JavaScript
   - API
-  - スライド
+  - slide
 ---
 JavaScriptのAPIデザインについてのスライド。
 

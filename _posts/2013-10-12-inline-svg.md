@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/inde
 date: '2013-10-12T13:02:49Z'
 tags:
   - SVG
-  - スライド
+  - slide
 ---
 Inline SVGでの表示の問題への対処法などについてのスライド

@@ -8,6 +8,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-27T01:12:19Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 関数、レキシカルスコープ、スコープチェイン、クロージャ、プロトタイプチェーンについてのスライド

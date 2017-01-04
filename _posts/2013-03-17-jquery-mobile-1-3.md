@@ -8,6 +8,6 @@ date: '2013-03-17T12:54:00Z'
 tags:
   - jQuery
   - mobile
-  - スライド
+  - slide
 ---
 jQuery Mobile 1.3のあたらしい機能などについてのスライド

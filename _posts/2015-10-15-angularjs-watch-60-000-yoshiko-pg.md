@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/inde
 date: '2015-10-15T13:00:17Z'
 tags:
   - AngularJS
-  - スライド
+  - slide
 ---
 AngularJSのパフォーマンスチューニングについてのスライド。
 $watchの数の調べ方と改善方法について

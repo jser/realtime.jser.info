@@ -10,7 +10,7 @@ tags:
   - AngularJS
   - イベント
   - 動画
-  - スライド
+  - slide
 relatedLinks:
   - title: ng-conf 2015 - The World's Original Angular Conference
     url: 'http://www.ng-conf.org/'

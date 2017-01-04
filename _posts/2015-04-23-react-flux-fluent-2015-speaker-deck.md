@@ -8,7 +8,7 @@ date: '2015-04-23T14:18:27Z'
 tags:
   - React
   - Flux
-  - スライド
+  - slide
 ---
 [facebook/flux](https://github.com/facebook/flux "facebook/flux")モジュール作者によるFluxについてのスライド。
 Fluxの構成要素、Dispatcher、Storeがシングルトンであること、React、Fluxのアンチパターンについて書かれてる

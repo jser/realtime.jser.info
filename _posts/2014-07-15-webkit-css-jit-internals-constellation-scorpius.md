@@ -8,7 +8,7 @@ date: '2014-07-15T12:47:40Z'
 tags:
   - CSS
   - webkit
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       Surfin' Safari - Blog Archive » Little overview of WebKit’s CSS JIT

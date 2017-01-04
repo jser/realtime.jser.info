@@ -8,6 +8,6 @@ date: '2013-08-26T09:04:00Z'
 tags:
   - browser
   - testing
-  - スライド
+  - slide
 ---
 WebDriverを使ったテストと、非同期処理を直接にまとめられるようにするwd-syncについてのスライド

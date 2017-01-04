@@ -8,7 +8,7 @@ date: '2015-03-02T12:44:39Z'
 tags:
   - JavaScript
   - Rx
-  - スライド
+  - slide
 ---
 RxJSについてのスライド。
 First class async value、RxのonNext, onError, onComplete、どういう流れで処理を書けるかについてなど

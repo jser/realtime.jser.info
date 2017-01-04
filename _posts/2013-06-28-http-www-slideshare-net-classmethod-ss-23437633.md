@@ -9,7 +9,7 @@ tags:
   - DOM
   - css
   - browser
-  - スライド
+  - slide
 ---
 DOMツリーとレンダリングについてのスライド。
 パース -> レンダリングツリー(Reflow) -> RePaint の流れについて

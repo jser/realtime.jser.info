@@ -9,7 +9,7 @@ date: '2013-11-24T08:06:38Z'
 tags:
   - JavaScript
   - AngularJS
-  - スライド
+  - slide
 ---
 AngularJSとEmber.jsの違いについてのスライド。
 それぞれが目指している位置の違い、AngularはHTML compiler、DOMの扱いの違い、テストのし易さについて等

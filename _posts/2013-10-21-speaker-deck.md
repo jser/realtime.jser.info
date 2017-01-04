@@ -8,7 +8,7 @@ date: '2013-10-21T12:42:01Z'
 tags:
   - Grunt
   - JavaScript
-  - スライド
+  - slide
 ---
 Gruntを使ったWebアプリ開発についてのスライド.
 ローカルサーバとAPIモック、testem+mochaでのテスト、foremanでのプロセス管理、Grwol通知

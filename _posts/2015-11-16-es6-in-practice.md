@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/inde
 date: '2015-11-16T09:34:48Z'
 tags:
   - ECMAScript
-  - スライド
+  - slide
 ---
 ECMAScriptの策定プロセスやES6 Modulesについてのスライド。
 ES6 Modulesのメリット、現状の問題について書かれている。

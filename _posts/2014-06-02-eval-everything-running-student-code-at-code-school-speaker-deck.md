@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-02T08:49:50Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - library
 relatedLinks:
   - title: Codecademy/stuff.js

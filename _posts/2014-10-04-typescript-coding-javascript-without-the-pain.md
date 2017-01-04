@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-04T01:57:07Z'
 tags:
   - TypeScript
-  - スライド
+  - slide
 relatedLinks:
   - title: sandermak/typescript-presentation
     url: 'https://github.com/sandermak/typescript-presentation'

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/inde
 date: '2013-10-21T08:42:48Z'
 tags:
   - WebRTC
-  - スライド
+  - slide
 ---
 WebRTCのデータのやり取りの流れが分かりやすいスライド

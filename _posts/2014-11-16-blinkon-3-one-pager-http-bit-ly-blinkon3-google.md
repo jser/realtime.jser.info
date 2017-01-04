@@ -11,7 +11,7 @@ tags:
   - Chrome
   - blink
   - イベント
-  - スライド
+  - slide
   - まとめ
 ---
 Blinkについてのカンファレンスのスライドまとめ

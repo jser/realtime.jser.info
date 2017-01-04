@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-13T03:23:06Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - Tools
 ---
 JSLint/JSHint/JSONLint/gjslintなどの静的解析ツールについてのスライド

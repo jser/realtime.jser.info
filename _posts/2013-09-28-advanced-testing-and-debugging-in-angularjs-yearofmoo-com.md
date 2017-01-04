@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - AngularJS
   - testing
-  - スライド
+  - slide
   - 動画
 ---
 AngularJSのテストについて詳しくまとまってる発表と記事。

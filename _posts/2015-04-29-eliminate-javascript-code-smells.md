@@ -8,7 +8,7 @@ date: '2015-04-29T05:24:42Z'
 tags:
   - JavaScript
   - Tools
-  - スライド
+  - slide
 relatedLinks:
   - title: elijahmanor/eslint-plugin-smells
     url: 'https://github.com/elijahmanor/eslint-plugin-smells'

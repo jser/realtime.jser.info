@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/inde
 date: '2015-08-14T08:32:47Z'
 tags:
   - Flux
-  - スライド
+  - slide
 ---
 Fluxとはどういうものなのかについてのスライド。
 MVCと何が違って何が違わないのかがわかりやすく書かれている。

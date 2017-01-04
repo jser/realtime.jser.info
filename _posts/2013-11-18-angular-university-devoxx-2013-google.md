@@ -8,6 +8,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/inde
 date: '2013-11-18T08:53:01Z'
 tags:
   - AngularJS
-  - スライド
+  - slide
 ---
 AngularJSの構成要素について詳しく書かれてるスライド

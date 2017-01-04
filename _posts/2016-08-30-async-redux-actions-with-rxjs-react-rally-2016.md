@@ -9,7 +9,7 @@ date: '2016-08-30T14:06:14Z'
 tags:
   - redux
   - Rx
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       redux-observable/redux-observable: RxJS middleware for action side effects

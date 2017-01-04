@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/inde
 date: '2013-04-02T00:41:56Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 PubSub(EventEmitter)/Promise/AMDについてのスライド

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - DOM
   - XSS
-  - スライド
+  - slide
 ---
 EsprimaでASTとって、静的解析してDOM Based XSSとか探すツールについてのスライド
 https://github.com/dpnishant/jsprime

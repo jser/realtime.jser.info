@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-17T01:02:18Z'
 tags:
   - TypeScript
-  - スライド
+  - slide
   - まとめ
 ---
 TypeScript勉強会のスライドまとめ

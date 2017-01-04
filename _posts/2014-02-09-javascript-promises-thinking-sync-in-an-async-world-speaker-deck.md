@@ -9,7 +9,7 @@ date: '2014-02-09T10:53:23Z'
 tags:
   - JavaScript
   - Promises
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       :arrow_forward: JavaScript Promises: Thinking Sync in an Async World -

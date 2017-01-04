@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - MVC
   - セキュリティ
-  - スライド
+  - slide
 ---
 data-*属性にはXSSフィルターが効かないため、Knockoutのような仕組みだとXSSを検知しにくい。
 テンプレートとXSS、AngularJSのCSPモード、Chrome Packaged Appについて.

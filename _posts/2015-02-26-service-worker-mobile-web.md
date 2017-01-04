@@ -8,7 +8,7 @@ date: '2015-02-26T01:46:30Z'
 tags:
   - JavaScript
   - browser
-  - スライド
+  - slide
 ---
 ServiceWorkerについてのスライド。
 どういうことができるのか、Fetch API、Fetch APIのResponse、デバッグ方法、セキュリティポリシーについて。

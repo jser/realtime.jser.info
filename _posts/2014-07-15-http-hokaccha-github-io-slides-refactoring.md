@@ -8,7 +8,7 @@ date: '2014-07-15T12:50:18Z'
 tags:
   - JavaScript
   - testing
-  - スライド
+  - slide
 relatedLinks:
   - title: Remixing Vol.1 イベントリポート | TECH BLOG
     url: 'http://www.rich.co.jp/tech/?p=427'

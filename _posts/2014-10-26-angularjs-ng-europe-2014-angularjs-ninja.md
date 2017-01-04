@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-26T07:23:27Z'
 tags:
   - AngularJS
-  - スライド
+  - slide
   - まとめ
 relatedLinks:
   - title: 'ng-europe - The first AngularJS European conference in Paris, France.'

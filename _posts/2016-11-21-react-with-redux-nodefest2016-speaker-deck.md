@@ -8,7 +8,7 @@ date: '2016-11-21T15:15:24Z'
 tags:
   - React
   - redux
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       React + Reduxで作ったIsomorphic(Universal) JSなサービス開発の裏側 - Tech Blog - Recruit

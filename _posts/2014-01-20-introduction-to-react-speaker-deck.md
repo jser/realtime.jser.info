@@ -9,7 +9,7 @@ tags:
   - DOM
   - facebook
   - library
-  - スライド
+  - slide
 relatedLinks:
   - title: React | A JavaScript library for building user interfaces
     url: 'http://facebook.github.io/react/'

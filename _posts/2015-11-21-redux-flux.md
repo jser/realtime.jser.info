@@ -8,6 +8,6 @@ date: '2015-11-21T12:15:59Z'
 tags:
   - React
   - Flux
-  - スライド
+  - slide
 ---
 Reduxとfluxについての比較

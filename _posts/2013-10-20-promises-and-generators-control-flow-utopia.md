@@ -8,7 +8,7 @@ date: '2013-10-20T08:26:59Z'
 tags:
   - JavaScript
   - Promise
-  - スライド
+  - slide
 ---
 GeneratorとPromisesについてのスライド.
 コントールフローとエラーハンドリングをどう組み込んでいくのかの話

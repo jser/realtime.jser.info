@@ -8,7 +8,7 @@ date: '2015-09-09T09:08:29Z'
 tags:
   - JavaScript
   - Flux
-  - スライド
+  - slide
 ---
 Reduxについてのスライド。
 Reduxのデータフローについて

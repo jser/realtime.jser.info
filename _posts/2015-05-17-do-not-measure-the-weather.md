@@ -8,7 +8,7 @@ date: '2015-05-17T13:27:05Z'
 tags:
   - JavaScript
   - performance
-  - スライド
+  - slide
 relatedLinks:
   - title: V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch
     url: 'http://efcl.info/2014/09/13/v8-optimization-memo/'

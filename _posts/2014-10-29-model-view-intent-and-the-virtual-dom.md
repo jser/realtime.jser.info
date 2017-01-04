@@ -8,7 +8,7 @@ date: '2014-10-29T05:29:40Z'
 tags:
   - VirualDOM
   - JavaScript
-  - スライド
+  - slide
   - MVC
 relatedLinks:
   - title: MVI Example

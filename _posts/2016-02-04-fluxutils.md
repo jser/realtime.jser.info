@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/inde
 date: '2016-02-04T08:49:25Z'
 tags:
   - Flux
-  - スライド
+  - slide
 ---
 flux utilsについてのスライド。
 flux utilsのソースコードを見ながらどのようなシーケンスでやり取りしてるのか、fluxアーキテクチャでの非同期処理についてなどがわかりやすく解説されてる。

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-16T06:17:19Z'
 tags:
   - DOM
-  - スライド
+  - slide
   - 歴史
 ---
 DOM APIの変化についてのスライド.

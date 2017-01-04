@@ -8,7 +8,7 @@ date: '2014-03-28T03:41:38Z'
 tags:
   - JavaScript
   - AST
-  - スライド
+  - slide
 ---
 JavaScript ASTについてのスライド。
 簡単なASTの概要と実際にどんなツールでASTが使われてるかの紹介、ASTを使ったツールを書いてみる話

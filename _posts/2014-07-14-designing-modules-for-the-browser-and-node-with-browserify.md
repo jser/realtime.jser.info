@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/inde
 date: '2014-07-14T15:26:20Z'
 tags:
   - browserify
-  - スライド
+  - slide
   - 動画
 relatedLinks:
   - title: browser field

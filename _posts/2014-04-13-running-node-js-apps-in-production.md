@@ -8,7 +8,7 @@ date: '2014-04-13T14:19:49Z'
 tags:
   - node.js
   - Tools
-  - スライド
+  - slide
 ---
 Node.jsアプリのデプロイ、モニタリング等についてのスライド。
 recluster, PM2, kibana, new relic、エラーレポート等ツールについて色々まとまってる

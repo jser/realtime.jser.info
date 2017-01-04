@@ -8,6 +8,6 @@ date: '2013-06-09T02:13:50Z'
 tags:
   - JavaScript
   - event
-  - スライド
+  - slide
 ---
 namespaceとモジュールパターン,pub/subをつかってモジュール間のやり取り。 実際のサイトを見ながらeventでモジュールをどう繋ぐかについて

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/inde
 date: '2015-03-31T09:56:23Z'
 tags:
   - React
-  - スライド
+  - slide
 ---
 再利用できるReact Componentについてのスライド

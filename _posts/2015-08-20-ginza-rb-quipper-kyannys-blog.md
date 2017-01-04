@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/inde
 date: '2015-08-20T02:59:03Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - backbone.js
 ---
 Backbone.js/Chaplin/Marionette/React それぞれのシングルページアプリケーション開発における利点や問題点についてのスライド。

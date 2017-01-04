@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/inde
 date: '2014-11-16T11:33:23Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 relatedLinks:
   - title: ubolonton/js-csp
     url: 'https://github.com/ubolonton/js-csp'

@@ -8,7 +8,7 @@ date: '2015-03-08T15:31:33Z'
 tags:
   - JavaScript
   - イベント
-  - スライド
+  - slide
 relatedLinks:
   - title: EmberConf 2015
     url: 'http://emberconf.com/'

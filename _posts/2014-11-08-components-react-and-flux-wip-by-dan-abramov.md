@@ -8,7 +8,7 @@ date: '2014-11-08T11:34:06Z'
 tags:
   - React
   - Flux
-  - スライド
+  - slide
   - サンプル
 relatedLinks:
   - title: gaearon/flux-react-router-example

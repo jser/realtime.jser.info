@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - ECMAScript
   - TypeScript
-  - スライド
+  - slide
 ---
 ES6の=>等を使って関数型スタイルなJavaScriptについてのスライド

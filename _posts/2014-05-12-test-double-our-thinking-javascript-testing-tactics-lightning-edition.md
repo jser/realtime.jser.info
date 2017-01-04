@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - testing
   - 動画
-  - スライド
+  - slide
 ---
 JasmineとCoffeeScriptを使ったテスト。
 XHRに対してはFake server、UI Eventじはテストしやすくするためにも、自分の手に届くようにラッパーを作る、非同期コード、DOMへのテストの方針について書かれてる。

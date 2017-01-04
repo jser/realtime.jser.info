@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/inde
 date: '2015-09-09T09:18:56Z'
 tags:
   - React
-  - スライド
+  - slide
 ---
 React 0.14での変更点についてのスライド

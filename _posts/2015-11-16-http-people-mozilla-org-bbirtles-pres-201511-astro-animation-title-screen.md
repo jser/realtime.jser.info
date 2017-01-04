@@ -8,6 +8,6 @@ date: '2015-11-16T10:12:01Z'
 tags:
   - firefox
   - animation
-  - スライド
+  - slide
 ---
 Web Animationについてのスライド

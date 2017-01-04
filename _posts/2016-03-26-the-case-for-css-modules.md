@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/inde
 date: '2016-03-26T10:24:29Z'
 tags:
   - CSS
-  - スライド
+  - slide
 relatedLinks:
   - title: 'css-modules/css-modules: Documentation about css-modules'
     url: 'https://github.com/css-modules/css-modules'

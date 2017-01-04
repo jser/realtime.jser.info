@@ -8,6 +8,6 @@ date: '2014-03-19T05:30:24Z'
 tags:
   - JavaScript
   - Tools
-  - スライド
+  - slide
 ---
 JavaScriptのLintツールについてまとまってるスライド。  JSのLintツールの歴史、JSHint/JSHint/ESLintの開発スタイル、機能的な特徴、オプション、検出可能なルールの紹介等

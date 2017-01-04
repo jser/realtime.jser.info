@@ -8,7 +8,7 @@ date: '2014-07-20T13:28:05Z'
 tags:
   - ECMAScript
   - JavaScript
-  - スライド
+  - slide
   - 歴史
 ---
 ES6の主要な機能について概要スライド。

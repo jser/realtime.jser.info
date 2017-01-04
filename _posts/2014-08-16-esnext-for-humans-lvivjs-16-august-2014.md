@@ -8,7 +8,7 @@ date: '2014-08-16T10:49:34Z'
 tags:
   - ECMAScript
   - JavaScript
-  - スライド
+  - slide
 ---
 ES6についてのスライド。
 新しい構文についての紹介がメインでGeneratorについて詳しく説明してる

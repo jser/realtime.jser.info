@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - testing
   - library
-  - スライド
+  - slide
 ---
 Jasmine2.0とKarmaについてのスライド。
 jasmine spyについて紹介されてる

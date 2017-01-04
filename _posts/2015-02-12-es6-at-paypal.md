@@ -8,6 +8,6 @@ date: '2015-02-12T14:07:03Z'
 tags:
   - ECMAScript
   - JavaScript
-  - スライド
+  - slide
 ---
 ES6を使ってみようという感じのスライド

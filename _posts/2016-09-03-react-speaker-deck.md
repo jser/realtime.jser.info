@@ -8,6 +8,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/inde
 date: '2016-09-03T06:46:20Z'
 tags:
   - React
-  - スライド
+  - slide
 ---
 Reactのコンポーネントの作り方やテスト、React周りで最近でてきたツールについてのスライド

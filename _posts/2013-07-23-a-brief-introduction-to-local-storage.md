@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/inde
 date: '2013-07-23T14:41:07Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 LocalStorageについてよくまとまってるスライド. Store.js、StorageEvent、容量制限のまとめ、use caseと実例、オブジェクトのSerializeとパフォーマンスについて

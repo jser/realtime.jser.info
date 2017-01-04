@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-10T00:48:47Z'
 tags:
   - performance
-  - スライド
+  - slide
 ---
 Webパフォーマンスについてのスライド。
 レイテンシー、HTTP2.0等のネットワークについてやNavigation Timingの利用法、レンダリングのクリティカルパス、HTML5のパースフローやレンダリングツリーについてやそれの最適化について等

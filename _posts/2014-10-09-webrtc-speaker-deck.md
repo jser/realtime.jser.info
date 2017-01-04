@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-09T02:06:15Z'
 tags:
   - WebRTC
-  - スライド
+  - slide
 relatedLinks:
   - title: WebRTCについての話を社内勉強会でしてきた - from scratch
     url: 'http://yosuke-furukawa.hatenablog.com/entry/2014/10/09/100629'

@@ -8,7 +8,7 @@ date: '2013-10-12T15:25:34Z'
 tags:
   - CSS
   - testing
-  - スライド
+  - slide
 ---
 Cactusを使ったCSSテストについてのスライド
 https://github.com/winston/cactus

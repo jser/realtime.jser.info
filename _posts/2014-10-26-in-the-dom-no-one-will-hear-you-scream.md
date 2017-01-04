@@ -8,7 +8,7 @@ date: '2014-10-26T02:16:37Z'
 tags:
   - DOM
   - XSS
-  - スライド
+  - slide
 relatedLinks:
   - title: cure53/DOMPurify
     url: 'https://github.com/cure53/DOMPurify'

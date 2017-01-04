@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-05T04:46:22Z'
 tags:
   - CSP
-  - スライド
+  - slide
 ---
 XSSの動く仕組み、そのXSSを防止するためのエスケープや必要な事の多さとその一つとしてのCSPについてのスライド。
 CSPのルールについての紹介

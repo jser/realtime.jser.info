@@ -8,6 +8,6 @@ date: '2014-05-01T14:31:42Z'
 tags:
   - JavaScript
   - デザインパターン
-  - スライド
+  - slide
 ---
 JavaScriptとデザインパターンについてのスライド

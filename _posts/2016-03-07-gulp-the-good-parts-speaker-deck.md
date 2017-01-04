@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/inde
 date: '2016-03-07T09:49:27Z'
 tags:
   - gulp
-  - スライド
+  - slide
 ---
 gulpのプラクティスについて。
 タスクの分割、設定の外部ファイル化、v4を見据えたタスクの書き方、v4の変更点について

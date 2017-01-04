@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/inde
 date: '2013-07-27T02:33:40Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - Tools
 ---
 JavaScriptのコードクオリティのツールやサービスなどについてのスライド

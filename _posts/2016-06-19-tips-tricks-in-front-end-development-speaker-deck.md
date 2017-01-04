@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-19T16:07:32Z'
 tags:
   - CSS
-  - スライド
+  - slide
   - Tips
 ---
 `object-fit`、Viewport unit、既読リンクの扱い、壊れた`<img />`の表示、要素内が空の場合の表示、postMessage、SVGなどのフロントエンド向けのTips

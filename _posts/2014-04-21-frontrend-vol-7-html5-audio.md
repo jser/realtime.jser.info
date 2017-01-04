@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - HTML
   - audio
-  - スライド
+  - slide
 relatedLinks:
   - title: CyberAgent/beez
     url: 'https://github.com/CyberAgent/beez'

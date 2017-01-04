@@ -8,7 +8,7 @@ date: '2013-07-29T03:43:09Z'
 tags:
   - JavaScript
   - sound
-  - スライド
+  - slide
 ---
 SoundJSについてのスライド.
 サウンドを再生する仕組みや使い方

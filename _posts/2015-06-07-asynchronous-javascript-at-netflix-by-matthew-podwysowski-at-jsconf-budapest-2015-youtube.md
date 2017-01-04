@@ -10,7 +10,7 @@ date: '2015-06-07T15:19:45Z'
 tags:
   - JavaScript
   - 動画
-  - スライド
+  - slide
 relatedLinks:
   - title: mattpodwysocki/jsconfbp-2015
     url: 'https://github.com/mattpodwysocki/jsconfbp-2015'

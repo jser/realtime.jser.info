@@ -9,6 +9,6 @@ date: '2016-07-28T13:57:35Z'
 tags:
   - JavaScript
   - library
-  - スライド
+  - slide
 ---
 Vue.js 2.0のコンセプトについてのスライド

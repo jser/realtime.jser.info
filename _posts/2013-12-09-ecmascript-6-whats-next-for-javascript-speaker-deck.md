@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/inde
 date: '2013-12-09T12:23:32Z'
 tags:
   - ECMAScript
-  - スライド
+  - slide
 ---
 ES6についてのスライド(Dr. Axel)
 今日現在のES6の機能についてまとまってる。2014年12月にEcmaへの提出が予定されてる

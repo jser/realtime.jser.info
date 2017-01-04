@@ -8,7 +8,7 @@ date: '2014-01-26T06:36:26Z'
 tags:
   - web
   - animation
-  - スライド
+  - slide
 relatedLinks:
   - title: '真面目なアニメーション (html5j 2013, Web Animations)'
     url: 'http://www.slideshare.net/brianskold/html5j-2013'

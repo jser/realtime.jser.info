@@ -8,7 +8,7 @@ date: '2014-09-14T10:14:22Z'
 tags:
   - JavaScript
   - Tools
-  - スライド
+  - slide
 ---
 ビルドツールであるBroccoliについてのスライド。 Railsで言えばBroccoliはasset pipelineで、GruntやGulpはrakeに当たるツール。
 ビルドに焦点をおいているという特徴がある

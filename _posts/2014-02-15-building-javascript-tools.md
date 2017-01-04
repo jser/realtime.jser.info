@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - AST
   - Tools
-  - スライド
+  - slide
 relatedLinks:
   - title: JavaScript AST Walker
     url: 'http://azu.github.io/slide/tkbjs/js-ast-walker.html'

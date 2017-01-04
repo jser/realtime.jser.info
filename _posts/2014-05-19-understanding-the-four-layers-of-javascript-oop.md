@@ -8,6 +8,6 @@ date: '2014-05-19T13:54:40Z'
 tags:
   - JavaScript
   - OOP
-  - スライド
+  - slide
 ---
 JavaScriptとオブジェクト指向について

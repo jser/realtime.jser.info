@@ -10,7 +10,7 @@ tags:
   - ECMAScript
   - node.js
   - CommonJS
-  - スライド
+  - slide
 relatedLinks:
   - title: Node & WhatWG Loader - YouTube
     url: 'https://www.youtube.com/watch?v=NdOKO-6Ty7k'

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/inde
 date: '2013-05-31T03:40:03Z'
 tags:
   - WebRTC
-  - スライド
+  - slide
 ---
 WebRTCについてのスライド.
 ICE(STUN+TURN)のNAT超えの仕組みやライブラリ、実装状況について

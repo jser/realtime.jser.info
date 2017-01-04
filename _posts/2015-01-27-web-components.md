@@ -9,7 +9,7 @@ tags:
   - WebComponents
   - WAI-ARIA
   - アクセシビリティ
-  - スライド
+  - slide
 ---
 WebComponentsとアクセシビリティについてのスライド。
 既存要素があるケースと独自要素の場合はWAI-ARIAを使うことについて

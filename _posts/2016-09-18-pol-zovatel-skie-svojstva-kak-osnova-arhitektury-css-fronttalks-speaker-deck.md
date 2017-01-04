@@ -10,7 +10,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/inde
 date: '2016-09-18T11:55:58Z'
 tags:
   - CSS
-  - スライド
+  - slide
 ---
 CSS Custom Propertiesについてのスライド。
 Fallback、i18n、CSS Custom Propertiesとcalc、JavaScriptからの利用、@supportsについてなど

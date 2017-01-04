@@ -9,7 +9,7 @@ date: '2013-07-31T03:29:01Z'
 tags:
   - AngularJS
   - ebook
-  - スライド
+  - slide
 ---
 AngularJSについての電子書籍。
 AngularJS in 60-ish Minutesの動画が元になってる内容

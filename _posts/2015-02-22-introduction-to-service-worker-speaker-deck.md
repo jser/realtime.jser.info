@@ -8,7 +8,7 @@ date: '2015-02-22T05:44:06Z'
 tags:
   - JavaScript
   - browser
-  - スライド
+  - slide
 relatedLinks:
   - title: dummy
     url: 'http://dummy'

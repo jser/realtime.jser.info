@@ -8,7 +8,7 @@ date: '2014-12-26T08:23:49Z'
 tags:
   - React
   - Flux
-  - スライド
+  - slide
 relatedLinks:
   - title: Fluxとはなんだったのか + misc at 2014 - snyk_s log
     url: 'http://saneyukis.hatenablog.com/entry/2014/12/24/014421'

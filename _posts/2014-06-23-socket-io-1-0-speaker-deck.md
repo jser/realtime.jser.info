@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-23T12:33:24Z'
 tags:
   - WebSocket
-  - スライド
+  - slide
 ---
 socket.io 1.0/engine.ioについてまとまってるスライド。
 WebSocketへのアップグレードの仕組み、ハンドシェイクから接続の間に処理を入れるミドルウェア、バイナリサポート、Adapter、サーバ間共有、プロトコルの変化等

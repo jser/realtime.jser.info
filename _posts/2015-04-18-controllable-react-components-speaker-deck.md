@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/inde
 date: '2015-04-18T03:44:31Z'
 tags:
   - React
-  - スライド
+  - slide
 relatedLinks:
   - title: Forms | React
     url: 'http://facebook.github.io/react/docs/forms.html#controlled-components'

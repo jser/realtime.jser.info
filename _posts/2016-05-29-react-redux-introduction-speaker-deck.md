@@ -8,7 +8,7 @@ date: '2016-05-29T14:16:37Z'
 tags:
   - React
   - redux
-  - スライド
+  - slide
 ---
 React/ReduxでTodo的アプリを作る話。
 チュートリアル的な内容のスライド

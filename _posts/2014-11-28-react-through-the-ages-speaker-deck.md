@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/inde
 date: '2014-11-28T01:53:15Z'
 tags:
   - React
-  - スライド
+  - slide
 relatedLinks:
   - title: 'React: CSS in JS // Speaker Deck'
     url: 'https://speakerdeck.com/vjeux/react-css-in-js'

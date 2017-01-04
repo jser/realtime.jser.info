@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/inde
 date: '2014-01-25T13:23:28Z'
 tags:
   - backbone.js
-  - スライド
+  - slide
   - JavaScript
 relatedLinks:
   - title: Marionette.js in Single Page Applicationという話をした - 車輪を再発明 / koba04の日記

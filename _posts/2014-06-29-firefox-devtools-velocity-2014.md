@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - debug
   - Tools
-  - スライド
+  - slide
 ---
 Firefoxの開発者ツールについてのスライド.
 `csscoverage`コマンド、ネットワークモニタの使い方、`console.profile`、描画の可視化、リフローを発生させたコードのログ、Canvasデバッガー等について。

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-20T13:39:21Z'
 tags:
   - CSS
-  - スライド
+  - slide
 ---
 CSSアニメーションのまとめかたについてのスライド

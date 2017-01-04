@@ -8,7 +8,7 @@ date: '2013-10-28T14:20:07Z'
 tags:
   - JavaScript
   - WebComponents
-  - スライド
+  - slide
 ---
 Web Componentsを構成する
 Templates, Shadow DOM, Custom Elements, Importsについてのスライド。

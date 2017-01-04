@@ -8,7 +8,7 @@ date: '2015-02-22T05:24:31Z'
 tags:
   - JavaScript
   - program
-  - スライド
+  - slide
 relatedLinks:
   - title: 'Reactive Programming in JavaScript - Frontrend Final Conference 資料 ::ハブろぐ'
     url: >-

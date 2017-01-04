@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/inde
 date: '2013-09-22T05:20:41Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 definePropertyとprefixを使ったネイティブ拡張ライブラリのagavejsについてのスライド。
 ES3のprototype汚染、ES5のObject.definePropertyを使った拡張と衝突について

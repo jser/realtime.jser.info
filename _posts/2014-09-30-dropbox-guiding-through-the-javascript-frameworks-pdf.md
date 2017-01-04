@@ -10,6 +10,6 @@ tags:
   - JavaScript
   - MVC
   - library
-  - スライド
+  - slide
 ---
 JavaScriptのAngular、Ember、Backbone、React、Ampersand.jsなどのライブラリの特徴、またそれらを使って何を解決のかというガイドラインを示すスライド

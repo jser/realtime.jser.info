@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/inde
 date: '2013-09-09T08:38:17Z'
 tags:
   - node.js
-  - スライド
+  - slide
 ---
 Node.jsとGenrator *についてのスライド。
 Generatorを使ったライブラリについて

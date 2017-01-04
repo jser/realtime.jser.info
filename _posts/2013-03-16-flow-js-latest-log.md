@@ -8,6 +8,6 @@ date: '2013-03-16T06:09:00Z'
 tags:
   - javascript
   - library
-  - スライド
+  - slide
 ---
 カウンタベースのフロー制御ライブラリ

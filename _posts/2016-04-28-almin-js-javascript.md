@@ -8,6 +8,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/inde
 date: '2016-04-28T08:32:44Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 [Almin.js](https://github.com/almin/almin "Almin.js")の設計の概念的な話やパターンについて

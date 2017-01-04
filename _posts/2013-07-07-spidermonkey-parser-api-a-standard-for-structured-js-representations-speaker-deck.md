@@ -12,7 +12,7 @@ tags:
   - JavaScript
   - firefox
   - Tools
-  - スライド
+  - slide
 ---
 Mozilla Parser APIとそれの実装であるReflect.jsやEsprima等についてのスライド.
 ASTをIRとして変換、可視化、解析、カバレッジ、altJSなどに利用されている話

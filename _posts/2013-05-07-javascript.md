@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/inde
 date: '2013-05-07T13:48:07Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 プロトタイプチェーン、スコープ、hoisting、thisといったJavaScriptの内容を扱った感じのスライド

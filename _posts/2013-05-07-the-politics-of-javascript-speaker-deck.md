@@ -8,7 +8,7 @@ date: '2013-05-07T13:26:05Z'
 tags:
   - JavaScript
   - 歴史
-  - スライド
+  - slide
 ---
 JavaScriptとどう付き合っていくかについてのスライド
 JavaScriptが見直されたと共に出てくるJavaScriptに対する不満。

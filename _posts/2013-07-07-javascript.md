@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/inde
 date: '2013-07-07T10:37:44Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - tutorial
 ---
 JavaScriptのプロトタイプチェーンとprototype属性を分けて説明する事でわかりやすくできてるスライド.

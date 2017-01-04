@@ -8,6 +8,6 @@ date: '2013-05-07T13:36:50Z'
 tags:
   - JavaScript
   - library
-  - スライド
+  - slide
 ---
 ステートマシン/Event Emitterライブラリ machina.js の紹介スライド。

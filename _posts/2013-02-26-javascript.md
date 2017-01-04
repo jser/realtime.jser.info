@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/inde
 date: '2013-02-26T06:36:00Z'
 tags:
   - javascript
-  - スライド
+  - slide
   - testing
 ---
 JavaScriptアプリケーションのテストについてのスライド.

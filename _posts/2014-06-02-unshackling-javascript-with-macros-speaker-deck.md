@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-02T08:00:27Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 relatedLinks:
   - title: jlongster/emojiscript
     url: 'https://github.com/jlongster/emojiscript'

@@ -8,7 +8,7 @@ date: '2014-09-14T09:10:04Z'
 tags:
   - ECMAScript
   - JavaScript
-  - スライド
+  - slide
 ---
 ES6の動かせるサンプルと共に機能紹介と今スグ使う設定についてのスライド
 traceur(+grunt/gulp/broccoli/browserify)やes6-shimの紹介

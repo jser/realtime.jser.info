@@ -8,7 +8,7 @@ date: '2014-04-28T06:47:39Z'
 tags:
   - ECMAScript
   - JavaScript
-  - スライド
+  - slide
 ---
 ES6の機能を実際に実行しながら紹介してるスライド。
 実際に今使う方法としてTraceur、es6fyについて

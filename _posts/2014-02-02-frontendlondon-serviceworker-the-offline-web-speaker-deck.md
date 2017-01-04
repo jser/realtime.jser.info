@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/inde
 date: '2014-02-02T11:25:09Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - オフライン
 relatedLinks:
   - url: 'https://github.com/slightlyoff/ServiceWorker'

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/inde
 date: '2013-04-05T12:52:39Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 http://academy.telerik.com/ のJavaScript基礎講座っぽいスライド
 http://www.slideshare.net/dominion/javascript-blast を思い出す

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - i18n
   - library
-  - スライド
+  - slide
   - AngularJS
 relatedLinks:
   - title: >-

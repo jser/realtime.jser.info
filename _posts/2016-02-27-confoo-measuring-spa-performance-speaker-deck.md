@@ -8,7 +8,7 @@ date: '2016-02-27T05:06:42Z'
 tags:
   - JavaScript
   - performance
-  - スライド
+  - slide
 ---
 SPAでパフォーマンスをどう計測するについてのスライド。
 XHRのhook、MutationObserver、FetchObserverについて

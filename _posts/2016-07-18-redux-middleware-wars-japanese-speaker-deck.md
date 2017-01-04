@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/07/inde
 date: '2016-07-18T15:12:40Z'
 tags:
   - redux
-  - スライド
+  - slide
 ---
 Reduxで非同期処理を扱うMiddlewareについてのスライド。
 redux-thunk、redux-promise、redux-saga、redux-loop、redux-observableの比較

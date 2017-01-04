@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-31T14:36:57Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 relatedLinks:
   - title: The Future of JavaScript MVC Frameworks
     url: 'http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs/'

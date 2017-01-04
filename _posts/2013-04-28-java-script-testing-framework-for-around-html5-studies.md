@@ -9,6 +9,6 @@ date: '2013-04-28T13:10:06Z'
 tags:
   - JavaScript
   - testing
-  - スライド
+  - slide
 ---
 JavaScriptの著名なテストフレームワークの特徴まとめのスライド

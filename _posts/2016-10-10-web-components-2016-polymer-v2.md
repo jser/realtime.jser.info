@@ -8,7 +8,7 @@ date: '2016-10-10T10:18:21Z'
 tags:
   - WebComponents
   - library
-  - スライド
+  - slide
 ---
 Web Componentsについてのスライド。
 Shadow DOM v1、Custom Elements v1それぞの変更点。

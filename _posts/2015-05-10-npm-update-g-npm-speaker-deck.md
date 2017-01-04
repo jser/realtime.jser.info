@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/inde
 date: '2015-05-10T05:44:23Z'
 tags:
   - npm
-  - スライド
+  - slide
 ---
 npmの最近の変更点についてのスライド

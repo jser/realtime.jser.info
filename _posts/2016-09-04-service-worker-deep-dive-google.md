@@ -9,7 +9,7 @@ date: '2016-09-04T01:22:26Z'
 tags:
   - ServiceWorker
   - Chrome
-  - スライド
+  - slide
 ---
 ここ1年ぐらいのService Worker周りの変化についてのスライド。
 Push Notification、Stream、Background、Foreign Fetch、Header-based Install、Origin Trialなど

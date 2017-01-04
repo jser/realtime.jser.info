@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/inde
 date: '2014-04-10T12:48:46Z'
 tags:
   - d3.js
-  - スライド
+  - slide
 ---
 d3.jsについてのスライド。
 セレクタ、スタイルの適応、scale、データの操作、アニメーション等について

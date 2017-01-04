@@ -8,7 +8,7 @@ date: '2014-06-02T08:59:49Z'
 tags:
   - 文字コード
   - JavaScript
-  - スライド
+  - slide
   - SQL
 ---
 ユニコードとJavaScriptについて詳しく書かれたスライド(と動画)

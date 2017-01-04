@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-04T07:34:57Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 Vue.js 2.0のレンダリングフローについて

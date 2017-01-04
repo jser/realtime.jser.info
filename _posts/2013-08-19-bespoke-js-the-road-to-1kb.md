@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-19T12:33:37Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - library
 ---
 1KB以下のスライドショーライブラリである Bespoke.js についてのスライド。

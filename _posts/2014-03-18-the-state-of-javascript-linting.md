@@ -8,7 +8,7 @@ date: '2014-03-18T00:49:58Z'
 tags:
   - JavaScript
   - Tools
-  - スライド
+  - slide
   - 歴史
 ---
 JavaScriptのLintツールについてまとまってるスライド。ドイツ語。 

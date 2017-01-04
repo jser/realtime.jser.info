@@ -8,7 +8,7 @@ date: '2015-04-29T05:07:43Z'
 tags:
   - React
   - Flux
-  - スライド
+  - slide
 relatedLinks:
   - title: 社内勉強会でReactとFluxについて喋った - pixiv engineering blog
     url: 'http://inside.pixiv.net/entry/2015/04/27/170944'

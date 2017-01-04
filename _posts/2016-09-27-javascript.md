@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/inde
 date: '2016-09-27T16:02:19Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - CQRS
   - DDD
 relatedLinks:

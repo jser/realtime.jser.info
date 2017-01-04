@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/inde
 date: '2014-04-29T06:54:23Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 JavaScriptの非同期処理のスライド。
 Async+コールバックのウォーターフォールな書き方。

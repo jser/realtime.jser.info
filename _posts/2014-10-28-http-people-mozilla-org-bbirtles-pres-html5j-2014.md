@@ -10,7 +10,7 @@ tags:
   - CSS
   - SVG
   - animation
-  - スライド
+  - slide
 ---
 Web Animationについてのスライド。
 どのようなフローでスタイルが決定され、レンダリングが行われているか。

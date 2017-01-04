@@ -8,7 +8,7 @@ date: '2013-10-26T07:27:03Z'
 tags:
   - JavaScript
   - sound
-  - スライド
+  - slide
 ---
 Web Audio APIとMIDIについてのスライド。
 Web Audio APIの構成要素、サウンドフォントやWebMidiLinkについて.

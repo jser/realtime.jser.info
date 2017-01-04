@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-03T15:55:43Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - 動画
 ---
 Domenic DenicolaによるPromiseについての発表動画

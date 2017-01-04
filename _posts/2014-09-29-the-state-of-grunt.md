@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/inde
 date: '2014-09-29T14:17:37Z'
 tags:
   - Grunt
-  - スライド
+  - slide
 ---
 Gruntの現状と未来についてのスライド。
 Grunt 0.4ではGulpやBroccoliのプラグインも使えるようにすることやstream/promiseベースのTaskのパイプラインのサポート。

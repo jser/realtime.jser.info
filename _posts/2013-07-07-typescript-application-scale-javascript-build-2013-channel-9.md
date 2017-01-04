@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/inde
 date: '2013-07-07T08:51:14Z'
 tags:
   - TypeScript
-  - スライド
+  - slide
   - 動画
 ---
 Anders HejlsbergによるTypeScriptについての発表。

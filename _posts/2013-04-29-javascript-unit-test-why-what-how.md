@@ -8,6 +8,6 @@ date: '2013-04-29T11:28:08Z'
 tags:
   - JavaScript
   - testing
-  - スライド
+  - slide
 ---
 JavaScriptのテストのライフサイクル、始めやすいModelについて、テストツールの分類図

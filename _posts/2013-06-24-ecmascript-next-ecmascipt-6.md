@@ -8,6 +8,6 @@ date: '2013-06-24T08:38:44Z'
 tags:
   - ECMA
   - 歴史
-  - スライド
+  - slide
 ---
 JavaScriptの歴史、ES5とES.nextについてのスライド

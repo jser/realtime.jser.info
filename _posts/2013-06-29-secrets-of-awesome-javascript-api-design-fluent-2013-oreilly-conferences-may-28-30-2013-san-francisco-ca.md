@@ -11,7 +11,7 @@ tags:
   - JavaScript
   - API
   - design
-  - スライド
+  - slide
 ---
 JavaScriptのAPIデザインについての発表
 http://www.youtube.com/watch?v=QlQm786MClE

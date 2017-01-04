@@ -8,7 +8,7 @@ date: '2013-07-13T03:12:08Z'
 tags:
   - JavaScript
   - ECMA
-  - スライド
+  - slide
 ---
 @esdiscussの方によるGenerator *, Template Stringについてのスライド.
 Template Stringの実用的な使い方

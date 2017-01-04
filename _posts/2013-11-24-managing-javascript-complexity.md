@@ -8,7 +8,7 @@ date: '2013-11-24T08:03:25Z'
 tags:
   - JavaScript
   - Tools
-  - スライド
+  - slide
 ---
 コーディングスタイル、Lint、循環的複雑度(Cyclomatic complexity)について。
 Platoやcomplexity-reportを使ったメトリクスの可視化、コードの負債を大きくしないためにはどうするかという話

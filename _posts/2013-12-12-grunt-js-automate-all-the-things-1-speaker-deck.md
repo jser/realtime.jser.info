@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/inde
 date: '2013-12-12T03:23:26Z'
 tags:
   - Grunt
-  - スライド
+  - slide
   - tutorial
 ---
 Gruntについてのチュートリアル的なスライド.

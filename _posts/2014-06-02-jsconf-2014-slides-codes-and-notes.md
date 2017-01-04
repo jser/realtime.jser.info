@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-02T07:46:59Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - まとめ
 ---
 http://2014.jsconf.us/ のスライドまとめ

@@ -8,7 +8,7 @@ date: '2014-06-02T12:58:54Z'
 tags:
   - JavaScript
   - Tools
-  - スライド
+  - slide
 relatedLinks:
   - title: 'JavaScript Application Design #buildfirst · bevacqua.io'
     url: 'http://bevacqua.io/buildfirst'

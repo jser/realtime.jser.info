@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - MVC
   - library
-  - スライド
+  - slide
 ---
 Ember.jsについてのスライド.
 帳票アプリを元にチュートリアル的な感じ

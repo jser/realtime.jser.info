@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/inde
 date: '2014-09-17T14:08:10Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       俺の話を聞け、5分だけでもいい ーJavaScriptだいすきな男たちとJavaScriptを学ぼう!【JSオジサン#3】 JSオジサン 先生 -

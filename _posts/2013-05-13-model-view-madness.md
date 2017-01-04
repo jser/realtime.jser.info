@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - MVC
   - library
-  - スライド
+  - slide
 ---
 JavaScriptのMV*ライブラリで、それぞれModel、View、Controller、Otherが何を処理しているかをまとめながら紹介してるスライド

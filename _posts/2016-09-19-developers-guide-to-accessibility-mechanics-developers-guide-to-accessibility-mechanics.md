@@ -9,7 +9,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/inde
 date: '2016-09-19T13:56:05Z'
 tags:
   - accessibility
-  - スライド
+  - slide
 ---
 デフォルトの`<a>`はどういうサポートがあるからaccessibleであるかについてを独自のリンク実装で見ていく話。
 またデフォルトではaccessibleでないツールチップ、タブパネルなどをどうじっそうするか。

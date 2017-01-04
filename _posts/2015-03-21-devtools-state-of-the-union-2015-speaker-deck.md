@@ -9,7 +9,7 @@ tags:
   - Chrome
   - debug
   - Tools
-  - スライド
+  - slide
 relatedLinks:
   - title: jQuery UK Conference - Oxford 2015
     url: 'http://jqueryuk.com/2015/videos.php?s=devtools-state-of-the-union'

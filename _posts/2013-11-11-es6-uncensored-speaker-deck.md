@@ -8,6 +8,6 @@ date: '2013-11-11T13:12:51Z'
 tags:
   - JavaScript
   - ECMAScript
-  - スライド
+  - slide
 ---
 ES5と比較したES6の新しい機能についてのスライド

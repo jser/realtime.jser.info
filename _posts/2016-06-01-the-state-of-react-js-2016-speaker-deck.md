@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/inde
 date: '2016-06-01T13:16:39Z'
 tags:
   - React
-  - スライド
+  - slide
 relatedLinks:
   - title: 第65回 HTML5とか勉強会 ー React最新情報 - YouTube
     url: 'https://www.youtube.com/watch?v=C8bMahvTkHA'

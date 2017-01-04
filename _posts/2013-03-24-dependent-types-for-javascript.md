@@ -8,7 +8,7 @@ date: '2013-03-24T23:15:00Z'
 tags:
   - javascript
   - PDF
-  - スライド
+  - slide
   - 動画
 ---
 JavaScript論文 - DJS(Dependent JavaScript) についての発表

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-06T12:22:16Z'
 tags:
   - ECMAScript
-  - スライド
+  - slide
 ---
 ECMAScriptのタイムライン、ES6の機能紹介のスライド

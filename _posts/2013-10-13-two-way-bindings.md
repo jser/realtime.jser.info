@@ -8,7 +8,7 @@ date: '2013-10-13T07:48:43Z'
 tags:
   - MVC
   - library
-  - スライド
+  - slide
   - JavaScript
 ---
 Knockout, Ember, Angularのデータバインディングの違い、値の変更の監視、値の変更とレンダリングを非同期に行うかどうか、値の変更と再計算(リアクティブ)、パフォーマンスについて

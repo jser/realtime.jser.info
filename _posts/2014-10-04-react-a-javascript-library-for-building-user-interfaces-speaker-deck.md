@@ -10,7 +10,7 @@ tags:
   - React
   - JavaScript
   - library
-  - スライド
+  - slide
 ---
 React.js入門的なスライド。
 render、state、componentのライフサイクル、テストについて

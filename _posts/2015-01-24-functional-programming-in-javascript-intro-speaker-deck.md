@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/inde
 date: '2015-01-24T07:44:59Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - 関数型プログラミング
 ---
 JavaScriptと関数型プログラミングについてのスライド。

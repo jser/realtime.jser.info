@@ -8,7 +8,7 @@ date: '2013-06-30T04:49:53Z'
 tags:
   - JavaScript
   - altJS
-  - スライド
+  - slide
 ---
 Haxe to JavaScriptについてのスライド.
 Haxeの構文について

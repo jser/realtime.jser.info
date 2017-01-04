@@ -9,6 +9,6 @@ tags:
   - canvas
   - SVG
   - library
-  - スライド
+  - slide
 ---
 CanvasライブラリのFabric.jsについてのスライド

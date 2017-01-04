@@ -11,7 +11,7 @@ tags:
   - ECMAScript
   - JavaScript
   - 動画
-  - スライド
+  - slide
 relatedLinks:
   - title: ES process by Sergey Rubanov
     url: 'http://slides.com/chicoxyzzy/deck-1#/'

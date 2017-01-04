@@ -8,7 +8,7 @@ date: '2014-09-21T11:36:29Z'
 tags:
   - JavaScript
   - event
-  - スライド
+  - slide
 ---
 JSConf.eu 2014のスライドまとめ
 http://2014.jsconf.eu/

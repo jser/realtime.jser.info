@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-17T08:45:29Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 データバインディングとリアクティブプログラミングについてのスライド

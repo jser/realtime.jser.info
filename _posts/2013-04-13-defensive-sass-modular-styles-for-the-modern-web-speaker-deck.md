@@ -8,7 +8,7 @@ date: '2013-04-13T09:46:33Z'
 tags:
   - css
   - Sass
-  - スライド
+  - slide
 ---
 CSSの設計についてのスライド。
 Subclassingでまとめるか、Contextualでセレクタを並べるかに。

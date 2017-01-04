@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/inde
 date: '2014-03-15T06:40:44Z'
 tags:
   - ECMAScript
-  - スライド
+  - slide
 ---
 ES6の新しいsyntaxについてのスライド.
 syntaxの紹介、ES5との違い、サポートブラウザの状況がよくまとまってる。

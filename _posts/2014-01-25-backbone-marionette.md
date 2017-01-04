@@ -8,7 +8,7 @@ date: '2014-01-25T13:58:37Z'
 tags:
   - backbone.js
   - JavaScript
-  - スライド
+  - slide
 relatedLinks:
   - title: '和訳:BackboneとAngularを比較する - @lxyuma BLOG'
     url: 'http://lxyuma.hatenablog.com/entry/2013/11/05/074404'

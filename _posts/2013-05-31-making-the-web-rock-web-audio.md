@@ -8,7 +8,7 @@ date: '2013-05-31T15:35:24Z'
 tags:
   - JavaScript
   - sound
-  - スライド
+  - slide
 ---
 Web Audioについてのスライド。
 Web Audioが持つ機能の紹介、エフェクト、Web MIDI API、対応状況

@@ -8,7 +8,7 @@ date: '2013-04-29T11:26:37Z'
 tags:
   - jQuery
   - JavaScript
-  - スライド
+  - slide
 ---
 jQueryを使わないでVanilla JS(Pure JS)でやる場合にどのようなAPIを使うかについて書かれてる。
 同名のスライドの補足記事

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/inde
 date: '2014-11-13T08:58:40Z'
 tags:
   - CSS
-  - スライド
+  - slide
 ---
 CSSのコードレビューやツールについてのスライド

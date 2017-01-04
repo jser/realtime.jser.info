@@ -9,7 +9,7 @@ tags:
   - protractor
   - AngularJS
   - testing
-  - スライド
+  - slide
 ---
 Protractorについてよく書かれたスライド。
 Protractorの仕組み、インストール方法、設定、API、Page Objectsを使ったテストのパターン、デバッグ方法等幅広くまとまってる

@@ -8,7 +8,7 @@ date: '2013-12-02T15:46:46Z'
 tags:
   - JavaScript
   - mobile
-  - スライド
+  - slide
 ---
 WebAudio, 高解像度Canvas, Command patternとCanvasの親和性について。
 WebWorkerのTransferable objects、ウェブアプリのキャッシュについて

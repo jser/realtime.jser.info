@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/inde
 date: '2013-09-14T11:41:41Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 JavaScriptの型、prototypeと継承、コールバックとPromise、キャッシュとパフォーマンスについてのスライド

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - debug
   - browser
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       Sentry: Track exceptions with modern error logging for JavaScript, Python,

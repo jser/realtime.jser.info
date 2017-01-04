@@ -8,7 +8,7 @@ date: '2013-11-08T15:27:59Z'
 tags:
   - YUI
   - testing
-  - スライド
+  - slide
 ---
 YUIのテストについてのスライド.
 CI, Selenium, Sauce Labsを使ってSafari/iOSでのテスト.

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/inde
 date: '2013-11-02T05:35:22Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - backbone.js
 ---
 SoundCloudをJavaScript構成についてのスライド.

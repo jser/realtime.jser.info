@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/07/inde
 date: '2016-07-31T11:31:24Z'
 tags:
   - redux
-  - スライド
+  - slide
 relatedLinks:
   - title: Async Redux Module 2 // Speaker Deck
     url: 'https://speakerdeck.com/freddyrangel/async-redux-module-2'

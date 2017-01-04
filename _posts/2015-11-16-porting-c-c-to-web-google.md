@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - C言語
   - C++
-  - スライド
+  - slide
 relatedLinks:
   - title: Web Assembly BlinkOn 5 - Google スライド
     url: >-

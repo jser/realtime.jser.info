@@ -9,7 +9,7 @@ date: '2014-05-14T15:33:38Z'
 tags:
   - JavaScript
   - Chrome
-  - スライド
+  - slide
 ---
 Blink-in-JSはDOM機能をJSで実装するメカニズム。
 セキュリティ、メンテンス性、Webアーキテクチャのレイヤー化が目的

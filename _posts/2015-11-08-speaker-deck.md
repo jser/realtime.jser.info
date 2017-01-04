@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/inde
 date: '2015-11-08T15:01:45Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 昔ながらの名前空間風で管理されconcatして扱うJavaScriptをどうやってモジュール管理出来るようにリファクタリングしていくかという話。
 また、Reactなどのライブラリ導入における議論やリファクタリングとE2E/ユニットテストについて

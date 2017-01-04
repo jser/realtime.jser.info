@@ -8,6 +8,6 @@ date: '2015-10-15T08:56:17Z'
 tags:
   - JavaScript
   - CSS
-  - スライド
+  - slide
 ---
 JavaScriptやCSS、ビルドツール周りについて幅広くまとめられているスライド

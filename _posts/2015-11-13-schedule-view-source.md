@@ -8,7 +8,7 @@ date: '2015-11-13T08:13:29Z'
 tags:
   - browser
   - イベント
-  - スライド
+  - slide
   - まとめ
 ---
 ViewSource Conferenceの動画とスライドまとめ

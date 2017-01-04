@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - audio
   - 動画
-  - スライド
+  - slide
 ---
 WebAudio、MediaStream Processing API、Web Speech API、Speech Recognition APIの紹介的なスライド

@@ -8,7 +8,7 @@ date: '2014-09-21T12:41:00Z'
 tags:
   - JavaScript
   - Promises
-  - スライド
+  - slide
 ---
 非同期処理とPromiseについてのスライド。
 コールバックのネストの問題、PromiseやGeneratorで考える非同期で逐次的な処理について。

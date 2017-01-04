@@ -9,7 +9,7 @@ tags:
   - W3C
   - WHATWG
   - spec
-  - スライド
+  - slide
 ---
 ウェブの仕様は継続的に更新されているという話。
 WHATWG HTMLから見るW3C HTML、CSS SnapshotはCSS WGが安定していると認識したものを記述しているという話について

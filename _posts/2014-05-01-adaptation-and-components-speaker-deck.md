@@ -8,7 +8,7 @@ date: '2014-05-01T15:04:18Z'
 tags:
   - CSS
   - HTML
-  - スライド
+  - slide
 relatedLinks:
   - title: ':arrow_forward: Nicolas Gallagher - Adaptation and Components - YouTube'
     url: >-

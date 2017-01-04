@@ -8,7 +8,7 @@ date: '2014-09-13T07:10:36Z'
 tags:
   - JavaScript
   - DOM
-  - スライド
+  - slide
 relatedLinks:
   - title: JavaScript’s History and How it Led To ReactJS | The New Stack
     url: 'http://thenewstack.io/javascripts-history-and-how-it-led-to-reactjs/'

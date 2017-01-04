@@ -8,6 +8,6 @@ date: '2014-09-11T12:33:40Z'
 tags:
   - JavaScript
   - node.js
-  - スライド
+  - slide
 ---
 node.jsにおける9つのアンチパターンについてのスライド http://efcl.hatenablog.com/entry/2014/09/11/212846

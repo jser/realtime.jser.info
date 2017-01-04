@@ -8,7 +8,7 @@ date: '2013-06-14T05:43:06Z'
 tags:
   - W3C
   - イベント
-  - スライド
+  - slide
   - 動画
 ---
 W3C Developer Meetup - Tokyoのスライドと動画まとめ

@@ -8,7 +8,7 @@ date: '2013-04-20T10:36:59Z'
 tags:
   - jasmine
   - 動画
-  - スライド
+  - slide
   - testing
 ---
 Jasmineを使ったTDDについての発表(スライド+動画)

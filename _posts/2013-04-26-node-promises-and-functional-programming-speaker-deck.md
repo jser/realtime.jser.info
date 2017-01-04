@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/inde
 date: '2013-04-26T15:29:37Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 "Nodeとプロミスと、時々、関数型”"
 Promiseについてのスライド

@@ -11,7 +11,7 @@ tags:
   - XSS
   - DOM
   - セキュリティ
-  - スライド
+  - slide
 ---
 AngularJSのデータバインディングとDOM Based XSSについてのスライド。
 ホワイトリストによるフィルタリング、自作のディレクティブでの扱い、SCE、ng-cspについて。

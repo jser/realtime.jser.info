@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/11/inde
 date: '2016-11-21T15:35:39Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 relatedLinks:
   - title: ECMAScript / about_hiroppy さん - ニコナレ
     url: 'http://niconare.nicovideo.jp/watch/kn1936'

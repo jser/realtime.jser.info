@@ -11,6 +11,6 @@ tags:
   - event
   - JavaScript
   - 動画
-  - スライド
+  - slide
 ---
 Fluent 2013 のスライドと動画

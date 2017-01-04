@@ -8,7 +8,7 @@ date: '2013-07-08T13:39:30Z'
 tags:
   - web
   - performance
-  - スライド
+  - slide
 ---
 ウェブサイトのパフォーマンスについてスライド。
 画像の通信的な重さ、重いCSSプロパティとSkia Debugger、reflowと重い箇所をChrome Dev Toolsを見つける方法、JavaScriptとGCとメモリリーク

@@ -10,6 +10,6 @@ tags:
   - performance
   - CSS
   - JavaScript
-  - スライド
+  - slide
 ---
 JavaScript->Style->Layout->Paint->Compositeという表示までの流れをきれいに行う方法や開発者ツールの使い方について。 requestAnimationFrameの活用

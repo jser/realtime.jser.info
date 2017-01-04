@@ -8,6 +8,6 @@ date: '2013-04-07T06:16:13Z'
 tags:
   - JavaScript
   - 歴史
-  - スライド
+  - slide
 ---
 JavaScriptの言語デザイン、歴史についてのスライド

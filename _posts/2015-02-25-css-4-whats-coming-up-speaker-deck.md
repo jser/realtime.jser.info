@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/inde
 date: '2015-02-25T03:23:37Z'
 tags:
   - CSS
-  - スライド
+  - slide
 ---
 CSS Selector、Media Queries Lv4についてのスライド 

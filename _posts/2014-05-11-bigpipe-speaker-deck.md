@@ -8,7 +8,7 @@ date: '2014-05-11T11:03:58Z'
 tags:
   - node.js
   - library
-  - スライド
+  - slide
 relatedLinks:
   - title: BigPipe.io
     url: 'http://bigpipe.io/'

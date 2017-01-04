@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/inde
 date: '2014-07-31T04:38:51Z'
 tags:
   - AngularJS
-  - スライド
+  - slide
 ---
 AngularJSのデータバインディング、モジュール、スコープとデータの反映についてのスライド。

@@ -8,7 +8,7 @@ date: '2015-03-14T07:33:08Z'
 tags:
   - ECMAScript
   - spec
-  - スライド
+  - slide
 ---
 ES6の仕様で提案されたが、ES6 RC2時点で入らなかった仕様について。
 

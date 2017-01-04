@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/inde
 date: '2014-10-26T09:48:10Z'
 tags:
   - AngularJS
-  - スライド
+  - slide
 ---
 AtScriptについてのスライド。
 AtScriptは新しい言語ではなくES6にTypesとAnnotationsとIntrospectionを追加したもの。

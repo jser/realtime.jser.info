@@ -8,7 +8,7 @@ date: '2016-08-08T15:38:14Z'
 tags:
   - JavaScript
   - stream
-  - スライド
+  - slide
 ---
 Node.js StreamとWHATWG Streamの違いについて。
 目的が異なるため、作りも異なるという話

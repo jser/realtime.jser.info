@@ -8,7 +8,7 @@ date: '2014-09-07T08:36:08Z'
 tags:
   - JavaScript
   - performance
-  - スライド
+  - slide
 relatedLinks:
   - title: JavaScript Memory Management Masterclass // Speaker Deck
     url: >-

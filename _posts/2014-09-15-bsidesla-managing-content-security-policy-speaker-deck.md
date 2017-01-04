@@ -9,7 +9,7 @@ tags:
   - セキュリティ
   - CSP
   - browser
-  - スライド
+  - slide
 relatedLinks:
   - title: Caspr
     url: 'http://caspr.io/#/'

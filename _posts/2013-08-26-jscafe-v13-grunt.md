@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-26T01:52:18Z'
 tags:
   - Grunt
-  - スライド
+  - slide
 ---
 Gruntタスクについてのスライド.
 Grunt APIの使い方、タスクの紹介、子タスクに分散させる事で実行時間を減らす話

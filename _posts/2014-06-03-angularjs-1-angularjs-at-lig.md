@@ -8,7 +8,7 @@ date: '2014-06-03T14:42:29Z'
 tags:
   - JavaScript
   - AngularJS
-  - スライド
+  - slide
   - IE
 ---
 AngularJSでIE7,8等もサポートする場合の対処法、AngularJSの学習コストについてのスライド

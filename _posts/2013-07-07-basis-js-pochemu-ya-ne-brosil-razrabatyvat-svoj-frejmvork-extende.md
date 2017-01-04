@@ -8,6 +8,6 @@ date: '2013-07-07T03:49:06Z'
 tags:
   - JavaScript
   - library
-  - スライド
+  - slide
 ---
 single-pageアプリ等に使えるJavaScriptフレームワーク http://basisjs.com/ についてのスライド

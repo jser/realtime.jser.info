@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - ECMAScript
   - 動画
-  - スライド
+  - slide
 relatedLinks:
   - title: ES7 Async Generator from azu on Twitter
     url: 'https://twitter.com/azu_re/timelines/541204375696191488'

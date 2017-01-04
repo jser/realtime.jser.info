@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/inde
 date: '2014-04-13T23:12:11Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 JavaScriptの非同期処理についてのスライド。Event、コールバック、Generator、Promises。
 Promisesのエラーハンドリング、簡単に実装しながら学ぶ、`done`と`then`の違い、Deferred、`done`の論争についてよくまとまってる

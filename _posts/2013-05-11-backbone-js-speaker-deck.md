@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/inde
 date: '2013-05-11T05:48:54Z'
 tags:
   - backbone.js
-  - スライド
+  - slide
 ---
 RailsとBacnboneを比較しながら、Backboneの設計のポイント。
 Input/Output、Router、View、Model

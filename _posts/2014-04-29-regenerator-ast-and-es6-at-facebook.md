@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - AST
   - 動画
-  - スライド
+  - slide
 relatedLinks:
   - title: Technical and Social Progress Toward ECMAScript 6 at Facebook
     url: 'http://benjamn.github.io/pivotal-meetup-talk/#/'

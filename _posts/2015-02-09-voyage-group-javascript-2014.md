@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/inde
 date: '2015-02-09T10:05:08Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
 ---
 2014年のJavaScriptのパラダイムの変化についてまとめられたスライド。
 AltJSとES6、非同期処理、モジュールパッケージ管理とビルドツール、テスト、ライブラリについて

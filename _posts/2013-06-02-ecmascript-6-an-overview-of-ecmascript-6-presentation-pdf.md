@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-02T10:58:00Z'
 tags:
   - ECMA
-  - スライド
+  - slide
 ---
 Dr.Axel によるECMAScript 6のfeature全般についてのスライド .
 予定されてる機能や使い方についてまとまってる

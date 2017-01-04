@@ -8,7 +8,7 @@ date: '2014-11-24T12:55:40Z'
 tags:
   - DOM
   - performance
-  - スライド
+  - slide
 ---
 DOM操作のパフォーマンスTips的なスライド。
 Event Delegate、Style操作、Nodeの作成(clone、DocumentFragment)、Nodeの削除について。

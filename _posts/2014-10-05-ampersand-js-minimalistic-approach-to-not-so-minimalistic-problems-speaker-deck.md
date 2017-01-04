@@ -12,7 +12,7 @@ tags:
   - JavaScript
   - MVC
   - library
-  - スライド
+  - slide
 relatedLinks:
   - title: >-
       :arrow_forward: Kamil Ogórek – Ampersand.js – Minimalistic Approach to not

@@ -8,7 +8,7 @@ date: '2014-11-23T02:19:36Z'
 tags:
   - React
   - JavaScript
-  - スライド
+  - slide
   - 動画
 ---
 ReactのComponentの作り方やテストについて詳しい発表

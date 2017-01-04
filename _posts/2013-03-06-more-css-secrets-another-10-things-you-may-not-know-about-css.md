@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/inde
 date: '2013-03-06T00:09:00Z'
 tags:
   - css
-  - スライド
+  - slide
 ---
 CSS gradients/Transitions/animation/Hyphenation/ch unitなど最近のCSSの機能についてのスライド。
 スライドが実際に動くデモになってる

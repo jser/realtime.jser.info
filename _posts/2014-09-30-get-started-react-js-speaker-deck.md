@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - VirualDOM
   - library
-  - スライド
+  - slide
 relatedLinks:
   - title: Fluxアーキテクチャの覚え書きを書いた - snyk_s log
     url: 'http://saneyukis.hatenablog.com/entry/2014/09/26/174750'

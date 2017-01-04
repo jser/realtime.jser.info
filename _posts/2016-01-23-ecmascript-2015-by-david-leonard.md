@@ -8,7 +8,7 @@ date: '2016-01-23T04:31:19Z'
 tags:
   - JavaScript
   - ECMAScript
-  - スライド
+  - slide
 relatedLinks:
   - title: DrkSephy/es6-cheatsheet
     url: 'https://github.com/DrkSephy/es6-cheatsheet'

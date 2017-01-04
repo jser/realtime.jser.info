@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/inde
 date: '2013-11-24T07:16:28Z'
 tags:
   - Sass
-  - スライド
+  - slide
 ---
 Sass/Compassの入門について詳しいスライド

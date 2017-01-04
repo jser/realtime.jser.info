@@ -9,7 +9,7 @@ tags:
   - node.js
   - testing
   - console
-  - スライド
+  - slide
 ---
 Node.jsでCLIを書くベストプラクティス的なスライド。
 テストしやすい様にmainのbinとlibは分ける、event emitterを使ったログ、エラー時に正しくexitする、クロスプラットフォーム対応様にPathをハードコーディングしないで分ける

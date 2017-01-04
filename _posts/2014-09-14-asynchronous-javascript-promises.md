@@ -8,7 +8,7 @@ date: '2014-09-14T07:48:31Z'
 tags:
   - JavaScript
   - Promises
-  - スライド
+  - slide
   - 動画
 relatedLinks:
   - title: Asynchronous JavaScript & Promises by Alex Castrounis

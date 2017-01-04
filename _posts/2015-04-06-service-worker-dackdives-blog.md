@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/inde
 date: '2015-04-06T11:32:11Z'
 tags:
   - ServiceWorker
-  - スライド
+  - slide
   - 動画
   - まとめ
 ---

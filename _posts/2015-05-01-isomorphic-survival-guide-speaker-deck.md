@@ -8,7 +8,7 @@ date: '2015-05-01T09:44:41Z'
 tags:
   - JavaScript
   - サーバー
-  - スライド
+  - slide
 relatedLinks:
   - title: isomorphic
     url: 'https://html5experts.jp/shumpei-shiraishi/14895/'

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/inde
 date: '2013-09-22T05:42:16Z'
 tags:
   - JavaScript
-  - スライド
+  - slide
   - game
 ---
 JavaScriptで書くエミュレータについてのスライド。

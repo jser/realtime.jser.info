@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/09/inde
 date: '2015-09-01T13:10:56Z'
 tags:
   - npm
-  - スライド
+  - slide
 ---
 npm3で追加された機能や変更点などについてのスライド

@@ -9,6 +9,6 @@ date: '2013-03-21T21:27:00Z'
 tags:
   - jQuery
   - mobile
-  - スライド
+  - slide
 ---
 jQuery Mobile 1.3の機能や変更点について詳しく書かれたスライド
