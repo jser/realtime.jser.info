@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Node.js 7.4.0リリース。
-npm v4へのアップデート、Buffer、`EventEmitter.once`のパフォーマンス改善など
+Buffer、`EventEmitter.once`のパフォーマンス改善など
