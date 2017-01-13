@@ -15,6 +15,5 @@ relatedLinks:
     url: >-
       https://developer.mozilla.org/ja/docs/Web/HTML/Canvas/Drawing_DOM_objects_into_a_canvas
 ---
-DOM nodeを画像にするライブラリ。
-SVGの`<foreignObject>`を使いHTMLを描画したものをCanvas経由で画像として取得する。
+SVGの`<foreignObject>`を使いHTMLを描画したものをCanvas経由で画像として取得するライブラリ
 
