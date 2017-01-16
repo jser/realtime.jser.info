@@ -13,4 +13,4 @@ tags:
   - library
 ---
 Immutable.jsのようなImmutableなデータ構造を扱うライブラリ。
-変更を通知するイベント持ち、Immutable.jsよりもファイルサイズが小さい。
+変更を通知するイベントやImmutable.jsよりもファイルサイズが小さい。
