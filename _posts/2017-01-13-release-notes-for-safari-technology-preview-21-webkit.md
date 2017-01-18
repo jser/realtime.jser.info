@@ -14,8 +14,6 @@ relatedLinks:
     url: 'https://trac.webkit.org/changeset/210570'
   - title: 'global breaks flickr.com · Issue #20 · tc39/proposal-global'
     url: 'https://github.com/tc39/proposal-global/issues/20'
-  - title: Native ECMAScript modules - the first overview
-    url: 'https://blog.hospodarets.com/native-ecmascript-modules-the-first-overview'
 ---
 Safari Technology Preview Release 21リリース。
 Concurrent GCの有効化、`<script type="module">`の有効化、`global`のサポートされたがbreak the webのためbackoutなど
