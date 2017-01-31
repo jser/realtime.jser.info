@@ -12,4 +12,4 @@ tags:
   - module
   - webpack
 ---
-webpackなどモジュールとネイティブのES moduleの違いについてまとめられた記事。 モジュールパス、CORS、、`script`要素の属性、エラー判定、ES moduleの挙動、feature detectionの方法、fallback、`script`要素の`type`の取得についてなど
+webpackなどのモジュールとネイティブのES moduleの違いについてまとめられた記事。 モジュールパス、CORS、`script`要素の属性、エラー判定、ES moduleの挙動、feature detectionの方法、fallback、`script`要素の`type`の取得についてなど
