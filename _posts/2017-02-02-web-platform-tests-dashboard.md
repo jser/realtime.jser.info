@@ -15,4 +15,4 @@ relatedLinks:
     url: >-
       https://docs.google.com/presentation/d/1s2Dick89wvJsuNJb4ia3pPt84NtMv8rZr0E_GFXJLrk/edit#slide=id.p
 ---
-[w3c/web-platform-tests: Test Suites for Web Platform specifications—including WHATWG, W3C and others](https://github.com/w3c/web-platform-tests "w3c/web-platform-tests: Test Suites for Web Platform specifications—including WHATWG, W3C and others")をブラウザ別で実行した結果がまとめられているページ
+[w3c/web-platform-tests](https://github.com/w3c/web-platform-tests "w3c/web-platform-tests: Test Suites for Web Platform specifications—including WHATWG, W3C and others")をブラウザ別で実行した結果がまとめられているページ
