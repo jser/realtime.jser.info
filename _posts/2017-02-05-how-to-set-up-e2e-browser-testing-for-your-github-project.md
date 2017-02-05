@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://hackernoon.com/how-to-set-up-e2e-browser-testing-for-your-github-project-89c24e15a84
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/02/index.json'
-date: '2017-02-05T05:28:18Z'
+date: '2017-02-05T05:33:25Z'
 tags:
   - E2E
   - testing
