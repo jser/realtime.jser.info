@@ -4,11 +4,11 @@ author: azu
 layout: post
 itemUrl: 'http://qiita.com/nhiroki/items/65efc9e41ec1d928afcd'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/02/index.json'
-date: '2017-02-13T13:28:12Z'
+date: '2017-02-13T13:28:41Z'
 tags:
   - JavaScript
   - ServiceWorker
   - 歴史
-  - thought
+  - opinion
 ---
 Better AppCacheから始まったService Workerが、ページに依存しない生存期間へ変化していき、fetch以外のイベントもハンドリングできる基盤となっていった変遷について。
