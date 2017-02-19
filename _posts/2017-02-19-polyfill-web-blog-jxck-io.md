@@ -12,8 +12,6 @@ tags:
 relatedLinks:
   - title: Polyfills and the evolution of the Web
     url: 'https://w3ctag.github.io/polyfills/'
-  - title: Breaking the Web with JavaScript – Medium
-    url: 'https://medium.com/@cpojer/breaking-the-web-with-javascript-48cc406ca98d'
 ---
 polyfillの役割と、早すぎたpolyfillの実装は仕様変更を難しくするSpeculative Polyfillの問題について。
 間違ったpolyfillの実装、別名での回避事例、
