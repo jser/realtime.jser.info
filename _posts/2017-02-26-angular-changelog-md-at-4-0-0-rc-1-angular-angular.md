@@ -8,6 +8,9 @@ date: '2017-02-26T01:17:14Z'
 tags:
   - AngularJS
   - ReleaseNote
+relatedLinks:
+  - title: angular/RELEASE_SCHEDULE.md at master · angular/angular
+    url: 'https://github.com/angular/angular/blob/master/docs/RELEASE_SCHEDULE.md'
 ---
 Angular 4.0.0 RC1リリース。
 AOTコンパイルしたViewのコード量を削減、コードベースがTypeScript 2.1ベースでStrictNullChecksが有効化された。
