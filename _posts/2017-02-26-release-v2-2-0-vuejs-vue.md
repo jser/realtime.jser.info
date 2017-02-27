@@ -9,9 +9,6 @@ tags:
   - JavaScript
   - library
   - ReleaseNote
-relatedLinks:
-  - title: Dummy
-    url: 'http://example.com/'
 ---
 Vue.js v2.2.0リリース。
 テンプレートで閉じタグがない場合にエラーを投げるように、PropsやComputedプロパティはインスタンスではなくprototypeへ定義されるように。
