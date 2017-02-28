@@ -13,4 +13,4 @@ tags:
 Vue.js v2.2.0リリース。
 テンプレートで閉じタグがない場合にエラーを投げるように、PropsやComputedプロパティはインスタンスではなくprototypeへ定義されるように。
 サーバサイドレンダリング向けに`template`オプションの追加、`errorHandler`や`renderError`でエラーがキャッチできるように。
-React Context的な値を差し込める`provive`と`inject`のDI機構の追加など
+React Context的な値を差し込める`provide`と`inject`のDI機構の追加など
