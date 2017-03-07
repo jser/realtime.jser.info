@@ -12,5 +12,5 @@ tags:
   - node.js
   - library
 ---
-Node v5.7.0から導入されたV8のcode cacheを保持するrequire hook。
+Node v5.7.0から導入されたV8のcode cacheを保持するrequire hookを提供するライブラリ。
 yarnやnuclideなどの起動速度改善に使われてる
