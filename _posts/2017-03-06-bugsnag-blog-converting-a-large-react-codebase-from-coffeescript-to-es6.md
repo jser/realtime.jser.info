@@ -10,6 +10,7 @@ tags:
   - CoffeeScript
   - JavaScript
   - React
+  - article
 relatedLinks:
   - title: >-
       jsdf/coffee-react-transform: DEPRECATED – Provides React JSX support for
