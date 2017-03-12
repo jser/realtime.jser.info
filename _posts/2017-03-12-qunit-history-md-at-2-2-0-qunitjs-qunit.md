@@ -10,13 +10,6 @@ tags:
   - testing
   - library
   - ReleaseNote
-relatedLinks:
-  - title: QUnit.todo() | QUnit API Documentation
-    url: 'http://api.qunitjs.com/QUnit.todo/'
-  - title: step() | QUnit API Documentation
-    url: 'http://api.qunitjs.com/step/'
-  - title: verifySteps() | QUnit API Documentation
-    url: 'http://api.qunitjs.com/verifySteps/'
 ---
 QUnit 2.2.0リリース。
 1つ以上のテストがFailのときはPassし、Todoのみが残った時はFaillする`QUnit.todo`の追加、通った順序を記録し検証する`assert.step()`と`assert.verifySteps`を追加など
