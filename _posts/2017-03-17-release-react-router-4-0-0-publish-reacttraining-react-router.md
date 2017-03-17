@@ -18,6 +18,8 @@ relatedLinks:
   - title: v4 FAQ
     url: >-
       https://github.com/ReactTraining/react-router/tree/v4.0.0-beta.8#why-a-major-version-bump
+  - title: react-router@v4対応したので雑に晒す - Qiita
+    url: 'http://qiita.com/Jey/items/dae2074427547e63569b'
 ---
 React Router 4.0.0リリース。
 書き直されたバージョンであり、既存のものとは互換性がないためマイグレーションガイドは用意されていない。
