@@ -15,6 +15,9 @@ relatedLinks:
     url: 'http://eslint.org/docs/developer-guide/selectors'
   - title: ESLint v3.18.0 - Qiita
     url: 'http://qiita.com/mysticatea/items/264e59b3d28e13b633df'
+  - title: ESLint selectors just got super powers! – Medium
+    url: >-
+      https://medium.com/@vitorbal/eslint-selectors-just-got-super-powers-402ab942def5#.xwjlpqioe
 ---
 ESLint 3.18.0リリース。
 esqueryベースのASTセレクタに対応しルール内でセレクタを指定できるようになるなど
