@@ -12,6 +12,8 @@ tags:
 relatedLinks:
   - title: Migrating to v4.0.0 - ESLint - Pluggable JavaScript linter
     url: 'http://eslint.org/docs/4.0.0/user-guide/migrating-to-4.0.0'
+  - title: ESLint v4.0.0 の変更点まとめ - Qiita
+    url: 'http://qiita.com/mysticatea/items/3d01452d76ea6c943793'
 ---
 ESLint 4.0.0 αリリース。
 `eslint:recommended`の更新、`indent`ルールの変更、ASTのコメント周りの扱いの変更、公開APIの変更など
