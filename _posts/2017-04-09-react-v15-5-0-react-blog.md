@@ -11,6 +11,8 @@ tags:
 relatedLinks:
   - title: React 15.5へのアップデート手順(prop-typesとReact.createClass) - Qiita
     url: 'http://qiita.com/azu/items/9d1985bf0140576894aa'
+  - title: 'All doc updates forv15.5 by flarnie · Pull Request #9359 · facebook/react'
+    url: 'https://github.com/facebook/react/pull/9359'
 ---
 React 15.5.0リリース。
 同梱されていた`React.PropTypes`と`React.createClass`が非推奨となり、それぞれ別パッケージに別れた。
