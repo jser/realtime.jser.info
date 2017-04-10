@@ -10,6 +10,6 @@ tags:
   - issue
   - ReleaseNote
 ---
-npm 5.0.0βについて。
+今後リリース予定のnpm 5.0.0βについて。
 相対パスを`npm install`がsymlinkを作るように(`file:`ではなく`link:`へ)、キャッシュシステムの改善、`--prefer-offline`と`--offline`の追加。
 `git://`でもsemverを指定できるように、`npm install`の結果がサマリで出るように
