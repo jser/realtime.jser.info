@@ -9,6 +9,9 @@ date: '2017-04-11T03:47:22Z'
 tags:
   - TypeScript
   - ReleaseNote
+relatedLinks:
+  - title: TypeScript 2.3 RC 変更点 - Qiita
+    url: 'http://qiita.com/vvakame/items/d926f0e1b02397dbd5df'
 ---
 TypeScript 2.3RCリリース。
 `noImplicitAny`, `strictNullChecks`,`noImplicitThis`などをまとめた`strict`オプションの追加.
