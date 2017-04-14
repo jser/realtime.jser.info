@@ -13,6 +13,9 @@ tags:
 relatedLinks:
   - title: Dev guide - Microsoft Edge Development | Microsoft Docs
     url: 'https://docs.microsoft.com/en-us/microsoft-edge/dev-guide'
+  - title: Microsoft Edge build 14986 changelog - Microsoft Edge Development
+    url: >-
+      https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14986/
 ---
 EdgeHTML 15(Windows 10 Creators Update)のリリースノート。
 Brotli、CSS Custome Properties、Intersection Observer、Payment Request API、Web VR、CSP Lv2のサポートなど。
