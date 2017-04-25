@@ -11,4 +11,4 @@ tags:
   - plugin
 ---
 Babelを使ったHygenic Macroのプラグイン。
-assertやdeprecate、warning、feature flagなどのマクロかしたもの
+assertやdeprecate、warning、feature flagなどのマクロ化したもの
