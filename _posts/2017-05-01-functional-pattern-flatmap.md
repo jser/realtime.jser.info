@@ -9,8 +9,8 @@ tags:
   - JavaScript
   - ECMAScript
 relatedLinks:
-  - title: Dummy
-    url: 'http://example.com/'
+  - title: 'bterlson/proposal-flatMap: Proposal for flatten and flatMap'
+    url: 'https://github.com/bterlson/proposal-flatMap'
 ---
 `flatMap`と呼ばれるものはどのようなものを言っているのかについて。
 またそれに関連するECMAScriptのStage 1のProposalについて
