@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=djOc1EK07Tk'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/05/index.json'
-date: '2017-05-24T23:52:28Z'
+date: '2017-05-24T23:52:49Z'
 tags:
   - JavaScript
   - library
@@ -21,4 +21,4 @@ relatedLinks:
 ---
 JavaScriptライブラリのベンチマーク結果を改善する方法について。
 Rollupを使ってflat bundleすることでサイズとロード時間の削減、使わないモジュールの削除、ベンチマークツールについて。
-lighthouseを使ったモジュールのベンチ📑について
+lighthouseを使ったモジュールのベンチマークについて
