@@ -4,9 +4,11 @@ author: azu
 layout: post
 itemUrl: 'http://scssfmt.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/05/index.json'
-date: '2017-05-29T23:04:42Z'
+date: '2017-05-29T23:57:02Z'
 tags:
   - Sass
   - Tools
+  - CSS
+  - console
 ---
-sassのコード整形ツール
+sass(SCSS)のコード整形ツール
