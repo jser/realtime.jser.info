@@ -9,9 +9,8 @@ tags:
   - webpack
   - ReleaseNote
 relatedLinks:
-  - title: "\uD83C\uDF7E:rocket: webpack 3: Official Release!! :rocket:\uD83C\uDF7E – webpack – Medium"
+  - title: 'webpack 3: Official Release!! - webpack – Medium'
     url: 'https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b'
 ---
 webpack 3.0.0リリース。
 Scope Hoisting (`webpack.optimize.ModuleConcatenationPlugin`)の追加、`node: false`でnode関係の機能をまとめて無効化できるように、Source Map周りの変更など
-

@@ -13,4 +13,4 @@ relatedLinks:
     url: 'https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/'
 ---
 webpack 3.0.0 RC0リリース。
-RollupのようなScope Hoisting(inlining)を行うプラグインの追加、、`output.libraryExport`のサポート、`node: false`でnode関係はまとめて無効化できるようになるなど
+RollupのようなScope Hoisting(inlining)を行うプラグインの追加、`output.libraryExport`のサポート、`node: false`でnode関係はまとめて無効化できるようになるなど
