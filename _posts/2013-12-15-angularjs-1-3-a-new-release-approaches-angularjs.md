@@ -6,7 +6,7 @@ itemUrl: 'http://blog.angularjs.org/2013/12/angularjs-13-new-release-approaches.
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-15T03:04:05Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 ---
 AngularJS 1.3リリースに向けて。

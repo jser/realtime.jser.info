@@ -6,7 +6,7 @@ itemUrl: 'https://medium.com/@bojzi/anatomy-of-a-large-angular-application-f098e
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/index.json'
 date: '2015-11-16T13:30:03Z'
 tags:
-  - AngularJS
+  - Angular
   - JavaScript
   - 設計
 ---

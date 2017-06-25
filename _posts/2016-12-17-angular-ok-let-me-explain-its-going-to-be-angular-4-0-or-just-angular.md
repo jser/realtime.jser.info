@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2016/12/ok-let-me-explain-its-going-to-b
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/12/index.json'
 date: '2016-12-17T04:40:37Z'
 tags:
-  - AngularJS
+  - Angular
 ---
 AngularJSの次のメジャーバージョンは4を予定している話。
 既に`@angular/router`がv3であるため、合わせるためにv4へあげる。

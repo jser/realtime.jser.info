@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2017/03/angular-400-now-available.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/03/index.json'
 date: '2017-03-27T09:16:29Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: angular/CHANGELOG.md at 4.0.0 · angular/angular

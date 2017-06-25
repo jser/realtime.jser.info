@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/index.json'
 date: '2016-04-08T01:19:50Z'
 tags:
-  - AngularJS
+  - Angular
   - testing
 ---
 AnguarJS2でのテストパターン

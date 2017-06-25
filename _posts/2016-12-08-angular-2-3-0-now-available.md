@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2016/12/angular-230-now-available.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/12/index.json'
 date: '2016-12-08T14:38:14Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 ---
 Angular 2.3.0リリース。

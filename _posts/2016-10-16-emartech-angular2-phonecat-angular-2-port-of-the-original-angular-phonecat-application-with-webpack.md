@@ -8,6 +8,6 @@ itemUrl: 'https://github.com/emartech/angular2-phonecat'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/10/index.json'
 date: '2016-10-16T14:52:22Z'
 tags:
-  - AngularJS
+  - Angular
 ---
 AngularJS 2にPhonecatを移植したもの

@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2016/06/rc2-now-available.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/06/index.json'
 date: '2016-06-19T15:29:02Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: Angular 2 RC.2がリリースされました | Angular2 Info

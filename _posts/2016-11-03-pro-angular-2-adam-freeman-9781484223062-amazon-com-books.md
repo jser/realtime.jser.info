@@ -6,7 +6,7 @@ itemUrl: 'https://www.amazon.com/Pro-Angular-2-ADAM-FREEMAN/dp/1484223063'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/11/index.json'
 date: '2016-11-03T02:30:43Z'
 tags:
-  - AngularJS
+  - Angular
   - book
 ---
 2017年5月8日発売

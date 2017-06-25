@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/02/index.json'
 date: '2016-02-06T12:29:03Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 ---
 AngularJS 1.5.0リリース。

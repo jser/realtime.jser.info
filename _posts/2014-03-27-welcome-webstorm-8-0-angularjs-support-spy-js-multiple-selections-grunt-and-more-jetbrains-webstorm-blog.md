@@ -10,7 +10,7 @@ date: '2014-03-27T03:20:42Z'
 tags:
   - WebStorm
   - ReleaseNote
-  - AngularJS
+  - Angular
 relatedLinks:
   - title: >-
       WebStorm 8 EAP (build 134.1081): Bower, improved spy-js and AngularJS

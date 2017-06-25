@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - library
   - React
-  - AngularJS
+  - Angular
 ---
 コンポーネント指向のフレームワークを使い、コンポーネントを表示するまでの手順をそれぞれ比較した記事。
 AngularJS1/2、Ember、Cycle.js、Reactにおいて4種類のコンポーネントを実装し比較している。

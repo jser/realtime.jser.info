@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/inde
 date: '2014-12-01T23:23:25Z'
 tags:
   - JavaScript
-  - AngularJS
+  - Angular
   - library
   - thought
 ---

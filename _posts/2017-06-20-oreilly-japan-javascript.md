@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - book
   - React
-  - AngularJS
+  - Angular
 ---
 2017年7月4日発売
 Isomorphic JavaScriptについての書籍。

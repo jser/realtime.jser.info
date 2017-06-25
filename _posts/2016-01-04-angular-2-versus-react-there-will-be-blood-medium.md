@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/01/index.json'
 date: '2016-01-04T12:36:21Z'
 tags:
-  - AngularJS
+  - Angular
   - React
 ---
 AngularJSとReactの対比。

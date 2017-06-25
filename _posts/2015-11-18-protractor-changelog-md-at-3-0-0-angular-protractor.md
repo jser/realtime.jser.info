@@ -8,7 +8,7 @@ date: '2015-11-18T12:19:57Z'
 tags:
   - E2E
   - testing
-  - AngularJS
+  - Angular
   - ReleaseNote
 ---
 E2EテストフレームワークのProtractor 3.0.0リリース。

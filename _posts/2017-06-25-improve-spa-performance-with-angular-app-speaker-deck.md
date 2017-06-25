@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - DOM
   - performance
-  - AngularJS
+  - Angular
   - slide
 relatedLinks:
   - title: >-

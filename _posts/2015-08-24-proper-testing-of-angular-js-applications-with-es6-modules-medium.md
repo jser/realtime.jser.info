@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/08/inde
 date: '2015-08-24T05:15:36Z'
 tags:
   - JavaScript
-  - AngularJS
+  - Angular
   - testing
   - library
 ---

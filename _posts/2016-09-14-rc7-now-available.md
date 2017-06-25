@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2016/09/rc7-now-available.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/index.json'
 date: '2016-09-14T13:41:47Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: angular/CHANGELOG.md at master · angular/angular

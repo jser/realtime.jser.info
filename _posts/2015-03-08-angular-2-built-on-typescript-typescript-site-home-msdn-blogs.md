@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-08T15:02:42Z'
 tags:
-  - AngularJS
+  - Angular
   - TypeScript
 ---
 TypeScriptにアノテーションを実装していく方針になったのでAtScript自体はなくなるという話。

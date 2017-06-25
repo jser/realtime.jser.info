@@ -7,6 +7,6 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/index.json'
 date: '2016-09-22T01:20:40Z'
 tags:
-  - AngularJS
+  - Angular
 ---
 AnguarJS 2のAhead-of-Time (AOT)について

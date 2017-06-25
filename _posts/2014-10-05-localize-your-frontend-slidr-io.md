@@ -10,7 +10,7 @@ tags:
   - i18n
   - library
   - slide
-  - AngularJS
+  - Angular
 relatedLinks:
   - title: >-
       :arrow_forward: Tina Umlandt – Localize your frontend! [Reject.JS 2014] -

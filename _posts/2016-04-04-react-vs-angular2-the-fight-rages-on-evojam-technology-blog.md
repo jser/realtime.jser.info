@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/inde
 date: '2016-04-04T10:35:44Z'
 tags:
   - React
-  - AngularJS
+  - Angular
 ---
 ReactとAngularJS 2の比較

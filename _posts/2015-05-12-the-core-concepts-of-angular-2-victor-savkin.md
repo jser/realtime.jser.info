@@ -6,7 +6,7 @@ itemUrl: 'http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/index.json'
 date: '2015-05-12T11:52:13Z'
 tags:
-  - AngularJS
+  - Angular
   - 設計
 relatedLinks:
   - title: angular/zone.js

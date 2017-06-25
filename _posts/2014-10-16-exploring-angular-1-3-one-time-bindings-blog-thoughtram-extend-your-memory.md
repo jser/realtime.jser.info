@@ -9,6 +9,6 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-16T13:16:10Z'
 tags:
-  - AngularJS
+  - Angular
 ---
 Angular 1.3で導入されたone-time bindingについての解説

@@ -9,7 +9,7 @@ date: '2016-07-20T06:33:56Z'
 tags:
   - redux
   - JavaScript
-  - AngularJS
+  - Angular
 ---
 AngularJS 2とRxJSでのstate管理について。
 

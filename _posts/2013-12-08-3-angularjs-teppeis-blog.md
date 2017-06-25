@@ -6,7 +6,7 @@ itemUrl: 'http://teppeis.hatenablog.com/entry/2013/12/angularjs-security'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-08T13:53:10Z'
 tags:
-  - AngularJS
+  - Angular
   - セキュリティ
 ---
 AngularJSのセキュリティについて.

@@ -9,7 +9,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/12/index.json'
 date: '2013-12-16T12:52:03Z'
 tags:
-  - AngularJS
+  - Angular
   - testing
 ---
 AngularJSのテスタビリティについて。

@@ -9,7 +9,7 @@ date: '2015-01-06T02:02:15Z'
 tags:
   - JavaScript
   - WebRTC
-  - AngularJS
+  - Angular
   - tutorial
 ---
 AngularJS+WebRTC+Socket.IOを使ってビデオチャットを作るチュートリアル。

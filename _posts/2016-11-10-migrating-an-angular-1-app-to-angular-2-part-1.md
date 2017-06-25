@@ -6,7 +6,7 @@ itemUrl: 'https://auth0.com/blog/migrating-an-angular-1-app-to-angular-2-part-1/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/11/index.json'
 date: '2016-11-10T14:55:25Z'
 tags:
-  - AngularJS
+  - Angular
   - tutorial
 relatedLinks:
   - title: 'auth0-blog/ng2-dinos: A sample Angular 2 application'

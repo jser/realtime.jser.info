@@ -6,7 +6,7 @@ itemUrl: 'http://shop.oreilly.com/product/9780992279455.do'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/index.json'
 date: '2014-07-06T02:06:21Z'
 tags:
-  - AngularJS
+  - Angular
   - book
 ---
 2014年9月発売

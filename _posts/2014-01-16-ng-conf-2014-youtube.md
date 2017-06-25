@@ -6,7 +6,7 @@ itemUrl: 'http://www.youtube.com/user/ngconfvideos'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-16T22:40:48Z'
 tags:
-  - AngularJS
+  - Angular
   - video
 relatedLinks:
   - title: >-

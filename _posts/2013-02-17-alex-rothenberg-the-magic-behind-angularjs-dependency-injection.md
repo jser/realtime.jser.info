@@ -8,6 +8,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/inde
 date: '2013-02-17T12:00:00Z'
 tags:
   - javascript
-  - AngularJS
+  - Angular
 ---
 AngularJSのDependency Injection の不思議な挙動についての解説

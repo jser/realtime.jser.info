@@ -9,7 +9,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/inde
 date: '2013-04-12T14:42:51Z'
 tags:
   - WebStorm
-  - AngularJS
+  - Angular
   - video
 ---
 egghead.io の人による WebStormとAngularJSについての紹介。

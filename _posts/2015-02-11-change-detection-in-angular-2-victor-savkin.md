@@ -6,7 +6,7 @@ itemUrl: 'http://victorsavkin.com/post/110170125256/change-detection-in-angular-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/index.json'
 date: '2015-02-11T12:29:14Z'
 tags:
-  - AngularJS
+  - Angular
   - アルゴリズム
 relatedLinks:
   - title: リアルな DOM はなぜ遅いのか - steps to phantasien

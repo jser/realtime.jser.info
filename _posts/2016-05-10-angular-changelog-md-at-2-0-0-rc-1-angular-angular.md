@@ -6,7 +6,7 @@ itemUrl: 'https://github.com/angular/angular/blob/2.0.0-rc.1/CHANGELOG.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/index.json'
 date: '2016-05-10T13:09:30Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: Angular 2 RCリリースについて | Angular2 Info

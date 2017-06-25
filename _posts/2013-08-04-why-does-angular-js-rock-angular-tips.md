@@ -6,7 +6,7 @@ itemUrl: 'http://angular-tips.com/blog/2013/08/why-does-angular-dot-js-rock/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/index.json'
 date: '2013-08-04T07:11:27Z'
 tags:
-  - AngularJS
+  - Angular
   - tutorial
 ---
 AngularJSのデータバインディングやディレクティブなどについて動かせるサンプルコードと共に解説してる記事

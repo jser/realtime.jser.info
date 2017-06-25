@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/index.json'
 date: '2016-09-26T13:03:18Z'
 tags:
-  - AngularJS
+  - Angular
   - testing
 ---
 AngularJS 2のコンポーネントをjasmineでテストする話

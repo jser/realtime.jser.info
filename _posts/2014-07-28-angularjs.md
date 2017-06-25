@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/07/inde
 date: '2014-07-28T08:24:42Z'
 tags:
   - JavaScript
-  - AngularJS
+  - Angular
   - XSS
   - DOM
   - セキュリティ

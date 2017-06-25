@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2016/11/angular-220-now-available.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/11/index.json'
 date: '2016-11-17T15:28:11Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: TypeScript to JavaScript - ts - COOKBOOK

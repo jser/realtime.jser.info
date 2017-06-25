@@ -6,7 +6,7 @@ itemUrl: 'https://github.com/angular/angular/blob/4.0.0-rc.1/CHANGELOG.md'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/02/index.json'
 date: '2017-02-26T01:17:14Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: angular/RELEASE_SCHEDULE.md at master · angular/angular

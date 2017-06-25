@@ -8,6 +8,6 @@ date: '2013-07-30T11:58:54Z'
 tags:
   - グラフ
   - library
-  - AngularJS
+  - Angular
 ---
 AngularJS+ D3.js を使ったグラフライブラリ

@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-18T08:53:01Z'
 tags:
-  - AngularJS
+  - Angular
   - slide
 ---
 AngularJSの構成要素について詳しく書かれてるスライド

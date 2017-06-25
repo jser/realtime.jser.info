@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2016/12/angular-160-released.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/12/index.json'
 date: '2016-12-12T14:42:47Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: angular.js/CHANGELOG.md at master · angular/angular.js

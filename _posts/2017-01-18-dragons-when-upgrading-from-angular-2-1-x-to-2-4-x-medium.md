@@ -7,6 +7,6 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/01/index.json'
 date: '2017-01-18T00:59:18Z'
 tags:
-  - AngularJS
+  - Angular
 ---
 Angular 2.1から2.4へのアップデートにおけるハマりどころについて

@@ -8,7 +8,7 @@ date: '2015-02-04T14:30:23Z'
 tags:
   - JavaScript
   - google
-  - AngularJS
+  - Angular
 ---
 JavaScriptエンジンのHidden class等の典型的な最適化とSoundScriptについて。
 SoundScriptは最適化が効きやすいようなstrict modeの拡張的な話

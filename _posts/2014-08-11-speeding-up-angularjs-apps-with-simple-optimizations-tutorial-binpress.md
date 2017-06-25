@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-11T09:11:38Z'
 tags:
-  - AngularJS
+  - Angular
   - performance
 ---
 AngularJSパフォーマンス改善Tips.

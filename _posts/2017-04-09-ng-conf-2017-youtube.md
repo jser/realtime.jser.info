@@ -6,7 +6,7 @@ itemUrl: 'https://www.youtube.com/watch?v=Nj9_p4qvm5U'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/04/index.json'
 date: '2017-04-09T05:53:31Z'
 tags:
-  - AngularJS
+  - Angular
   - イベント
   - video
 relatedLinks:

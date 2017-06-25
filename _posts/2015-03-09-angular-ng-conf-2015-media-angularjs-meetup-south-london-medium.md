@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-09T13:37:20Z'
 tags:
-  - AngularJS
+  - Angular
   - イベント
   - video
   - slide

@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/index.json'
 date: '2014-08-08T06:52:59Z'
 tags:
-  - AngularJS
+  - Angular
   - browserify
 ---
 Angular.JSにはmodule機能があるため、BrowserifyやRequire.JSのようなビルドを使わなくてもconcatするだけでも問題ないという話。

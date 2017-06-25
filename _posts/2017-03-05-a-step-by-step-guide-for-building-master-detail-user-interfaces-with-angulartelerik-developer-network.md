@@ -9,7 +9,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/03/index.json'
 date: '2017-03-05T02:39:41Z'
 tags:
-  - AngularJS
+  - Angular
   - JavaScript
   - tutorial
 ---

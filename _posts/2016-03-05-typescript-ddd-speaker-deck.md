@@ -9,7 +9,7 @@ date: '2016-03-05T09:10:11Z'
 tags:
   - TypeScript
   - DDD
-  - AngularJS
+  - Angular
   - slide
 ---
 大規模なクライアントサイドを書く場合の構造やテスト、環境についてのスライド。

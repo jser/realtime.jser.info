@@ -6,7 +6,7 @@ itemUrl: 'http://www.youtube.com/watch?v=UYVcY9EJcRs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-23T13:58:14Z'
 tags:
-  - AngularJS
+  - Angular
   - video
   - testing
 ---

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/04/inde
 date: '2017-04-27T03:36:55Z'
 tags:
   - TypeScript
-  - AngularJS
+  - Angular
   - ReleaseNote
 ---
 Angular 4.1.0リリース。

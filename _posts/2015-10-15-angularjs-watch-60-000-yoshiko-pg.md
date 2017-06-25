@@ -6,7 +6,7 @@ itemUrl: 'http://yoshiko-pg.github.io/slides/20151015-gp-meetup/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/index.json'
 date: '2015-10-15T13:00:17Z'
 tags:
-  - AngularJS
+  - Angular
   - slide
 ---
 AngularJSのパフォーマンスチューニングについてのスライド。

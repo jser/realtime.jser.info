@@ -6,6 +6,6 @@ itemUrl: 'http://d.hatena.ne.jp/koba04/20131114/1384355889'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/index.json'
 date: '2013-11-14T01:13:39Z'
 tags:
-  - AngularJS
+  - Angular
 ---
 Angular.js 1.2のngRepeat、ngAnimateについて

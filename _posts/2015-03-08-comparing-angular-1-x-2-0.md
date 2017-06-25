@@ -6,7 +6,7 @@ itemUrl: 'http://shmck.com/comparing-angular-1-x-2-0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/index.json'
 date: '2015-03-08T13:46:21Z'
 tags:
-  - AngularJS
+  - Angular
   - JavaScript
 relatedLinks:
   - title: 'AngularJS: AngularJS 2.0'

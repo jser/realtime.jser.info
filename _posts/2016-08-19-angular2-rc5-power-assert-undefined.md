@@ -6,7 +6,7 @@ itemUrl: 'http://blog.bokuweb.me/entry/angular2_rc5'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/08/index.json'
 date: '2016-08-19T16:41:39Z'
 tags:
-  - AngularJS
+  - Angular
   - testing
 relatedLinks:
   - title: Angular 2 RC.5がリリースされました · Angular2 Info

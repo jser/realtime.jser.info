@@ -6,7 +6,7 @@ itemUrl: 'https://leanpub.com/router'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/08/index.json'
 date: '2016-08-30T03:19:54Z'
 tags:
-  - AngularJS
+  - Angular
   - book
 ---
 AngularJS 2のRouterについての電子書籍

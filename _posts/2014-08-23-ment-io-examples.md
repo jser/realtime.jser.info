@@ -8,6 +8,6 @@ date: '2014-08-23T02:36:10Z'
 tags:
   - JavaScript
   - library
-  - AngularJS
+  - Angular
 ---
 COntent EditableとかテキストエリアでGitHub的な@ mentionの補完が出来るライブラリ

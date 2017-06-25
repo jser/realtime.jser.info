@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-14T03:01:37Z'
 tags:
   - TypeScript
-  - AngularJS
+  - Angular
   - WebStorm
   - video
 ---

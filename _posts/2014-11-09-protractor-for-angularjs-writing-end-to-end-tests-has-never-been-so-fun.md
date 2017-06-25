@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/11/inde
 date: '2014-11-09T01:51:43Z'
 tags:
   - protractor
-  - AngularJS
+  - Angular
   - testing
   - slide
 ---

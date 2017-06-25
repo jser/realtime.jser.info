@@ -6,7 +6,7 @@ itemUrl: 'http://angularjs.blogspot.com/2014/10/angularjs-130-superluminal-nudge
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-14T09:09:29Z'
 tags:
-  - AngularJS
+  - Angular
   - ReleaseNote
 relatedLinks:
   - title: AngularJS 1.3.0 リリース - AngularJS Ninja

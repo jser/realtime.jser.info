@@ -9,7 +9,7 @@ tags:
   - MS
   - UI
   - React
-  - AngularJS
+  - Angular
 ---
 Office 365とかのUIコンポーネントを提供するライブラリ。
 Vanilla JS、React、Angular、iOS版がある。

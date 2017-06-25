@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - DOM
   - library
-  - AngularJS
+  - Angular
 ---
 Mustachesなテンプレートとデータバインディングして、AngularJSみたいにDOM等を扱うライブラリ.
 名前の通り値を変更した時点で反映するリアクティブスタイル.

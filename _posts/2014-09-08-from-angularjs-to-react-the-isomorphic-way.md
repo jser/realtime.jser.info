@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/09/inde
 date: '2014-09-08T10:42:55Z'
 tags:
   - JavaScript
-  - AngularJS
+  - Angular
 ---
 SEO的な視点からAngularJSからReactにした話。
 Angularではkoa-prerenderでプリレンダリングをしていた。

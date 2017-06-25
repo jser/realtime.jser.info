@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/06/index.json'
 date: '2017-06-01T08:02:38Z'
 tags:
-  - AngularJS
+  - Angular
 ---
 Angularでのステート管理について。
 `@ngrx/store`を使ったステート管理の解説

@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/index.json'
 date: '2013-07-31T03:29:01Z'
 tags:
-  - AngularJS
+  - Angular
   - ebook
   - slide
 ---

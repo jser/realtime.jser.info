@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-26T09:22:33Z'
 tags:
-  - AngularJS
+  - Angular
   - JavaScript
   - document
   - spec

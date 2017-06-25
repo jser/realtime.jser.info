@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/11/inde
 date: '2013-11-24T08:06:38Z'
 tags:
   - JavaScript
-  - AngularJS
+  - Angular
   - slide
 ---
 AngularJSとEmber.jsの違いについてのスライド。

@@ -6,7 +6,7 @@ itemUrl: 'http://benclinkinbeard.com/posts/angular-with-browserify-from-ng-conf-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/01/index.json'
 date: '2014-01-27T06:08:09Z'
 tags:
-  - AngularJS
+  - Angular
   - browserify
   - slide
   - video

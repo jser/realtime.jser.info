@@ -6,7 +6,7 @@ itemUrl: 'https://www.ng-book.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/index.json'
 date: '2014-02-13T05:20:49Z'
 tags:
-  - AngularJS
+  - Angular
   - book
 relatedLinks:
   - title: Books | ng-newsletter

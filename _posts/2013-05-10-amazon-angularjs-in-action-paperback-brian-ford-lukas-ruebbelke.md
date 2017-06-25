@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/05/inde
 date: '2013-05-10T15:00:21Z'
 tags:
   - JavaScript
-  - AngularJS
+  - Angular
   - book
 ---
 2013年11月28日発売
