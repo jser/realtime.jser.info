@@ -11,7 +11,7 @@ function pickFromMatter(item) {
     var object = {
         title: emojiText.convert(item.title.trim().normalize('NFKC'), {
             delimiter: ':'
-        }),
+        }).replace(/[\ud800-\udfff]/g, ""),
         author: "azu",
         layout: "post",
         itemUrl: item.url.trim(),
@@ -27,7 +27,7 @@ function pickFromMatter(item) {
         object.relatedLinks = item.relatedLinks.map(function(item){
             item.title = emojiText.convert(item.title.normalize('NFKC'), {
                 delimiter: ':'
-            });
+            }).replace(/[\ud800-\udfff]/g, "");
             return item
         });
     }

@@ -1,5 +1,7 @@
 ---
-title: "faceyspacey/redux-first-router: \uD83C\uDF96 seamless redux-first routing -- just dispatch actions"
+title: >-
+  faceyspacey/redux-first-router:  seamless redux-first routing -- just dispatch
+  actions
 author: azu
 layout: post
 itemUrl: 'https://github.com/faceyspacey/redux-first-router'
