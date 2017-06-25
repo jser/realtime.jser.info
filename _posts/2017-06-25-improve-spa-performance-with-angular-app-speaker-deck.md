@@ -18,5 +18,5 @@ relatedLinks:
     url: 'https://github.com/mgechev/angular-performance-checklist'
 ---
 メモリリークのパターン、Chromeの開発者ツールを使っての計測方法について。
-Agularにおける意図しないメモリリークを避ける方法やChange Detectionのコストを削減する方法についてなど
+Angularにおける意図しないメモリリークを避ける方法やChange Detectionのコストを削減する方法についてなど
 
