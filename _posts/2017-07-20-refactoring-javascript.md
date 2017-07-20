@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://refactoringjs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/07/index.json'
-date: '2017-07-20T01:26:57Z'
+date: '2017-07-20T01:28:31Z'
 tags:
   - JavaScript
   - book
@@ -14,5 +14,5 @@ relatedLinks:
     url: >-
       https://www.safaribooksonline.com/library/view/refactoring-javascript/9781491964910/
 ---
-JavaScriptのリファクタリングについての書籍。PDF版が無料で公開サれている。
+JavaScriptのリファクタリングについての書籍。PDF版が無料で公開されている。
 ES2015+な文法を使ったリファクタリング、テストの仕方、OOPやFPのアプローチを使ったリファクタリングなどについて解説されている
