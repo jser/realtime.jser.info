@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/esdoc/esdoc/blob/master/CHANGELOG.md#101-2017-07-30'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/07/index.json'
-date: '2017-07-31T01:28:52Z'
+date: '2017-07-31T01:30:38Z'
 tags:
   - JavaScript
   - document
@@ -17,5 +17,5 @@ relatedLinks:
   - title: esdoc/esdoc-plugins
     url: 'https://github.com/esdoc/esdoc-plugins'
 ---
-JavaScript向けのドキュメント生成ツールのESDoc 1.0.1リリース。
+JavaScript向けのドキュメントツールのESDoc 1.0.1リリース。
 コア部分もプラグイン化され、`esdoc-standard-plugin`にまとめられた。
