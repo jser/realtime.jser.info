@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/flow-type/linting-in-flow-7709d7a7e969'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/08/index.json'
-date: '2017-08-07T14:53:39Z'
+date: '2017-08-07T14:57:02Z'
 tags:
   - flowtype
   - article
@@ -13,4 +13,4 @@ relatedLinks:
     url: 'https://github.com/facebook/flow/blob/v0.52.0/Changelog.md'
 ---
 Flow 0.52.0で追加されたFlow linterについての解説。
-ESLintのように`.flowconfig`やコメントでチェック項目毎に有効/無効/エラーレベルの制御できる。
+ESLintのように`.flowconfig`やコメントでルール毎に有効/無効/エラーレベルの制御できる。
