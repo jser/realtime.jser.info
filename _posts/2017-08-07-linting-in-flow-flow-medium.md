@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/flow-type/linting-in-flow-7709d7a7e969'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/08/index.json'
-date: '2017-08-07T14:59:59Z'
+date: '2017-08-07T15:00:34Z'
 tags:
   - flowtype
   - article
