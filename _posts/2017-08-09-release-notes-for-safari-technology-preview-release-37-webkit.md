@@ -5,9 +5,10 @@ layout: post
 itemUrl: >-
   https://webkit.org/blog/7862/release-notes-for-safari-technology-preview-release-37/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/08/index.json'
-date: '2017-08-09T23:53:02Z'
+date: '2017-08-09T23:53:30Z'
 tags:
   - safari
+  - ReleaseNote
 relatedLinks:
   - title: >-
       tc39/proposal-optional-catch-binding: proposal for ECMAScript to allow
