@@ -1,5 +1,7 @@
 ---
-title: "babel-preset-env@2.0 を試した \b-トランスパイル環境をスケールさせていく\b- | mediba Creator × Engineer Blog"
+title: >-
+  babel-preset-env@2.0 を試した -トランスパイル環境をスケールさせていく- | mediba Creator × Engineer
+  Blog
 author: azu
 layout: post
 itemUrl: 'http://ceblog.mediba.jp/post/163780014387/babel-preset-env-v2'
