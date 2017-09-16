@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/inde
 date: '2015-05-01T09:44:41Z'
 tags:
   - JavaScript
-  - サーバー
+  - server
   - slide
 relatedLinks:
   - title: isomorphic

@@ -9,7 +9,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/05/inde
 date: '2017-05-28T14:10:29Z'
 tags:
   - React
-  - サーバー
+  - server
   - video
   - performance
 relatedLinks:

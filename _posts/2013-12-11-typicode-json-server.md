@@ -8,7 +8,7 @@ date: '2013-12-11T06:59:30Z'
 tags:
   - JSON
   - HTTP
-  - サーバー
+  - server
   - testing
   - library
   - node.js

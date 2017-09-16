@@ -8,7 +8,7 @@ date: '2017-02-02T15:56:24Z'
 tags:
   - JavaScript
   - React
-  - サーバー
+  - server
 ---
 Reactを使ったフレームワークであるNext.js 2βについて。
 ルーティング、コード分割、webpack 2のサポート、webpackやbabelの設定のカスタマイズなどの変更点について

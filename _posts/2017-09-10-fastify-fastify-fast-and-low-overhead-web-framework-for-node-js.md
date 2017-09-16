@@ -8,6 +8,6 @@ date: '2017-09-10T03:42:43Z'
 tags:
   - library
   - node.js
-  - サーバー
+  - server
 ---
 Node.jsのウェブフレームワーク。 オーバーヘッドが小さなルーティング、Schemaベースなシリアライズ、express/connect互換のmiddlewareなどを持っている

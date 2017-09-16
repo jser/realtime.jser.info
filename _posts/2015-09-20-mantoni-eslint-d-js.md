@@ -8,7 +8,7 @@ date: '2015-09-20T05:53:47Z'
 tags:
   - JavaScript
   - Tools
-  - サーバー
+  - server
 ---
 ESLintをサーバとして立ててLintを行うツール。
 初回起動のオーバーヘッドがなくなるので高速に実行出来る

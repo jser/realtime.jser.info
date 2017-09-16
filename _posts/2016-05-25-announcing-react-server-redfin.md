@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/inde
 date: '2016-05-25T14:04:55Z'
 tags:
   - React
-  - サーバー
+  - server
 ---
 Reactのサーバサイドレンダリングを行うためのフレームワーク

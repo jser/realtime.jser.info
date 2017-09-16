@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/07/inde
 date: '2016-07-04T00:12:46Z'
 tags:
   - node.js
-  - サーバー
+  - server
   - template
 ---
 Node.jsでサーバサイドのプロジェクトテンプレート

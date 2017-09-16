@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/11/inde
 date: '2016-11-03T09:14:12Z'
 tags:
   - React
-  - サーバー
+  - server
   - library
   - tutorial
 ---

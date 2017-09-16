@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/inde
 date: '2016-04-07T04:40:33Z'
 tags:
   - React
-  - サーバー
+  - server
 ---
 Reactを使ったexpress middlewareなどのサーバ関連の実装

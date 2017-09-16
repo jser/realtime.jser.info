@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/03/inde
 date: '2013-03-04T11:15:00Z'
 tags:
   - node.js
-  - サーバー
+  - server
   - book
 ---
 2013年3月15日発売

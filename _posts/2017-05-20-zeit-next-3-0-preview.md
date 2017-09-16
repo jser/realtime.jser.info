@@ -8,7 +8,7 @@ date: '2017-05-20T09:11:39Z'
 tags:
   - JavaScript
   - React
-  - サーバー
+  - server
   - ReleaseNote
 ---
 Next 3.0 プレビューリリース。

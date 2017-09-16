@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/inde
 date: '2015-12-13T11:28:43Z'
 tags:
   - React
-  - サーバー
+  - server
   - tutorial
 ---
 Reactをサーバサイドで扱う方法について

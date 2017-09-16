@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/inde
 date: '2015-04-14T13:44:32Z'
 tags:
   - JavaScript
-  - サーバー
+  - server
   - 開発環境
   - Tools
 ---
