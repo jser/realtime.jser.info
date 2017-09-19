@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 CoffeeScript 2リリース。 
-ES2015+に準拠した変更が含まれる。`class`や`=>`がES2015と同等に、 偉業コメントが出力されるようになり、Async function、JSX、ES module、for...ofの対応など
+ES2015+に準拠した変更が含まれる。`class`や`=>`がES2015と同等に、 一行コメントが出力されるようになり、Async function、JSX、ES module、for...ofの対応など
