@@ -9,6 +9,9 @@ date: '2017-10-05T14:45:19Z'
 tags:
   - npm
   - news
+relatedLinks:
+  - title: Keeping JavaScript safe // Speaker Deck
+    url: 'https://speakerdeck.com/ceejbot/keeping-javascript-safe'
 ---
 npm 5.5.0で2要素認証のサポート。
 またRead-only tokenを発行できるようになった。
