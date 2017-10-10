@@ -12,6 +12,8 @@ tags:
 relatedLinks:
   - title: Mocha v4 Nears Release
     url: 'https://boneskull.com/mocha-v4-nears-release/'
+  - title: compilers deprecation · mochajs/mocha Wiki
+    url: 'https://github.com/mochajs/mocha/wiki/compilers-deprecation'
 ---
 Mocha 4.0.0リリース。
 Node.js 0.1xなどのサポート終了、IE8/PhantomJS 1.xのサポート終了、`--no-exit`がデフォルトの動作になるなど
