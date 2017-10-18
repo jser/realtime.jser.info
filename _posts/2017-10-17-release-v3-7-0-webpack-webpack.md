@@ -18,4 +18,4 @@ relatedLinks:
       https://github.com/webpack/webpack/tree/master/examples/common-chunk-grandchildren
 ---
 webpack v3.7.0リリース。
-`CommonChunkPlugin`プラグインに`deepChildren`オプションを追加を追加、ES modulesのchunk graphのリファクタリングでパフォーマンスの改善など
+`CommonChunkPlugin`プラグインに`deepChildren`オプションを追加、ES modulesのchunk graphのリファクタリングでパフォーマンスの改善など
