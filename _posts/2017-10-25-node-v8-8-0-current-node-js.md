@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://github.com/nodejs/node/pull/15445'
 ---
 Node.js 8.8.0リリース。
-httpsがデフォルトで有効化、モジュールのhookを処理を扱えるコマンドライン引数として`--loader`の追加など
+http2モジュールがデフォルトで有効化、モジュールのhookを処理を扱えるコマンドライン引数として`--loader`の追加など
