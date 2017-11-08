@@ -16,4 +16,4 @@ relatedLinks:
   - title: lit-html を調べたメモと考えたこと - EagleLand
     url: 'https://1000ch.net/posts/2017/lit-html.html'
 ---
-Tagged Template literalでHTMLを書いてレンダリングできるライブラリ。テンプレートのキャッシュが行われ再描画残すとを小さくするモチベーション。`<template>`要素との連携が考えられていて、Custom Elementでの利用がしやすくなっている。
+Tagged Template literalでHTMLを書いてレンダリングできるライブラリ。テンプレートのキャッシュが行われ再描画のコストを小さくするモチベーション。`<template>`要素との連携が考えられていて、Custom Elementでの利用がしやすくなっている。
