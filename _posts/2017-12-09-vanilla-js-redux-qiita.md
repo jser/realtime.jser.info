@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://qiita.com/ryota-murakami/items/2ed6b12943214ecfeeaf'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/12/index.json'
-date: '2017-12-09T06:35:23Z'
+date: '2017-12-09T06:35:29Z'
 tags:
   - redux
   - JavaScript
