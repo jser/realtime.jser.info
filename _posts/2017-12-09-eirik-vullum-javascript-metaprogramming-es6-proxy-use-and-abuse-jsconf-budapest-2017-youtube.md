@@ -11,5 +11,8 @@ tags:
   - JavaScript
   - slide
   - video
+relatedLinks:
+  - title: JSBP - JavaScript Metaprogramming with Proxies by Eirik Langholm Vullum
+    url: 'http://slides.com/eiriklv/javascript-metaprogramming-with-proxies-41#/'
 ---
 ES Proxyを活用したメタプログラミングについての発表動画
