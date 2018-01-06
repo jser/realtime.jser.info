@@ -16,12 +16,12 @@ relatedLinks:
   - title: Mitigations landing for new class of timing attack | Mozilla Security Blog
     url: >-
       https://blog.mozilla.org/security/2018/01/03/mitigations-landing-new-class-timing-attack/
-  - title: >-
-      Brian Terlson on Twitter: &#34;Also, it was sad to disable
-      SharedArrayBuffer. Here&#39;s hoping it comes back soon and better than
-      ever!&#34;
-    url: 'https://twitter.com/bterlson/status/948743151883137024'
   - title: Meltdown and Spectre
     url: 'https://spectreattack.com/'
+  - title: >-
+      Mitigating speculative execution side-channel attacks in Microsoft Edge
+      and Internet Explorer - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog
+    url: >-
+      https://blogs.windows.com/msedgedev/2018/01/03/speculative-execution-mitigations-microsoft-edge-internet-explorer/#m2GyZlsjAzq0Do6K.97
 ---
 ChromeやFirefoxなどはMeltdown/Spectre(CPUプロセッサに関する脆弱性)を受けて、一時的にSharedArrayBufferの無効化や軽減策として`performance.now()`などの挙動を変更する
