@@ -23,5 +23,8 @@ relatedLinks:
       and Internet Explorer - Microsoft Edge Dev BlogMicrosoft Edge Dev Blog
     url: >-
       https://blogs.windows.com/msedgedev/2018/01/03/speculative-execution-mitigations-microsoft-edge-internet-explorer/#m2GyZlsjAzq0Do6K.97
+  - title: What Spectre and Meltdown Mean For WebKit | WebKit
+    url: 'https://webkit.org/blog/8048/what-spectre-and-meltdown-mean-for-webkit/'
 ---
-ChromeやFirefoxなどはMeltdown/Spectre(CPUプロセッサに関する脆弱性)を受けて、一時的にSharedArrayBufferの無効化や軽減策として`performance.now()`などの挙動を変更する
+Chrome、Firefox、MSEdge、SafariなどのブラウザはMeltdown/Spectre(CPUプロセッサに関する脆弱性)を受ける。
+そのためSharedArrayBufferの無効化や軽減策として`performance.now()`などの挙動を変更する
