@@ -12,6 +12,8 @@ tags:
 relatedLinks:
   - title: Bootstrap 4 Beta · Bootstrap
     url: 'https://blog.getbootstrap.com/2017/08/10/bootstrap-4-beta/'
+  - title: Migrating to v4 · Bootstrap
+    url: 'https://getbootstrap.com/docs/4.0/migration/'
 ---
 Bootstrap 4リリース。
 4.0ではLessからSassへ、Flexboxの利用、Cardsへの移行、IE 8、9などのサポート終了など。
