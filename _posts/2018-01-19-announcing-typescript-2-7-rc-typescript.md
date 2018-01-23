@@ -12,4 +12,4 @@ tags:
 ---
 TypeScript 2.7RCリリース
 
-クラスプロパティへの代入忘れをチェックする`--strictPropertyInitialization`)の追加、Tupleの扱いの変更、`in`と`instanceof`の改善など
+クラスプロパティへの代入忘れをチェックする`--strictPropertyInitialization`の追加、Tupleの扱いの変更、`in`と`instanceof`の改善など
