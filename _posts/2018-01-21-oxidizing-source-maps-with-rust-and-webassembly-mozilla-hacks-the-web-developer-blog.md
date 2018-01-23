@@ -21,5 +21,5 @@ relatedLinks:
       #306 · mozilla/source-map
     url: 'https://github.com/mozilla/source-map/pull/306'
 ---
-Source Mapパーサ、ジェネレーターをRust + WebAssemblyに書き換えた話し。
-Rustで書いてwasmに変換して動作させることで、処理時間や処理の安定性が向上したという話
+Source Mapパーサ、ジェネレーターをRust + WebAssemblyに書き換えた話。
+Rustで書いてwasmに変換して使うことで、JavaScriptの実装に比べて処理時間や処理の安定性が向上したという話
