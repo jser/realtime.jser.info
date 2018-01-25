@@ -11,6 +11,8 @@ tags:
 relatedLinks:
   - title: RIP CommonsChunkPlugin.md
     url: 'https://gist.github.com/sokra/1522d586b8e5c0f5072d7565c2bee693'
+  - title: ':rocket:webpack 4 beta — try it today!:rocket: – webpack – Medium'
+    url: 'https://medium.com/webpack/webpack-4-beta-try-it-today-6b1d27d7d7e2'
 ---
 webpack 4.0.0βリリース。
 Node.js 4のサポート終了、`mode`が必須のオプションに、`import()`は常に名前空間オブジェクトを返すように。
