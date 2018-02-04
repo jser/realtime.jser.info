@@ -21,4 +21,4 @@ relatedLinks:
     url: 'https://addons.mozilla.org/en-US/firefox/addon/compat-report/'
 ---
 MDNが利用してるブラウザのサポート状況をまとめたデータがnpmパッケージとして利用できるようになった。
-このデータを使い方やサイトのサポートブラウザの可視化について
+このデータの使い方やサイトのサポートブラウザの可視化する拡張などについて
