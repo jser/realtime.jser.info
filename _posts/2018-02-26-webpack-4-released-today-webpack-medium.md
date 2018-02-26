@@ -17,6 +17,8 @@ relatedLinks:
   - title: 'webpack 4: migration guide for plugins/loaders – webpack – Medium'
     url: >-
       https://medium.com/webpack/webpack-4-migration-guide-for-plugins-loaders-20a79b927202
+  - title: 'Webpack 4.0 Release: What&#39;s New?'
+    url: 'https://auth0.com/blog/webpack-4-release-what-is-new/'
 ---
 webpack 4リリース。
 ビルドパフォーマンスの改善、`mode`オプションの追加、`CommonsChunkPlugin`の代わりに`optimize`オプションの追加、`.wasm`、`.mjs`のサポートなど。
