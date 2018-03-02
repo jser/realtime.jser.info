@@ -13,6 +13,6 @@ tags:
   - Tools
   - webpack
 ---
-JavaScriptからTypeScriptに移行する際の型付けを補助するツール。
+TypeScriptの型付けを補助するツール。
 webpackやnode hookを使い変換したコードを実行し、実行時の関数の引数、返り値、変数へ実際に入った値から型を推測する。
-その推測した型をTypeScriptのコードに対して適応することで片付けを補助する。
+その推測した型をTypeScriptのコードに対して適応することで型付けを補助する。
