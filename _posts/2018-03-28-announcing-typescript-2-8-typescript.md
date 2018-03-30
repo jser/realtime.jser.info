@@ -9,6 +9,9 @@ date: '2018-03-28T14:28:56Z'
 tags:
   - TypeScript
   - ReleaseNote
+relatedLinks:
+  - title: TypeScript 2.8.1 変更点 - Qiita
+    url: 'https://qiita.com/vvakame/items/2e32aeded05997f77dfa'
 ---
 TypeScript 2.8リリース。
 Conditional Types、d.ts飲みの出力に対応、`@jsx` pragmaコメントのサポート、mapped type modifierの`+`、`-`のサポートなど
