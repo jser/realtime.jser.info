@@ -11,6 +11,8 @@ tags:
 relatedLinks:
   - title: Update on Async Rendering - React Blog
     url: 'https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html'
+  - title: 'React v16.3.0: New lifecycles and context API【日本語翻訳】 | maesblog'
+    url: 'https://mae.chab.in/archives/60040'
 ---
 React v16.3.0リリース。
 新しいContext APIの追加、`createRef`メソッドの追加、`forwardRef`メソッドの追加。
