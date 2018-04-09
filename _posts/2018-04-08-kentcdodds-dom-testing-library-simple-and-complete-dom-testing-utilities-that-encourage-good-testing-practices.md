@@ -12,5 +12,9 @@ tags:
   - DOM
   - testing
   - library
+relatedLinks:
+  - title: 'Introducing the react-testing-library :goat: – kentcdodds'
+    url: >-
+      https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65
 ---
 DOM要素をテストするMatcherライブラリ
