@@ -8,6 +8,9 @@ date: '2018-04-24T08:21:20Z'
 tags:
   - npm
   - ReleaseNote
+relatedLinks:
+  - title: 'Announcing npm@6 – npm, Inc. – Medium'
+    url: 'https://medium.com/npm-inc/announcing-npm-6-5d0b1799a905'
 ---
 npm 6.0.0リリース。
 `npm init`で`create-react-app`のようなパッケージを元に初期化できるように、`npm audit`の追加。
