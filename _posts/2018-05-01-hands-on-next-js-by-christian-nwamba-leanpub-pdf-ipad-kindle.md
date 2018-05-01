@@ -4,10 +4,10 @@ author: azu
 layout: post
 itemUrl: 'https://leanpub.com/hands-on-nextjs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/05/index.json'
-date: '2018-05-01T10:42:22Z'
+date: '2018-05-01T10:42:47Z'
 tags:
-  - .net
   - server
   - book
+  - React
 ---
 Next.jsについての書籍
