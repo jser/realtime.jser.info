@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.slideshare.net/MasahikoJinno2/pwa-beginners-4-a2hsv2'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/05/index.json'
-date: '2018-05-27T10:14:28Z'
+date: '2018-05-27T10:15:20Z'
 tags:
   - ios
   - Android
@@ -12,6 +12,6 @@ tags:
   - slide
   - PWA
 ---
-Add to Homescreeについてのスライド。
+Add to HomeScreenについてのスライド。
 対応方法、App Install Bannersの制御やユースケースについて。
 またAndroid/Chromeでの動作とiOS/Safariでの動作の違いなどについて
