@@ -9,6 +9,9 @@ date: '2018-05-31T23:01:24Z'
 tags:
   - TypeScript
   - ReleaseNote
+relatedLinks:
+  - title: TypeScript 2.9 変更点 - Qiita
+    url: 'https://qiita.com/utatti/items/9f6c60f11620f7df50c0'
 ---
 TypeScript 2.9リリース。
 `import()` typeの追加、JSONファイルをimportしたときに型推論がされるように、Tagged Template Stringの型改善など
