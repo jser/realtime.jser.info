@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://reach.tech/router'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/06/index.json'
-date: '2018-06-04T15:02:30Z'
+date: '2018-06-04T15:04:10Z'
 tags:
   - JavaScript
   - React
@@ -12,4 +12,4 @@ tags:
   - accessibility
 ---
 React向けのルーターライブラリ。
-Focus Mangementなどのアクセシビリティが考慮されている。
+React Routerの元々の作者が作成していて、Focus Mangementなどのアクセシビリティが考慮されている。
