@@ -8,6 +8,9 @@ date: '2018-06-06T13:05:47Z'
 tags:
   - node.js
   - video
+relatedLinks:
+  - title: Node.js における設計ミス By Ryan Dahl - from scratch
+    url: 'http://yosuke-furukawa.hatenablog.com/entry/2018/06/07/080335'
 ---
 Node.jsの作成者であるryによるNode.js初期のデザインミスついての発表。
 またTypeScriptのruntimeとして作成してるDenoの紹介。
