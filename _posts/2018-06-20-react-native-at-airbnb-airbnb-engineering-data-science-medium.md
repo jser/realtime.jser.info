@@ -11,6 +11,9 @@ tags:
   - Android
   - JavaScript
   - article
+relatedLinks:
+  - title: react-native-jp/react-native-at-airbnb-jp-translation
+    url: 'https://github.com/react-native-jp/react-native-at-airbnb-jp-translation'
 ---
 AirbnbでのReact Nativeについて。
 React Nativeの技術的解説、上手くいった点、上手くいかなかった点。
