@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 ESLint 5.1.0リリース。
-`no-catch-shadow`はdeprecatedとなり、`no-shadow`を優先するようになった。
+`no-catch-shadow`はdeprecatedとなった。代わりに`no-shadow`を使うとよい。
