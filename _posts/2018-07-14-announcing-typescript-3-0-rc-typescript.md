@@ -9,6 +9,9 @@ date: '2018-07-14T10:56:42Z'
 tags:
   - TypeScript
   - ReleaseNote
+relatedLinks:
+  - title: TypeScript 3.0.0-RC 変更点 - Qiita
+    url: 'https://qiita.com/vvakame/items/57a0559c45b88b2ae168'
 ---
 TypeScript 3.0 RCリリース。
 monorepo向けのサポートがメイン。
