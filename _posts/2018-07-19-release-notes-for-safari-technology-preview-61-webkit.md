@@ -8,6 +8,9 @@ date: '2018-07-19T02:05:42Z'
 tags:
   - safari
   - ReleaseNote
+relatedLinks:
+  - title: Element.toggleAttribute | blog.jxck.io
+    url: 'https://blog.jxck.io/entries/2018-07-20/toggle-attribute.html'
 ---
 Safari Technology Preview 61リリース。
 `Element.toggleAttribute`のサポート、`fetch`の`credentials`のデフォルト値を`same-origin`へ変更など
