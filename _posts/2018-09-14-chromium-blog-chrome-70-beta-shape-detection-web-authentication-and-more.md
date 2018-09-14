@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://blog.chromium.org/2018/09/chrome-70-beta-shape-detection-web.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/09/index.json'
-date: '2018-09-14T05:57:28Z'
+date: '2018-09-14T05:57:59Z'
 tags:
   - Chrome
   - ReleaseNote
