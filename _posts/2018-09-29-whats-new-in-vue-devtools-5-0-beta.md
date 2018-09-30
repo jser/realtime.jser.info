@@ -4,11 +4,12 @@ author: azu
 layout: post
 itemUrl: 'https://www.telerik.com/blogs/whats-new-in-vue-devtools-5-beta'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/09/index.json'
-date: '2018-09-29T13:43:34Z'
+date: '2018-09-29T13:44:07Z'
 tags:
   - Vue
   - debug
   - Extension
+  - article
 relatedLinks:
   - title: Release v5.0.0-beta.1 · vuejs/vue-devtools
     url: 'https://github.com/vuejs/vue-devtools/releases/tag/v5.0.0-beta.1'
