@@ -13,7 +13,7 @@ relatedLinks:
     url: 'https://qiita.com/Quramy/items/c596b1bacf591da545b2'
   - title: Breaking Changes · Microsoft/TypeScript Wiki
     url: >-
-      https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#narrowing-functions-now-intersects--object-and-unconstrained-generic-type-parameters
+      https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-31
 ---
 TypeScript 3.1リリース。
 Mapped Tuple Type、namespaceを使わずに関数へプロパティ追加できるように、TypeScriptのバージョンごとに型を配布できる`typesVersions`フィールドをサポート。
