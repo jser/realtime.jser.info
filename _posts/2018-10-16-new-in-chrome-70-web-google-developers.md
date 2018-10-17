@@ -19,4 +19,4 @@ relatedLinks:
     url: 'https://developers.google.com/web/updates/2018/09/chrome-70-deps-rems'
 ---
 Chrome 70リリース。
-Desktop PWAのサポート、Credential Management APIで指紋認証をサポート、Web Workerで`name`オプション、TLS 1.3のサポート。 Web Components v0を非推奨化など
+Desktop PWA(Windows)のサポート、Credential Management APIで指紋認証をサポート、Web Workerで`name`オプション、TLS 1.3のサポート。 Web Components v0を非推奨化など
