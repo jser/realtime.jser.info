@@ -6,10 +6,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/nico3333fr/CSP-useful'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/10/index.json'
-date: '2018-10-21T14:02:05Z'
+date: '2018-10-21T14:02:27Z'
 tags:
   - CSP
   - testing
+  - document
 ---
 CSPレポートのサンプルやノイズになってるCSPレポートなどについてまとめてるリポジトリ。またCSPのTipsやユースケースについて書かれている
 
