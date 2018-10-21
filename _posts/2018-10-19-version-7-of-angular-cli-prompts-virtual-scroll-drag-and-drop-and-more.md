@@ -15,4 +15,4 @@ relatedLinks:
 ---
 Angular 7リリース。
 TypeScript 3.1のサポート、Virtual Scrollingの対応、CDKでDrag and Dropのサポート。
-`reflect-metadata`がproductionビルドに間違って含まれるケースを改善など
+`reflect-metadata`がproductionビルドに誤って含まれるケースを防止する改善など
