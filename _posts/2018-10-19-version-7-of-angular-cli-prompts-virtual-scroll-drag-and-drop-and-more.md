@@ -12,6 +12,8 @@ tags:
 relatedLinks:
   - title: angular/CHANGELOG.md at master · angular/angular
     url: 'https://github.com/angular/angular/blob/master/CHANGELOG.md#700-2018-10-18'
+  - title: Angular 7リリースノート – Angular Blog日本語訳 | maesblog
+    url: 'https://mae.chab.in/archives/60226'
 ---
 Angular 7リリース。
 TypeScript 3.1のサポート、Virtual Scrollingの対応、CDKでDrag and Dropのサポート。
