@@ -14,6 +14,8 @@ relatedLinks:
   - title: storybook/MIGRATION.md at master · storybooks/storybook
     url: >-
       https://github.com/storybooks/storybook/blob/master/MIGRATION.md#from-version-34x-to-40x
+  - title: Storybook 4.0 is here! – Storybook – Medium
+    url: 'https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de'
 ---
 Storybook 4.0.0リリース。
 Babel 7/webacpk 4へのアップデート、Ember/MarkoJS/Mithril/HTML/Svelte/Riotのサポート。
