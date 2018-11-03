@@ -20,6 +20,10 @@ relatedLinks:
       Google ドキュメント
     url: >-
       https://docs.google.com/document/d/1hWb-lQW4NSG9yRpyyiAA_9Ktytd5lypLnVLhPX9vamE/edit#heading=h.83axxx51uiaq
+  - title: >-
+      React Conf 2018のKeynoteで発表されたHooks、Concurrent Reactのまとめ - Cybozu Inside
+      Out | サイボウズエンジニアのブログ
+    url: 'https://blog.cybozu.io/entry/2018/11/02/113000'
 ---
 React v16.7.0-alphaで導入された"Hooks"のProposalについて。
 
