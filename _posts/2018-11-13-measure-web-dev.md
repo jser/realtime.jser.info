@@ -10,6 +10,9 @@ tags:
   - Tools
   - performance
   - gool
+relatedLinks:
+  - title: 'Chromium Blog: PageSpeed Insights, now powered by Lighthouse'
+    url: 'https://blog.chromium.org/2018/11/pagespeed-insights-now-powered-by.html'
 ---
 指定したURLに対してLighthouseを動かしてパフォーマンスレポートを取得できるツール。
 Lighthouseのレポートをダウンロードできる
