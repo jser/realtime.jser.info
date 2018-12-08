@@ -14,6 +14,14 @@ tags:
 relatedLinks:
   - title: 'MicrosoftEdge/MSEdge: Microsoft Edge'
     url: 'https://github.com/MicrosoftEdge/MSEdge'
+  - title: >-
+      Chromium adoption in Microsoft Edge and future of ChakraCore · Issue #5865
+      · Microsoft/ChakraCore
+    url: 'https://github.com/Microsoft/ChakraCore/issues/5865'
+  - title: >-
+      MicrosoftEdge/MSEdgeExplainers: Home for explainer documents originated by
+      the Microsoft Edge team
+    url: 'https://github.com/MicrosoftEdge/MSEdgeExplainers'
 ---
 デスクトップMSEdgeはChromiumベース(Blink+V8)に移行し、すべてのWindowsバージョンやmacOS向けなどへ提供予定。
-JavaScriptエンジンのChakraCoreはEdge以外の利用のため開発を続ける。
+JavaScriptエンジンのChakraCoreはEdge以外の利用のためサポートを続ける。
