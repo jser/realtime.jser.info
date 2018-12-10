@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://techblog.yahoo.co.jp/advent-calendar-2018/yahoo-frontend/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/12/index.json'
-date: '2018-12-10T23:25:43Z'
+date: '2018-12-10T23:39:48Z'
 tags:
   - JavaScript
   - CSS
@@ -12,4 +12,4 @@ tags:
   - opinion
 ---
 ヤフー株式会社における各サービスごとのフロントエンドに利用しているフレームワークやライブラリなどについて。
-それぞれの技術を選定した理由などについてもまとめらている。
+それぞれの技術を選定した理由などについてもまとめられている。
