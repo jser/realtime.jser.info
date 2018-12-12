@@ -13,6 +13,8 @@ relatedLinks:
     url: 'https://developer.mozilla.org/ja/docs/Mozilla/Firefox/Releases/64'
   - title: Firefox 64 サイト互換性情報 | Firefox サイト互換性情報
     url: 'https://www.fxsitecompat.com/ja/versions/64/'
+  - title: Firefox 64 Released - Mozilla Hacks - the Web developer blog
+    url: 'https://hacks.mozilla.org/2018/12/firefox-64-released/'
 ---
 Firefox 64.0リリース。
 Fullscreen APIの接頭辞を削除、`requestFullscreen()`などがPromiseを返すように、macOSでWebVR APIを有効化。
