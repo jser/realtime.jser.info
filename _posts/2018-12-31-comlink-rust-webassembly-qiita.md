@@ -4,13 +4,13 @@ author: azu
 layout: post
 itemUrl: 'https://qiita.com/3846masa/items/92d24e16ebb5151b08ba'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/12/index.json'
-date: '2018-12-31T08:14:58Z'
+date: '2018-12-31T08:17:03Z'
 tags:
   - WebAssembly
   - webworker
   - Rust
   - article
 ---
-Rustを使ったWebAssemblyライブラリ開発の利用について。
+Rustを使ったWebAssemblyライブラリの開発について。
 Rustを使ったwasmのバインディングの作成、webpackを使ったロード方法について。
 また、処理をメインスレッド外のWebWorkerで行いComlinkでのデータのやり取りする方法について
