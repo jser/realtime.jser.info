@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'http://www.fromjs.com/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/01/index.json'
-date: '2019-01-16T02:20:31Z'
+date: '2019-01-16T02:24:50Z'
 tags:
   - Chrome
   - DOM
@@ -13,5 +13,5 @@ tags:
   - debug
   - Tools
 ---
-DOMをインスペクトし、表示されている文字列がコードのどこで生成されているかをインスペクトできるツール。
-既存のHTMLを生成するDOM APIを上書きしトレースしきるようにしたChromeを立ち上げデバッグできるようにしている。
+表示されている文字列がコードのどこで生成されているかをDOMインスペクトできるツール。
+HTMLを生成するDOM APIを上書きして、トレースできるようにしたChromeを立ち上げデバッグできるようにしている。
