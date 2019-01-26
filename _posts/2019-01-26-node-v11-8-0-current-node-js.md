@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v11.8.0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/01/index.json'
-date: '2019-01-26T01:29:02Z'
+date: '2019-01-26T01:30:58Z'
 tags:
   - node.js
   - ReleaseNote
@@ -19,4 +19,4 @@ relatedLinks:
     url: 'https://github.com/nodejs/node-report'
 ---
 Node.js 11.8.0リリース。
-Subresource IntegrityのようなPolicy機能が試験的に実装、node-reportモジュールを本体に取り込み`process.report`を統合など
+Subresource IntegrityのようなPolicy機能が試験的に実装、node-reportモジュールを本体に取り込み`process.report`を試験的に実装など
