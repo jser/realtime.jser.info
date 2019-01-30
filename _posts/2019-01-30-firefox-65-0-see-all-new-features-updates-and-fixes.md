@@ -13,6 +13,11 @@ relatedLinks:
     url: 'https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/65'
   - title: Firefox 65 サイト互換性情報 | Firefox サイト互換性情報
     url: 'https://www.fxsitecompat.com/ja/versions/65/'
+  - title: >-
+      Firefox 65: WebP support, Flexbox Inspector, new tooling & platform
+      updates - Mozilla Hacks - the Web developer blog
+    url: >-
+      https://hacks.mozilla.org/2019/01/firefox-65-webp-flexbox-inspector-new-tooling/
 ---
 Firefox 65.0リリース。
 CSS `env()`のサポート、`Intl.RelativeTimeFormat`/`globalThis`の実装、Storage Access API/Readable Streamsをデフォルトで有効化。
