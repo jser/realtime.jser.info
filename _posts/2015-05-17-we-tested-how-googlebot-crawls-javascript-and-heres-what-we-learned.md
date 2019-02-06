@@ -9,6 +9,6 @@ date: '2015-05-17T12:49:43Z'
 tags:
   - JavaScript
   - google
-  - 検索
+  - search
 ---
 Google検索botがどこまでJavaScript等を解釈してクロールしているかの調査

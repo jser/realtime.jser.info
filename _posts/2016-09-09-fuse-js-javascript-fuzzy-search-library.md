@@ -8,6 +8,6 @@ date: '2016-09-09T01:15:23Z'
 tags:
   - JavaScript
   - library
-  - 検索
+  - search
 ---
 データからあいまい検索を行えるJavaScriptライブラリ

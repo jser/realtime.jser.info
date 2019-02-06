@@ -10,7 +10,7 @@ tags:
   - npm
   - ECMAScript
   - module
-  - 検索
+  - search
   - webservice
 relatedLinks:
   - title: Pika | What is Pika?

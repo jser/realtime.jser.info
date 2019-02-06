@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/10/inde
 date: '2013-10-02T13:17:59Z'
 tags:
   - node.js
-  - 検索
+  - search
 ---
 nodeモジュール検索サービス.
 Yet another search engine for npm

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/inde
 date: '2013-09-04T12:53:04Z'
 tags:
   - WebComponents
-  - 検索
+  - search
 ---
 Web Componentsのカスタム要素を集めてるサイト.

@@ -9,7 +9,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/03/inde
 date: '2018-03-15T21:49:31Z'
 tags:
   - npm
-  - 検索
+  - search
   - console
   - Tools
 ---

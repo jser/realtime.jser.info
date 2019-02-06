@@ -8,7 +8,7 @@ date: '2016-09-22T00:27:02Z'
 tags:
   - browser
   - issue
-  - 検索
+  - search
 ---
 MSEdge、Firefox、Chrome、Opera、WebKitのIssue Trackerをまとめて検索できるサイト。
 ブラウザのバグ検索エンジン

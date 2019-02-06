@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/inde
 date: '2015-06-20T06:27:32Z'
 tags:
   - WebComponents
-  - 検索
+  - search
 ---
 Bowerかnpmのキーワードにweb-componentsがついてるものを検索出来るサイト

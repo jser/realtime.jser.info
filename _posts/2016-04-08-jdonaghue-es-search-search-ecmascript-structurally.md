@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/inde
 date: '2016-04-08T13:52:45Z'
 tags:
   - AST
-  - 検索
+  - search
   - JavaScript
 ---
 ASTベースでJavaScriptのコードから構造に一致する部分を検索するツール

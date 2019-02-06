@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - Promises
   - spec
-  - 検索
+  - search
 ---
 Promisesの仕様を前提にしてる仕様の一覧。また、仕様をどうやって調べるかについて。W3CやWHATWGの仕様をまとめてダウンロードして検索する方法について書かれてる

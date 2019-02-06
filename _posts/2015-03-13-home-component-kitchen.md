@@ -8,7 +8,7 @@ date: '2015-03-13T14:16:27Z'
 tags:
   - WebComponents
   - まとめ
-  - 検索
+  - search
 ---
 Web Componentsのカタログサイト。
 

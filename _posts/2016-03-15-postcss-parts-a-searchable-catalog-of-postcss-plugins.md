@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/inde
 date: '2016-03-15T07:12:55Z'
 tags:
   - PostCSS
-  - 検索
+  - search
 ---
 PostCSSのカタログサイト
