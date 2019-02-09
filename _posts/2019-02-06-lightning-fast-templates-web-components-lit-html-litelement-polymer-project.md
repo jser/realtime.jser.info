@@ -13,6 +13,11 @@ tags:
   - JavaScript
   - library
   - ReleaseNote
+relatedLinks:
+  - title: >-
+      Lightning-fast templates & Web Components: lit-html & LitElement  |  Web 
+      |  Google Developers
+    url: 'https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html'
 ---
 lit-html 1.0とLitElement 2.0リリース。
 lit-htmlはTagged Templateを使ったHTMLテンプレート、LitElementはWeb Componentベースのクラスライブラリ
