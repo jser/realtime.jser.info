@@ -10,6 +10,10 @@ tags:
   - JavaScript
   - library
   - ReleaseNote
+relatedLinks:
+  - title: Migration from TestCafe v0.x.y to v1.0.0 | TestCafe
+    url: >-
+      https://devexpress.github.io/testcafe/blog/migration-from-testcafe-v0-x-y-to-v1-0-0.html
 ---
 TestCafe 1.0.0リリース。
 テストの実行を動画として録画できるように、`.testcaferc.json`の設定ファイルを追加、Live modeの統合、型定義ファイルの追加など
