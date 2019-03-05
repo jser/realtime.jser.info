@@ -9,6 +9,9 @@ tags:
   - React
   - library
   - ReleaseNote
+relatedLinks:
+  - title: This.JavaScript - State of Frameworks & Libraries - YouTube
+    url: 'https://youtu.be/DFF9eOlTWzY?t=3988'
 ---
 Preact X α版リリース。
 `Fragment`、`componentDidCatch`、Hooks、`createContext`、CSS Custom Propertiesに対応など。
