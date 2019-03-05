@@ -9,6 +9,9 @@ tags:
   - JavaScript
   - ReleaseNote
   - UI
+relatedLinks:
+  - title: Storybook 5 Migration Guide – Storybook – Medium
+    url: 'https://medium.com/storybookjs/storybook-5-migration-guide-d804b38c739d'
 ---
 Storybook 5.0.0リリース。
 デザインとURL構造の変更、ショートカットの変更、webpackのカスタム設定の引数を変更など
