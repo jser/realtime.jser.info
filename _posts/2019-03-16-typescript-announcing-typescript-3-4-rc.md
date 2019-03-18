@@ -11,6 +11,11 @@ tags:
 relatedLinks:
   - title: Roadmap · Microsoft/TypeScript Wiki
     url: 'https://github.com/Microsoft/TypeScript/wiki/Roadmap#34-march-2019'
+  - title: Breaking Changes · Microsoft/TypeScript Wiki
+    url: >-
+      https://github.com/Microsoft/TypeScript/wiki/Breaking-Changes#typescript-34
+  - title: TypeScript v3.4.0-rc 変更点 - Qiita
+    url: 'https://qiita.com/vvakame/items/7f4a55fe15fc9bbe1a63'
 ---
 TypeScript 3.4 RCリリース。
 `--watch`の情報をファイルに保存して、その情報でビルドできる`--incremental`フラグの追加。
