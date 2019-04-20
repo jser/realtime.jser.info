@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/developit/preact/releases/tag/10.0.0-beta.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/04/index.json'
-date: '2019-04-20T11:06:49Z'
+date: '2019-04-20T11:10:04Z'
 tags:
   - React
   - library
