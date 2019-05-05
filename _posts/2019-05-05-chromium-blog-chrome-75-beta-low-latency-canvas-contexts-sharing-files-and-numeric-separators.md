@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://blog.chromium.org/2019/05/chrome-75-beta-low-latency-canvas.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/05/index.json'
-date: '2019-05-05T05:31:02Z'
+date: '2019-05-05T05:31:48Z'
 tags:
   - Chrome
   - ReleaseNote
@@ -20,4 +20,4 @@ relatedLinks:
 ---
 Chrome 75 Betaリリース。
 Canvasに低遅延レンダリングのための`desynchronized`オプションを追加、Web Shareでファイルをサポート、ES ProposalのNumeric separatorsをサポート。
-CSPの`script-src-attr`ディレクティブのサポート、`stale-while-revalidate` HTTPヘッダのサポートなど
+CSPの`script-src-attr`ディレクティブのサポート、Cache-Controlの`stale-while-revalidate`のサポートなど
