@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://accessibilityinsights.io/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/05/index.json'
-date: '2019-05-20T15:29:08Z'
+date: '2019-05-20T15:37:45Z'
 tags:
   - accessibility
   - Chrome
@@ -17,4 +17,4 @@ relatedLinks:
     url: 'https://www.youtube.com/watch?v=U6NY8Cxym5g'
 ---
 アクセシビリティのチェックを補助するブラウザ拡張。
-アクセシビリティのチェックを可視化したり、FastPassとAssessmentの2つのシナリオでのテストをサポートしている。
+アクセシビリティのチェック綱目を可視化したり、FastPassとAssessmentの2つのシナリオでのテストをサポートしている。
