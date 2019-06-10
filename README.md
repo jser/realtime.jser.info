@@ -2,7 +2,7 @@
 
 リアルタイム版JSer.info
 
-http://realtime.jser.info
+- https://realtime.jser.info
 
 ## Caution
 
