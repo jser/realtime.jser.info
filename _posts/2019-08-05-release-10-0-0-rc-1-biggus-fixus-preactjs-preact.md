@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/preactjs/preact/releases/tag/10.0.0-rc.1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/08/index.json'
-date: '2019-08-05T13:55:58Z'
+date: '2019-08-05T13:59:35Z'
 tags:
   - React
   - JavaScript
@@ -15,5 +15,5 @@ relatedLinks:
     url: 'https://github.com/preactjs/preact/releases/tag/v8.5.0'
 ---
 Preact 10.0.0 RC1リリース。
-Preact 8.xから10へのマイグレーションガイドの公開された。
+Preact 8.xから10へのマイグレーションガイドが公開された。
 またメンテナンスリリースとして8.5.0も公開された
