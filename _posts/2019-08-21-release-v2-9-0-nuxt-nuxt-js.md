@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/nuxt/nuxt.js/releases/tag/v2.9.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/08/index.json'
-date: '2019-08-21T04:45:40Z'
+date: '2019-08-21T08:23:36Z'
 tags:
   - Vue
   - TypeScript
