@@ -4,11 +4,13 @@ author: azu
 layout: post
 itemUrl: 'https://efcl.info/2019/09/02/power-doctest-markdown-asciidoc/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/09/index.json'
-date: '2019-09-02T15:45:59Z'
+date: '2019-09-02T15:53:37Z'
 tags:
   - JavaScript
   - testing
   - document
+  - article
+  - node.js
 relatedLinks:
   - title: >-
       azu/power-doctest: JavaScript Doctest for JavaScript, Markdown and
