@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/cure53/DOMPurify/releases/tag/2.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/09/index.json'
-date: '2019-09-13T05:53:13Z'
+date: '2019-09-13T07:16:32Z'
 tags:
   - DOM
   - security
@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 DOMpurify 2.0.0リリース。
-Chrome 77のTruested Typesの挙動変更に伴う修正など
+Trusted Typesが利用できる場合でも`RETURN_TRUSTED_TYPE`オプションを渡したときのみ、Trusted Typesを使うように変更
