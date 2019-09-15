@@ -10,7 +10,7 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: ESLint v6.4.0 - Qiita
-    url: 'https://github.com/eslint/eslint/pull/12192'
+    url: 'https://qiita.com/mysticatea/items/4164b162fb37dcc443a1'
 ---
 ESLint 6.4.0リリース。
 `no-import-assign`、`prefer-regex-literals`、`default-param-last`のルールを追加。
