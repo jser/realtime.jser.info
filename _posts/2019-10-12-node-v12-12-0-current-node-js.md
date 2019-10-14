@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Node.js 12.12.0リリース。
-`fs.opendir()`、`fs.Dir`の追加、`--source-map-support`でのスタックトレースのSource Mapサポートなど
+`fs.opendir()`、`fs.Dir`の追加、`--enable-source-maps`でのスタックトレースのSource Mapサポートなど
