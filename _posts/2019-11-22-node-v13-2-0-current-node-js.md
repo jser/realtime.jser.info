@@ -4,11 +4,14 @@ author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v13.2.0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/11/index.json'
-date: '2019-11-22T05:05:15Z'
+date: '2019-11-22T05:06:26Z'
 tags:
   - node.js
   - ReleaseNote
   - module
+relatedLinks:
+  - title: ECMAScript Modules | Node.js v13.2.0 Documentation
+    url: 'https://nodejs.org/api/esm.html'
 ---
 Node.js 13.2.0リリース。
 `--experimental-modules`のフラグが外れたため、デフォルトでES Modulesが利用できるように。
