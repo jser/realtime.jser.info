@@ -4,11 +4,12 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/sindresorhus/got/releases/tag/v10.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/index.json'
-date: '2019-12-02T14:16:58Z'
+date: '2019-12-02T14:17:22Z'
 tags:
   - ' node'
   - HTTP
   - library
+  - ReleaseNote
 ---
 Node.js向けHTTPクライアントのGot 10.0.0リリース。
 TypeScriptで書き直されたバージョン。
