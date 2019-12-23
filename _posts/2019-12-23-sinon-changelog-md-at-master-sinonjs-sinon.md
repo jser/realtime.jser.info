@@ -4,11 +4,12 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/sinonjs/sinon/blob/master/CHANGELOG.md#800--2019-12-22'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/index.json'
-date: '2019-12-23T10:08:51Z'
+date: '2019-12-23T10:09:19Z'
 tags:
   - JavaScript
   - testing
   - library
+  - ReleaseNote
 relatedLinks:
   - title: >-
       sinonjs/lolex: Fake setTimeout and friends (collectively known as
