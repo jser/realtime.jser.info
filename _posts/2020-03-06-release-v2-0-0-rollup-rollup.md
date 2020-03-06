@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/rollup/rollup/releases/tag/v2.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
-date: '2020-03-06T15:22:13Z'
+date: '2020-03-06T15:22:32Z'
 tags:
   - JavaScript
   - bundler
