@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.sitepoint.com/build-native-desktop-gif-searcher-app-using-nodegui/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
-date: '2020-03-17T00:40:20Z'
+date: '2020-03-17T00:42:32Z'
 tags:
   - JavaScript
   - ' node'
@@ -12,5 +12,5 @@ tags:
   - tutorial
   - AR
 ---
-QtベースのGUIフレームワークであるNodeGuiを使ってアプリを作るチュートリアル記事。
+QtベースのNode.js向けのGUIフレームワークであるNodeGuiを使ってアプリを作るチュートリアル記事。
 GIPHY APIを使ってGIFファイル表示するアプリの開発をしながら、NodeGuiについて見ていく記事
