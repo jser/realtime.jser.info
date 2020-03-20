@@ -6,7 +6,7 @@ itemUrl: 'https://tech.plaid.co.jp/npm-private-registry-to-github-packages-regis
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
 date: '2020-03-18T17:21:43Z'
 tags:
-  - ' node'
+  - node.js
   - npm
   - Github
   - Actions

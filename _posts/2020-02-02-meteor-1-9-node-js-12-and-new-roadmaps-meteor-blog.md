@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/02/inde
 date: '2020-02-02T04:05:44Z'
 tags:
   - JavaScript
-  - ' node'
+  - node.js
   - ReleaseNote
 ---
 Meteor 1.9リリース。

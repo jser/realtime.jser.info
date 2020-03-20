@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/inde
 date: '2019-12-25T00:10:47Z'
 tags:
   - JavaScript
-  - ' node'
+  - node.js
   - article
 ---
 Server-Sent Events (SSE)のコンセプトと使い方について。

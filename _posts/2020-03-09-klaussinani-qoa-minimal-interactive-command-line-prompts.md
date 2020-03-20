@@ -6,7 +6,7 @@ itemUrl: 'https://github.com/klaussinani/qoa'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
 date: '2020-03-09T13:41:40Z'
 tags:
-  - ' node'
+  - node.js
   - library
   - console
 ---

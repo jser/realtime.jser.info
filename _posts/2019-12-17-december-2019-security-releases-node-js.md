@@ -6,7 +6,7 @@ itemUrl: 'https://nodejs.org/en/blog/vulnerability/december-2019-security-releas
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/index.json'
 date: '2019-12-17T00:17:11Z'
 tags:
-  - ' node'
+  - node.js
   - ReleaseNote
 relatedLinks:
   - title: The npm Blog — Binary Planting with the npm CLI

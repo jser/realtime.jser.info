@@ -6,7 +6,7 @@ itemUrl: 'http://kakts-tec.hatenablog.com/entry/2019/12/16/221941'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/index.json'
 date: '2019-12-17T00:14:42Z'
 tags:
-  - ' node'
+  - node.js
   - article
   - WebAssembly
 relatedLinks:

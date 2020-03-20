@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/inde
 date: '2019-12-16T12:20:43Z'
 tags:
   - MongoDB
-  - ' node'
+  - node.js
   - tutorial
 ---
 Mongooseを使ったMongoDBの使い方チュートリアル。

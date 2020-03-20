@@ -8,7 +8,7 @@ itemUrl: 'https://github.com/billinghamj/fix-es-imports'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/index.json'
 date: '2019-12-01T14:23:32Z'
 tags:
-  - ' node'
+  - node.js
   - ECMAScript
   - module
   - Tools

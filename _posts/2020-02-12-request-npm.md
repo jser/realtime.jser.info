@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/02/inde
 date: '2020-02-12T02:14:37Z'
 tags:
   - npm
-  - ' node'
+  - node.js
   - HTTP
   - library
   - news

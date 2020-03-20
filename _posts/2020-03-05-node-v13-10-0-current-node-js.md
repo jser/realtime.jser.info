@@ -6,7 +6,7 @@ itemUrl: 'https://nodejs.org/en/blog/release/v13.10.0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
 date: '2020-03-05T03:03:15Z'
 tags:
-  - ' node'
+  - node.js
   - ReleaseNote
 relatedLinks:
   - title: AsyncLocalStorage

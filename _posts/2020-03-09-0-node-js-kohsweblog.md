@@ -6,7 +6,7 @@ itemUrl: 'https://blog.koh.dev/2020-03-04-nodejs-performance/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
 date: '2020-03-09T13:33:52Z'
 tags:
-  - ' node'
+  - node.js
   - performance
   - article
 ---

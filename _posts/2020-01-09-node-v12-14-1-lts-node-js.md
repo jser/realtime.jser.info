@@ -6,7 +6,7 @@ itemUrl: 'https://nodejs.org/en/blog/release/v12.14.1/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/01/index.json'
 date: '2020-01-09T14:25:59Z'
 tags:
-  - ' node'
+  - node.js
   - ReleaseNote
 ---
 Node.js 12.14.1リリース。

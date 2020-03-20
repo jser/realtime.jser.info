@@ -9,7 +9,7 @@ tags:
   - Electron
   - ReleaseNote
   - V8
-  - ' node'
+  - node.js
 ---
 Electron 8.0.0リリース。
 Chromium 80、V8 8.0、Node.js 12.13.0へのアップデート。

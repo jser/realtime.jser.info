@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/inde
 date: '2020-03-17T00:42:32Z'
 tags:
   - JavaScript
-  - ' node'
+  - node.js
   - GUI
   - tutorial
   - AR

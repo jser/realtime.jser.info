@@ -6,7 +6,7 @@ itemUrl: 'https://blog.s1h.org/inside-node-executing-a-script/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/01/index.json'
 date: '2020-01-27T14:22:54Z'
 tags:
-  - ' node'
+  - node.js
   - article
 ---
 Node.jsでスクリプトを実行するまでにどのような処理が行われているのかをコードから見ていく記事。

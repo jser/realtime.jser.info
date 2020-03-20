@@ -6,7 +6,7 @@ itemUrl: 'https://nodejs.org/en/blog/release/v13.3.0/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/12/index.json'
 date: '2019-12-04T14:29:13Z'
 tags:
-  - ' node'
+  - node.js
   - ReleaseNote
 ---
 Node.js 13.3.0リリース。

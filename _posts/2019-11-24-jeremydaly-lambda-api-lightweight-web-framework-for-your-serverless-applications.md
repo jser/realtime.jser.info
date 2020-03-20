@@ -8,7 +8,7 @@ itemUrl: 'https://github.com/jeremydaly/lambda-api'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2019/11/index.json'
 date: '2019-11-24T14:24:18Z'
 tags:
-  - ' node'
+  - node.js
   - aws
   - Lambda
   - library

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/inde
 date: '2020-03-19T21:10:16Z'
 tags:
   - JavaScript
-  - ' node'
+  - node.js
   - library
   - ReleaseNote
 relatedLinks:

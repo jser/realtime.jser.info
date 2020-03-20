@@ -6,7 +6,7 @@ itemUrl: 'https://blog.adonisjs.com/introducing-adonisjs-v5/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
 date: '2020-03-09T14:02:41Z'
 tags:
-  - ' node'
+  - node.js
   - library
   - ReleaseNote
   - TypeScript

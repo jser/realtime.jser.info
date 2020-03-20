@@ -8,7 +8,7 @@ itemUrl: 'https://github.com/microsoft/playwright'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/01/index.json'
 date: '2020-01-23T12:06:31Z'
 tags:
-  - ' node'
+  - node.js
   - JavaScript
   - browser
   - Chrome
