@@ -4,10 +4,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/luruke/browser-2020'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/index.json'
-date: '2020-03-24T00:20:17Z'
+date: '2020-03-24T00:21:08Z'
 tags:
   - browser
   - WebPlatformAPI
   - article
+  - Chrome
 ---
-最近ブラウザに実装された新しいAPIについての概要をまとめたもの。
+ブラウザ/Chromeに実装されている新しいAPIについての概要をまとめたもの。
