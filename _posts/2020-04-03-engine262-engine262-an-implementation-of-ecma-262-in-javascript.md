@@ -4,11 +4,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/engine262/engine262'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/04/index.json'
-date: '2020-04-03T12:29:02Z'
+date: '2020-04-03T12:29:25Z'
 tags:
   - JavaScript
   - ECMAScript
   - spec
 ---
-JavaScriptでのECMAScript実装。
+JavaScriptによるECMAScript実装。
 JavaScript開発者が新しい言語機能のプロトタイピングを簡単にできるようにするのが目的
