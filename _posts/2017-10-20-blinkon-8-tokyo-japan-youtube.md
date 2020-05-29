@@ -8,7 +8,7 @@ date: '2017-10-20T10:38:10Z'
 tags:
   - blink
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: BlinkOn 8 Information - Google ドキュメント
     url: >-

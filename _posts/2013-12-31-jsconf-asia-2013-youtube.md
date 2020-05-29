@@ -8,7 +8,7 @@ date: '2013-12-31T06:25:24Z'
 tags:
   - JavaScript
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: JSConf.Asia
     url: 'http://2013.jsconf.asia/'

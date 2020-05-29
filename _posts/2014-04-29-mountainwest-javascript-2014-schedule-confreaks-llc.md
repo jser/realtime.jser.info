@@ -8,7 +8,7 @@ date: '2014-04-29T03:22:10Z'
 tags:
   - JavaScript
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: MountainWest JavaScript 2014 - YouTube
     url: 'https://www.youtube.com/playlist?list=PLVjBwkjgx9fq7x3enYMzgpQkrSvJiI8-X'

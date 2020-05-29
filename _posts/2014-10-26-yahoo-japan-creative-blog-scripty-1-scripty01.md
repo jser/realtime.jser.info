@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - slide
   - まとめ
-  - イベント
+  - Conference
 ---
 SCRIPTYのスライドまとめ。
 CSS/BEM、Backbone/Marionette、Angular/Three.js、Polymer、Yahoo!ニュースのブラウザサポート、grunt、ライブコーディング、アクセシビリティなど

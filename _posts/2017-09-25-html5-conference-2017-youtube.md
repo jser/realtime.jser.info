@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/09/inde
 date: '2017-09-25T12:26:37Z'
 tags:
   - HTML5
-  - イベント
+  - Conference
 relatedLinks:
   - title: HTML5 Conference
     url: 'http://events.html5j.org/conference/2017/9/'

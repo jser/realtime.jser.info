@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/inde
 date: '2014-03-24T02:56:39Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: 'Fluent 2014 - O''Reilly Conferences, March 11 - 13, 2014, San Francisco, CA'

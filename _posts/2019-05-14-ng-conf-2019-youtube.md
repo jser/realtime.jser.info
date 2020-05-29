@@ -8,7 +8,7 @@ date: '2019-05-14T00:50:59Z'
 tags:
   - Angular
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: Angular - All Talks from ng-conf 2019
     url: 'https://nitayneeman.com/posts/all-talks-from-ng-conf-2019/'

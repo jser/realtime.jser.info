@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/07/inde
 date: '2017-07-08T15:28:38Z'
 tags:
   - Vue
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: 'VueConf 2017 – 21–23 June, 2017 in Wrocław, Poland'

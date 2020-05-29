@@ -8,7 +8,7 @@ date: '2014-05-06T08:33:18Z'
 tags:
   - JavaScript
   - slide
-  - イベント
+  - Conference
 relatedLinks:
   - title: FutureJS - May 1-3 2014 Barcelona
     url: 'http://futurejs.org/'

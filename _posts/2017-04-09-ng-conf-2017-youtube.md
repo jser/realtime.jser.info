@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/04/inde
 date: '2017-04-09T05:53:31Z'
 tags:
   - Angular
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: ng-conf 2017 Summary - Day 1

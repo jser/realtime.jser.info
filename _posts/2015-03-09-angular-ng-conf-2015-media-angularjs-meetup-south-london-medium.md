@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/inde
 date: '2015-03-09T13:37:20Z'
 tags:
   - Angular
-  - イベント
+  - Conference
   - video
   - slide
 relatedLinks:

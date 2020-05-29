@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/inde
 date: '2015-11-13T08:13:29Z'
 tags:
   - browser
-  - イベント
+  - Conference
   - slide
   - まとめ
 ---

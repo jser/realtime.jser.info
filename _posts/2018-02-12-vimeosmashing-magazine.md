@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/02/inde
 date: '2018-02-12T11:34:24Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
 ---
 SmashingConf London 2018の動画が公開された

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/02/inde
 date: '2017-02-09T08:33:23Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
 ---
 1024bytesでJavaScriptのデモを作るコンテンストであるJS1kの2017年の募集が開始された

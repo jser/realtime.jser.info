@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/10/inde
 date: '2018-10-29T09:18:02Z'
 tags:
   - React
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: 'React Conf 2018 - Fall 2018 in Lake Las Vegas, Nevada'

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/11/inde
 date: '2017-11-19T10:49:56Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: >-

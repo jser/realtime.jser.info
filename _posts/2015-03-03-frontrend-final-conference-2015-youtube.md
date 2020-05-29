@@ -8,7 +8,7 @@ date: '2015-03-03T03:09:42Z'
 tags:
   - JavaScript
   - CSS
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: Frontrend Conference - A conference for front-end developer(2015年2月21日開催)

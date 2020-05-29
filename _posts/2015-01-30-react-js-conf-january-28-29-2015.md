@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/01/inde
 date: '2015-01-30T05:57:38Z'
 tags:
   - React
-  - イベント
+  - Conference
   - video
 ---
 React.js Confの動画まとめ

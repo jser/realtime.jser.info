@@ -8,7 +8,7 @@ date: '2017-04-12T06:35:52Z'
 tags:
   - React
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: React London
     url: 'https://react.london/'

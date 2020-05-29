@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/06/inde
 date: '2018-06-06T14:21:48Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 ---
 JSConf EU 2018の動画まとめ

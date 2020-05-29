@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - WebComponents
   - library
-  - イベント
+  - Conference
   - video
 ---
 Polymer Summit 2015の動画一覧

@@ -7,7 +7,7 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/02/index.json'
 date: '2017-02-02T14:03:22Z'
 tags:
-  - イベント
+  - Conference
   - V8
   - Chrome
   - google

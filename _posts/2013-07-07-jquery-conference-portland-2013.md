@@ -9,6 +9,6 @@ tags:
   - jQuery
   - slide
   - video
-  - イベント
+  - Conference
 ---
 jQuery Conference in Portland 2013のスライドと動画が公開されてる

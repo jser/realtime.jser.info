@@ -8,6 +8,6 @@ date: '2019-05-12T10:32:25Z'
 tags:
   - google
   - video
-  - イベント
+  - Conference
 ---
 Google I/O 2019のウェブセッションの動画まとめ

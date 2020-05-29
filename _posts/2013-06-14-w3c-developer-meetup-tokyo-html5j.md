@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-14T05:43:06Z'
 tags:
   - W3C
-  - イベント
+  - Conference
   - slide
   - video
 ---

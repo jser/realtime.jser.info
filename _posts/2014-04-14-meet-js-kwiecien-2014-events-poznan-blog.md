@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/inde
 date: '2014-04-14T01:06:19Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 ---
 meet.jsの動画が公開された。

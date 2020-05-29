@@ -9,7 +9,7 @@ tags:
   - TypeScript
   - WebGL
   - library
-  - イベント
+  - Conference
   - flash
 ---
 元々Flash向けに開発されていたAway3DのTypeScriptポートについて。

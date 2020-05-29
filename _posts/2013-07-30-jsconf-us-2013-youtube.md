@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/inde
 date: '2013-07-30T00:36:02Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 ---
 JSConf US 2013の動画が公開された

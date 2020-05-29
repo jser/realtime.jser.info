@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/09/inde
 date: '2013-09-22T05:43:09Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 ---
 Reject.JS 2013の動画が公開された。

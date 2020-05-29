@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/10/inde
 date: '2015-10-02T00:07:19Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: BrazilJS

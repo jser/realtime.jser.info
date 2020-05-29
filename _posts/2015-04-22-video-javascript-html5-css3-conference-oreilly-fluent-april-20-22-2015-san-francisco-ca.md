@@ -9,7 +9,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/inde
 date: '2015-04-22T06:10:13Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 ---
 Fluent Conf 2015の動画が公開されている

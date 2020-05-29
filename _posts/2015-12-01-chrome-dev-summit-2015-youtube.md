@@ -8,7 +8,7 @@ date: '2015-12-01T12:02:16Z'
 tags:
   - Chrome
   - video
-  - イベント
+  - Conference
   - まとめ
 relatedLinks:
   - title: Chrome Dev Summit 2015

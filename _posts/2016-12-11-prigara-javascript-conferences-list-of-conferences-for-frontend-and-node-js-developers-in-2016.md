@@ -9,6 +9,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/12/inde
 date: '2016-12-11T12:16:25Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
 ---
 JavaScriptのカンファレンスをまとめているリポジトリ

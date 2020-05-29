@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/inde
 date: '2014-03-28T14:46:58Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
   - 韓国
 ---

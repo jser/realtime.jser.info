@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/06/inde
 date: '2015-06-23T01:55:32Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: JSConf US 2015 - The best conference for JS and the Web. Period

@@ -9,7 +9,7 @@ date: '2014-12-18T05:36:34Z'
 tags:
   - backbone.js
   - video
-  - イベント
+  - Conference
   - まとめ
 relatedLinks:
   - title: 'BACKBONECONF 2014, by Bocoup'

@@ -12,7 +12,7 @@ tags:
   - JavaScript
   - node.js
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: Inside Frontend | 2019年5月18日 Frontendカンファレンスを渋谷Abema Towersで開催
     url: 'https://inside-frontend.com/'

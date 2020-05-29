@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/12/inde
 date: '2015-12-13T04:22:54Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: JSConf US Last Call - jsconf.micDrop()

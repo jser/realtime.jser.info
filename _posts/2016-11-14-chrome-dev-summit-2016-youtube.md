@@ -8,7 +8,7 @@ date: '2016-11-14T11:56:36Z'
 tags:
   - Chrome
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: Chrome Dev Summit 2016
     url: 'https://developer.chrome.com/devsummit/'

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/05/inde
 date: '2014-05-01T14:50:10Z'
 tags:
   - CSS
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: CSSConf Australia 2014

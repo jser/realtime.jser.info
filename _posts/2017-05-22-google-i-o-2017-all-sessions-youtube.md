@@ -8,6 +8,6 @@ date: '2017-05-22T10:50:55Z'
 tags:
   - google
   - video
-  - イベント
+  - Conference
 ---
 Google I/O 2017の動画まとめ

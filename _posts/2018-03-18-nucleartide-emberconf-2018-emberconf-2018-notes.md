@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/03/inde
 date: '2018-03-18T23:29:40Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 ---
 EmberConf 2018の動画や発表のまとめ

@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - HTML5
   - UI
-  - イベント
+  - Conference
 relatedLinks:
   - title: >-
       Telerik Open Sources World’s Largest Library of UI Tools and JavaScript

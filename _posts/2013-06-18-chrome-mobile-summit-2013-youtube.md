@@ -9,7 +9,7 @@ date: '2013-06-18T06:00:42Z'
 tags:
   - Chrome
   - video
-  - イベント
+  - Conference
 ---
 Chrome Mobile Summit 2013のパネルディスカッション動画が公開された。
 

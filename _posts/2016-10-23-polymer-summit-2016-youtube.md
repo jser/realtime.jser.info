@@ -8,7 +8,7 @@ date: '2016-10-23T08:52:02Z'
 tags:
   - JavaScript
   - WebComponents
-  - イベント
+  - Conference
 relatedLinks:
   - title: Polymer Summit 2016
     url: 'https://www.polymer-project.org/summit'

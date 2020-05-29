@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/inde
 date: '2015-11-26T00:59:02Z'
 tags:
   - React
-  - イベント
+  - Conference
 ---
 2016年2月22-23日にReact.js Confが開催

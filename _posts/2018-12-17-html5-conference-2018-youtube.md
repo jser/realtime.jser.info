@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/12/inde
 date: '2018-12-17T07:02:02Z'
 tags:
   - HTML5
-  - イベント
+  - Conference
   - video
 ---
 HTML5 Conference 2018の動画まとめ

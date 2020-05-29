@@ -8,7 +8,7 @@ date: '2015-07-28T13:15:01Z'
 tags:
   - Chrome
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: 'Chrome Tech Talk Night #8 - connpass'
     url: 'http://connpass.com/event/17312/'

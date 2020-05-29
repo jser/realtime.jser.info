@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/11/inde
 date: '2015-11-16T09:23:05Z'
 tags:
   - blink
-  - イベント
+  - Conference
   - まとめ
 ---
 BlinkOn 5のスライドと動画まとめ

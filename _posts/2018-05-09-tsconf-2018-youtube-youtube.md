@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/05/inde
 date: '2018-05-09T15:07:41Z'
 tags:
   - TypeScript
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: TSConf 2018 | Seattle

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/06/inde
 date: '2013-06-29T08:50:05Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - video
 ---
 ScotlandJSの発表動画が公開された

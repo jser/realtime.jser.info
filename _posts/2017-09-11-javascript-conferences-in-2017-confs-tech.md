@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/09/inde
 date: '2017-09-11T10:44:31Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - まとめ
 ---
 JavaScriptのカンファレンスまとめサイト

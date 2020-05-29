@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - Chrome
   - blink
-  - イベント
+  - Conference
   - slide
   - まとめ
 ---

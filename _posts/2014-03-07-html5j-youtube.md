@@ -9,7 +9,7 @@ date: '2014-03-07T07:38:15Z'
 tags:
   - HTML5
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: Enterprise x HTML5 Conference 2014 - エンタープライズIT向けWeb標準技術のソリューション展
     url: 'http://conference.html5biz.org/2014spring/'

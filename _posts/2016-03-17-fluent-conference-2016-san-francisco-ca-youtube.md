@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/03/inde
 date: '2016-03-17T09:49:45Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - '動画 '
 ---
 Fluent Conference 2016の動画が公開された

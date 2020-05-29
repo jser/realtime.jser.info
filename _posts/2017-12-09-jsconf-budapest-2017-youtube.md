@@ -8,7 +8,7 @@ date: '2017-12-09T06:57:31Z'
 tags:
   - JavaScript
   - video
-  - イベント
+  - Conference
 relatedLinks:
   - title: JSConf Budapest 2017
     url: 'http://jsconfbp.com/'

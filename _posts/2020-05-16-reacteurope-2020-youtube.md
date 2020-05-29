@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/05/inde
 date: '2020-05-16T12:43:58Z'
 tags:
   - React
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: >-

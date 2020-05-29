@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/05/inde
 date: '2018-05-27T08:56:29Z'
 tags:
   - React
-  - イベント
+  - Conference
   - video
 relatedLinks:
   - title: ReactEurope 2018 - Day 2 - YouTube - YouTube

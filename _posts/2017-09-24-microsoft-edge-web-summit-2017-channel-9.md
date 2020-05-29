@@ -9,6 +9,6 @@ date: '2017-09-24T04:00:29Z'
 tags:
   - MSEdge
   - video
-  - イベント
+  - Conference
 ---
 MSEdge Web Summit 2017の動画一覧

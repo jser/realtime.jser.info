@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/02/inde
 date: '2015-02-11T13:45:15Z'
 tags:
   - node.js
-  - イベント
+  - Conference
   - video
 ---
 東京Node学園祭2014 http://nodefest.jp/2014/ の動画が公開された

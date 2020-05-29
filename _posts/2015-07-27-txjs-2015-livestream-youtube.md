@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/07/inde
 date: '2015-07-27T02:53:04Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
 relatedLinks:
   - title: Texas JavaScript Conference 2015 | TXJS
     url: 'https://2015.texasjavascript.com/'

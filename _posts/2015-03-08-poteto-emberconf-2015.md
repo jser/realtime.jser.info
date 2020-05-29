@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/03/inde
 date: '2015-03-08T15:31:33Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - slide
 relatedLinks:
   - title: EmberConf 2015

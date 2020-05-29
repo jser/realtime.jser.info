@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/10/inde
 date: '2017-10-26T15:39:21Z'
 tags:
   - Chrome
-  - イベント
+  - Conference
   - video
 ---
 Chrome Dev Summit 2017の動画まとめ

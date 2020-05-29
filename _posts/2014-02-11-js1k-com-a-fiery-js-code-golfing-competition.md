@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/02/inde
 date: '2014-02-11T01:45:54Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
 relatedLinks:
   - title: 'Twitter / js1k: Announcing JS1k 2014: "Here ...'
     url: 'https://twitter.com/js1k/status/430812732028227584'

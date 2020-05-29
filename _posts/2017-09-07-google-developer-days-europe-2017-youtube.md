@@ -8,7 +8,7 @@ date: '2017-09-07T14:40:31Z'
 tags:
   - google
   - ProgressiveWebApp
-  - イベント
+  - Conference
   - video
 ---
 Google Developer Days Europeの動画一覧

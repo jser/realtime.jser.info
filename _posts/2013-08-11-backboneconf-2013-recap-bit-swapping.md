@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-11T10:34:37Z'
 tags:
   - backbone.js
-  - イベント
+  - Conference
   - slide
   - まとめ
 ---

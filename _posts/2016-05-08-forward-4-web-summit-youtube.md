@@ -8,7 +8,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/inde
 date: '2016-05-08T14:00:02Z'
 tags:
   - JavaScript
-  - イベント
+  - Conference
   - '動画 '
 relatedLinks:
   - title: 'Forward - Web Technology Summits, Workshops and Online Content'

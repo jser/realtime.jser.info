@@ -8,6 +8,6 @@ date: '2019-11-17T04:59:30Z'
 tags:
   - Chrome
   - video
-  - イベント
+  - Conference
 ---
 Chrome Dev Summmit 2019の動画一覧

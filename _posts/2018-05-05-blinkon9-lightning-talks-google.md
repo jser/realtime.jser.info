@@ -10,6 +10,6 @@ tags:
   - blink
   - V8
   - Chrome
-  - イベント
+  - Conference
 ---
 BlinkOn9の動画やスライドまとめ
