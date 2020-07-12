@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/07/index.json'
-date: '2020-07-12T15:17:45Z'
+date: '2020-07-12T15:20:19Z'
 tags:
   - ECMAScript
   - JavaScript
@@ -19,5 +19,5 @@ relatedLinks:
       working with dates and times.
     url: 'https://github.com/tc39/proposal-temporal'
 ---
-現在Stage 2のECMAScript ProposalであるTemporalにについて。
+現在Stage 2のECMAScript ProposalであるTemporalについて。
 DateとTimeの扱いを改善する目的の新しいビルトインオブジェクトで、実際のユースケースに適しているかのフィードバックを募集しているという話。
