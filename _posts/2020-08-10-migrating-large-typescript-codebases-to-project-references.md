@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://engineering.shopify.com/blogs/engineering/migrating-large-typescript-codebases-project-references
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/08/index.json'
-date: '2020-08-10T16:11:17Z'
+date: '2020-08-10T16:12:37Z'
 tags:
   - TypeScript
   - article
