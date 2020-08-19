@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://medium.com/airbnb-engineering/ts-migrate-a-tool-for-migrating-to-typescript-at-scale-cd23bfeb5cc
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/08/index.json'
-date: '2020-08-19T15:09:01Z'
+date: '2020-08-19T15:09:46Z'
 tags:
   - JavaScript
   - TypeScript
@@ -18,5 +18,5 @@ relatedLinks:
       conveniently to TypeScript
     url: 'https://github.com/airbnb/ts-migrate'
 ---
-JavaScriptからTypeScriptにマイグレーションを補助する`ts-migrate`について。
+JavaScriptからTypeScriptへのマイグレーションを補助する`ts-migrate`について。
 `.js`を`.ts`にリネーム、codemodベースでの`any`などの型付け、コンパイルエラーになる部分を`// @ts-expect-error`コメントで抑制していきマイグレーションする。
