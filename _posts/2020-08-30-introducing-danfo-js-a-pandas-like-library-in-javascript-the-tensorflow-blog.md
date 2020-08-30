@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://blog.tensorflow.org/2020/08/introducing-danfo-js-pandas-like-library-in-javascript.html
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/08/index.json'
-date: '2020-08-30T15:19:51Z'
+date: '2020-08-30T15:22:48Z'
 tags:
   - MachineLearning
   - JavaScript
@@ -19,5 +19,5 @@ relatedLinks:
       manipulating and processing structured data.
     url: 'https://github.com/opensource9ja/danfojs'
 ---
-TensorFlow.jsで使われているPandasインスパイアなライブラリであるDanfo.jsについて。
-
+PandasインスパイアなライブラリであるDanfo.jsについて。
+TensorFlow.jsと組み合わせて利用できる
