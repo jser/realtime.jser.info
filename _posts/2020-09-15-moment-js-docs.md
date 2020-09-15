@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://momentjs.com/docs/#/-project-status/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/09/index.json'
-date: '2020-09-15T12:22:12Z'
+date: '2020-09-15T12:23:38Z'
 tags:
   - JavaScript
   - news
@@ -19,6 +19,6 @@ relatedLinks:
   - title: date-fns - modern JavaScript date utility library
     url: 'https://date-fns.org/'
 ---
-Moment.jsのメンテナンスモードであるというプロジェクトステータスについてのドキュメントが追加された。
+Moment.jsがメンテナンスモードであるというドキュメントが追加された。
 Moment.jsに新しい機能の追加などはしないメンテンスモードであるということについてや代替となるライブラリとしてLuxon、Day.js、date-fns、js-jodaの紹介をしている。
 また、ECMA-402の`Intl`オブジェクトとTemporal Proposalについて紹介している
