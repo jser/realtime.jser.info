@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://kea.js.org/blog/kea-2.2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/09/index.json'
-date: '2020-09-20T13:25:27Z'
+date: '2020-09-20T13:26:58Z'
 tags:
   - React
   - JavaScript
@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://kea.js.org/docs/guide/typescript/'
 ---
 React向けのステート管理ライブラリであるKea 2.2リリース。
-TypeSriptのサポート
+TypeScriptのサポート
