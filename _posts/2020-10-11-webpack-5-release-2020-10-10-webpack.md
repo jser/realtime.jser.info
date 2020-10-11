@@ -4,13 +4,15 @@ author: azu
 layout: post
 itemUrl: 'https://webpack.js.org/blog/2020-10-10-webpack-5-release/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/10/index.json'
-date: '2020-10-11T02:10:43Z'
+date: '2020-10-11T02:11:23Z'
 tags:
   - webpack
   - ReleaseNote
 relatedLinks:
   - title: To v5 from v4 | webpack
     url: 'https://webpack.js.org/migrate/5/'
+  - title: webpack@5の主な変更点まとめ - 技術探し
+    url: 'https://blog.hiroppy.me/entry/webpack5'
 ---
 webpack 5リリース。
 破壊的な変更として、自動的なNode.jsのpolyfillの削除、デフォルトの出力コードにES2015が含まれるように、非推奨のオプションの削除やオプション名の変更など。
