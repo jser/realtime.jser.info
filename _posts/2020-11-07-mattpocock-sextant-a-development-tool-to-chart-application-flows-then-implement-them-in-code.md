@@ -6,11 +6,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/mattpocock/sextant'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/11/index.json'
-date: '2020-11-07T08:36:56Z'
+date: '2020-11-07T08:37:43Z'
 tags:
   - JavaScript
   - Tools
   - graphic
   - GraphQL
 ---
-シーケンス図のGUIエディタで入力したデータフローとGraphQLのPayloadを元にしたTypeScriptの型を生成するツール。
+シーケンス図のGUIエディタでデータフローとGraphQLのPayloadを入力し、対応するTypeScriptの型を生成するツール。
