@@ -6,10 +6,12 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/gildas-lormeau/SingleFile'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/12/index.json'
-date: '2020-12-11T12:48:43Z'
+date: '2020-12-11T12:49:24Z'
 tags:
   - Firefox
   - Chrome
   - Extension
+  - console
+  - Tools
 ---
-ウェブサイトをシングルファイルのHTMLとして保存できるブラウザ拡張
+ウェブサイトをシングルファイルのHTMLとして保存できるブラウザ拡張とCLI
