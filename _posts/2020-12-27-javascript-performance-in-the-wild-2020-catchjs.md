@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://catchjs.com/Blog/PerformanceInTheWild'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/12/index.json'
-date: '2020-12-27T13:25:10Z'
+date: '2020-12-27T13:26:14Z'
 tags:
   - article
   - performance
@@ -13,4 +13,4 @@ tags:
 https://tranco-list.eu/ のデータを元に1億のサイトをPuppeteerでクロールして集めたパフォーマンスに関するデータセットについて。
 Kaggleでデータセットを公開している。
 HTTPのプロトコルバージョン、サードパーティリソース、ライブラリとそれぞれのメトリクスの関係性などについて。
-2.2%のサイトでjQueryのロードに失敗してエラーが発生していることなどについて
+2.2%のサイトでjQueryのロードをしていないためにエラーが発生していることなどについて
