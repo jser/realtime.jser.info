@@ -6,10 +6,11 @@ author: azu
 layout: post
 itemUrl: 'https://medium.com/wasmer/wasmer-1-0-3f86ca18c043'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/01/index.json'
-date: '2021-01-06T01:15:32Z'
+date: '2021-01-06T02:35:13Z'
 tags:
   - WebAssembly
   - ReleaseNote
+  - Tools
 relatedLinks:
   - title: wasmer/CHANGELOG.md at master · wasmerio/wasmer
     url: >-
