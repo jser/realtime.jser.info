@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2020/03/inde
 date: '2020-03-27T07:43:27Z'
 tags:
   - node.js
-  - rlee
+  - ReleaseNote
 relatedLinks:
   - title: 'Disable __proto__ · Issue #31951 · nodejs/node'
     url: 'https://github.com/nodejs/node/issues/31951'
