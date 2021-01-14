@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/inde
 date: '2014-04-12T03:26:18Z'
 tags:
   - WAI-ARIA
-  - 翻訳
+  - translate
 ---
 "Using WAI-ARIA in HTML"の翻訳

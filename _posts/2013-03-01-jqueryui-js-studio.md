@@ -8,7 +8,7 @@ date: '2013-03-01T15:36:00Z'
 tags:
   - jQuery
   - UI
-  - 翻訳
+  - translate
   - リファレンス
 ---
 jQuery UI日本語リファレンス

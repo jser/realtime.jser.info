@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/06/inde
 date: '2014-06-04T02:41:10Z'
 tags:
   - JavaScript
-  - 翻訳
+  - translate
   - book
 ---
 2014年06月18日 発売

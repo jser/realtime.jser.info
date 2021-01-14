@@ -8,7 +8,7 @@ date: '2014-03-18T05:30:54Z'
 tags:
   - JavaScript
   - Promises
-  - 翻訳
+  - translate
 ---
 http://mattgreer.org/articles/promises-in-wicked-detail/ の翻訳。
 Promises/A+を実装しながらPromisesについて学ぶ

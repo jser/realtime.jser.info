@@ -8,6 +8,6 @@ date: '2015-04-10T08:35:31Z'
 tags:
   - JavaScript
   - book
-  - 翻訳
+  - translate
 ---
 PureScriptの入門書の翻訳

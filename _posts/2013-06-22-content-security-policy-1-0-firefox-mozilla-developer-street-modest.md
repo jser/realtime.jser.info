@@ -8,7 +8,7 @@ date: '2013-06-22T08:16:13Z'
 tags:
   - firefox
   - CSP
-  - 翻訳
+  - translate
 ---
 Content Security Policy 1.0 Lands In Firefoxの和訳。
 標準化される前のCSPとCSP1.0の違い。

@@ -8,6 +8,6 @@ date: '2018-11-17T05:55:42Z'
 tags:
   - accessibility
   - JavaScript
-  - 翻訳
+  - translate
 ---
 JavaScriptからアクセシビリティツリーを操作するためのAccesiblity Object Modelドキュメントの日本語訳

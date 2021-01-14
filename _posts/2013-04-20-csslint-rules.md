@@ -8,6 +8,6 @@ date: '2013-04-20T13:32:56Z'
 tags:
   - css
   - Tools
-  - 翻訳
+  - translate
 ---
 CSSLintで設定できるルールについての説明

@@ -9,7 +9,7 @@ date: '2017-05-15T10:32:00Z'
 tags:
   - JIT
   - JavaScript
-  - 翻訳
+  - translate
   - article
 ---
 JavaScriptのJITコンパイラの仕組みについて簡単に解説している記事。 何をどのようにどのようなタイミングで最適化するのかについて

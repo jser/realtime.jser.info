@@ -8,7 +8,7 @@ date: '2016-09-26T13:10:12Z'
 tags:
   - accessibility
   - Tools
-  - 翻訳
+  - translate
 relatedLinks:
   - title: Pa11y - Your automated accessibility testing pal
     url: 'http://pa11y.org/'

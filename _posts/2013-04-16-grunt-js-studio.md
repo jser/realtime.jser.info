@@ -8,6 +8,6 @@ date: '2013-04-16T15:36:45Z'
 tags:
   - Grunt
   - リファレンス
-  - 翻訳
+  - translate
 ---
 Gruntの日本語リファレンス

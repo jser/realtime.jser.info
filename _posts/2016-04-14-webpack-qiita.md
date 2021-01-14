@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/04/inde
 date: '2016-04-14T13:02:06Z'
 tags:
   - webpack
-  - 翻訳
+  - translate
 ---
 "Webpack — The Confusing Parts"の翻訳。
 webpackの設定において混乱しやすいことについてまとめられている。

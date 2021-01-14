@@ -8,7 +8,7 @@ date: '2014-08-18T05:44:12Z'
 tags:
   - CSS
   - 設計
-  - 翻訳
+  - translate
 relatedLinks:
   - title: >-
       Enduring CSS: writing style sheets for rapidly changing, long-lived

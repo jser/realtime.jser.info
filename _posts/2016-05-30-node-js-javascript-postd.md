@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/inde
 date: '2016-05-30T11:51:51Z'
 tags:
   - node.js
-  - 翻訳
+  - translate
 ---
 Node.jsでメモリリークの計測方法とヒープダンプを見るコツについて

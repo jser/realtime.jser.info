@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/inde
 date: '2013-04-05T00:11:27Z'
 tags:
   - epub
-  - 翻訳
+  - translate
 ---
 epubの仕様書日本語訳

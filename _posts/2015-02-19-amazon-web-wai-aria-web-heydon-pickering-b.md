@@ -10,7 +10,7 @@ date: '2015-02-19T00:07:23Z'
 tags:
   - WAI-ARIA
   - book
-  - 翻訳
+  - translate
 ---
 2015年3月30日発売
 "Apps For All - Coding Accessible Web Applications"の日本語版

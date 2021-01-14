@@ -8,7 +8,7 @@ date: '2014-07-28T12:07:53Z'
 tags:
   - CSS
   - github
-  - 翻訳
+  - translate
 relatedLinks:
   - title: CSS at Lonely Planet - Ian Feather
     url: 'http://ianfeather.co.uk/css-at-lonely-planet/'

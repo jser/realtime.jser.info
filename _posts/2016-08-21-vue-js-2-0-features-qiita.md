@@ -8,6 +8,6 @@ date: '2016-08-21T15:14:53Z'
 tags:
   - JavaScript
   - library
-  - 翻訳
+  - translate
 ---
 Vue.js 2.0の変更点についての訳

@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/inde
 date: '2016-09-09T16:39:16Z'
 tags:
   - ServiceWorker
-  - 翻訳
+  - translate
 ---
 Service Workerについての紹介記事翻訳

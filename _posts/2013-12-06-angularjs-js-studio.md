@@ -8,6 +8,6 @@ date: '2013-12-06T01:04:04Z'
 tags:
   - Angular
   - リファレンス
-  - 翻訳
+  - translate
 ---
 AngularJS日本語リファレンス

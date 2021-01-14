@@ -8,6 +8,6 @@ date: '2013-02-04T08:06:00Z'
 tags:
   - jQuery
   - document
-  - 翻訳
+  - translate
 ---
 jQuery Migrate plugin の警告文の解説と取り得る対処法について

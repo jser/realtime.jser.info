@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2018/12/inde
 date: '2018-12-24T15:18:38Z'
 tags:
   - TypeScript
-  - 翻訳
+  - translate
   - document
 relatedLinks:
   - title: 'yohamta/typescript-book-jp: TypeScript Bookの日本語訳です。'

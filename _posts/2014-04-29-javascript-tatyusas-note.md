@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/04/inde
 date: '2014-04-29T03:29:48Z'
 tags:
   - JavaScript
-  - 翻訳
+  - translate
 ---
 http://bredele.github.io/async/ の翻訳。
 非同期処理のパターンについて

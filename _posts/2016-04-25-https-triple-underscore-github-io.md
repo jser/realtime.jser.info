@@ -8,6 +8,6 @@ date: '2016-04-25T10:06:56Z'
 tags:
   - 'web '
   - spec
-  - 翻訳
+  - translate
 ---
 WHATWGやW3Cなどの仕様書を翻訳しているサイト

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/04/inde
 date: '2013-04-11T14:03:23Z'
 tags:
   - JavaScript
-  - 翻訳
+  - translate
 ---
 コールバックとプロミスについて。
 コールバックは命令型で手続きを意識して書く必要性がある、プロミスは結果を表現する値をすぐに返してそれを元に処理を書ける。

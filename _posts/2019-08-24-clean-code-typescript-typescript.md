@@ -8,7 +8,7 @@ date: '2019-08-24T05:21:40Z'
 tags:
   - TypeScript
   - document
-  - 翻訳
+  - translate
 relatedLinks:
   - title: 'labs42io/clean-code-typescript: Clean Code concepts adapted for TypeScript'
     url: 'https://github.com/labs42io/clean-code-typescript'

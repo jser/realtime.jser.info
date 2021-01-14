@@ -8,7 +8,7 @@ date: '2013-02-11T18:18:00Z'
 tags:
   - node.js
   - console
-  - 翻訳
+  - translate
 ---
 "Nodefrontはフロントエンド開発高速化のためのNode製コマンドラインユーティリティ"
 Nodefrontのreadme訳

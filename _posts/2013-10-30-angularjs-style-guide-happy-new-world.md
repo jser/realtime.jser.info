@@ -8,6 +8,6 @@ date: '2013-10-30T13:36:55Z'
 tags:
   - Angular
   - document
-  - 翻訳
+  - translate
 ---
 AngularJSスタイルガイドの翻訳

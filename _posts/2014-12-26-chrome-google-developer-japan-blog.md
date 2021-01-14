@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/12/inde
 date: '2014-12-26T08:31:44Z'
 tags:
   - Chrome
-  - 翻訳
+  - translate
 ---
 I/O Bytes 2014のChrome関係の動画に日本語字幕がついた

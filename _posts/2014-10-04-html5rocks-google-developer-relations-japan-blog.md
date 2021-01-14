@@ -6,7 +6,7 @@ itemUrl: 'http://googledevjp.blogspot.com/2014/10/html5rocks.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/10/index.json'
 date: '2014-10-04T05:22:02Z'
 tags:
-  - 翻訳
+  - translate
   - まとめ
 ---
 HTML5Rockに現在公開されている翻訳記事のまとめ

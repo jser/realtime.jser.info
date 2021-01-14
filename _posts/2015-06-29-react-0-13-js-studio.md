@@ -8,6 +8,6 @@ date: '2015-06-29T22:49:07Z'
 tags:
   - React
   - リファレンス
-  - 翻訳
+  - translate
 ---
 Reactリファレンスの日本語訳

@@ -9,7 +9,7 @@ tags:
   - jQuery
   - React
   - JavaScript
-  - 翻訳
+  - translate
 ---
 jQueryで書いたコードにReactのアイデアを適応して、状態の変更とDOMへの反映へと処理を分けていく話。
 Virtual DOMやimmutabilityについても触れている

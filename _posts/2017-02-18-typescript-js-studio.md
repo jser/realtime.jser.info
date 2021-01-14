@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/02/inde
 date: '2017-02-18T12:06:43Z'
 tags:
   - TypeScript
-  - 翻訳
+  - translate
   - document
 ---
 TypeScriptハンドブックの翻訳

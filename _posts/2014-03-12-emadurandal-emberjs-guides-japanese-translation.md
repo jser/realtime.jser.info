@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/03/inde
 date: '2014-03-12T00:25:17Z'
 tags:
   - JavaScript
-  - 翻訳
+  - translate
 relatedLinks:
   - title: 'Ember.js - Guides and Tutorials: Ember.js Guides'
     url: 'http://emberjs.com/guides/'

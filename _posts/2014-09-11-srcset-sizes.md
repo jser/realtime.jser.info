@@ -9,7 +9,7 @@ tags:
   - HTML
   - 画像
   - CSS
-  - 翻訳
+  - translate
 relatedLinks:
   - title: Srcset and sizes の日本語訳 · terkel.jp
     url: 'http://terkel.jp/archives/2014/09/srcset-sizes/'

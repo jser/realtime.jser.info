@@ -8,7 +8,7 @@ date: '2014-01-24T07:17:26Z'
 tags:
   - JavaScript
   - backbone.js
-  - 翻訳
+  - translate
   - book
 ---
 2014年02月07日 発売

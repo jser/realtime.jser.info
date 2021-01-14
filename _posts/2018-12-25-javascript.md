@@ -8,7 +8,7 @@ date: '2018-12-25T02:31:52Z'
 tags:
   - JavaScript
   - tutorial
-  - 翻訳
+  - translate
   - document
 ---
 https://javascript.info/ の翻訳サイト。 JavaScript、DOM APIについてのチュートリアルサイト

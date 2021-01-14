@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - node.js
   - tutorial
-  - 翻訳
+  - translate
 ---
 nodeschool.ioで使われてるJavaScriptの文法を学ぶコンソールアプリの翻訳

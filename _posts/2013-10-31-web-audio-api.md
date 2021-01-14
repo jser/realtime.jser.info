@@ -9,6 +9,6 @@ tags:
   - WebPlatformAPI
   - sound
   - spec
-  - 翻訳
+  - translate
 ---
 Web Audio APIの日本訳

@@ -8,7 +8,7 @@ date: '2013-05-09T04:59:18Z'
 tags:
   - WebAPI
   - W3C
-  - 翻訳
+  - translate
   - ECMA
   - JavaScript
 ---

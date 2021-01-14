@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-31T10:37:12Z'
 tags:
   - HTTP2
-  - 翻訳
+  - translate
   - spec
 ---
 HTTP/2.0 Draft 06 日本語訳

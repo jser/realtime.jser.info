@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/05/inde
 date: '2015-05-10T08:21:06Z'
 tags:
   - browser
-  - 翻訳
+  - translate
   - blog
 relatedLinks:
   - title: Front-end Dev Weekly

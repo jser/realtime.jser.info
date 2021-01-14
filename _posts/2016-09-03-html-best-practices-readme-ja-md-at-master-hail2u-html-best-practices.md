@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/09/inde
 date: '2016-09-03T06:59:16Z'
 tags:
   - HTML
-  - 翻訳
+  - translate
 relatedLinks:
   - title: 普通のHTMLの書き方(またはHTML Best Practices日本語版) - Weblog - Hail2u.net
     url: 'https://hail2u.net/blog/webdesign/html-best-practices-in-japanese.html'

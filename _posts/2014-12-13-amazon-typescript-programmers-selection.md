@@ -10,7 +10,7 @@ date: '2014-12-13T16:17:28Z'
 tags:
   - TypeScript
   - book
-  - 翻訳
+  - translate
 ---
 2015年1月23日 発売
 Pro TypeScriptの翻訳本

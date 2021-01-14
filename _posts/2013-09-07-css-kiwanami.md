@@ -8,7 +8,7 @@ date: '2013-09-07T12:24:44Z'
 tags:
   - CSS
   - document
-  - 翻訳
+  - translate
 ---
 CSSガイドラインの翻訳
 https://github.com/kiwanami/CSS-Guidelines

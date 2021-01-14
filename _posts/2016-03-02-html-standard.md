@@ -8,7 +8,7 @@ date: '2016-03-02T08:43:09Z'
 tags:
   - WHATWG
   - HTML
-  - 翻訳
+  - translate
 relatedLinks:
   - title: HTML Living Standard訳はじめました - 水底の血
     url: 'http://momdo.hatenablog.jp/entry/20160301/1456833788'

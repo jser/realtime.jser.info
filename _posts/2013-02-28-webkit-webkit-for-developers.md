@@ -8,6 +8,6 @@ date: '2013-02-28T15:00:00Z'
 tags:
   - webkit
   - document
-  - 翻訳
+  - translate
 ---
 WebKitがどういう構成をしているか、WebKit portとは何か、どの部分が共通なのか、JavaScriptのバインディング、Operaが採用するChromium、WebKit Nightlyとは何か について書かれている

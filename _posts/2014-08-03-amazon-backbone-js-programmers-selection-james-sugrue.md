@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2014/08/inde
 date: '2014-08-03T02:52:41Z'
 tags:
   - backbone.js
-  - 翻訳
+  - translate
   - book
 ---
 2014年8月29日発売

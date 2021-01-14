@@ -12,7 +12,7 @@ tags:
   - Tools
   - library
   - tutorial
-  - 翻訳
+  - translate
 ---
 JavaScriptのエコシステムや著名なライブラリを使ったチュートリアルの翻訳。
 色々なツールをあわせ使うことを前提に書かれたガイド

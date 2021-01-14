@@ -10,7 +10,7 @@ tags:
   - JavaScript
   - book
   - WebGL
-  - 翻訳
+  - translate
 ---
 2016年7月25日発売
 Three.js本

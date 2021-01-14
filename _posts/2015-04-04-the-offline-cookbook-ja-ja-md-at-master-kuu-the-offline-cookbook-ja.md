@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2015/04/inde
 date: '2015-04-04T09:35:38Z'
 tags:
   - ServiceWorker
-  - 翻訳
+  - translate
   - JavaScript
 ---
 The offline cookbookの翻訳。

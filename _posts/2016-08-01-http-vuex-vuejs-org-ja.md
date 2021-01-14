@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - library
   - document
-  - 翻訳
+  - translate
 ---
 Vuexについてのドキュメント訳

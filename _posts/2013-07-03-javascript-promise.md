@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/07/inde
 date: '2013-07-03T13:03:24Z'
 tags:
   - JavaScript
-  - 翻訳
+  - translate
 ---
 Promises/A+のSpec翻訳

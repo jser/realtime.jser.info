@@ -9,7 +9,7 @@ date: '2014-09-13T15:46:32Z'
 tags:
   - dart
   - spec
-  - 翻訳
+  - translate
 ---
 Dartの仕様書日本語訳
 ECMA-408版

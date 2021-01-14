@@ -8,7 +8,7 @@ date: '2018-06-29T09:55:55Z'
 tags:
   - W3C
   - spec
-  - 翻訳
+  - translate
 ---
 "忙しい人のためのW3Cプロセス入門"
 W3C Process for Busy Peopleの日本語訳

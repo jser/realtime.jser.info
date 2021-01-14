@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/02/inde
 date: '2013-02-16T19:48:00Z'
 tags:
   - jQuery
-  - 翻訳
+  - translate
 ---
 jQuery Core 1.9 Upgrade Guide の翻訳

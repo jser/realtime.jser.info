@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2016/05/inde
 date: '2016-05-29T15:18:15Z'
 tags:
   - React
-  - 翻訳
+  - translate
 ---
 Airbnb React/JSXのコーディングスタイルガイドの翻訳

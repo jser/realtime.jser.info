@@ -7,6 +7,6 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2017/01/inde
 date: '2017-01-11T00:32:21Z'
 tags:
   - React
-  - 翻訳
+  - translate
 ---
 Reactコンポーネント同士で値の受け渡しなどのパターンについて

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2013/08/inde
 date: '2013-08-09T00:09:20Z'
 tags:
   - JavaScript
-  - 翻訳
+  - translate
 ---
 callbackhell.com の翻訳.
 コードバックのネスト深くなってしまう問題の対処方について

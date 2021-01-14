@@ -9,7 +9,7 @@ tags:
   - node.js
   - book
   - JavaScript
-  - 翻訳
+  - translate
 ---
 2019年09月25日発売
 Get Programming with Node.jsの翻訳本。

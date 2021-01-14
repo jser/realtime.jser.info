@@ -8,6 +8,6 @@ date: '2013-12-21T14:58:15Z'
 tags:
   - CSS
   - document
-  - 翻訳
+  - translate
 ---
 CSS管理ルールのMultilayer CSSについてのドキュメント翻訳

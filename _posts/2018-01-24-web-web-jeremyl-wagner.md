@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - 'web '
   - performance
-  - 翻訳
+  - translate
   - book
 ---
 2018年03月19日発売。

@@ -8,6 +8,6 @@ date: '2013-07-01T15:12:14Z'
 tags:
   - QUIC
   - まとめ
-  - 翻訳
+  - translate
 ---
 QUICのUDP, TCP, SPDY といった要素が分かる人向けのFAQを翻訳したもの

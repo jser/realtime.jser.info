@@ -8,6 +8,6 @@ date: '2016-06-18T06:43:40Z'
 tags:
   - React
   - testing
-  - 翻訳
+  - translate
 ---
 React ComponentをTDDする話

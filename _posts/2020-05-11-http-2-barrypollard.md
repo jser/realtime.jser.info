@@ -8,7 +8,7 @@ date: '2020-05-11T13:24:48Z'
 tags:
   - HTTP2
   - book
-  - 翻訳
+  - translate
 ---
 2020年06月15日発売
 HTTP/2 in Actionの翻訳本

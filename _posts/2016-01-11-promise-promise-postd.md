@@ -8,6 +8,6 @@ date: '2016-01-11T23:26:11Z'
 tags:
   - JavaScript
   - Promises
-  - 翻訳
+  - translate
 ---
 [How do Promises Work? - Quils in Space](http://robotlolita.me/2015/11/15/how-do-promises-work.html "How do Promises Work? - Quils in Space") の翻訳
