@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://opencollective.com/open-web-docs/updates/introducing-open-web-docs'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/01/index.json'
-date: '2021-01-25T23:36:57Z'
+date: '2021-01-25T23:38:40Z'
 tags:
   - document
   - news
@@ -23,6 +23,11 @@ relatedLinks:
       https://hacks.mozilla.org/2021/01/welcoming-open-web-docs-to-the-mdn-family/
   - title: Open Web Docs | Igalia
     url: 'https://www.igalia.com/2021/01/25/Open-Web-Docs.html'
+  - title: Welcome to Open Web Docs! | W3C Blog
+    url: 'https://www.w3.org/blog/2021/01/welcome-to-open-web-docs/'
+  - title: project/membership-expectations.md at main · openwebdocs/project
+    url: >-
+      https://github.com/openwebdocs/project/blob/main/steering-committee/membership-expectations.md
 ---
-MDNのようなウェブプラットフォームのドキュメントに対して長期的に取り組んでいくためのプロジェクト。Mozillaなどのブラウザベンダーがメンバーにいる。
+MDNのようなウェブプラットフォームのドキュメントに対して長期的に取り組んでいくためのプロジェクト。MozillaなどのブラウザベンダーやW3Cなどがメンバーにいる。
 当面はMDNへのコントリビューションをしていく。
