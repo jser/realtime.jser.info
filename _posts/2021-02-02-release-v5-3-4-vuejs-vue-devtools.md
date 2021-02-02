@@ -4,13 +4,13 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/vuejs/vue-devtools/releases/tag/v5.3.4'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/02/index.json'
-date: '2021-02-02T01:49:44Z'
+date: '2021-02-02T01:49:56Z'
 tags:
   - Vue
-  - Chrome
   - Extension
   - ReleaseNote
   - security
+  - browser
 relatedLinks:
   - title: >-
       Vue.js devtools Universal XSS (Chrome extension) · Issue #1353 ·
