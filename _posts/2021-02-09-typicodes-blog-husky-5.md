@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://blog.typicode.com/husky-5/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/02/index.json'
-date: '2021-02-09T02:38:05Z'
+date: '2021-02-09T02:38:27Z'
 tags:
   - JavaScript
   - library
@@ -12,8 +12,8 @@ tags:
   - 'git '
   - ReleaseNote
 relatedLinks:
-  - title: 'https://github.com/typicode/husky-4-to-5#usage'
-    url: 'https://github.com/typicode/husky-4-to-5#usage'
+  - title: 'typicode/husky-4-to-5: Quickly migrate your hooks from husky v4 to v5'
+    url: 'https://github.com/typicode/husky-4-to-5'
 ---
 Git Hooksを扱うhusky 5が正式リリース。
 依存なしに変更、ライセンスがMITからLicense Zero's Parity Licenseに変更。
