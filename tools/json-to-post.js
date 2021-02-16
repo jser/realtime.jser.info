@@ -49,7 +49,7 @@ function createPost(item) {
     return ("---\n" +
     dumpYaml(frontMatter) +
     "---\n" +
-        String(escapeSpecialChars((item.content)) + "\n").replace(/[\n\r]/g, '\n');
+        String(escapeSpecialChars((item.content)) + "\n").replace(/[\n\r]/g, '\n'));
 }
 function creteSafeSlug(item) {
     var slugForItem = slugg(item.title);
