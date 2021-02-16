@@ -32,7 +32,7 @@ function pickFromMatter(item) {
     }
 
     if (item.relatedLinks && item.relatedLinks.length > 0) {
-        object.relatedLinks = item.relatedLinks.map(function(item){
+        object.relatedLinks = item.relatedLinks.map(function (item) {
             item.title = escapeSpecialChars(emojiText.convert(item.title.normalize('NFKC'), {
                 delimiter: ':'
             }).replace(/[\ud800-\udfff]/g, ""));
@@ -47,8 +47,8 @@ function dumpYaml(frontMatter) {
 function createPost(item) {
     var frontMatter = pickFromMatter(item);
     return ("---\n" +
-    dumpYaml(frontMatter) +
-    "---\n" +
+        dumpYaml(frontMatter) +
+        "---\n" +
         String(escapeSpecialChars((item.content)) + "\n").replace(/[\n\r]/g, '\n'));
 }
 function creteSafeSlug(item) {
@@ -68,6 +68,6 @@ function createPostFrom(item) {
     fs.writeFileSync(path.join(postDir, fileName), createPost(item), "utf8");
 }
 
-items.forEach(function(item) {
+items.forEach(function (item) {
     createPostFrom(item);
 });
