@@ -1,7 +1,7 @@
 ---
 title: >-
   fn.js | A JavaScript library built to encourage a functional programming style
-  & strategy.
+  &amp; strategy.
 author: azu
 layout: post
 itemUrl: 'http://eliperelman.com/fn.js/'

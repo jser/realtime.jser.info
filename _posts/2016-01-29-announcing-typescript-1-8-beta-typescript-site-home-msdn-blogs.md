@@ -10,7 +10,7 @@ tags:
   - TypeScript
   - ReleaseNote
 relatedLinks:
-  - title: What's new in TypeScript · Microsoft/TypeScript Wiki
+  - title: 'What&#039;s new in TypeScript · Microsoft/TypeScript Wiki'
     url: >-
       https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-18-upcoming
 ---

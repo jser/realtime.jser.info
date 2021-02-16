@@ -12,5 +12,5 @@ tags:
   - document
 ---
 doctest的にコメントで書いた結果を比較しテストをするツール.
-expression; // => result
+expression; // =&gt; result
 という感じで書くと、power-assertを使ったテストが走る

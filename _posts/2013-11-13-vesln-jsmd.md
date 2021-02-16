@@ -12,4 +12,4 @@ tags:
   - Tools
 ---
 readmeに書かれたJavaScriptのサンプルコードが正しく動くかをテスト出来るツール.
-// => で結果を書くdoctest的な感じ
+// =&gt; で結果を書くdoctest的な感じ

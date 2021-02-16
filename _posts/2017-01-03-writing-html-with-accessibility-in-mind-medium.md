@@ -11,4 +11,4 @@ tags:
   - accessibility
 ---
 HTMLとアクセシビリティ(スクリーンリーダー)について
-`lang`属性、`alt`属性、`<buton>`要素、landmarksについて
+`lang`属性、`alt`属性、`&lt;buton&gt;`要素、landmarksについて

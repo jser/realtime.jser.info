@@ -8,4 +8,4 @@ date: '2011-02-09T07:55:00Z'
 ---
 2011年7月15日発売
 Head FirstシリーズのjQuery本
--[Head First jQuery - O'Reilly Media](http://oreilly.com/catalog/0636920012740 "Head First jQuery - O'Reilly Media")
+-[Head First jQuery - O&#039;Reilly Media](http://oreilly.com/catalog/0636920012740 &quot;Head First jQuery - O&#039;Reilly Media&quot;)

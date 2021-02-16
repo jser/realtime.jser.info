@@ -1,5 +1,5 @@
 ---
-title: Programming TypeScript - O'Reilly Media
+title: 'Programming TypeScript - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920158059.do'

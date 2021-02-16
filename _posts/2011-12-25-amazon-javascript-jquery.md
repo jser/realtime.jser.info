@@ -1,5 +1,5 @@
 ---
-title: '『Amazon: JavaScript&jQueryレッスンブック [単行本]: 大津 真』'
+title: '『Amazon: JavaScript&amp;jQueryレッスンブック [単行本]: 大津 真』'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4883377946/book042-22/ref=nosim'

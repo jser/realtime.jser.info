@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - 初めてのJavaScript 第3版
+title: 'O&#039;Reilly Japan - 初めてのJavaScript 第3版'
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873117836/'

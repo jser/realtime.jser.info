@@ -10,8 +10,8 @@ tags:
 ---
 Emberが採用するHTMLBarsについて。
 以前のEmberのレンダリング
-テンプレート -> AST -> HTML String -> DOM
+テンプレート -&gt; AST -&gt; HTML String -&gt; DOM
 というフローだった。
 HTMLBarsでは
-テンプレート -> JS関数 -> DOM
+テンプレート -&gt; JS関数 -&gt; DOM
 というフローとなった理由や仕組みについて。

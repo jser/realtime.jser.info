@@ -15,5 +15,5 @@ relatedLinks:
     url: 'https://slides.com/akryum/vue-cli-18-3#/'
 ---
 Vue CLIについてのスライド。
-Vue CLIは"Ease of Access"のために様々な機能をもっている。
+Vue CLIは&quot;Ease of Access&quot;のために様々な機能をもっている。
 ビルドツールチェイン、`vue ui`、プラグインシステムについて。

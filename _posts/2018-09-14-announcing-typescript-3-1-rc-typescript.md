@@ -15,4 +15,4 @@ relatedLinks:
 ---
 TypeScript 3.1 RCリリース。
 Mapped TypeでTupleやArrayの扱いを改善、関数にプロパティを定義できるように。
-また破壊的な変更点として`lib.d.ts`をWeb IDLから生成するためベンダー独自の型が削除される。`typeof foo === "function"`でのtype gurdeの挙動の変更など
+また破壊的な変更点として`lib.d.ts`をWeb IDLから生成するためベンダー独自の型が削除される。`typeof foo === &quot;function&quot;`でのtype gurdeの挙動の変更など

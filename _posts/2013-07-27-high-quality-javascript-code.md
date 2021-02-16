@@ -11,4 +11,4 @@ tags:
   - Tools
 ---
 JavaScriptのコードクオリティのツールやサービスなどについてのスライド
-リンクまとめ => http://jser.info/post/56525802407/high-quality-javascript-code
+リンクまとめ =&gt; http://jser.info/post/56525802407/high-quality-javascript-code

@@ -19,5 +19,5 @@ relatedLinks:
       Developers
     url: 'https://developers.google.com/web/tools/chrome-user-experience-report/'
 ---
-Googleのモバイル検索で"Speed Update"が有効化された。
+Googleのモバイル検索で&quot;Speed Update&quot;が有効化された。
 表示が遅いサイトは表示ランキングに影響する仕組み。

@@ -1,5 +1,5 @@
 ---
-title: Thimble by Mozilla - An online code editor for learners & educators.
+title: Thimble by Mozilla - An online code editor for learners &amp; educators.
 author: azu
 layout: post
 itemUrl: 'https://thimble.mozilla.org/'
@@ -11,5 +11,5 @@ tags:
   - editor
 ---
 オンラインでウェブサイトを作れるサービス。
-JSFiddle的なエディタ&プレビューとファイルツリー。
+JSFiddle的なエディタ&amp;プレビューとファイルツリー。
 また、任意のファイルをアップロードできるのでHTMLで公開するのに便利そう

@@ -1,5 +1,5 @@
 ---
-title: 'Dart News & Updates: Release Notes for Dart''s Beta Release'
+title: 'Dart News &amp; Updates: Release Notes for Dart&#039;s Beta Release'
 author: azu
 layout: post
 itemUrl: 'http://news.dartlang.org/2013/06/release-notes-for-darts-beta-release.html'

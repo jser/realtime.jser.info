@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon: すべての人に知っておいてほしい jQuery & jQuery Mobileの基本原則 [単行本]: 古籏一浩, いちがみトモロヲ,
+  Amazon: すべての人に知っておいてほしい jQuery &amp; jQuery Mobileの基本原則 [単行本]: 古籏一浩, いちがみトモロヲ,
   KLEE, Atelier*Spoon, 錦織幸知, 山本圭助, 前田瑞紀, 津留敏哉
 author: azu
 layout: post

@@ -13,7 +13,7 @@ tags:
 relatedLinks:
   - title: Release Stable Release 2.0.0 · Polymer/polymer
     url: 'https://github.com/Polymer/polymer/releases/tag/v2.0.0'
-  - title: 'What&#39;s new in 2.0 - Polymer Project'
+  - title: 'What&amp;#39;s new in 2.0 - Polymer Project'
     url: 'https://www.polymer-project.org/2.0/docs/about_20'
 ---
 Polymer 2.0リリース。

@@ -1,5 +1,7 @@
 ---
-title: 'gkozlenko/node-video-lib: Node.js Video Library / MP4 & FLV parser / HLS muxer'
+title: >-
+  gkozlenko/node-video-lib: Node.js Video Library / MP4 &amp; FLV parser / HLS
+  muxer
 author: azu
 layout: post
 itemUrl: 'https://github.com/gkozlenko/node-video-lib'

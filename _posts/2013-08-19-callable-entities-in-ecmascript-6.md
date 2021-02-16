@@ -10,4 +10,4 @@ tags:
   - ECMAScript
 ---
 JSでは関数のように呼べるものが複数あり、またnew,this,スコープの問題もあり混乱する。
-ES6では=>、letとブロックスコープ、 concise method syntax、class等が追加されているが、それらを使うことで既存の問題をどのようにシンプルにできるかを解説してる。
+ES6では=&gt;、letとブロックスコープ、 concise method syntax、class等が追加されているが、それらを使うことで既存の問題をどのようにシンプルにできるかを解説してる。

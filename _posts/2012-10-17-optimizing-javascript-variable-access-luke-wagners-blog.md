@@ -1,5 +1,5 @@
 ---
-title: Optimizing JavaScript variable access | Luke Wagner's Blog
+title: 'Optimizing JavaScript variable access | Luke Wagner&#039;s Blog'
 author: azu
 layout: post
 itemUrl: >-

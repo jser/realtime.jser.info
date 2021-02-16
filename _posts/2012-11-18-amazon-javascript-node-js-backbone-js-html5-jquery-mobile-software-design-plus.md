@@ -9,4 +9,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/inde
 date: '2012-11-18T20:00:00Z'
 ---
 2012年12月7日発売
-"Java開発者のためのAjax実践開発入門"の改定本、Backbone,jQuery Mobile等
+&quot;Java開発者のためのAjax実践開発入門&quot;の改定本、Backbone,jQuery Mobile等

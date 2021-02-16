@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: 確かな力が身につくJavaScript「超」入門 (Informatics & IDEA): 狩野 祐東'
+title: 'Amazon: 確かな力が身につくJavaScript「超」入門 (Informatics &amp; IDEA): 狩野 祐東'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4797383585'

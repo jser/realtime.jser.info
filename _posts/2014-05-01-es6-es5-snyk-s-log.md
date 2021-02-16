@@ -9,4 +9,4 @@ tags:
   - JavaScript
 ---
 ES5の機能に使ったコードに改めて。
-"use strict"、Object.seal/freezeの利用、Object.definePropertyでのgetter/setter、bind、Arrayの拡張メソッドの利用などついて
+&quot;use strict&quot;、Object.seal/freezeの利用、Object.definePropertyでのgetter/setter、bind、Arrayの拡張メソッドの利用などついて

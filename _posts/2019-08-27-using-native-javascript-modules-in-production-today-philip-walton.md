@@ -12,5 +12,5 @@ tags:
   - article
 ---
 ES moduleをそのまま使うためのテクニックについての話。
-RollupをつかってnpmモジュールごとにES moduleのchunkを作成し、`<script module`でのロード、`modulepreload`でのpreload。
-Dynamic Importでの動的ロードとpolyfill、ES moduleをサポートしてない環境への`<script nonmodule>`での読み込みについてなど。
+RollupをつかってnpmモジュールごとにES moduleのchunkを作成し、`&lt;script module`でのロード、`modulepreload`でのpreload。
+Dynamic Importでの動的ロードとpolyfill、ES moduleをサポートしてない環境への`&lt;script nonmodule&gt;`での読み込みについてなど。

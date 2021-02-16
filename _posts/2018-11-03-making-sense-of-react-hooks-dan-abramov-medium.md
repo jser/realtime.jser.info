@@ -25,7 +25,7 @@ relatedLinks:
       Out | サイボウズエンジニアのブログ
     url: 'https://blog.cybozu.io/entry/2018/11/02/113000'
 ---
-React v16.7.0-alphaで導入された"Hooks"のProposalについて。
+React v16.7.0-alphaで導入された&quot;Hooks&quot;のProposalについて。
 
 Hooksが解決したい問題として巨大コンポーネント、重複ロジック、HOCなどの複雜なパターンをあげている。あわせてHooksの動作原理などについて書かれている。
 また、Hooksはまだ試験的なものであるためフィードバックなどを求めている。

@@ -1,7 +1,7 @@
 ---
 title: >-
-  Houdini: Maybe The Most Exciting Development In CSS You've Never Heard Of –
-  Smashing Magazine
+  Houdini: Maybe The Most Exciting Development In CSS You&#039;ve Never Heard Of
+  – Smashing Magazine
 author: azu
 layout: post
 itemUrl: >-

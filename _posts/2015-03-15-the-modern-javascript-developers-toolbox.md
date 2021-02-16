@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - 歴史
 relatedLinks:
-  - title: 'Next Generation HTML5 and JavaScript > Articles > Page #1'
+  - title: 'Next Generation HTML5 and JavaScript &gt; Articles &gt; Page #1'
     url: 'http://www.infoq.com/Next-Generation-HTML5-JavaScript/articles/'
 ---
 InfoQが未来のJavaScript等についての連載の一環として、今までのJavaScriptを振り返りする記事。

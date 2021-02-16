@@ -18,5 +18,5 @@ relatedLinks:
 ---
 Firefox 75リリース。
 開発者ツールのコンソールにInstant evaluation previewsの追加、Async Stack Traceの対応。
-`<img loading=lazy>`での画像の遅延ロードのサポート、CSSの`min()`/`max()`/`clamp()`のサポート、Web Animations APIの改善など。
+`&lt;img loading=lazy&gt;`での画像の遅延ロードのサポート、CSSの`min()`/`max()`/`clamp()`のサポート、Web Animations APIの改善など。
 

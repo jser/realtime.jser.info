@@ -1,7 +1,7 @@
 ---
 title: >-
   Back-to-School Special - Save up to 50% - Choose from 1000s of Books, Videos,
-  Courses - O'Reilly Media
+  Courses - O&#039;Reilly Media
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/category/deals/b2s-2012-special.do'

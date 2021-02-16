@@ -1,5 +1,7 @@
 ---
-title: Rewriting Facebook's "Recoil" React library from scratch in 100 lines
+title: >-
+  Rewriting Facebook&#039;s &quot;Recoil&quot; React library from scratch in 100
+  lines
 author: azu
 layout: post
 itemUrl: 'https://bennetthardwick.com/blog/recoil-js-clone-from-scratch-in-100-lines/'

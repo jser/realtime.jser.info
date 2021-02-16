@@ -1,7 +1,7 @@
 ---
 title: >-
-  Idiomatic Redux: The History and Implementation of React-Redux · Mark's Dev
-  Blog
+  Idiomatic Redux: The History and Implementation of React-Redux · Mark&#039;s
+  Dev Blog
 author: azu
 layout: post
 itemUrl: 'https://blog.isquaredsoftware.com/2018/11/react-redux-history-implementation/'

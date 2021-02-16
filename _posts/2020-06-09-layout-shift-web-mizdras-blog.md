@@ -1,5 +1,5 @@
 ---
-title: 画像による Layout Shift が無くなる Web がやって来る - mizdra's blog
+title: '画像による Layout Shift が無くなる Web がやって来る - mizdra&#039;s blog'
 author: azu
 layout: post
 itemUrl: 'https://www.mizdra.net/entry/2020/05/31/192613'

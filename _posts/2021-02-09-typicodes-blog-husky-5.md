@@ -1,5 +1,5 @@
 ---
-title: Typicode's blog - Husky 5
+title: 'Typicode&#039;s blog - Husky 5'
 author: azu
 layout: post
 itemUrl: 'https://blog.typicode.com/husky-5/'
@@ -16,5 +16,5 @@ relatedLinks:
     url: 'https://github.com/typicode/husky-4-to-5'
 ---
 Git Hooksを扱うhusky 5が正式リリース。
-依存なしに変更、ライセンスがMITからLicense Zero's Parity Licenseに変更。
+依存なしに変更、ライセンスがMITからLicense Zero&#039;s Parity Licenseに変更。
 4.xからのマイグレーションツールも公開している。

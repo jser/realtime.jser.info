@@ -1,7 +1,7 @@
 ---
 title: >-
-  Amazon: HTML5 and CSS3 Developer's Phrasebook (Developer's Library)
-  [Paperback]: Christian Wenz, Visit Amazon's Christian Wenz Page, search
+  Amazon: HTML5 and CSS3 Developer&#039;s Phrasebook (Developer&#039;s Library)
+  [Paperback]: Christian Wenz, Visit Amazon&#039;s Christian Wenz Page, search
   results, Learn about Author Central
 author: azu
 layout: post

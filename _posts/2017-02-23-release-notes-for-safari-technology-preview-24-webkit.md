@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Safari Technology Preview Release 24リリース。
-`PerformanceObserver`、`<link preload>`の試験的サポート、`URL`オブジェクトに`toJSON()`の実装、dynamic `import()`のサポートなど
+`PerformanceObserver`、`&lt;link preload&gt;`の試験的サポート、`URL`オブジェクトに`toJSON()`の実装、dynamic `import()`のサポートなど

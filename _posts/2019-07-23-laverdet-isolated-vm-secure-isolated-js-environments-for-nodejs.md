@@ -1,5 +1,5 @@
 ---
-title: 'laverdet/isolated-vm: Secure & isolated JS environments for nodejs'
+title: 'laverdet/isolated-vm: Secure &amp; isolated JS environments for nodejs'
 author: azu
 layout: post
 itemUrl: 'https://github.com/laverdet/isolated-vm'

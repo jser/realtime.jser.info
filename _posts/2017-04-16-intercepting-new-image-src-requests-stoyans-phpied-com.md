@@ -1,5 +1,5 @@
 ---
-title: Intercepting new Image().src requests / Stoyan's phpied.com
+title: 'Intercepting new Image().src requests / Stoyan&#039;s phpied.com'
 author: azu
 layout: post
 itemUrl: 'http://www.phpied.com/intercepting-new-image-src-requests/'

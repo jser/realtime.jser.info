@@ -10,8 +10,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      module: package &quot;imports&quot; field by guybedford · Pull Request
-      #34117 · nodejs/node
+      module: package &amp;quot;imports&amp;quot; field by guybedford · Pull
+      Request #34117 · nodejs/node
     url: 'https://github.com/nodejs/node/pull/34117'
 ---
 Node.js 14.6.0リリース。

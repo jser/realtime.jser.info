@@ -1,5 +1,5 @@
 ---
-title: The Problem with Native JavaScript APIs - O'Reilly Media
+title: 'The Problem with Native JavaScript APIs - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: >-

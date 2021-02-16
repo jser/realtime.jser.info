@@ -11,4 +11,4 @@ tags:
   - library
 ---
 GOMLというHTMLライクなXMLシンタックスで記述して、WebGLを使った3D表現を行うライブラリ。
-`<scene>`や`<camera>`といったノードを組み合わせることで表現する。
+`&lt;scene&gt;`や`&lt;camera&gt;`といったノードを組み合わせることで表現する。

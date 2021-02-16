@@ -12,4 +12,4 @@ tags:
 ---
 JavaScriptのテストツールの比較。
 それぞれのツールの簡単な比較とアクティビティについて。
-利用者はMocha > Karma > Jasmineだが、Jestがアクティブに開発されてる様子がでている
+利用者はMocha &gt; Karma &gt; Jasmineだが、Jestがアクティブに開発されてる様子がでている

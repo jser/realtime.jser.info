@@ -1,5 +1,5 @@
 ---
-title: 'hapi.js on Twitter: "Some un-hapi and joi-less news..." / Twitter'
+title: 'hapi.js on Twitter: &quot;Some un-hapi and joi-less news...&quot; / Twitter'
 author: azu
 layout: post
 itemUrl: 'https://twitter.com/hapijs/status/1275887984114413569'

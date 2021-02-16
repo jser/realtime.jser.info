@@ -1,5 +1,5 @@
 ---
-title: 実践TypeScript ~ BFFとNext.js&Nuxt.jsの型定義~ | 吉井 健文 |本 | 通販 | Amazon
+title: 実践TypeScript ~ BFFとNext.js&amp;Nuxt.jsの型定義~ | 吉井 健文 |本 | 通販 | Amazon
 author: azu
 layout: post
 itemUrl: 'https://www.amazon.co.jp/dp/483996937X/'

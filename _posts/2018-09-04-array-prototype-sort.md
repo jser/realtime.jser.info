@@ -11,10 +11,11 @@ tags:
   - article
 relatedLinks:
   - title: >-
-      Mathias Bynens on Twitter: &quot;Array.prototype.sort is now stable in
+      Mathias Bynens on Twitter: &amp;quot;Array.prototype.sort is now stable in
       @v8js v7.0 / Chrome 70! :tada: Previously, V8 used an unstable QuickSort
       for arrays with more than 10 elements. Now, we use the stable TimSort
-      algorithm. Demo: https://t.co/X3Y1psd7IM... https://t.co/LhPEE15hA0&quot;
+      algorithm. Demo: https://t.co/X3Y1psd7IM...
+      https://t.co/LhPEE15hA0&amp;quot;
     url: 'https://twitter.com/mathias/status/1036626116654637057'
 ---
 各ブラウザのJavaScriptエンジンのsotの実装について。 仕様では安定ソートを保証しないが、大体が安定ソートになっていっている。

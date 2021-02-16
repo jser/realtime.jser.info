@@ -1,5 +1,5 @@
 ---
-title: What's coming in ESLint v7.0.0 - ESLint - Pluggable JavaScript linter
+title: 'What&#039;s coming in ESLint v7.0.0 - ESLint - Pluggable JavaScript linter'
 author: azu
 layout: post
 itemUrl: 'https://eslint.org/blog/2020/02/whats-coming-in-eslint-7.0.0'

@@ -1,5 +1,5 @@
 ---
-title: 'Optimization Auditing: A Deep Dive into Chrome''s Dev Console — SitePoint'
+title: 'Optimization Auditing: A Deep Dive into Chrome&#039;s Dev Console — SitePoint'
 author: azu
 layout: post
 itemUrl: >-

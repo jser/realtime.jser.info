@@ -16,4 +16,4 @@ relatedLinks:
     url: 'https://github.com/nuxt-contrib/jiti'
 ---
 Nuxtjs 2.15.0リリース。
-Node.js 10のサポート終了、YarnのPlug'n'Playのサポート、`@nuxt/components` v2へのアップデートなど
+Node.js 10のサポート終了、YarnのPlug&#039;n&#039;Playのサポート、`@nuxt/components` v2へのアップデートなど

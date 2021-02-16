@@ -1,5 +1,5 @@
 ---
-title: 'CSS Pocket Reference, 5th Edition - O''Reilly Media'
+title: 'CSS Pocket Reference, 5th Edition - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920146353.do'

@@ -1,5 +1,5 @@
 ---
-title: 'New in 4.0: JavaScript.next syntax support | WebStorm & PhpStorm Blog'
+title: 'New in 4.0: JavaScript.next syntax support | WebStorm &amp; PhpStorm Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webide/2012/03/javascript-version-selector/'

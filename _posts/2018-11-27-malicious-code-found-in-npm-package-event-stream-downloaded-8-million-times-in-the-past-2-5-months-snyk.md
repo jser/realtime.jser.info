@@ -14,7 +14,7 @@ tags:
   - security
   - article
 relatedLinks:
-  - title: 'I don''t know what to say. · Issue #116 · dominictarr/event-stream'
+  - title: 'I don&#039;t know what to say. · Issue #116 · dominictarr/event-stream'
     url: 'https://github.com/dominictarr/event-stream/issues/116'
   - title: statement on event-stream compromise
     url: 'https://gist.github.com/dominictarr/9fd9c1024c94592bc7268d36b8d83b3a'

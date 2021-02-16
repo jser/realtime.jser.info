@@ -1,5 +1,5 @@
 ---
-title: 'Chromium Blog: Evolving Chrome''s security indicators'
+title: 'Chromium Blog: Evolving Chrome&#039;s security indicators'
 author: azu
 layout: post
 itemUrl: 'https://blog.chromium.org/2018/05/evolving-chromes-security-indicators.html'
@@ -12,5 +12,5 @@ tags:
   - security
 ---
 ChromeのHTTPSとHTTPのURLバーの表示の変更予定について。
-HTTPSはデフォルトになっていくため"Secure"ラベルを外していき、
-HTTPの方が例外的なものとして"Not Secure"というラベルをつけるという方針について。
+HTTPSはデフォルトになっていくため&quot;Secure&quot;ラベルを外していき、
+HTTPの方が例外的なものとして&quot;Not Secure&quot;というラベルをつけるという方針について。

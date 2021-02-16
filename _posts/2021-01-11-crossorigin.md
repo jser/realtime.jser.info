@@ -13,5 +13,5 @@ tags:
   - article
 ---
 CORSに関するrequest modeとcredentials modeの振る舞いを指定する`crossorigin`属性について。
-`<img>`, `<script>`, `<link rel=preconnect>`における`crossorigin`属性の指定による振る舞いの解説。
+`&lt;img&gt;`, `&lt;script&gt;`, `&lt;link rel=preconnect&gt;`における`crossorigin`属性の指定による振る舞いの解説。
 Fetch APIでの表現方法について。

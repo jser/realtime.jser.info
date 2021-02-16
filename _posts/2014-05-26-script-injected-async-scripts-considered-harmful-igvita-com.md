@@ -1,5 +1,5 @@
 ---
-title: Script-injected "async scripts" considered harmful - igvita.com
+title: Script-injected &quot;async scripts&quot; considered harmful - igvita.com
 author: azu
 layout: post
 itemUrl: >-

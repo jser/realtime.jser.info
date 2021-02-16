@@ -13,7 +13,9 @@ relatedLinks:
       Firefox 70 — a bountiful release for all - Mozilla Hacks - the Web
       developer blog
     url: 'http://example.com/'
-  - title: Firefox's New WebSocket Inspector - Mozilla Hacks - the Web developer blog
+  - title: >-
+      Firefox&#039;s New WebSocket Inspector - Mozilla Hacks - the Web developer
+      blog
     url: 'https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/'
   - title: Firefox 70 for developers - Mozilla | MDN
     url: 'http://example.com/'

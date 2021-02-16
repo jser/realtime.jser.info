@@ -1,5 +1,5 @@
 ---
-title: 'Hands-on guide: developing & deploying Node.js apps in Kubernetes'
+title: 'Hands-on guide: developing &amp; deploying Node.js apps in Kubernetes'
 author: azu
 layout: post
 itemUrl: 'https://learnk8s.io/nodejs-kubernetes-guide/'

@@ -1,7 +1,7 @@
 ---
 title: >-
   Introducing the Accessibility Inspector in the Firefox Developer Tools –
-  Marco's Accessibility Blog
+  Marco&#039;s Accessibility Blog
 author: azu
 layout: post
 itemUrl: >-

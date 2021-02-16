@@ -1,5 +1,5 @@
 ---
-title: Jest | "JavaScript Unit Testing Performance"
+title: Jest | &quot;JavaScript Unit Testing Performance&quot;
 author: azu
 layout: post
 itemUrl: >-

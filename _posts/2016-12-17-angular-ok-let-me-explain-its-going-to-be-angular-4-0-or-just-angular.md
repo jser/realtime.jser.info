@@ -1,5 +1,7 @@
 ---
-title: 'Angular: Ok... let me explain: it''s going to be Angular 4.0, or just Angular'
+title: >-
+  Angular: Ok... let me explain: it&#039;s going to be Angular 4.0, or just
+  Angular
 author: azu
 layout: post
 itemUrl: 'http://angularjs.blogspot.com/2016/12/ok-let-me-explain-its-going-to-be.html'

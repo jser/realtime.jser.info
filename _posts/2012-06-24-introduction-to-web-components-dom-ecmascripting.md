@@ -7,4 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-24T16:30:00Z'
 ---
 Web Components草案の翻訳
-"Web Components 入門"
+&quot;Web Components 入門&quot;

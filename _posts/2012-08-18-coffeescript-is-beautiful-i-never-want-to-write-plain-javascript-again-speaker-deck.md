@@ -1,7 +1,7 @@
 ---
 title: >-
-  CoffeeScript is Beautiful & I Never Want to Write Plain JavaScript Again //
-  Speaker Deck
+  CoffeeScript is Beautiful &amp; I Never Want to Write Plain JavaScript Again
+  // Speaker Deck
 author: azu
 layout: post
 itemUrl: >-

@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 LLVM 8.0.0リリース。
-WebAssembly Targetが"experimental"ではなくなり、デフォルトのTargetとしてサポートされた
+WebAssembly Targetが&quot;experimental&quot;ではなくなり、デフォルトのTargetとしてサポートされた

@@ -13,4 +13,4 @@ tags:
   - ReleaseNote
 ---
 Prettier 1.9.0リリース。
-JSXのFragment(`<></>`)ｗｐサポート、EditorConfigのサポート、Markdownのサポート改善。
+JSXのFragment(`&lt;&gt;&lt;/&gt;`)ｗｐサポート、EditorConfigのサポート、Markdownのサポート改善。

@@ -1,5 +1,5 @@
 ---
-title: 'richardanaya/tour_of_rust: A tour of rust''s language features'
+title: 'richardanaya/tour_of_rust: A tour of rust&#039;s language features'
 author: azu
 layout: post
 itemUrl: 'https://github.com/richardanaya/tour_of_rust'

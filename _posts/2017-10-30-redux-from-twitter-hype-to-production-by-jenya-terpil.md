@@ -10,4 +10,4 @@ tags:
   - slide
 ---
 Reduxの動作フローについてのスライド。
-アニメーション画像によってView->Action->Reduder->Stateの流れについてを可視化している。
+アニメーション画像によってView-&gt;Action-&gt;Reduder-&gt;Stateの流れについてを可視化している。

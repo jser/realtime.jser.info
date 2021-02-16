@@ -8,4 +8,4 @@ date: '2011-01-09T07:32:00Z'
 ---
 JavaScriptで演算子の組み合わせやビット演算などで短く書く方法。
 `-~n`とかゴルフでよく見かける。
--[forked from: forked from: jsのオレオレ演算子 - jsdo.it - Share JavaScript, HTML5 and CSS](http://jsdo.it/monjudoh/rC57 "forked from: forked from: jsのオレオレ演算子 - jsdo.it - Share JavaScript, HTML5 and CSS")
+-[forked from: forked from: jsのオレオレ演算子 - jsdo.it - Share JavaScript, HTML5 and CSS](http://jsdo.it/monjudoh/rC57 &quot;forked from: forked from: jsのオレオレ演算子 - jsdo.it - Share JavaScript, HTML5 and CSS&quot;)

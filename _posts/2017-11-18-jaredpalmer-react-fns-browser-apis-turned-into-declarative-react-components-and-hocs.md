@@ -1,7 +1,7 @@
 ---
 title: >-
-  jaredpalmer/react-fns: Browser API's turned into declarative React components
-  and HoC's
+  jaredpalmer/react-fns: Browser API&#039;s turned into declarative React
+  components and HoC&#039;s
 author: azu
 layout: post
 itemUrl: 'https://github.com/jaredpalmer/react-fns'

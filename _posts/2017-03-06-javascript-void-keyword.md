@@ -10,4 +10,4 @@ tags:
   - article
 ---
 JavaScriptの`void`キーワードについて。
-`if(condition) { return void console.log(""); }`のようなケースで利用できるという話。
+`if(condition) { return void console.log(&quot;&quot;); }`のようなケースで利用できるという話。

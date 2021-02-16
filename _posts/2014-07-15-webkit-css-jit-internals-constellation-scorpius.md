@@ -11,7 +11,7 @@ tags:
   - slide
 relatedLinks:
   - title: >-
-      Surfin' Safari - Blog Archive » Little overview of WebKit’s CSS JIT
+      Surfin&#039; Safari - Blog Archive » Little overview of WebKit’s CSS JIT
       Compiler
     url: 'https://www.webkit.org/blog/3271/webkit-css-selector-jit-compiler/'
   - title: ブラウザエンジン先端観測会 アウトラインメモ | Web Scratch

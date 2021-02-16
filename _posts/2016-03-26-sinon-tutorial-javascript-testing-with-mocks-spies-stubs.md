@@ -1,5 +1,5 @@
 ---
-title: 'Sinon Tutorial: JavaScript Testing with Mocks, Spies & Stubs'
+title: 'Sinon Tutorial: JavaScript Testing with Mocks, Spies &amp; Stubs'
 author: azu
 layout: post
 itemUrl: 'http://www.sitepoint.com/sinon-tutorial-javascript-testing-mocks-spies-stubs/'

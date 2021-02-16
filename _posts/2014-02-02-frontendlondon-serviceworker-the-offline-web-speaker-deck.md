@@ -1,5 +1,5 @@
 ---
-title: 'FrontEndLondon: ServiceWorker & the offline web // Speaker Deck'
+title: 'FrontEndLondon: ServiceWorker &amp; the offline web // Speaker Deck'
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/phuu/frontendlondon-serviceworker-and-the-offline-web'

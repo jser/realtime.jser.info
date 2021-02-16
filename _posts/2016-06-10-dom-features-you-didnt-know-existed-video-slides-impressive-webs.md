@@ -1,5 +1,5 @@
 ---
-title: DOM Features You Didn’t Know Existed (Video & Slides) | Impressive Webs
+title: DOM Features You Didn’t Know Existed (Video &amp; Slides) | Impressive Webs
 author: azu
 layout: post
 itemUrl: >-

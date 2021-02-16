@@ -1,6 +1,6 @@
 ---
 title: >-
-  Opera's Developer Relations Team - Opera 11.50 released: Speed Dial
+  Opera&#039;s Developer Relations Team - Opera 11.50 released: Speed Dial
   extensions, improved standards support, and more
 author: azu
 layout: post

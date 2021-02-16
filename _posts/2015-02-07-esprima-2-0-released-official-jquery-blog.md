@@ -15,5 +15,5 @@ relatedLinks:
     url: 'http://azu.github.io/slide/crosushi/shift-ast.html'
 ---
 jQuery Fundationに移管したEsprimaのVer 2.0がリリース。
-"harmony"ブランチをマージしたリリースとなりES6の機能を多く含んでいる。
+&quot;harmony&quot;ブランチをマージしたリリースとなりES6の機能を多く含んでいる。
 また、IssueのメインがGoogle CodeからGitHubへ移行した。

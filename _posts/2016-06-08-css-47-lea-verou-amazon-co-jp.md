@@ -10,7 +10,7 @@ tags:
   - CSS
   - book
 relatedLinks:
-  - title: 'CSS Secrets - O&#39;Reilly Media'
+  - title: 'CSS Secrets - O&amp;#39;Reilly Media'
     url: 'http://shop.oreilly.com/product/0636920031123.do'
 ---
 2016年6月25日発売

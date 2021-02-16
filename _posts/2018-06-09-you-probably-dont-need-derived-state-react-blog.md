@@ -1,5 +1,5 @@
 ---
-title: You Probably Don't Need Derived State - React Blog
+title: 'You Probably Don&#039;t Need Derived State - React Blog'
 author: azu
 layout: post
 itemUrl: 'https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html'

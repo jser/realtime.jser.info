@@ -7,4 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/06/inde
 date: '2012-06-10T15:00:00Z'
 ---
 Opera 12リリース
-WebGL、CSS3 Animations、getUserMedia、CORS、D&D、XHR uploadのサポート
+WebGL、CSS3 Animations、getUserMedia、CORS、D&amp;D、XHR uploadのサポート

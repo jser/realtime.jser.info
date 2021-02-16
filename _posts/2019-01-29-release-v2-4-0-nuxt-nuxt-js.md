@@ -19,4 +19,4 @@ relatedLinks:
 ---
 Nuxt.js 2.4.0リリース。
 minor、major、EOLなどのリリース方針の決定。
-`nuxt-ts`によるTYpeScriptサポート、`<nuxt-link>`がviewport内のprefetchをデフォルトで行うように、modern modeの対応、`bin`スクリプトの対応など
+`nuxt-ts`によるTYpeScriptサポート、`&lt;nuxt-link&gt;`がviewport内のprefetchをデフォルトで行うように、modern modeの対応、`bin`スクリプトの対応など

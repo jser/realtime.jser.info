@@ -1,5 +1,7 @@
 ---
-title: TypeScript 0.9 Preview Release - Somasegar's blog - Site Home - MSDN Blogs
+title: >-
+  TypeScript 0.9 Preview Release - Somasegar&#039;s blog - Site Home - MSDN
+  Blogs
 author: azu
 layout: post
 itemUrl: >-

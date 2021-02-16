@@ -11,7 +11,7 @@ tags:
   - debug
   - webservice
 relatedLinks:
-  - title: Application Performance Management & Monitoring | New Relic
+  - title: Application Performance Management &amp; Monitoring | New Relic
     url: 'http://newrelic.com/'
   - title: >-
       Error Monitoring, Error Tracking, and Notification for Ruby on Rails 2, 3

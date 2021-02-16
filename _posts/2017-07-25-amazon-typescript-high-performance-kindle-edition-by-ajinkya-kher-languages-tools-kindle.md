@@ -1,7 +1,7 @@
 ---
 title: >-
   Amazon | TypeScript High Performance [Kindle edition] by Ajinkya Kher |
-  Languages & Tools | Kindleストア
+  Languages &amp; Tools | Kindleストア
 author: azu
 layout: post
 itemUrl: >-

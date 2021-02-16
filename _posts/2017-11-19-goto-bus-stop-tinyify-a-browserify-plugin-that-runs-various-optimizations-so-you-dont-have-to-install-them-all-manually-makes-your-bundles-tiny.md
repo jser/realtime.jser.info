@@ -1,7 +1,7 @@
 ---
 title: >-
   goto-bus-stop/tinyify: a browserify plugin that runs various optimizations, so
-  you don't have to install them all manually. makes your bundles tiny!
+  you don&#039;t have to install them all manually. makes your bundles tiny!
 author: azu
 layout: post
 itemUrl: 'https://github.com/goto-bus-stop/tinyify'

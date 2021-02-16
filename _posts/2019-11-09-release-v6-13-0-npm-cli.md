@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 npm 6.13.0リリース。
-`npm fund`で依存パッケージの`funding`フィールドをリスト表示できるように、`npm help <command> --viewer browser`で表示するヘルプをgatsbyベースに変更など
+`npm fund`で依存パッケージの`funding`フィールドをリスト表示できるように、`npm help &lt;command&gt; --viewer browser`で表示するヘルプをgatsbyベースに変更など

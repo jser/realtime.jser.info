@@ -1,7 +1,7 @@
 ---
 title: >-
-  The Ember.js Way (Developer's Library): Brian Cardarella, Alex Navasardyan:
-  9780321994530: Amazon.com: Books
+  The Ember.js Way (Developer&#039;s Library): Brian Cardarella, Alex
+  Navasardyan: 9780321994530: Amazon.com: Books
 author: azu
 layout: post
 itemUrl: 'https://www.amazon.com/dp/0321994531/'

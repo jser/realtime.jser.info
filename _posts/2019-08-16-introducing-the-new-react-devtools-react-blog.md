@@ -18,4 +18,4 @@ relatedLinks:
 ---
 Reactの新しい開発者ツールについての紹介とチュートリアルについて。
 React DevTools 4.0.0では、パフォーマンスの改善、コンポーネントスタック、フィルター、レンダリング関係の可視化、Hooksサポートの改善。
-またSuspenseのサポートや"Why did this render?"機能の追加など
+またSuspenseのサポートや&quot;Why did this render?&quot;機能の追加など

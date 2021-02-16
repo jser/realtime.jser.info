@@ -1,5 +1,5 @@
 ---
-title: Ink 3 - Vadim's Blog
+title: 'Ink 3 - Vadim&#039;s Blog'
 author: azu
 layout: post
 itemUrl: 'https://vadimdemedes.com/posts/ink-3'
@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://github.com/vadimdemedes/ink/releases/tag/v3.0.0'
 ---
 Reactを使ったコンソールUIライブラリであるInk 3リリース。
-パフォーマンスの改善、`<Color>`は`<Text>`コンポーネントにマージ、`useInput`や`useFocus`などのHookの提供など
+パフォーマンスの改善、`&lt;Color&gt;`は`&lt;Text&gt;`コンポーネントにマージ、`useInput`や`useFocus`などのHookの提供など

@@ -1,5 +1,5 @@
 ---
-title: Away3D勉強会に行ってきた - pirosikick's diary
+title: 'Away3D勉強会に行ってきた - pirosikick&#039;s diary'
 author: azu
 layout: post
 itemUrl: 'http://pirosikick.hateblo.jp/entry/2014/07/26/005952'

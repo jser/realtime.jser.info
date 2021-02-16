@@ -1,5 +1,5 @@
 ---
-title: 'Renaming jade -> pug · Issue #2184 · pugjs/jade'
+title: 'Renaming jade -&gt; pug · Issue #2184 · pugjs/jade'
 author: azu
 layout: post
 itemUrl: 'https://github.com/pugjs/jade/issues/2184'

@@ -1,5 +1,5 @@
 ---
-title: Learning jQuery Deferreds - O'Reilly Media
+title: 'Learning jQuery Deferreds - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920030508.do'

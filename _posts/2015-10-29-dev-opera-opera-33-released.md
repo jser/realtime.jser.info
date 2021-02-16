@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 Opera 33リリース。
-`<link rel=preconnect>`、ES6 `new.target`、spread operator、DOMException、`CSS.escape`、HTTP Client Hintsなどのサポート
+`&lt;link rel=preconnect&gt;`、ES6 `new.target`、spread operator、DOMException、`CSS.escape`、HTTP Client Hintsなどのサポート

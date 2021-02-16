@@ -12,7 +12,7 @@ tags:
   - tutorial
   - video
 relatedLinks:
-  - title: O'reilly Fluent 2014
+  - title: 'O&#039;reilly Fluent 2014'
     url: 'http://fluentconf.com/fluent2014'
 ---
 Fluent 2013でのKnockout.jsを使用したライブコーディング。

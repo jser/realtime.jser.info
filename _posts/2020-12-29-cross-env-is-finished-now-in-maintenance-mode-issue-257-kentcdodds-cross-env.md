@@ -1,6 +1,6 @@
 ---
 title: >-
-  cross-env is "finished" (now in maintenance mode) · Issue #257 ·
+  cross-env is &quot;finished&quot; (now in maintenance mode) · Issue #257 ·
   kentcdodds/cross-env
 author: azu
 layout: post

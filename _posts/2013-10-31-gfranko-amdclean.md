@@ -12,4 +12,4 @@ tags:
   - Tools
 ---
 AMD APIを使ったコードからdefine/requireを取り除いて、依存のないJSに変換するツール.
-r.jsで結合 -> amdclean という使い方
+r.jsで結合 -&gt; amdclean という使い方

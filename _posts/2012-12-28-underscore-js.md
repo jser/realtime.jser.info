@@ -7,4 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/12/inde
 date: '2012-12-28T12:00:00Z'
 ---
 Underscore.js 1.4.3 リリース
-Adobe's JS engine フレンドリーに、throttleの改善等
+Adobe&#039;s JS engine フレンドリーに、throttleの改善等

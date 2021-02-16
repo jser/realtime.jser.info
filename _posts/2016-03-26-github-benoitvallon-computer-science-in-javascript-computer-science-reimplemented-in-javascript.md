@@ -11,7 +11,7 @@ tags:
   - JavaScript
   - algorithm
 relatedLinks:
-  - title: Data Structures in JavaScript posts - Ben's Blog
+  - title: 'Data Structures in JavaScript posts - Ben&#039;s Blog'
     url: 'http://blog.benoitvallon.com/category/data-structures-in-javascript/'
 ---
 JavaScriptでデータ構造やソートアルゴリズムの実装例 

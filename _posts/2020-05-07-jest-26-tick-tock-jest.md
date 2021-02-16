@@ -14,5 +14,5 @@ tags:
 Jest 26リリース。
 `@sinonjs/fake-timers`ベースの新しいFake Timerの追加、`it`や`describe`などをexportする`@jest/globals`の追加、Native ESMのサポートなど。
 いくつかのコアモジュールでES5のビルドを提供しないように変更し、Node.js 8未満のサポートを終了。
-今後の変更として、Jest 27でデフォルトのtestRunner"jest-circus"に変更しenvironmentを"node"に変更する。
-また、Jest 28で"jest-jasmine2"と"jest-environment-jsdom"を削除予定。
+今後の変更として、Jest 27でデフォルトのtestRunner&quot;jest-circus&quot;に変更しenvironmentを&quot;node&quot;に変更する。
+また、Jest 28で&quot;jest-jasmine2&quot;と&quot;jest-environment-jsdom&quot;を削除予定。

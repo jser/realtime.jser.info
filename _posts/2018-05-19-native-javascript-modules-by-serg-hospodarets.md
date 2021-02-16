@@ -11,5 +11,5 @@ tags:
   - slide
 ---
 ES modulesについてのスライド。
-AMD、CommonJSなどとの比較、`<script type=module>`がDeferred by defaultであることやmoduleの動作について。
+AMD、CommonJSなどとの比較、`&lt;script type=module&gt;`がDeferred by defaultであることやmoduleの動作について。
 また循環参照の対応、パスの扱い、Dynamic import、パフォーマンスやテストなどについて

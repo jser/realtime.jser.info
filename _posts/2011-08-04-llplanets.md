@@ -7,5 +7,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/08/inde
 date: '2011-08-04T03:45:00Z'
 ---
 ma.laさんよるスライド
-"JavaScriptプログラマのための
-全方位的完全武装ガイド"
+&quot;JavaScriptプログラマのための
+全方位的完全武装ガイド&quot;

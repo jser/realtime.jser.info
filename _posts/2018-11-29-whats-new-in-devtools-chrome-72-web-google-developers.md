@@ -1,5 +1,5 @@
 ---
-title: What's New In DevTools (Chrome 72)  |  Web  |  Google Developers
+title: 'What&#039;s New In DevTools (Chrome 72)  |  Web  |  Google Developers'
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2018/11/devtools'
@@ -10,4 +10,4 @@ tags:
   - article
 ---
 Chrome 72の開発者ツールの変更点。
-Performance metricsのビジュアライズ、"Copy JS path"(セレクタを指定するコードのコピー)を追加、Lighthouseのアップデートなど
+Performance metricsのビジュアライズ、&quot;Copy JS path&quot;(セレクタを指定するコードのコピー)を追加、Lighthouseのアップデートなど

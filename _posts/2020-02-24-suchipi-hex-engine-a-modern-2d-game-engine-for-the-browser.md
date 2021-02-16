@@ -11,7 +11,7 @@ tags:
   - library
   - JavaScript
 relatedLinks:
-  - title: Aseprite - Animated sprite editor & pixel art tool
+  - title: Aseprite - Animated sprite editor &amp; pixel art tool
     url: 'https://www.aseprite.org/'
   - title: Tiled Map Editor | A flexible level editor
     url: 'https://www.mapeditor.org/'

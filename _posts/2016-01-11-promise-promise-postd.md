@@ -10,4 +10,4 @@ tags:
   - Promises
   - translate
 ---
-[How do Promises Work? - Quils in Space](http://robotlolita.me/2015/11/15/how-do-promises-work.html "How do Promises Work? - Quils in Space") の翻訳
+[How do Promises Work? - Quils in Space](http://robotlolita.me/2015/11/15/how-do-promises-work.html &quot;How do Promises Work? - Quils in Space&quot;) の翻訳

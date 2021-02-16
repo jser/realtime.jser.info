@@ -12,4 +12,4 @@ tags:
   - design
 ---
 JavaScriptライブラリのAPIデザインについて.
-Unity & Harmony/balance/proportion/Emphasisの原則についてやどういう視点をもってAPIをデザインするかについて
+Unity &amp; Harmony/balance/proportion/Emphasisの原則についてやどういう視点をもってAPIをデザインするかについて

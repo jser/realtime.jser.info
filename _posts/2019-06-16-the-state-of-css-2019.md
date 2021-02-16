@@ -10,4 +10,4 @@ tags:
   - アンケート
 ---
 State of CSS 2019のアンケート結果。
-FlexboxやGridなどのレイアウト、単位、Pre & Post Processors、エディタやツールなどの利用についてのアンケート結果
+FlexboxやGridなどのレイアウト、単位、Pre &amp; Post Processors、エディタやツールなどの利用についてのアンケート結果

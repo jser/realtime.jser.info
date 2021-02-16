@@ -1,7 +1,7 @@
 ---
 title: >-
-  Shopify/draggable: The JavaScript Drag & Drop library your grandparents warned
-  you about.
+  Shopify/draggable: The JavaScript Drag &amp; Drop library your grandparents
+  warned you about.
 author: azu
 layout: post
 itemUrl: 'https://github.com/Shopify/draggable'
@@ -11,4 +11,4 @@ tags:
   - JavaScript
   - library
 ---
-D&Dライブラリ
+D&amp;Dライブラリ

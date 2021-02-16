@@ -1,5 +1,5 @@
 ---
-title: '『[Android] Android標準ブラウザ HTML5&CSS3対応状況まとめ - adakoda』'
+title: '『[Android] Android標準ブラウザ HTML5&amp;CSS3対応状況まとめ - adakoda』'
 author: azu
 layout: post
 itemUrl: 'http://www.adakoda.com/adakoda/2011/12/android-androidhtml5css3.html'

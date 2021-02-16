@@ -1,7 +1,7 @@
 ---
 title: >-
-  Operationalizing Node.js for Server Side Rendering – Airbnb Engineering & Data
-  Science – Medium
+  Operationalizing Node.js for Server Side Rendering – Airbnb Engineering &amp;
+  Data Science – Medium
 author: azu
 layout: post
 itemUrl: >-

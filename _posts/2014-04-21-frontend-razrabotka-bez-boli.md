@@ -13,6 +13,6 @@ relatedLinks:
   - title: Фронтенд разработка без боли|лекция в KLЮTCH | VK
     url: 'http://vk.com/event69759919'
 ---
-"痛みをとはないフロントエンド開発" 
+&quot;痛みをとはないフロントエンド開発&quot; 
 最近のフロントエンド開発のツールやライブラリ等についてのスライド。BEM,WebCompoents,gulp,CDN,MV*,Vanilla JSについて。
 

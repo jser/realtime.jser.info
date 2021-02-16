@@ -1,5 +1,7 @@
 ---
-title: What's Coming in EdgeHTML 16 - Microsoft Edge Development | Microsoft Docs
+title: >-
+  What&#039;s Coming in EdgeHTML 16 - Microsoft Edge Development | Microsoft
+  Docs
 author: azu
 layout: post
 itemUrl: >-

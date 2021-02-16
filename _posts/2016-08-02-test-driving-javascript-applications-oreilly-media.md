@@ -1,5 +1,5 @@
 ---
-title: Test-Driving JavaScript Applications - O'Reilly Media
+title: 'Test-Driving JavaScript Applications - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781680501742.do'

@@ -1,5 +1,5 @@
 ---
-title: 'Don''t lose user and app state, use Page Visibility - igvita.com'
+title: 'Don&#039;t lose user and app state, use Page Visibility - igvita.com'
 author: azu
 layout: post
 itemUrl: >-

@@ -7,4 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/04/inde
 date: '2012-04-24T05:48:00Z'
 ---
 はてな研修用教科書。
-"JavaScript によるイベントドリブン"
+&quot;JavaScript によるイベントドリブン&quot;

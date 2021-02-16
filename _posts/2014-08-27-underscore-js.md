@@ -17,4 +17,4 @@ relatedLinks:
 ---
 Underscore 1.7.0 リリース。
 Arrayのネイティブ関数では無く独自の実装を使うように変更し高速化、`_.iteratee`がカスタマイズ可能に`_.before`のメソッド追加、`_.extend`の挙動がES6 `Object.assign`にあわせた形へ変更するなど。
-"Sparse" arrays、extend、union、template等破壊的な変更も多く含まれている。
+&quot;Sparse&quot; arrays、extend、union、template等破壊的な変更も多く含まれている。

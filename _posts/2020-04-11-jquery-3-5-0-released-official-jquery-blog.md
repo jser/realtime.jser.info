@@ -13,5 +13,5 @@ relatedLinks:
     url: 'https://github.com/jquery/jquery/issues/4664'
 ---
 jQuery 3.5.0リリース。
-`jQuery.htmlPrefilter`の正規表現のタグ展開によってXSSが発生する問題の修正。これによって`$("<div><div/></div>")` のようなself-closedなタグと他のタグの組わせの挙動が変更される破壊的な変更も含まれる。
+`jQuery.htmlPrefilter`の正規表現のタグ展開によってXSSが発生する問題の修正。これによって`$(&quot;&lt;div&gt;&lt;div/&gt;&lt;/div&gt;&quot;)` のようなself-closedなタグと他のタグの組わせの挙動が変更される破壊的な変更も含まれる。
 4.0で削除される予定の`:even`と`:odd`の代わりに`.even()`と`.odd()`を追加など

@@ -1,5 +1,5 @@
 ---
-title: 'Web Performance 101: JS, CSS, HTTP, images & fonts | PerfPerfPerf'
+title: 'Web Performance 101: JS, CSS, HTTP, images &amp; fonts | PerfPerfPerf'
 author: azu
 layout: post
 itemUrl: 'https://3perf.com/talks/web-perf-101/'

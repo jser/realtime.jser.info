@@ -12,4 +12,4 @@ relatedLinks:
   - title: Standard ECMA-262
     url: 'http://ecma-international.org/publications/standards/Ecma-262.htm'
 ---
-"ECMA-262 8th edition - ECMAScript® 2017 Language Specification" ES2017がGAで承認されて正式リリースされた。
+&quot;ECMA-262 8th edition - ECMAScript® 2017 Language Specification&quot; ES2017がGAで承認されて正式リリースされた。

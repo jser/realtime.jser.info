@@ -10,7 +10,7 @@ tags:
   - IE
   - ReleaseNote
 relatedLinks:
-  - title: Internet Explorer のサポートライフサイクルが変更されます | Hebikuzure's Tech Memo
+  - title: 'Internet Explorer のサポートライフサイクルが変更されます | Hebikuzure&#039;s Tech Memo'
     url: >-
       http://hebikuzure.wordpress.com/2014/08/08/lifecycle-change-on-internet-explorer/
 ---

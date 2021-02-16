@@ -1,5 +1,5 @@
 ---
-title: Getting More Out of Vue Async Components - Abdelrahman' Blog
+title: 'Getting More Out of Vue Async Components - Abdelrahman&#039; Blog'
 author: azu
 layout: post
 itemUrl: 'https://logaretm.com/blog/getting-more-out-of-vue-async-components/'

@@ -1,7 +1,7 @@
 ---
 title: >-
-  PhpStorm & WebStorm 3.0 Early Access Program started | WebStorm & PhpStorm
-  Blog
+  PhpStorm &amp; WebStorm 3.0 Early Access Program started | WebStorm &amp;
+  PhpStorm Blog
 author: azu
 layout: post
 itemUrl: >-

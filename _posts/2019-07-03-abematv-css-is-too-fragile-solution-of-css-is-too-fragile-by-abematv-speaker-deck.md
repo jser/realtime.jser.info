@@ -1,7 +1,7 @@
 ---
 title: >-
-  AbemaTVにおけるCSS is too fragile問題に対する解 / Solution of "CSS is too fragile" by
-  AbemaTV - Speaker Deck
+  AbemaTVにおけるCSS is too fragile問題に対する解 / Solution of &quot;CSS is too
+  fragile&quot; by AbemaTV - Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/kubosho/solution-of-css-is-too-fragile-by-abematv'

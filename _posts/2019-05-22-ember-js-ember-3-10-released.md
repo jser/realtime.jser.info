@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 Ember 3.10リリース。
-ネストしたコンポーネントやビルトインコンポーネントを`<Input />`のようにAngle bracketで記述できるように、Decoratorのサポートなど
+ネストしたコンポーネントやビルトインコンポーネントを`&lt;Input /&gt;`のようにAngle bracketで記述できるように、Decoratorのサポートなど

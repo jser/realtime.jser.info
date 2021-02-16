@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 NW.js 0.12.0 リリース。
-`webview`タグの追加、 chrome.webrequest APIの追加、`bg-script'`フィールドの追加、ソースコードを難読化するnwjcツールの追加など
+`webview`タグの追加、 chrome.webrequest APIの追加、`bg-script&#039;`フィールドの追加、ソースコードを難読化するnwjcツールの追加など

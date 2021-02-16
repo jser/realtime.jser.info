@@ -1,5 +1,5 @@
 ---
-title: 'Choo, architecture & performance – Yoshua Wuyts – Medium'
+title: 'Choo, architecture &amp; performance – Yoshua Wuyts – Medium'
 author: azu
 layout: post
 itemUrl: 'https://medium.com/@yoshuawuyts/choo-architecture-performance-f6f0c44e8a6a'

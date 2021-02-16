@@ -1,5 +1,5 @@
 ---
-title: 'A comparison of Angular, Backbone, CanJS and Ember - Sebastian''s Blog'
+title: 'A comparison of Angular, Backbone, CanJS and Ember - Sebastian&#039;s Blog'
 author: azu
 layout: post
 itemUrl: >-

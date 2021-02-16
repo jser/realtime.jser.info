@@ -10,4 +10,4 @@ tags:
   - accessibility
   - article
 ---
-`<form>`/`<input>`/`<label>`/`<button>`を使ったフォーム作成についてチェックリスト的な記事
+`&lt;form&gt;`/`&lt;input&gt;`/`&lt;label&gt;`/`&lt;button&gt;`を使ったフォーム作成についてチェックリスト的な記事

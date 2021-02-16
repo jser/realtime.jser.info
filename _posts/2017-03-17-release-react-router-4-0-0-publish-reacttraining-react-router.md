@@ -12,7 +12,7 @@ tags:
   - library
 relatedLinks:
   - title: >-
-      Migration guide v3 -&gt; v4 or changelog? · Issue #4738 ·
+      Migration guide v3 -&amp;gt; v4 or changelog? · Issue #4738 ·
       ReactTraining/react-router
     url: 'https://github.com/ReactTraining/react-router/issues/4738'
   - title: v4 FAQ

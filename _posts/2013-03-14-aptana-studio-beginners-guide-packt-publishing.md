@@ -1,5 +1,5 @@
 ---
-title: Aptana Studio Beginner's Guide | Packt Publishing
+title: 'Aptana Studio Beginner&#039;s Guide | Packt Publishing'
 author: azu
 layout: post
 itemUrl: >-

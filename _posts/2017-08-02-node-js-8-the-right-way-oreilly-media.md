@@ -1,5 +1,5 @@
 ---
-title: Node.js 8 the Right Way - O'Reilly Media
+title: 'Node.js 8 the Right Way - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781680501957.do'

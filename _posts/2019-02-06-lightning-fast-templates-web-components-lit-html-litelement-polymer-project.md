@@ -1,7 +1,7 @@
 ---
 title: >-
-  Lightning-fast templates & Web Components: lit-html & LitElement - Polymer
-  Project
+  Lightning-fast templates &amp; Web Components: lit-html &amp; LitElement -
+  Polymer Project
 author: azu
 layout: post
 itemUrl: >-
@@ -15,8 +15,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      Lightning-fast templates & Web Components: lit-html & LitElement  |  Web 
-      |  Google Developers
+      Lightning-fast templates &amp; Web Components: lit-html &amp; LitElement 
+      |  Web  |  Google Developers
     url: 'https://developers.google.com/web/updates/2019/02/lit-element-and-lit-html'
 ---
 lit-html 1.0とLitElement 2.0リリース。

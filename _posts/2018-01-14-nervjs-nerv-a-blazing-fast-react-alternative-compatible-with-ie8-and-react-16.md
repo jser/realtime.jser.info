@@ -12,7 +12,7 @@ tags:
   - React
   - library
 relatedLinks:
-  - title: 'What&#39;s the tradeoff? · Issue #10 · NervJS/nerv'
+  - title: 'What&amp;#39;s the tradeoff? · Issue #10 · NervJS/nerv'
     url: 'https://github.com/NervJS/nerv/issues/10#issuecomment-356913486'
 ---
 ReactライクなAPIをもつライブラリ。ファイルサイズや小さくしつつReactとの互換性をもつことを目的にしている。また、IE8をサポートしていて、devToolsやReduxとの連携するパッケージも用意されている。

@@ -1,5 +1,5 @@
 ---
-title: 'Dart News & Updates: Dart 1.6 adds support for deferred loading'
+title: 'Dart News &amp; Updates: Dart 1.6 adds support for deferred loading'
 author: azu
 layout: post
 itemUrl: 'http://news.dartlang.org/2014/08/dart-16-adds-support-for-deferred.html'

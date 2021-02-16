@@ -19,4 +19,4 @@ relatedLinks:
 ---
 Chromeデスクトップの自動再生ポリシーの変更について。
 Safari 11と同様に音がある動画はユーザーインタラクションや幾つかの条件を満たした場合のみ自動再生が可能になる。
-Media Engagement Indexやiframeの」`gesture="media"`属性についてなど
+Media Engagement Indexやiframeの」`gesture=&quot;media&quot;`属性についてなど

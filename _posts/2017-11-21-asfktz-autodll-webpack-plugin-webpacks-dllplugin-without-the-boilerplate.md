@@ -1,5 +1,7 @@
 ---
-title: 'asfktz/autodll-webpack-plugin: Webpack''s DllPlugin without the boilerplate'
+title: >-
+  asfktz/autodll-webpack-plugin: Webpack&#039;s DllPlugin without the
+  boilerplate
 author: azu
 layout: post
 itemUrl: 'https://github.com/asfktz/autodll-webpack-plugin'

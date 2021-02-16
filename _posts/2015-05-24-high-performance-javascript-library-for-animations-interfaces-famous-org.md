@@ -1,5 +1,7 @@
 ---
-title: High-performance javascript library for animations & interfaces | Famous.org
+title: >-
+  High-performance javascript library for animations &amp; interfaces |
+  Famous.org
 author: azu
 layout: post
 itemUrl: 'http://famous.org/'

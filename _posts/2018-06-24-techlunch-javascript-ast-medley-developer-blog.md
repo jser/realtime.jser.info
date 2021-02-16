@@ -1,5 +1,7 @@
 ---
-title: 社内勉強会TechLunchで"JavaScript ASTことはじめ"という発表をしました - Medley Developer Blog
+title: >-
+  社内勉強会TechLunchで&quot;JavaScript ASTことはじめ&quot;という発表をしました - Medley Developer
+  Blog
 author: azu
 layout: post
 itemUrl: 'https://developer.medley.jp/entry/2018/06/22/130000'

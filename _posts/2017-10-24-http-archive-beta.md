@@ -11,9 +11,9 @@ tags:
   - 統計
 relatedLinks:
   - title: >-
-      HTTP Archive on Twitter: &#34;Excited to share the open beta for the new
-      HTTP Archive. Check it out at https://t.co/MmiFOKXTrM and let us know what
-      you think! 1/3... https://t.co/ycJ03nMkEj&#34;
+      HTTP Archive on Twitter: &amp;#34;Excited to share the open beta for the
+      new HTTP Archive. Check it out at https://t.co/MmiFOKXTrM and let us know
+      what you think! 1/3... https://t.co/ycJ03nMkEj&amp;#34;
     url: 'https://twitter.com/HTTPArchive/status/922582514010488832'
 ---
 新しいHTTP Archiveのβ版が公開された。

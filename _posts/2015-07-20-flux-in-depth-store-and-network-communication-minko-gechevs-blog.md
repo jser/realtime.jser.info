@@ -1,5 +1,5 @@
 ---
-title: Flux in Depth. Store and Network Communication. – Minko Gechev's blog
+title: 'Flux in Depth. Store and Network Communication. – Minko Gechev&#039;s blog'
 author: azu
 layout: post
 itemUrl: >-
@@ -11,5 +11,5 @@ tags:
   - JavaScript
 ---
 Fluxからネットワークを含めたデータフローについて。
-Store --> View、View --> Storeまでの流れ、モデルとStateの分離。
-Network --> UI、UI --> Networkのパターンについて
+Store --&gt; View、View --&gt; Storeまでの流れ、モデルとStateの分離。
+Network --&gt; UI、UI --&gt; Networkのパターンについて

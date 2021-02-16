@@ -18,6 +18,6 @@ relatedLinks:
 Vue 3.0.0リリース。
 コードベースをTypeScriptで書き直し、コアモジュールのパッケージ化。
 Composition API、Teleport、Fragmentsのサポート。
-実験的なAPIとして`<script setup>`と`<style vars>`のサポート。
+実験的なAPIとして`&lt;script setup&gt;`と`&lt;style vars&gt;`のサポート。
 破壊的な変更として`Vue.*`以下のグローバルAPIをインスタンスAPIに移動、Template Directiveの挙動の変更、ライフサイクルオプション名のリネーム、Filterの削除など。
 また、Vue 3.0.0時点ではIE 11のサポートは含まれていない。

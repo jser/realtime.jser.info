@@ -7,4 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-18T23:00:00Z'
 ---
 Page Visibility APIについての解説。
-ドキュメントの表示状態を"visible", "hidden", "prerender"で返す。
+ドキュメントの表示状態を&quot;visible&quot;, &quot;hidden&quot;, &quot;prerender&quot;で返す。

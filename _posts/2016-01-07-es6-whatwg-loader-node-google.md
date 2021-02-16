@@ -1,5 +1,5 @@
 ---
-title: ES6/WhatWG Loader & Node - Google スライド
+title: ES6/WhatWG Loader &amp; Node - Google スライド
 author: azu
 layout: post
 itemUrl: >-
@@ -12,7 +12,7 @@ tags:
   - CommonJS
   - slide
 relatedLinks:
-  - title: Node & WhatWG Loader - YouTube
+  - title: Node &amp; WhatWG Loader - YouTube
     url: 'https://www.youtube.com/watch?v=NdOKO-6Ty7k'
   - title: Loader
     url: 'http://whatwg.github.io/loader/'

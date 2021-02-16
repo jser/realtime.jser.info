@@ -11,7 +11,7 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: 'The End of &#34;HTML-First&#34; | Video.js Blog'
+  - title: 'The End of &amp;#34;HTML-First&amp;#34; | Video.js Blog'
     url: 'http://blog.videojs.com/the-end-of-html-first/'
 ---
 video.js v6.0 RCリリース。

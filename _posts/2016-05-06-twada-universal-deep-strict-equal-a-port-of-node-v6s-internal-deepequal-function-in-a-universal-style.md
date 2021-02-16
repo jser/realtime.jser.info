@@ -1,7 +1,7 @@
 ---
 title: >-
-  twada/universal-deep-strict-equal: A port of Node v6's internal _deepEqual
-  function in a universal style
+  twada/universal-deep-strict-equal: A port of Node v6&#039;s internal
+  _deepEqual function in a universal style
 author: azu
 layout: post
 itemUrl: 'https://github.com/twada/universal-deep-strict-equal'

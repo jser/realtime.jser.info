@@ -1,7 +1,7 @@
 ---
 title: >-
   WebStorm 6.0 released: adds TypeScript, debugging with source maps, fresh UI
-  and much more | WebStorm & PhpStorm Blog
+  and much more | WebStorm &amp; PhpStorm Blog
 author: azu
 layout: post
 itemUrl: >-

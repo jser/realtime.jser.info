@@ -1,7 +1,7 @@
 ---
 title: >-
-  libphonenumber - Google's phone number handling library, powering Android and
-  more - Google Project Hosting
+  libphonenumber - Google&#039;s phone number handling library, powering Android
+  and more - Google Project Hosting
 author: azu
 layout: post
 itemUrl: 'https://code.google.com/p/libphonenumber/'

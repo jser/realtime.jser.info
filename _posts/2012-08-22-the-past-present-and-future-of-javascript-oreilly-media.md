@@ -1,5 +1,5 @@
 ---
-title: 'The Past, Present, and Future of JavaScript - O''Reilly Media'
+title: 'The Past, Present, and Future of JavaScript - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: >-

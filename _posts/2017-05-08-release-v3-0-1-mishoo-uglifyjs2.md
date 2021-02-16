@@ -11,8 +11,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      unify CLI &amp; API under `minify()` by alexlamsl · Pull Request #1811 ·
-      mishoo/UglifyJS2
+      unify CLI &amp;amp; API under `minify()` by alexlamsl · Pull Request #1811
+      · mishoo/UglifyJS2
     url: 'https://github.com/mishoo/UglifyJS2/pull/1811'
   - title: 'drop `angular` by alexlamsl · Pull Request #1812 · mishoo/UglifyJS2'
     url: 'https://github.com/mishoo/UglifyJS2/pull/1812'

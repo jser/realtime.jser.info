@@ -1,7 +1,7 @@
 ---
 title: >-
-  Replacing a hot path in your app's JavaScript with WebAssembly  |  Web  | 
-  Google Developers
+  Replacing a hot path in your app&#039;s JavaScript with WebAssembly  |  Web 
+  |  Google Developers
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2019/02/hotpath-with-wasm'

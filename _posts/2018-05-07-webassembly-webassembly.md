@@ -9,7 +9,7 @@ tags:
   - WebAssembly
   - book
 relatedLinks:
-  - title: WebAssembly 開発環境構築の本を公開しました - mizdra's blog
+  - title: 'WebAssembly 開発環境構築の本を公開しました - mizdra&#039;s blog'
     url: 'http://www.mizdra.net/entry/2018/05/07/080000'
 ---
 WebAssemblyについての電子書籍。

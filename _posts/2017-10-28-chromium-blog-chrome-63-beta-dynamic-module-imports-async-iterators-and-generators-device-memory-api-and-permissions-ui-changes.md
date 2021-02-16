@@ -12,7 +12,7 @@ tags:
   - Chrome
   - ReleaseNote
 relatedLinks:
-  - title: 'What&#39;s New In DevTools (Chrome 63)  |  Web  |  Google Developers'
+  - title: 'What&amp;#39;s New In DevTools (Chrome 63)  |  Web  |  Google Developers'
     url: 'https://developers.google.com/web/updates/2017/10/devtools-release-notes'
   - title: Permission UX  |  Web Fundamentals  |  Google Developers
     url: >-

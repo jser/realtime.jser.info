@@ -1,5 +1,5 @@
 ---
-title: We're officially out of beta!
+title: 'We&#039;re officially out of beta!'
 author: azu
 layout: post
 itemUrl: 'https://www.cypress.io/blog/2018/09/20/cypress-is-officially-out-of-beta/'

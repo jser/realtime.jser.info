@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: 新米IT担当者のための HTML/CSS&Webサービスがしっかりわかる本: シープランニング'
+title: 'Amazon: 新米IT担当者のための HTML/CSS&amp;Webサービスがしっかりわかる本: シープランニング'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4774146234/book042-22/ref=nosim'

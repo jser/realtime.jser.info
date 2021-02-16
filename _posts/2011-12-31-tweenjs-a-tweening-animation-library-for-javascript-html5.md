@@ -1,5 +1,5 @@
 ---
-title: '『TweenJS: A Tweening & Animation Library for Javascript & HTML5.』'
+title: '『TweenJS: A Tweening &amp; Animation Library for Javascript &amp; HTML5.』'
 author: azu
 layout: post
 itemUrl: 'http://tweenjs.com/'

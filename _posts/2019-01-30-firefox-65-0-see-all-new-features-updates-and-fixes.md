@@ -14,7 +14,7 @@ relatedLinks:
   - title: Firefox 65 サイト互換性情報 | Firefox サイト互換性情報
     url: 'https://www.fxsitecompat.com/ja/versions/65/'
   - title: >-
-      Firefox 65: WebP support, Flexbox Inspector, new tooling & platform
+      Firefox 65: WebP support, Flexbox Inspector, new tooling &amp; platform
       updates - Mozilla Hacks - the Web developer blog
     url: >-
       https://hacks.mozilla.org/2019/01/firefox-65-webp-flexbox-inspector-new-tooling/

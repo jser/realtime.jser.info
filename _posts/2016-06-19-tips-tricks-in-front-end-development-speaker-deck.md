@@ -1,5 +1,5 @@
 ---
-title: Tips & Tricks in Front-End Development // Speaker Deck
+title: Tips &amp; Tricks in Front-End Development // Speaker Deck
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/forloop/tips-and-tricks-in-front-end-development'
@@ -10,4 +10,4 @@ tags:
   - slide
   - Tips
 ---
-`object-fit`、Viewport unit、既読リンクの扱い、壊れた`<img />`の表示、要素内が空の場合の表示、postMessage、SVGなどのフロントエンド向けのTips
+`object-fit`、Viewport unit、既読リンクの扱い、壊れた`&lt;img /&gt;`の表示、要素内が空の場合の表示、postMessage、SVGなどのフロントエンド向けのTips

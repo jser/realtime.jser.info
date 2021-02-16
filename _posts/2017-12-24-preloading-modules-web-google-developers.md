@@ -11,5 +11,5 @@ tags:
   - Chrome
   - article
 ---
-`<link rel="modulepreload">`について。
-`<link rel="preload">`との違い、モジュールの依存関係はフラットにすべてのファイルを定義するべきかについて
+`&lt;link rel=&quot;modulepreload&quot;&gt;`について。
+`&lt;link rel=&quot;preload&quot;&gt;`との違い、モジュールの依存関係はフラットにすべてのファイルを定義するべきかについて

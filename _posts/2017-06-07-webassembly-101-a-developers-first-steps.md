@@ -1,5 +1,5 @@
 ---
-title: 'WebAssembly 101: a developer''s first steps'
+title: 'WebAssembly 101: a developer&#039;s first steps'
 author: azu
 layout: post
 itemUrl: 'http://blog.openbloc.fr/webassembly-first-steps/'

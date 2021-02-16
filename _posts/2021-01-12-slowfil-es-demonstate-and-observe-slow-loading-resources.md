@@ -16,7 +16,9 @@ relatedLinks:
       Web Development
     url: >-
       https://www.stefanjudis.com/notes/slowfil-es-a-service-for-slow-assets-with-high-priority/
-  - title: Oh The Scripts We'll Load - A Performance Talk by Tim Kadlec - YouTube
+  - title: >-
+      Oh The Scripts We&#039;ll Load - A Performance Talk by Tim Kadlec -
+      YouTube
     url: 'https://www.youtube.com/watch?v=tr6aHw8I32M'
 ---
 レイテンシを再現したリソースの配信をテストできるサービス。

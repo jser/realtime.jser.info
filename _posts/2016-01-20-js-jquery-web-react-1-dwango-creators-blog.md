@@ -1,6 +1,6 @@
 ---
 title: >-
-  JSといえばjQueryだったWebデザイナーが、Reactを1年間使って感じたメリット | dwango creators'
+  JSといえばjQueryだったWebデザイナーが、Reactを1年間使って感じたメリット | dwango creators&#039;
   blog(ドワンゴクリエイターズブログ)
 author: azu
 layout: post

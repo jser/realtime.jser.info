@@ -9,5 +9,5 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-20T15:32:00Z'
 ---
 2011年1月22日発売
-[Eloquent JavaScript -- interactive tutorial](http://eloquentjavascript.net/ "Eloquent JavaScript -- interactive tutorial")の書籍版が発売。
--[ハッカーに憧れてたダケのオマエらに捧ぐ（序＋目次）　- Eloquent JavaScript - 暗号、数学、時々プログラミング](http://d.hatena.ne.jp/hamatsu1974/20081120/1227128791 "ハッカーに憧れてたダケのオマエらに捧ぐ（序＋目次）　- Eloquent JavaScript - 暗号、数学、時々プログラミング")
+[Eloquent JavaScript -- interactive tutorial](http://eloquentjavascript.net/ &quot;Eloquent JavaScript -- interactive tutorial&quot;)の書籍版が発売。
+-[ハッカーに憧れてたダケのオマエらに捧ぐ（序＋目次）　- Eloquent JavaScript - 暗号、数学、時々プログラミング](http://d.hatena.ne.jp/hamatsu1974/20081120/1227128791 &quot;ハッカーに憧れてたダケのオマエらに捧ぐ（序＋目次）　- Eloquent JavaScript - 暗号、数学、時々プログラミング&quot;)

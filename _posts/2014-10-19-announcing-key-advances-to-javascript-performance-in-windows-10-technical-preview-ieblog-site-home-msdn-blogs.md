@@ -16,4 +16,4 @@ relatedLinks:
     url: 'https://dev.mozilla.jp/2013/04/the-baseline-compiler-has-landed/'
 ---
 IEのJavaScriptエンジンであるChakraの最適化について。baseline的なASTを中間層としてJITコンパイル。
-最適化として、オブジェクトの同値の場合にインラインキャッシュ、コードのインライン化、Arrayアクセスの最適化、mark&sweep GCの改善等
+最適化として、オブジェクトの同値の場合にインラインキャッシュ、コードのインライン化、Arrayアクセスの最適化、mark&amp;sweep GCの改善等

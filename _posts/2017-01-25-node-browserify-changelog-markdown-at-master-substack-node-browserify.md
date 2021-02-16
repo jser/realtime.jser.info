@@ -10,7 +10,7 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      Update &#39;buffer&#39; to v5.x by feross · Pull Request #1678 ·
+      Update &amp;#39;buffer&amp;#39; to v5.x by feross · Pull Request #1678 ·
       substack/node-browserify
     url: 'https://github.com/substack/node-browserify/pull/1678'
 ---

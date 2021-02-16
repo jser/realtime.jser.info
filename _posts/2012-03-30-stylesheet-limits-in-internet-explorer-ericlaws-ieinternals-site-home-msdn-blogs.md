@@ -1,7 +1,7 @@
 ---
 title: >-
-  『Stylesheet Limits in Internet Explorer - EricLaw's IEInternals - Site Home -
-  MSDN Blogs』
+  『Stylesheet Limits in Internet Explorer - EricLaw&#039;s IEInternals - Site
+  Home - MSDN Blogs』
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: '"The jsPerf Guide" (book) by Kyle Simpson — Kickstarter'
+title: '&quot;The jsPerf Guide&quot; (book) by Kyle Simpson — Kickstarter'
 author: azu
 layout: post
 itemUrl: 'http://www.kickstarter.com/projects/getify/the-jsperf-guide-book'

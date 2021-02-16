@@ -14,4 +14,4 @@ tags:
   - WebComponents
   - article
 ---
-Firefox 63でWeb Componentsがデフォルトで有効化され開発者ツールも`<template>`要素やShadow DOMなどに対応する
+Firefox 63でWeb Componentsがデフォルトで有効化され開発者ツールも`&lt;template&gt;`要素やShadow DOMなどに対応する

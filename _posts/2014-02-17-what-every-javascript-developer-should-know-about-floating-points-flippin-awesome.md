@@ -1,7 +1,7 @@
 ---
 title: >-
-  What Every JavaScript Developer Should Know About Floating Points | Flippin'
-  Awesome
+  What Every JavaScript Developer Should Know About Floating Points |
+  Flippin&#039; Awesome
 author: azu
 layout: post
 itemUrl: >-

@@ -1,7 +1,7 @@
 ---
 title: >-
   GoogleCloudPlatform/require-so-slow: `require`s taking too much time? Profile
-  'em.
+  &#039;em.
 author: azu
 layout: post
 itemUrl: 'https://github.com/GoogleCloudPlatform/require-so-slow'

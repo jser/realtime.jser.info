@@ -13,4 +13,4 @@ relatedLinks:
     url: 'http://browser.hatenablog.com/entry/2015/09/21/180947'
 ---
 MSEdge Build 10547リリース。
-`<template>`、`<picture>`の追加、`<a download>`の対応、SVGで外部コンテンツのロード、フラグ付きでAsync Function、`**`演算子の対応など
+`&lt;template&gt;`、`&lt;picture&gt;`の追加、`&lt;a download&gt;`の対応、SVGで外部コンテンツのロード、フラグ付きでAsync Function、`**`演算子の対応など

@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 Preact 10.5.0リリース。
-新しいJSXの変換に対応したRuntimeの追加、 hydrationにおけるSuspend & Resumeの改善など
+新しいJSXの変換に対応したRuntimeの追加、 hydrationにおけるSuspend &amp; Resumeの改善など

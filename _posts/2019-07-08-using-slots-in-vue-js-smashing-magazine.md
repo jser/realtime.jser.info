@@ -10,5 +10,5 @@ tags:
   - article
 ---
 VueのSlotについての記事。
-`<slot>`の使い方、`v-slot`ディレクトティブ、Scoped Slotについて。
+`&lt;slot&gt;`の使い方、`v-slot`ディレクトティブ、Scoped Slotについて。
 また再利用可能なコンポーネントの書き方についてなど

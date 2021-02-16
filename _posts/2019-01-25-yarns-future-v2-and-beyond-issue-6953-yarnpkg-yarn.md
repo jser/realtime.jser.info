@@ -1,5 +1,5 @@
 ---
-title: 'Yarn''s Future - v2 and beyond · Issue #6953 · yarnpkg/yarn'
+title: 'Yarn&#039;s Future - v2 and beyond · Issue #6953 · yarnpkg/yarn'
 author: azu
 layout: post
 itemUrl: 'https://github.com/yarnpkg/yarn/issues/6953'

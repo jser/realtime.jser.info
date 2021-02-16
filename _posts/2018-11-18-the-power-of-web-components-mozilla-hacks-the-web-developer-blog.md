@@ -10,4 +10,4 @@ tags:
   - article
 ---
 Web Componentsの概要的な記事。
-Web Componentsを構成する`<template>`、Custom Elements、Shadow DOMについて解説している
+Web Componentsを構成する`&lt;template&gt;`、Custom Elements、Shadow DOMについて解説している

@@ -13,6 +13,6 @@ tags:
 最近のJavaScriptにおける主流となったライブラリやツールについて。
 React、Redux、Babel、ESLint、npm、webpack、mochaなどのテストツールなどや人について
 
-> If you don’t need it, don’t use it
+&gt; If you don’t need it, don’t use it
 
 と書かれているように全てに対するベストではないという話も書かれている

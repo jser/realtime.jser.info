@@ -1,5 +1,5 @@
 ---
-title: Removing Babel's Stage Presets · Babel
+title: 'Removing Babel&#039;s Stage Presets · Babel'
 author: azu
 layout: post
 itemUrl: 'https://babeljs.io/blog/2018/07/27/removing-babels-stage-presets'

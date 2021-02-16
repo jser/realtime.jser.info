@@ -1,5 +1,5 @@
 ---
-title: 'Everything is broken, and I don''t know why. // Speaker Deck'
+title: 'Everything is broken, and I don&#039;t know why. // Speaker Deck'
 author: azu
 layout: post
 itemUrl: 'https://speakerdeck.com/mattrobenolt/everything-is-broken-and-i-dont-know-why'

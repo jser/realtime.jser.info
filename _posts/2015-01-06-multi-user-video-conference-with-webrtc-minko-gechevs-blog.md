@@ -1,5 +1,5 @@
 ---
-title: Multi-User Video Conference with WebRTC – Minko Gechev's blog
+title: 'Multi-User Video Conference with WebRTC – Minko Gechev&#039;s blog'
 author: azu
 layout: post
 itemUrl: >-

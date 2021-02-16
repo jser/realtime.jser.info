@@ -10,5 +10,5 @@ date: '2011-05-11T10:08:00Z'
 ---
 Flash to Canvas(JavaScript)への移植の話
 craftyでの移植ではまった点など。
-Audio APIが壊滅的で "Audio APIの実装をきちんとしないと。ゲームではサウンドは超大事" との事。
+Audio APIが壊滅的で &quot;Audio APIの実装をきちんとしないと。ゲームではサウンドは超大事&quot; との事。
 後は管理機能が不十分な感じ。

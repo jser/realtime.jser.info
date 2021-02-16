@@ -1,7 +1,7 @@
 ---
 title: >-
   intoli/user-agents: A JavaScript library for generating random user agents
-  with data that's updated daily.
+  with data that&#039;s updated daily.
 author: azu
 layout: post
 itemUrl: 'https://github.com/intoli/user-agents'

@@ -1,5 +1,5 @@
 ---
-title: 'streamich/memfs: In-memory filesystem with Node''s API'
+title: 'streamich/memfs: In-memory filesystem with Node&#039;s API'
 author: azu
 layout: post
 itemUrl: 'https://github.com/streamich/memfs'

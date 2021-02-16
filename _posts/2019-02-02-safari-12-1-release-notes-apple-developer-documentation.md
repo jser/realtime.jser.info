@@ -14,5 +14,5 @@ relatedLinks:
     url: 'https://twitter.com/rmondello/status/1091073294202269696'
 ---
 Safari 12.1のリリースノート(iOS 12.2/macOS 10.14.4の予定)。
-ITPの強化、color schemeのサポート、Intersection Observer API、Web Share API、`<datalist>`のサポート。
+ITPの強化、color schemeのサポート、Intersection Observer API、Web Share API、`&lt;datalist&gt;`のサポート。
 WebRTC Unified PlanとVP8サポートなど

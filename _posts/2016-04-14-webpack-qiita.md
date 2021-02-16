@@ -9,6 +9,6 @@ tags:
   - webpack
   - translate
 ---
-"Webpack — The Confusing Parts"の翻訳。
+&quot;Webpack — The Confusing Parts&quot;の翻訳。
 webpackの設定において混乱しやすいことについてまとめられている。
 

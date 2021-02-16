@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://github.com/yahoo/ypromise'
 ---
 YUI 3.17.1リリース。
-Promiseはypromise、touch eventsはHammer.jsとするため下準備(まだ取り込まれてはいない)。D&Dのレグレッションの修正等
+Promiseはypromise、touch eventsはHammer.jsとするため下準備(まだ取り込まれてはいない)。D&amp;Dのレグレッションの修正等

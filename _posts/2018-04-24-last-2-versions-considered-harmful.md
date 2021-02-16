@@ -1,5 +1,5 @@
 ---
-title: last 2 versions" considered harmful
+title: last 2 versions&quot; considered harmful
 author: azu
 layout: post
 itemUrl: 'https://jamie.build/last-2-versions'
@@ -10,5 +10,5 @@ tags:
   - browser
   - Tools
 ---
-autoprefixerなどで使われるbrowserlistの`last 2 versions`指定では、シェアが0%のブラウザも"最新の2バージョン"に含まれてしまう問題について。
+autoprefixerなどで使われるbrowserlistの`last 2 versions`指定では、シェアが0%のブラウザも&quot;最新の2バージョン&quot;に含まれてしまう問題について。
 

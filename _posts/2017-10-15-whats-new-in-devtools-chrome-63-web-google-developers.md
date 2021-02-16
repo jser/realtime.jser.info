@@ -1,5 +1,5 @@
 ---
-title: What's New In DevTools (Chrome 63)  |  Web  |  Google Developers
+title: 'What&#039;s New In DevTools (Chrome 63)  |  Web  |  Google Developers'
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2017/10/devtools-release-notes'

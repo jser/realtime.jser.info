@@ -1,7 +1,7 @@
 ---
 title: >-
-  インクルーシブHTML+CSS & JavaScript 多様なユーザーニーズに応えるフロントエンドデザインパターン | Heydon Pickering,
-  太田良典, 伊原力也, 株式会社Bスプラウト |本 | 通販 | Amazon
+  インクルーシブHTML+CSS &amp; JavaScript 多様なユーザーニーズに応えるフロントエンドデザインパターン | Heydon
+  Pickering, 太田良典, 伊原力也, 株式会社Bスプラウト |本 | 通販 | Amazon
 author: azu
 layout: post
 itemUrl: 'https://www.amazon.co.jp/dp/4862463878'

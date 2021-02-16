@@ -16,5 +16,5 @@ relatedLinks:
       lists with React.js
     url: 'https://github.com/atlassian/react-beautiful-dnd'
 ---
-React向けの縦横リストのD&Dライブラリであるreact-beautiful-dndについて。
+React向けの縦横リストのD&amp;Dライブラリであるreact-beautiful-dndについて。
 どのようにアクセシビリティやパフォーマンスに気をつけて実装しているかについて書かれている

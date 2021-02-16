@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - slide
 ---
-"Nodeとプロミスと、時々、関数型”"
+&quot;Nodeとプロミスと、時々、関数型”&quot;
 Promiseについてのスライド
 https://gist.github.com/okapies/5354929

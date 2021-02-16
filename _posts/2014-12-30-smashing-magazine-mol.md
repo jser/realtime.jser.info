@@ -11,10 +11,10 @@ tags:
   - performance
 relatedLinks:
   - title: >-
-      Improving Smashing Magazine's Performance: A Case Study - Smashing
+      Improving Smashing Magazine&#039;s Performance: A Case Study - Smashing
       Magazine
     url: >-
       http://www.smashingmagazine.com/2014/09/08/improving-smashing-magazine-performance-case-study/
 ---
 Smashing Magazineのパフォーマンス改善について。
-Critical Rendering Pathの最適化、パフォーマンス改善の指標をSpeed Index <= 1000としている点について等
+Critical Rendering Pathの最適化、パフォーマンス改善の指標をSpeed Index &lt;= 1000としている点について等

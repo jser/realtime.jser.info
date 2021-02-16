@@ -1,5 +1,5 @@
 ---
-title: Data structures in JavaScript - Ben's Blog
+title: 'Data structures in JavaScript - Ben&#039;s Blog'
 author: azu
 layout: post
 itemUrl: >-

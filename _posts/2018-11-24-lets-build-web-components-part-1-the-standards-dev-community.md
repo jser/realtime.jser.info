@@ -13,4 +13,4 @@ tags:
 ---
 Web Componentsについての連載。
 Web Componentsの構成要素、polyfill、読み込み方法、ライフサイクル、非同期ロード。
-また`:host`や`<slot>`、スタイル、アクセシビリティ、Polymerなどのフレームワークについて
+また`:host`や`&lt;slot&gt;`、スタイル、アクセシビリティ、Polymerなどのフレームワークについて

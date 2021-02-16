@@ -1,5 +1,5 @@
 ---
-title: Debugging your front-end like it's 2019
+title: 'Debugging your front-end like it&#039;s 2019'
 author: azu
 layout: post
 itemUrl: 'http://krasimirtsonev.com/blog/article/debugging-your-front-end-like-is-2019'

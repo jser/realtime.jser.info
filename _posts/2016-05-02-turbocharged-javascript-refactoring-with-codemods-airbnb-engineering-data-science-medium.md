@@ -1,7 +1,7 @@
 ---
 title: >-
-  Turbocharged JavaScript refactoring with codemods — Airbnb Engineering & Data
-  Science — Medium
+  Turbocharged JavaScript refactoring with codemods — Airbnb Engineering &amp;
+  Data Science — Medium
 author: azu
 layout: post
 itemUrl: >-

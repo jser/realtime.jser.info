@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 ESLint 1.2.0リリース。
-文字列結合をTemplate Stringsを使うようにするルール、コールバックにArrow Functionを優先するルールなどの追加、`commonjs"のenvironment定義が追加された
+文字列結合をTemplate Stringsを使うようにするルール、コールバックにArrow Functionを優先するルールなどの追加、`commonjs&quot;のenvironment定義が追加された

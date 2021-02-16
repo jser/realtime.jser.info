@@ -19,5 +19,5 @@ relatedLinks:
   - title: HTML5 for Web Developers | HTML5 Doctor
     url: 'http://html5doctor.com/html5-for-web-developers/'
 ---
-WHATWG HTML仕様のDeveloper's Edition。
+WHATWG HTML仕様のDeveloper&#039;s Edition。
 ブラウザベンダー向けの情報は削除し、ウェブ開発者向けの情報に絞ったHTML仕様。

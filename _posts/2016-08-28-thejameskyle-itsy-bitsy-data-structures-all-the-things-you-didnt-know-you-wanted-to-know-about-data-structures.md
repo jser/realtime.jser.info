@@ -1,7 +1,7 @@
 ---
 title: >-
-  thejameskyle/itsy-bitsy-data-structures: All the things you didn't know you
-  wanted to know about data structures
+  thejameskyle/itsy-bitsy-data-structures: All the things you didn&#039;t know
+  you wanted to know about data structures
 author: azu
 layout: post
 itemUrl: 'https://github.com/thejameskyle/itsy-bitsy-data-structures'

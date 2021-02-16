@@ -1,5 +1,5 @@
 ---
-title: 'Let''s Code: Test-Driven Javascript | Coming July 2012'
+title: 'Let&#039;s Code: Test-Driven Javascript | Coming July 2012'
 author: azu
 layout: post
 itemUrl: 'http://www.letscodejavascript.com/'
@@ -10,4 +10,4 @@ tags:
   - javascript
   - video
 ---
-テスト駆動JavaScriptについてのスクリーンキャスト講座 Let's Code: Test-Driven JavascriptのサイトがPublic Open
+テスト駆動JavaScriptについてのスクリーンキャスト講座 Let&#039;s Code: Test-Driven JavascriptのサイトがPublic Open

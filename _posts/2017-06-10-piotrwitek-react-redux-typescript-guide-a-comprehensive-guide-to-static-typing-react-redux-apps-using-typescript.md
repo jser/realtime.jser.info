@@ -1,7 +1,7 @@
 ---
 title: >-
   piotrwitek/react-redux-typescript-guide: A comprehensive guide to static
-  typing "React & Redux" apps using TypeScript
+  typing &quot;React &amp; Redux&quot; apps using TypeScript
 author: azu
 layout: post
 itemUrl: 'https://github.com/piotrwitek/react-redux-typescript-guide'

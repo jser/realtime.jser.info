@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 Parcel 1.10.0リリース。
-Babel 7、Flowの自動検出、Elm対応、インライン`<script>`と`<style>`の対応、HTMLのimportに対応など
+Babel 7、Flowの自動検出、Elm対応、インライン`&lt;script&gt;`と`&lt;style&gt;`の対応、HTMLのimportに対応など

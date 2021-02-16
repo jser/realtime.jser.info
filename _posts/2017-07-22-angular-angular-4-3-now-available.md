@@ -16,5 +16,5 @@ relatedLinks:
 ---
 Angular 4.3リリース。
 `HttpClient`の追加、routerのライフサイクルイベントの追加。
-また、Shadow-Piercing descendant combinatorは非推奨であるため、 Angularの中の`/deep/`、`>>>`、`::ng-deep`も非推奨となった。
+また、Shadow-Piercing descendant combinatorは非推奨であるため、 Angularの中の`/deep/`、`&gt;&gt;&gt;`、`::ng-deep`も非推奨となった。
 `::ng-deep`はツール側で優先して扱うように。

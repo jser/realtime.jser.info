@@ -1,7 +1,7 @@
 ---
 title: >-
-  hall of api shame: boolean trap - don't code today what you can't debug
-  tomorrow
+  hall of api shame: boolean trap - don&#039;t code today what you can&#039;t
+  debug tomorrow
 author: azu
 layout: post
 itemUrl: 'http://ariya.ofilabs.com/2011/08/hall-of-api-shame-boolean-trap.html'

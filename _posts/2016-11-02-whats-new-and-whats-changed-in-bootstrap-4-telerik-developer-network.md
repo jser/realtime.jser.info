@@ -1,5 +1,7 @@
 ---
-title: What's New and What's Changed in Bootstrap 4 -Telerik Developer Network
+title: >-
+  What&#039;s New and What&#039;s Changed in Bootstrap 4 -Telerik Developer
+  Network
 author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/whats-new-whats-changed-bootstrap-4/'

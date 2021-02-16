@@ -1,5 +1,5 @@
 ---
-title: Ahead-of-Time Compilation in Angular 2 – Minko Gechev's blog
+title: 'Ahead-of-Time Compilation in Angular 2 – Minko Gechev&#039;s blog'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: For and against 'let'
+title: 'For and against &#039;let&#039;'
 author: azu
 layout: post
 itemUrl: 'http://davidwalsh.name/for-and-against-let'

@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Flow 0.59.0リリース。
-`$ReadOnly<T>` utility typeの追加、パフォーマンスの改善、`/* flowlint sketchy-null:error */`のようなコメントでLintを有効化できるように
+`$ReadOnly&lt;T&gt;` utility typeの追加、パフォーマンスの改善、`/* flowlint sketchy-null:error */`のようなコメントでLintを有効化できるように

@@ -11,7 +11,7 @@ tags:
   - WebStorm
   - ReleaseNote
 relatedLinks:
-  - title: What's new in WebStorm 10
+  - title: 'What&#039;s new in WebStorm 10'
     url: 'https://www.jetbrains.com/webstorm/whatsnew/'
 ---
 WebStorm 10リリース。

@@ -1,7 +1,7 @@
 ---
 title: >-
-  Enable Node.js to run with Microsoft's ChakraCore engine by kunalspathak ·
-  Pull Request #4765 · nodejs/node
+  Enable Node.js to run with Microsoft&#039;s ChakraCore engine by kunalspathak
+  · Pull Request #4765 · nodejs/node
 author: azu
 layout: post
 itemUrl: 'https://github.com/nodejs/node/pull/4765'

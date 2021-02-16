@@ -1,7 +1,7 @@
 ---
 title: >-
-  Hacker News | Look at what's actually happened, never mind the future:1. Dart
-  development (Das...
+  Hacker News | Look at what&#039;s actually happened, never mind the future:1.
+  Dart development (Das...
 author: azu
 layout: post
 itemUrl: 'https://news.ycombinator.com/item?id=3008798'

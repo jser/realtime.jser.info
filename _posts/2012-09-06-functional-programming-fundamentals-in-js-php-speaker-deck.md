@@ -1,5 +1,5 @@
 ---
-title: Functional Programming Fundamentals in JS & PHP // Speaker Deck
+title: Functional Programming Fundamentals in JS &amp; PHP // Speaker Deck
 author: azu
 layout: post
 itemUrl: >-

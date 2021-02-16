@@ -1,5 +1,5 @@
 ---
-title: 'Modular JS: Practical ES6 - O''Reilly Media'
+title: 'Modular JS: Practical ES6 - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920047124.do'

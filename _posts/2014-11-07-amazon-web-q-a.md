@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: デザイニングWebアクセシビリティ - アクセシブルな設計やコンテンツのための実践Q&A: 太田良典, 伊原力也'
+title: 'Amazon: デザイニングWebアクセシビリティ - アクセシブルな設計やコンテンツのための実践Q&amp;A: 太田良典, 伊原力也'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4862671756?tag=amazon0abac-22'

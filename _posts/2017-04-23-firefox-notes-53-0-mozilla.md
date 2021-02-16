@@ -23,4 +23,4 @@ relatedLinks:
 ---
 Firefox 53.0リリース。
 ES2015のFunction.nameの仕様追従
-`var f = function() {};f.name; // "f"`、`auxclick`イベントの対応、`display: flow-root`の対応など
+`var f = function() {};f.name; // &quot;f&quot;`、`auxclick`イベントの対応、`display: flow-root`の対応など

@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - book
 ---
-"JavaScript Application Design"
+&quot;JavaScript Application Design&quot;
 ウェブアプリケーションを作るワークフローについての書籍.
 サンプルやスニペット等が公開されてる

@@ -14,5 +14,5 @@ relatedLinks:
     url: 'https://github.com/ReactTraining/react-router/releases/tag/v5.0.0'
 ---
 React Router 5リリース。
-React 16との互換性改善、bundle済みファイルを配布するように`<Route path>`が配列を受け取れるように。
+React 16との互換性改善、bundle済みファイルを配布するように`&lt;Route path&gt;`が配列を受け取れるように。
 minorアップデートだが、react-router-domとバージョンを合わせるためにmajorアップデートとしてリリースされた。

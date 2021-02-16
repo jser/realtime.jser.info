@@ -12,7 +12,9 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: 'Soft deprecate &quot;mocha.opts&quot; · Issue #3910 · mochajs/mocha'
+  - title: >-
+      Soft deprecate &amp;quot;mocha.opts&amp;quot; · Issue #3910 ·
+      mochajs/mocha
     url: 'https://github.com/mochajs/mocha/issues/3910'
 ---
 Mocha 7.0.0リリース。

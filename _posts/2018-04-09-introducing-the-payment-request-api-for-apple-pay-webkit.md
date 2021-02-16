@@ -11,5 +11,5 @@ tags:
   - article
 ---
 Safari 11.1のPayment Request APIでApple Payを利用する方法についての解説記事。
-`-webkit-appearance: -apple-pay-button;"`のスタイルを指定するだけでAppley Payボタンを表示できる。
+`-webkit-appearance: -apple-pay-button;&quot;`のスタイルを指定するだけでAppley Payボタンを表示できる。
 またPayment Request APIの使い方について。

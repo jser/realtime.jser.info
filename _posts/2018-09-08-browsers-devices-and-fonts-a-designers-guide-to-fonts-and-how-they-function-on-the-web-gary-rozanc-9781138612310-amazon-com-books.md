@@ -1,6 +1,6 @@
 ---
 title: >-
-  Browsers, Devices, and Fonts: A Designer's Guide to Fonts and How They
+  Browsers, Devices, and Fonts: A Designer&#039;s Guide to Fonts and How They
   Function on the Web: Gary Rozanc: 9781138612310: Amazon.com: Books
 author: azu
 layout: post

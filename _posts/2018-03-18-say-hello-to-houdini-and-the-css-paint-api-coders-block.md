@@ -1,5 +1,5 @@
 ---
-title: Say Hello to Houdini and the CSS Paint API / Coder's Block
+title: 'Say Hello to Houdini and the CSS Paint API / Coder&#039;s Block'
 author: azu
 layout: post
 itemUrl: 'https://codersblock.com/blog/say-hello-to-houdini-and-the-css-paint-api/'

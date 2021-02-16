@@ -10,5 +10,5 @@ tags:
   - spec
   - translate
 ---
-"忙しい人のためのW3Cプロセス入門"
+&quot;忙しい人のためのW3Cプロセス入門&quot;
 W3C Process for Busy Peopleの日本語訳

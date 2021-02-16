@@ -12,7 +12,7 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      &#34;Out of view&#34; cross-origin iframes align/clamp
+      &amp;#34;Out of view&amp;#34; cross-origin iframes align/clamp
       setTimeout/setInterval to 1 second · Issue #9 · WICG/interventions
     url: 'https://github.com/WICG/interventions/issues/9'
 ---

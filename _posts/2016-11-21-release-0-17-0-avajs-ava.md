@@ -14,4 +14,4 @@ relatedLinks:
     url: 'https://github.com/avajs/ava-codemods#migrating-to-ava'
 ---
 AVA 0.17.0リリース。
-`process.cws()`を`package.json`と同じディレクトリに変更、Node.js v4>=のみのサポート、`--require` CLIオプションの削除、`karma-ava`のサポートなど
+`process.cws()`を`package.json`と同じディレクトリに変更、Node.js v4&gt;=のみのサポート、`--require` CLIオプションの削除、`karma-ava`のサポートなど

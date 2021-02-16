@@ -1,7 +1,7 @@
 ---
 title: >-
-  React Performance Fixes on Airbnb Listing Pages – Airbnb Engineering & Data
-  Science – Medium
+  React Performance Fixes on Airbnb Listing Pages – Airbnb Engineering &amp;
+  Data Science – Medium
 author: azu
 layout: post
 itemUrl: >-

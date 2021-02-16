@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Grunt 1.0.0リリース。
-Gruntプラグインの`peerDependencies`には`"grunt": ">=0.4.0"`を入れることを推奨してる。
+Gruntプラグインの`peerDependencies`には`&quot;grunt&quot;: &quot;&gt;=0.4.0&quot;`を入れることを推奨してる。

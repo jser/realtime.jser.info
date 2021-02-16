@@ -10,7 +10,7 @@ tags:
   - Conference
   - video
 relatedLinks:
-  - title: Jamstack Conf 2020 - Virtual & San Francisco
+  - title: Jamstack Conf 2020 - Virtual &amp; San Francisco
     url: 'https://jamstackconf.com/'
 ---
 Jamstack Conf 2020の動画一覧

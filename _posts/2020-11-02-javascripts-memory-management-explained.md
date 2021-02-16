@@ -1,5 +1,5 @@
 ---
-title: JavaScript's Memory Management Explained
+title: 'JavaScript&#039;s Memory Management Explained'
 author: azu
 layout: post
 itemUrl: 'https://felixgerschau.com/javascript-memory-management/'

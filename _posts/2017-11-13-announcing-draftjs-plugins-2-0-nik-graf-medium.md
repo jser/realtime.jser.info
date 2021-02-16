@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://www.draft-js-plugins.com/'
 ---
 DraftJSのプラグイン集であるDraftJS Plugins 2.0リリース。
-画像の操作、整形、D&D、mentionやemojiなどに対応するプラグインを公開している。
+画像の操作、整形、D&amp;D、mentionやemojiなどに対応するプラグインを公開している。

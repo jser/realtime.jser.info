@@ -9,7 +9,7 @@ tags:
   - npm
   - article
 relatedLinks:
-  - title: 'npm/arborist: npm''s tree doctor'
+  - title: 'npm/arborist: npm&#039;s tree doctor'
     url: 'https://github.com/npm/arborist'
 ---
 npm 7のロードマップについて。

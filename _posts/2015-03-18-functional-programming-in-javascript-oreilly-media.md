@@ -1,5 +1,5 @@
 ---
-title: Functional Programming in JavaScript - O'Reilly Media
+title: 'Functional Programming in JavaScript - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781784398224.do'

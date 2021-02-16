@@ -1,5 +1,5 @@
 ---
-title: What's in the future of the web? / Twitter
+title: 'What&#039;s in the future of the web? / Twitter'
 author: azu
 layout: post
 itemUrl: 'https://mobile.twitter.com/i/moments/1062511192097214464'

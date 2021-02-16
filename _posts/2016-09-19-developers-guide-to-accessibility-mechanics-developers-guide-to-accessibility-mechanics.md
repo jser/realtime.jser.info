@@ -1,6 +1,6 @@
 ---
 title: >-
-  Developer's guide to accessibility mechanics — Developer's guide to
+  Developer&#039;s guide to accessibility mechanics — Developer&#039;s guide to
   accessibility mechanics
 author: azu
 layout: post
@@ -11,6 +11,6 @@ tags:
   - accessibility
   - slide
 ---
-デフォルトの`<a>`はどういうサポートがあるからaccessibleであるかについてを独自のリンク実装で見ていく話。
+デフォルトの`&lt;a&gt;`はどういうサポートがあるからaccessibleであるかについてを独自のリンク実装で見ていく話。
 またデフォルトではaccessibleでないツールチップ、タブパネルなどをどうじっそうするか。
 実際にスクリーンリーダーの音を聞きながら確認できる

@@ -17,4 +17,4 @@ relatedLinks:
     url: 'https://blog.chromium.org/2017/08/chrome-61-beta-javascript-modules.html'
 ---
 Chrome 61リリース。
-`<script type=module>`、`navigator.share`、WebUSB APIのサポートなど
+`&lt;script type=module&gt;`、`navigator.share`、WebUSB APIのサポートなど

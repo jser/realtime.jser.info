@@ -8,4 +8,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/12/inde
 date: '2011-12-01T06:20:00Z'
 ---
 Google Documentのエディタの仕組み
-D&Dでカーソルが追ってくる仕組みについて、リッチエディタ部分の仕組みなど
+D&amp;Dでカーソルが追ってくる仕組みについて、リッチエディタ部分の仕組みなど

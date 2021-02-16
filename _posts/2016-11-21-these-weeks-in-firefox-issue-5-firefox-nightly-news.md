@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Firefox Nightly 52における変更点のハイライト。
-async/awaitの対応、ネットワークのスロットリングツールの追加、`<input type="time">`のUI改善など
+async/awaitの対応、ネットワークのスロットリングツールの追加、`&lt;input type=&quot;time&quot;&gt;`のUI改善など

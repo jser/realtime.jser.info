@@ -13,7 +13,7 @@ tags:
 relatedLinks:
   - title: Under-the-hood of web bundlers (e.g. Webpack) - YouTube
     url: 'https://www.youtube.com/watch?v=JAY10_75vFw'
-  - title: 'craigtaub/our-own-webpack: Our own version of Webpack in <200 lines'
+  - title: 'craigtaub/our-own-webpack: Our own version of Webpack in &lt;200 lines'
     url: 'https://github.com/craigtaub/our-own-webpack'
 ---
 JavaScriptのBundlerについての発表動画の記事版。

@@ -1,5 +1,5 @@
 ---
-title: Learning React - O'Reilly Media
+title: 'Learning React - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920049579.do'

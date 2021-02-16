@@ -12,7 +12,7 @@ tags:
   - video
   - slide
 relatedLinks:
-  - title: ng-conf 2015 - The World's Original Angular Conference
+  - title: 'ng-conf 2015 - The World&#039;s Original Angular Conference'
     url: 'http://www.ng-conf.org/'
 ---
 ng-conf 2015の動画とスライドまとめ

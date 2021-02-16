@@ -1,6 +1,6 @@
 ---
 title: >-
-  Dart News & Updates: Ecma approves the 1st edition of the Dart language
+  Dart News &amp; Updates: Ecma approves the 1st edition of the Dart language
   specification
 author: azu
 layout: post

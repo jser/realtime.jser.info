@@ -16,7 +16,9 @@ relatedLinks:
       Blog
     url: >-
       https://blogs.windows.com/msedgedev/2019/10/15/form-controls-microsoft-edge-chromium/
-  - title: Making your website &quot;cross-origin isolated&quot; using COOP and COEP
+  - title: >-
+      Making your website &amp;quot;cross-origin isolated&amp;quot; using COOP
+      and COEP
     url: 'https://web.dev/coop-coep/'
   - title: 'The Native File System API: Simplifying access to local files'
     url: 'https://web.dev/native-file-system/'

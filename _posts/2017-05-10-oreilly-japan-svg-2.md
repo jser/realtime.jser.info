@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - SVGエッセンシャルズ 第2版
+title: 'O&#039;Reilly Japan - SVGエッセンシャルズ 第2版'
 author: azu
 layout: post
 itemUrl: 'https://www.oreilly.co.jp/books/9784873117973/'

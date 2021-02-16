@@ -1,7 +1,7 @@
 ---
 title: >-
-  GoogleChromeLabs/native-url: Node's url module implemented using the built-in
-  URL API.
+  GoogleChromeLabs/native-url: Node&#039;s url module implemented using the
+  built-in URL API.
 author: azu
 layout: post
 itemUrl: 'https://github.com/GoogleChromeLabs/native-url'

@@ -1,5 +1,7 @@
 ---
-title: Firefox's New WebSocket Inspector - Mozilla Hacks - the Web developer blog
+title: >-
+  Firefox&#039;s New WebSocket Inspector - Mozilla Hacks - the Web developer
+  blog
 author: azu
 layout: post
 itemUrl: 'https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/'

@@ -9,5 +9,5 @@ tags:
   - HTML
   - slide
 ---
-`<link rel>`についてのスライド
+`&lt;link rel&gt;`についてのスライド
 prefetch、resource loading、feature detectionについて

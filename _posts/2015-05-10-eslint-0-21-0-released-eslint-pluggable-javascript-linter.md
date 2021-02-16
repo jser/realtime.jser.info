@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 ESLint 0.21.0リリース。
-`eslint --init`で設定ファイルの作成をインタラクティブに行えるように、外部の設定ファイルを継承出来るようになり、また[Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs "Shareable Configs")というドキュメントが追加された
+`eslint --init`で設定ファイルの作成をインタラクティブに行えるように、外部の設定ファイルを継承出来るようになり、また[Shareable Configs](http://eslint.org/docs/developer-guide/shareable-configs &quot;Shareable Configs&quot;)というドキュメントが追加された

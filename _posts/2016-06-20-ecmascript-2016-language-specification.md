@@ -13,7 +13,7 @@ relatedLinks:
     url: 'http://www.ecma-international.org/publications/standards/Ecma-262.htm'
   - title: 'tc39/ecma262: Status, process, and documents for ECMA262'
     url: 'https://github.com/tc39/ecma262'
-  - title: ECMAScript 2016 features &amp; changes - JSer.info
+  - title: ECMAScript 2016 features &amp;amp; changes - JSer.info
     url: 'http://jser.info/2016/02/01/es2016/'
 ---
 ECMAScript 2016リリース。

@@ -1,5 +1,5 @@
 ---
-title: What's New in Lighthouse 6.0
+title: 'What&#039;s New in Lighthouse 6.0'
 author: azu
 layout: post
 itemUrl: 'https://web.dev/lighthouse-whats-new-6.0/'

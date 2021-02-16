@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 webpack向けのWorker Plugin 4.0リリース。
-ES Modulesのサポート、`worker-plugin/loader!<path>`のサポート、`SharedWorker`のサポートなど
+ES Modulesのサポート、`worker-plugin/loader!&lt;path&gt;`のサポート、`SharedWorker`のサポートなど

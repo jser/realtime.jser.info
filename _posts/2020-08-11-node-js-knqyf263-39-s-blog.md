@@ -1,5 +1,5 @@
 ---
-title: 'Node.jsでプロトタイプ汚染後に任意コード実行まで繋げた事例 - knqyf263&#39;s blog'
+title: 'Node.jsでプロトタイプ汚染後に任意コード実行まで繋げた事例 - knqyf263&amp;#39;s blog'
 author: azu
 layout: post
 itemUrl: 'https://knqyf263.hatenablog.com/entry/2020/08/11/050342'

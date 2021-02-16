@@ -1,8 +1,8 @@
 ---
 title: >-
   Amazon: HTML5: The Definitive Guide [Paperback]: Chuck Musciano, Visit
-  Amazon's Chuck Musciano Page, search results, Learn about Author Central, Bill
-  Kennedy, Estelle Weyl
+  Amazon&#039;s Chuck Musciano Page, search results, Learn about Author Central,
+  Bill Kennedy, Estelle Weyl
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1449302599/amazon0abac-22/ref=nosim'

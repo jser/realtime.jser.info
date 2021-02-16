@@ -9,4 +9,4 @@ date: '2011-02-15T00:10:00Z'
 JavaScriptの変わってるとこやパフォーマンスや仕組みなどかなり詳細に書かれた内容。
 かなり深く掘り下げていたりしてJavaScript Patternsと同じくらい薦められる読み物。
 読んでいたときのメモ書きを公開してあります。
--[JavaScript Gardenの読書メモ - prog*sig](http://efcl.info/adiary/Javascript/JavaScriptGarden "JavaScript Gardenの読書メモ - prog*sig")
+-[JavaScript Gardenの読書メモ - prog*sig](http://efcl.info/adiary/Javascript/JavaScriptGarden &quot;JavaScript Gardenの読書メモ - prog*sig&quot;)

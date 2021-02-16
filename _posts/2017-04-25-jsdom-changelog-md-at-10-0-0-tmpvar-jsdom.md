@@ -16,5 +16,5 @@ relatedLinks:
     url: 'https://github.com/tmpvar/jsdom/pull/1741'
 ---
 jsdom 10.0.0リリース。
-Node.js <=5のサポートを終了、基本的な使い方を変更(`new JSDOM(html)`など)、`Script`の追加。
+Node.js &lt;=5のサポートを終了、基本的な使い方を変更(`new JSDOM(html)`など)、`Script`の追加。
 `omitJsdomErrors`を`omitJSDOMErrors`へリネーム、`dir`の対応改善、`window.postMessage()`のoriginチェックを修正など

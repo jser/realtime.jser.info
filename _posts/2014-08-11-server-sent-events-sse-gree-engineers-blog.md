@@ -1,5 +1,5 @@
 ---
-title: Server Sent Events(SSE)の使いどころと使い方 | GREE Engineers' Blog
+title: 'Server Sent Events(SSE)の使いどころと使い方 | GREE Engineers&#039; Blog'
 author: azu
 layout: post
 itemUrl: 'http://labs.gree.jp/blog/2014/08/11070/'

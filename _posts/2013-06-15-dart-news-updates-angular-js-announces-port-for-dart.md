@@ -1,5 +1,5 @@
 ---
-title: 'Dart News & Updates: Angular.js announces port for Dart'
+title: 'Dart News &amp; Updates: Angular.js announces port for Dart'
 author: azu
 layout: post
 itemUrl: 'http://news.dartlang.org/2013/06/angularjs-announces-port-for-dart.html'

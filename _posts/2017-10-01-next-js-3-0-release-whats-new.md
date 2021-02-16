@@ -1,5 +1,5 @@
 ---
-title: 'Next.js 3.0 Release: What''s New?'
+title: 'Next.js 3.0 Release: What&#039;s New?'
 author: azu
 layout: post
 itemUrl: 'https://auth0.com/blog/nextjs-3-release-what-is-new/'

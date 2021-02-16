@@ -1,7 +1,7 @@
 ---
 title: >-
-  7.10.0 Released: Class Fields in preset-env, '#private in' checks and better
-  React tree-shaking · Babel
+  7.10.0 Released: Class Fields in preset-env, &#039;#private in&#039; checks
+  and better React tree-shaking · Babel
 author: azu
 layout: post
 itemUrl: 'https://babeljs.io/blog/2020/05/25/7.10.0'

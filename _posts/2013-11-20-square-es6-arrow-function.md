@@ -11,5 +11,5 @@ tags:
   - AST
   - Tools
 ---
-ES6の=>をAST変換してES5互換の形式に変換するツール.
+ES6の=&gt;をAST変換してES5互換の形式に変換するツール.
 ast-types, recaseを使用

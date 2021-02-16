@@ -15,7 +15,8 @@ tags:
 relatedLinks:
   - title: >-
       shampson/RTCQuicTransport-Origin-Trial-Documentation: Documentation and
-      demos for developers using the RTCQuicTransport in Chrome's origin trial.
+      demos for developers using the RTCQuicTransport in Chrome&#039;s origin
+      trial.
     url: 'https://github.com/shampson/RTCQuicTransport-Origin-Trial-Documentation'
   - title: WebRTC over QUIC – V – Medium
     url: 'https://medium.com/@voluntas/webrtc-over-quic-d65425230ef'

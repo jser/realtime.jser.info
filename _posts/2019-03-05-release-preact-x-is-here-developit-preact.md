@@ -10,7 +10,7 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: This.JavaScript - State of Frameworks & Libraries - YouTube
+  - title: This.JavaScript - State of Frameworks &amp; Libraries - YouTube
     url: 'https://youtu.be/DFF9eOlTWzY?t=3988'
 ---
 Preact X α版リリース。

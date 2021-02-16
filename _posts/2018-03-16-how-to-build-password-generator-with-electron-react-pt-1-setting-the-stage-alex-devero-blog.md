@@ -1,7 +1,7 @@
 ---
 title: >-
-  How to Build Password Generator with Electron & React Pt.1 - Setting the Stage
-  - Alex Devero Blog
+  How to Build Password Generator with Electron &amp; React Pt.1 - Setting the
+  Stage - Alex Devero Blog
 author: azu
 layout: post
 itemUrl: 'https://blog.alexdevero.com/password-generator-pt1/'

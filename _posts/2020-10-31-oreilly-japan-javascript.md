@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - ハンズオンJavaScript
+title: 'O&#039;Reilly Japan - ハンズオンJavaScript'
 author: azu
 layout: post
 itemUrl: 'https://www.oreilly.co.jp/books/9784873119229/'

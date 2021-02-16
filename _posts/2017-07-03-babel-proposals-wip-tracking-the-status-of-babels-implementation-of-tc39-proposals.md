@@ -1,7 +1,7 @@
 ---
 title: >-
-  babel/proposals: (WIP) Tracking the status of Babel's implementation of TC39
-  proposals
+  babel/proposals: (WIP) Tracking the status of Babel&#039;s implementation of
+  TC39 proposals
 author: azu
 layout: post
 itemUrl: 'https://github.com/babel/proposals'

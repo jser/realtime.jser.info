@@ -11,4 +11,4 @@ tags:
   - Grunt
 ---
 Traceur-Compileを使ったGruntタスク.
-ES6 -> ES3
+ES6 -&gt; ES3

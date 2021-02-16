@@ -1,7 +1,7 @@
 ---
 title: >-
-  Edge と IE:まるっと理解する、Windows 10 搭載に搭載される Web ブラウザーについて - monoe's blog - Site
-  Home - MSDN Blogs
+  Edge と IE:まるっと理解する、Windows 10 搭載に搭載される Web ブラウザーについて - monoe&#039;s blog -
+  Site Home - MSDN Blogs
 author: azu
 layout: post
 itemUrl: >-

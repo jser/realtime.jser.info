@@ -1,5 +1,5 @@
 ---
-title: The Second Edition of "Refactoring"
+title: The Second Edition of &quot;Refactoring&quot;
 author: azu
 layout: post
 itemUrl: 'https://martinfowler.com/articles/refactoring-2nd-ed.html'

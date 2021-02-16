@@ -1,7 +1,8 @@
 ---
 title: >-
   tildeio/simple-html-tokenizer: A lightweight JavaScript library for tokenizing
-  non-`<script>` HTML expected to be found in the `<body>` of a document
+  non-`&lt;script&gt;` HTML expected to be found in the `&lt;body&gt;` of a
+  document
 author: azu
 layout: post
 itemUrl: 'https://github.com/tildeio/simple-html-tokenizer'

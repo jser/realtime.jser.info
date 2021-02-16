@@ -12,4 +12,4 @@ tags:
 Proxy APIについての解説。
 Proxyで扱える14コのhandler、
 Proxyの使いどころ、Revocable proxiesについてなど。
-"オブジェクトはプロパティのコレクションである"といえるかどうかの話
+&quot;オブジェクトはプロパティのコレクションである&quot;といえるかどうかの話

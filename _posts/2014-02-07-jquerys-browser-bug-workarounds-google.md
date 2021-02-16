@@ -1,5 +1,5 @@
 ---
-title: jQuery's browser bug workarounds - Google ドライブ
+title: 'jQuery&#039;s browser bug workarounds - Google ドライブ'
 author: azu
 layout: post
 itemUrl: >-

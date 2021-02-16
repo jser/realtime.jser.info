@@ -1,5 +1,5 @@
 ---
-title: 'Dart News & Updates: Dart for the Entire Web'
+title: 'Dart News &amp; Updates: Dart for the Entire Web'
 author: azu
 layout: post
 itemUrl: 'http://news.dartlang.org/2015/03/dart-for-entire-web.html'

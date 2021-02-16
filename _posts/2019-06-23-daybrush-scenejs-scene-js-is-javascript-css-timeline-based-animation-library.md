@@ -1,6 +1,6 @@
 ---
 title: >-
-  daybrush/scenejs: :clapper: Scene.js is JavaScript & CSS timeline-based
+  daybrush/scenejs: :clapper: Scene.js is JavaScript &amp; CSS timeline-based
   animation library
 author: azu
 layout: post

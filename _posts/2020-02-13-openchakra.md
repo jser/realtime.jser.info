@@ -13,5 +13,5 @@ relatedLinks:
   - title: Chakra UI | Design System built with React
     url: 'https://chakra-ui.com/'
 ---
-Chakra UIを使ったサイトを構築できるビジュアルエディタ。D&Dでコンポーネントを組み立てでき、その結果をCodeSandboxにコードとして出力できる。
+Chakra UIを使ったサイトを構築できるビジュアルエディタ。D&amp;Dでコンポーネントを組み立てでき、その結果をCodeSandboxにコードとして出力できる。
 

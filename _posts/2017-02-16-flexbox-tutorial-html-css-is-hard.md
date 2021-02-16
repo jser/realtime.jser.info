@@ -1,5 +1,5 @@
 ---
-title: Flexbox Tutorial | HTML & CSS Is Hard
+title: Flexbox Tutorial | HTML &amp; CSS Is Hard
 author: azu
 layout: post
 itemUrl: 'https://internetingishard.com/html-and-css/flexbox/'

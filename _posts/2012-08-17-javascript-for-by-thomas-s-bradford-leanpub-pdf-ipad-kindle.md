@@ -6,5 +6,5 @@ itemUrl: 'https://leanpub.com/javascriptforassholes'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/index.json'
 date: '2012-08-17T23:16:00Z'
 ---
-"JavaScript for Assholes"
+&quot;JavaScript for Assholes&quot;
 変わった感じのJavaScript電子書籍

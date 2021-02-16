@@ -1,5 +1,5 @@
 ---
-title: ✩ Wikipedia's JavaScript initialisation on a budget
+title: '✩ Wikipedia&#039;s JavaScript initialisation on a budget'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: IE11 の新機能 – エンタープライズ モード | Hebikuzure's Tech Memo
+title: 'IE11 の新機能 – エンタープライズ モード | Hebikuzure&#039;s Tech Memo'
 author: azu
 layout: post
 itemUrl: >-
@@ -10,4 +10,4 @@ tags:
   - IE
 ---
 IE11のエンタープライズモードについて。
-"作成したリストに含まれるサイトやユーザーが指定したサイトを Internet Explorer 8 のエミュレーション モードで表示/動作させる機能"
+&quot;作成したリストに含まれるサイトやユーザーが指定したサイトを Internet Explorer 8 のエミュレーション モードで表示/動作させる機能&quot;

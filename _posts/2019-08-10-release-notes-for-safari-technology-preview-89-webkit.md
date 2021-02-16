@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Safari Technology Preview 89リリース。
-`<script>`の`referrerpolicy`属性をサポート、`console.screenshot`で`ImageData`などをコンソールへの出力をサポートなど
+`&lt;script&gt;`の`referrerpolicy`属性をサポート、`console.screenshot`で`ImageData`などをコンソールへの出力をサポートなど

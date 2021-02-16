@@ -7,4 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/08/inde
 date: '2012-08-31T06:54:00Z'
 ---
 2012年8月31日発売
-"逆引きリファレンスとして活用できるテクニック集"
+&quot;逆引きリファレンスとして活用できるテクニック集&quot;

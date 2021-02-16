@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 Parcel 1.8.0リリース。
-複数のエントリポイントのサポート、モジュールをUMDとしてexportするように、デフォルトのbrowserlistを`> 0.25`に変更など
+複数のエントリポイントのサポート、モジュールをUMDとしてexportするように、デフォルトのbrowserlistを`&gt; 0.25`に変更など

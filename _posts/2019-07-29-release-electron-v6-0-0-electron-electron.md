@@ -17,4 +17,4 @@ relatedLinks:
 ---
 Electron 6.0.0リリース。
 Chromium 76へのアップデート、Cookies APIでPromiseのサポート、macOSでTouch IDでの認証を行う`promptForTouchID()`の追加など。
-sandboxed renderersで非推奨となっていた`require('fs')`などでrequireできる挙動の削除など。代わりに明示的な `remote.require` を使う必要がある。
+sandboxed renderersで非推奨となっていた`require(&#039;fs&#039;)`などでrequireできる挙動の削除など。代わりに明示的な `remote.require` を使う必要がある。

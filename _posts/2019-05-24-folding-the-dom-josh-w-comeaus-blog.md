@@ -1,5 +1,5 @@
 ---
-title: Folding the DOM - Josh W. Comeau's Blog
+title: 'Folding the DOM - Josh W. Comeau&#039;s Blog'
 author: azu
 layout: post
 itemUrl: 'https://www.joshwcomeau.com/posts/folding-the-dom/'

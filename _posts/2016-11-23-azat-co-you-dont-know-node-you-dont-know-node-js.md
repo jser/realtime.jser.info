@@ -1,5 +1,5 @@
 ---
-title: 'azat-co/you-dont-know-node: You Don''t Know Node.js'
+title: 'azat-co/you-dont-know-node: You Don&#039;t Know Node.js'
 author: azu
 layout: post
 itemUrl: 'https://github.com/azat-co/you-dont-know-node'

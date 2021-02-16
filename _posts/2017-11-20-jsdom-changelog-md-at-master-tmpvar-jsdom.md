@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 jsdom 11.4.0リリース。
-基本的なSVGのサポート、`pretendToBeVisual`オプションの追加、`prepend()/append()/before()/after()/replaceWith()`の追加、`<applet>`要素の削除など
+基本的なSVGのサポート、`pretendToBeVisual`オプションの追加、`prepend()/append()/before()/after()/replaceWith()`の追加、`&lt;applet&gt;`要素の削除など

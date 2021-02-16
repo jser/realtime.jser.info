@@ -1,7 +1,7 @@
 ---
 title: >-
-  Microsoft News | WebGL, SPDY/3, New Dev Tools, & More Confirmed For IE11 In
-  Win 8.1
+  Microsoft News | WebGL, SPDY/3, New Dev Tools, &amp; More Confirmed For IE11
+  In Win 8.1
 author: azu
 layout: post
 itemUrl: >-

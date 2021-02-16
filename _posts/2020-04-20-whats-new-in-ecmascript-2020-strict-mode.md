@@ -1,5 +1,5 @@
 ---
-title: What's new in ECMAScript 2020 | Strict Mode
+title: 'What&#039;s new in ECMAScript 2020 | Strict Mode'
 author: azu
 layout: post
 itemUrl: 'https://www.strictmode.io/articles/whats-new-es2020/'

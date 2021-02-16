@@ -12,4 +12,4 @@ tags:
   - slide
 ---
 DOMツリーとレンダリングについてのスライド。
-パース -> レンダリングツリー(Reflow) -> RePaint の流れについて
+パース -&gt; レンダリングツリー(Reflow) -&gt; RePaint の流れについて

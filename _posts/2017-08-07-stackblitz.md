@@ -9,7 +9,7 @@ tags:
   - webservice
   - editor
 relatedLinks:
-  - title: 'StackBlitz — Online VS Code IDE for Angular &amp; React :zap:'
+  - title: 'StackBlitz — Online VS Code IDE for Angular &amp;amp; React :zap:'
     url: >-
       https://medium.com/@ericsimons/stackblitz-online-vs-code-ide-for-angular-react-7d09348497f4
 ---

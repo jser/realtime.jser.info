@@ -1,5 +1,5 @@
 ---
-title: Using FormData to send forms with XHR as key/value pairs - Robert's talk
+title: 'Using FormData to send forms with XHR as key/value pairs - Robert&#039;s talk'
 author: azu
 layout: post
 itemUrl: >-

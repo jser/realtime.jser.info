@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 pnpm 5.9.0リリース。
-YarnのPlug'n'Playをサポート、`symlink`を無効化できる設定の追加など
+YarnのPlug&#039;n&#039;Playをサポート、`symlink`を無効化できる設定の追加など

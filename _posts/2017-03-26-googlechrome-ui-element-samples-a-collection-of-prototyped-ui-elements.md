@@ -11,8 +11,8 @@ tags:
   - example
 relatedLinks:
   - title: >-
-      Building performant expand &amp; collapse animations  |  Web  |  Google
-      Developers
+      Building performant expand &amp;amp; collapse animations  |  Web  | 
+      Google Developers
     url: >-
       https://developers.google.com/web/updates/2017/03/performant-expand-and-collapse
 ---

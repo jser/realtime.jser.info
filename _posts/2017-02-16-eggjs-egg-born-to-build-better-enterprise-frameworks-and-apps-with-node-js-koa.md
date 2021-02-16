@@ -1,7 +1,7 @@
 ---
 title: >-
-  eggjs/egg: Born to build better enterprise frameworks and apps with Node.js &
-  koa
+  eggjs/egg: Born to build better enterprise frameworks and apps with Node.js
+  &amp; koa
 author: azu
 layout: post
 itemUrl: 'https://github.com/eggjs/egg'

@@ -13,8 +13,8 @@ tags:
   - article
 relatedLinks:
   - title: >-
-      microsoft/fluentui: We've moved! UI Fabric is now Fluent UI - A set of
-      React components for building Microsoft web experiences.
+      microsoft/fluentui: We&#039;ve moved! UI Fabric is now Fluent UI - A set
+      of React components for building Microsoft web experiences.
     url: 'https://github.com/microsoft/fluentui'
 ---
 MSのUIフレームワークであるUI FabricがFluent UIにリネームした。

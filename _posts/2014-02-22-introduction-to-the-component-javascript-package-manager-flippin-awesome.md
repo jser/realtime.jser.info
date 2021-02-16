@@ -1,5 +1,7 @@
 ---
-title: Introduction to the Component JavaScript Package Manager | Flippin' Awesome
+title: >-
+  Introduction to the Component JavaScript Package Manager | Flippin&#039;
+  Awesome
 author: azu
 layout: post
 itemUrl: >-

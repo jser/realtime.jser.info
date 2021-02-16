@@ -1,7 +1,7 @@
 ---
 title: >-
-  Amazon: JavaScript & JQuery: Interactive Front-End Development [Paperback]:
-  Jon Duckett
+  Amazon: JavaScript &amp; JQuery: Interactive Front-End Development
+  [Paperback]: Jon Duckett
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/1118531647/book042-22/ref=nosim'

@@ -1,5 +1,5 @@
 ---
-title: What's New in jQuery 3 - Telerik Developer Network
+title: 'What&#039;s New in jQuery 3 - Telerik Developer Network'
 author: azu
 layout: post
 itemUrl: 'http://developer.telerik.com/featured/whats-new-in-jquery-3/'

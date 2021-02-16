@@ -13,5 +13,5 @@ relatedLinks:
     url: 'https://reactjs.org/blog/2018/03/27/update-on-async-rendering.html'
 ---
 React 16.9.0リリース。
-`UNSAFE_*`としていたコンポーネントのライフサイクルメソッドに警告を表示、`<a href>`に`javascript:`スキームのURLを指定した場合に警告を表示するように。
-コンポーネントののテストを行う`act()`関数がAsync Functionwをサポート、`<React.Profiler>`コンポーネントの追加など
+`UNSAFE_*`としていたコンポーネントのライフサイクルメソッドに警告を表示、`&lt;a href&gt;`に`javascript:`スキームのURLを指定した場合に警告を表示するように。
+コンポーネントののテストを行う`act()`関数がAsync Functionwをサポート、`&lt;React.Profiler&gt;`コンポーネントの追加など

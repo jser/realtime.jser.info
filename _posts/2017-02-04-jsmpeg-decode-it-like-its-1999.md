@@ -1,5 +1,5 @@
 ---
-title: JSMpeg – Decode it like it's 1999
+title: 'JSMpeg – Decode it like it&#039;s 1999'
 author: azu
 layout: post
 itemUrl: 'http://jsmpeg.com/'

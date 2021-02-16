@@ -12,7 +12,7 @@ tags:
   - firefox
   - debug
 relatedLinks:
-  - title: 'David Baron''s weblog: Running animations on the compositor thread'
+  - title: 'David Baron&#039;s weblog: Running animations on the compositor thread'
     url: 'http://dbaron.org/log/20150916-compositor-animations'
   - title: >-
       Developer Edition 49:ネットワークモニタでのスタックトレース表示、など | Mozilla Developer Street

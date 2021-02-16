@@ -14,4 +14,4 @@ relatedLinks:
     url: 'https://preactjs.github.io/preact-devtools/'
 ---
 Preact 10.1.0リリース。
-Preact DevToolsのサポート、`<SuspenseList>`コンポーネントのサポートなど
+Preact DevToolsのサポート、`&lt;SuspenseList&gt;`コンポーネントのサポートなど

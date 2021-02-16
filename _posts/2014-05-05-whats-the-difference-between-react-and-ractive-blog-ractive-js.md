@@ -1,5 +1,5 @@
 ---
-title: What's the difference between React and Ractive? | Blog | Ractive.js
+title: 'What&#039;s the difference between React and Ractive? | Blog | Ractive.js'
 author: azu
 layout: post
 itemUrl: >-

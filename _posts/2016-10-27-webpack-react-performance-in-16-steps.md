@@ -1,5 +1,5 @@
 ---
-title: Webpack & React Performance in 16+ Steps
+title: Webpack &amp; React Performance in 16+ Steps
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/grgur/webpack-react-performance-in-16-steps'

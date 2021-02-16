@@ -1,5 +1,5 @@
 ---
-title: Comprehensive Beginner's Guide To ReactJS - AntJanus
+title: 'Comprehensive Beginner&#039;s Guide To ReactJS - AntJanus'
 author: azu
 layout: post
 itemUrl: >-

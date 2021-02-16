@@ -10,4 +10,4 @@ tags:
   - node.js
 ---
 gulpとstreamについて詳しく書かれてる。
-buffer <-> stream、いつもpluginが必要という訳ではないという話、Task orchestrationについて
+buffer &lt;-&gt; stream、いつもpluginが必要という訳ではないという話、Task orchestrationについて

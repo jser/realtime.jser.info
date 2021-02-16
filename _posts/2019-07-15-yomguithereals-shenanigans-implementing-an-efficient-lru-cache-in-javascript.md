@@ -1,6 +1,6 @@
 ---
 title: >-
-  Yomguithereal's Shenanigans - Implementing an efficient LRU cache in
+  Yomguithereal&#039;s Shenanigans - Implementing an efficient LRU cache in
   JavaScript
 author: azu
 layout: post

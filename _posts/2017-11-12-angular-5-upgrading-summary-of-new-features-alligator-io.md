@@ -1,5 +1,5 @@
 ---
-title: 'Angular 5: Upgrading & Summary of New Features ← Alligator.io'
+title: 'Angular 5: Upgrading &amp; Summary of New Features ← Alligator.io'
 author: azu
 layout: post
 itemUrl: 'https://alligator.io/angular/angular-5/'

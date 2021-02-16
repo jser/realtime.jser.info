@@ -10,4 +10,4 @@ tags:
   - library
   - issue
 ---
-sindresorhusパッケージの`"type":"module"`によるESMのネイティブ対応の計画についてのIssue
+sindresorhusパッケージの`&quot;type&quot;:&quot;module&quot;`によるESMのネイティブ対応の計画についてのIssue

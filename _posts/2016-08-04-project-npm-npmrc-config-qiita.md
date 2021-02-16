@@ -1,5 +1,5 @@
 ---
-title: project毎のnpmコマンドをいい感じにするnpmrc & config達 - Qiita
+title: project毎のnpmコマンドをいい感じにするnpmrc &amp; config達 - Qiita
 author: azu
 layout: post
 itemUrl: 'http://qiita.com/inuscript/items/86dbfd26abe6905756c0'

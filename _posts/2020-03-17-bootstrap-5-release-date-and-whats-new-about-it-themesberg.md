@@ -1,5 +1,5 @@
 ---
-title: Bootstrap 5 release date and what's new about it - Themesberg
+title: 'Bootstrap 5 release date and what&#039;s new about it - Themesberg'
 author: azu
 layout: post
 itemUrl: 'https://themesberg.com/blog/design/bootstrap-5-release-date-and-whats-new'

@@ -1,5 +1,5 @@
 ---
-title: Why I'm Excited About Object.observe
+title: 'Why I&#039;m Excited About Object.observe'
 author: azu
 layout: post
 itemUrl: 'http://amasad.me/2014/03/16/why-im-excited-about-objectobserve/'

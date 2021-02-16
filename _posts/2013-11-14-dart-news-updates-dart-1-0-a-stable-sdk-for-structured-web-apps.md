@@ -1,5 +1,5 @@
 ---
-title: 'Dart News & Updates: Dart 1.0: A stable SDK for structured web apps'
+title: 'Dart News &amp; Updates: Dart 1.0: A stable SDK for structured web apps'
 author: azu
 layout: post
 itemUrl: 'http://news.dartlang.org/2013/11/dart-10-stable-sdk-for-structured-web.html'

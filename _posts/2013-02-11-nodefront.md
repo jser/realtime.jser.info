@@ -10,6 +10,6 @@ tags:
   - console
   - translate
 ---
-"Nodefrontはフロントエンド開発高速化のためのNode製コマンドラインユーティリティ"
+&quot;Nodefrontはフロントエンド開発高速化のためのNode製コマンドラインユーティリティ&quot;
 Nodefrontのreadme訳
 https://github.com/karthikv/nodefront

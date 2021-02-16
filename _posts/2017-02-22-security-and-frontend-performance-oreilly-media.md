@@ -1,5 +1,5 @@
 ---
-title: Security and Frontend Performance - O'Reilly Media
+title: 'Security and Frontend Performance - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.com/webops-perf/free/security-and-frontend-performance.csp'

@@ -11,4 +11,4 @@ tags:
   - article
 ---
 SVGパターンを背景として使う方法についての解説記事。
-CSS TilingとSVG `<pattern>`要素でのやり方やサポートブラウザについて
+CSS TilingとSVG `&lt;pattern&gt;`要素でのやり方やサポートブラウザについて

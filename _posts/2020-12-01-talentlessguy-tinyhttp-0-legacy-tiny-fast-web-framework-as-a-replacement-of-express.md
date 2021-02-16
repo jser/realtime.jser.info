@@ -1,6 +1,6 @@
 ---
 title: >-
-  talentlessguy/tinyhttp: :zap: 0-legacy, tiny & fast web framework as a
+  talentlessguy/tinyhttp: :zap: 0-legacy, tiny &amp; fast web framework as a
   replacement of Express
 author: azu
 layout: post

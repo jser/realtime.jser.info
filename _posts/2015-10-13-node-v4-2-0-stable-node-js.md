@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://github.com/nodejs/node/pull/2411'
 ---
 Node.js 4.2.0リリース。
-"Argon"というコードネームでLTS版(長期間サポート)を初リリース、コマンドラインオプションにシンタックスチェックだけを行う`--check`を追加
+&quot;Argon&quot;というコードネームでLTS版(長期間サポート)を初リリース、コマンドラインオプションにシンタックスチェックだけを行う`--check`を追加

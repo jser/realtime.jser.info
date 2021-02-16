@@ -11,7 +11,7 @@ tags:
   - ReleaseNote
   - library
 relatedLinks:
-  - title: 'Idiomatic Redux: Redux Starter Kit 1.0 · Mark''s Dev Blog'
+  - title: 'Idiomatic Redux: Redux Starter Kit 1.0 · Mark&#039;s Dev Blog'
     url: 'https://blog.isquaredsoftware.com/2019/10/redux-starter-kit-1.0/'
 ---
 Redux Starter Kit 1.0リリース。

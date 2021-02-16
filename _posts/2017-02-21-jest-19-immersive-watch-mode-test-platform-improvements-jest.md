@@ -1,6 +1,6 @@
 ---
 title: >-
-  :black_joker: Jest 19: Immersive Watch Mode & Test Platform Improvements ·
+  :black_joker: Jest 19: Immersive Watch Mode &amp; Test Platform Improvements ·
   Jest
 author: azu
 layout: post

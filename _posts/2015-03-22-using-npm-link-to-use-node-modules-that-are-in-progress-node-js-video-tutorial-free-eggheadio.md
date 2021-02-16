@@ -1,7 +1,7 @@
 ---
 title: >-
-  Using npm link to use node modules that are "in progress" - Node.js Video
-  Tutorial #free @eggheadio
+  Using npm link to use node modules that are &quot;in progress&quot; - Node.js
+  Video Tutorial #free @eggheadio
 author: azu
 layout: post
 itemUrl: >-

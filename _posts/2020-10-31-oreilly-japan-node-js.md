@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - ハンズオンNode.js
+title: 'O&#039;Reilly Japan - ハンズオンNode.js'
 author: azu
 layout: post
 itemUrl: 'https://www.oreilly.co.jp/books/9784873119236/'

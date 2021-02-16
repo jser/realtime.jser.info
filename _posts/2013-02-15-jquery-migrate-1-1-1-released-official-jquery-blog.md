@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 jQuery Migrate 1.1.1リリース.
-Remove “use strict”:されたのと、dataType:"json"をちゃんと処理するように、
+Remove “use strict”:されたのと、dataType:&quot;json&quot;をちゃんと処理するように、

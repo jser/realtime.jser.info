@@ -1,7 +1,7 @@
 ---
 title: >-
   Idiomatic Redux: Using Reselect Selectors for Encapsulation and Performance ·
-  Mark's Dev Blog
+  Mark&#039;s Dev Blog
 author: azu
 layout: post
 itemUrl: >-

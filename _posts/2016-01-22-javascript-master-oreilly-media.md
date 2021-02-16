@@ -1,5 +1,5 @@
 ---
-title: JavaScript Master - O'Reilly Media
+title: 'JavaScript Master - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9780994346933.do'

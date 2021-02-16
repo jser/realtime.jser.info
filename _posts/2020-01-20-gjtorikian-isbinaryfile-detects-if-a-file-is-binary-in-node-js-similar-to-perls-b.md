@@ -1,7 +1,7 @@
 ---
 title: >-
   gjtorikian/isBinaryFile: Detects if a file is binary in Node.js. Similar to
-  Perl's -B
+  Perl&#039;s -B
 author: azu
 layout: post
 itemUrl: 'https://github.com/gjtorikian/isBinaryFile'

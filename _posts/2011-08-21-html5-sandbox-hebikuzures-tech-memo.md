@@ -1,5 +1,5 @@
 ---
-title: '『より深い防御: HTML5 Sandbox によるマッシュ アップのロックダウン « Hebikuzure''s Tech Memo』'
+title: '『より深い防御: HTML5 Sandbox によるマッシュ アップのロックダウン « Hebikuzure&#039;s Tech Memo』'
 author: azu
 layout: post
 itemUrl: >-

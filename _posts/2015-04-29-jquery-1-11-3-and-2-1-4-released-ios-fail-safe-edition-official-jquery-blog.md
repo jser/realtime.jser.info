@@ -18,7 +18,7 @@ relatedLinks:
     url: 'https://github.com/jashkenas/underscore/pull/2094'
   - title: >-
       Bug 142792 – Objects with numeric properties intermittently get a phantom
-      'length' property
+      &#039;length&#039; property
     url: 'https://bugs.webkit.org/show_bug.cgi?id=142792'
 ---
 jQuery 1.11.3 と 2.1.4リリース。

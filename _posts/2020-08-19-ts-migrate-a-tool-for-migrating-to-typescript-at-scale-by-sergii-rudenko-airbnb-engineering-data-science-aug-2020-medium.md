@@ -1,7 +1,7 @@
 ---
 title: >-
   ts-migrate: A Tool for Migrating to TypeScript at Scale | by Sergii Rudenko |
-  Airbnb Engineering & Data Science | Aug, 2020 | Medium
+  Airbnb Engineering &amp; Data Science | Aug, 2020 | Medium
 author: azu
 layout: post
 itemUrl: >-

@@ -11,7 +11,7 @@ tags:
 relatedLinks:
   - title: >-
       luisrudge/postcss-flexbugs-fixes: PostCSS plugin that tries to fix all of
-      flexbug&#39;s issues
+      flexbug&amp;#39;s issues
     url: 'https://github.com/luisrudge/postcss-flexbugs-fixes'
   - title: >-
       philipwalton/flexbugs: A community-curated list of flexbox issues and

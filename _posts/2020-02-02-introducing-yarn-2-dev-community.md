@@ -15,7 +15,7 @@ tags:
 relatedLinks:
   - title: Migration | Yarn - Package Manager
     url: 'https://next.yarnpkg.com/advanced/migration'
-  - title: Plug'n'Play | Yarn - Package Manager
+  - title: 'Plug&#039;n&#039;Play | Yarn - Package Manager'
     url: 'https://next.yarnpkg.com/features/pnp'
   - title: Zero-Installs | Yarn - Package Manager
     url: 'https://next.yarnpkg.com/features/zero-installs'

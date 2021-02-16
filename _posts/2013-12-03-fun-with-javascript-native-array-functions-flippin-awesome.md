@@ -1,5 +1,5 @@
 ---
-title: Fun with JavaScript Native Array Functions | Flippin' Awesome
+title: 'Fun with JavaScript Native Array Functions | Flippin&#039; Awesome'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: 'Echo JS on Twitter: "Echo JS, 2011-2018 - https://t.co/vEiEFdntF8"'
+title: 'Echo JS on Twitter: &quot;Echo JS, 2011-2018 - https://t.co/vEiEFdntF8&quot;'
 author: azu
 layout: post
 itemUrl: 'https://twitter.com/echojs/status/962996800738258945'

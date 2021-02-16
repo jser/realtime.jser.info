@@ -1,5 +1,5 @@
 ---
-title: What's a Closure?
+title: 'What&#039;s a Closure?'
 author: azu
 layout: post
 itemUrl: 'http://nathansjslessons.appspot.com/'

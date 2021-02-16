@@ -1,5 +1,5 @@
 ---
-title: 『What is Dart? - O'Reilly Media』
+title: '『What is Dart? - O&#039;Reilly Media』'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920025887.do'

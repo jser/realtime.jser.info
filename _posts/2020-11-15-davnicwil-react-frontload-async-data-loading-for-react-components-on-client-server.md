@@ -1,7 +1,7 @@
 ---
 title: >-
   davnicwil/react-frontload: Async data loading for React components, on client
-  & server
+  &amp; server
 author: azu
 layout: post
 itemUrl: 'https://github.com/davnicwil/react-frontload'

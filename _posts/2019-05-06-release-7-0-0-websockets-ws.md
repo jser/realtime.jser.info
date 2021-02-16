@@ -11,7 +11,7 @@ tags:
   - library
   - ReleaseNote
 ---
-WebSocketクライアント & サーバの`ws` 7.0.0リリース。
+WebSocketクライアント &amp; サーバの`ws` 7.0.0リリース。
 Node.js 6のサポート終了、コンストラクタでNode.jsの`url`オブジェクトではなく`URL`オブジェクトを受け取るように変更。
 `readyState`が`OPEN`ではないときの`ping`、`pong`の挙動変更など
 

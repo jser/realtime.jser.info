@@ -11,7 +11,7 @@ tags:
   - library
   - news
 relatedLinks:
-  - title: Impact - HTML5 Canvas & JavaScript Game Engine
+  - title: Impact - HTML5 Canvas &amp; JavaScript Game Engine
     url: 'http://impactjs.com/'
 ---
 ゲームエンジンImpactjsのソースコードが公開された

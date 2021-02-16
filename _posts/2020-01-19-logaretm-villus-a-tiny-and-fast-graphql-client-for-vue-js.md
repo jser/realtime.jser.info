@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: >-
       Announcing Villus - A tiny and fast GraphQL Client for Vue.js -
-      Abdelrahman' Blog
+      Abdelrahman&#039; Blog
     url: 'https://logaretm.com/blog/2020-01-11-announcing-villus/'
 ---
 Vue.js向けのGraphQLクライアントライブラリ。

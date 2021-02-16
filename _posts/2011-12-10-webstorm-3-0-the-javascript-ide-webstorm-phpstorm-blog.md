@@ -1,5 +1,5 @@
 ---
-title: 'WebStorm 3.0: The JavaScript IDE! | WebStorm & PhpStorm Blog'
+title: 'WebStorm 3.0: The JavaScript IDE! | WebStorm &amp; PhpStorm Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.jetbrains.com/webide/2011/12/webstorm-3-0-the-javascript-ide/'

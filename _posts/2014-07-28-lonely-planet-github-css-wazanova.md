@@ -1,5 +1,5 @@
 ---
-title: 'Lonely Planet & GitHub: CSSの構成と方針 - ワザノバ | wazanova'
+title: 'Lonely Planet &amp; GitHub: CSSの構成と方針 - ワザノバ | wazanova'
 author: azu
 layout: post
 itemUrl: 'http://wazanova.jp/items/1426'
@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: CSS at Lonely Planet - Ian Feather
     url: 'http://ianfeather.co.uk/css-at-lonely-planet/'
-  - title: GitHub's CSS · @mdo
+  - title: 'GitHub&#039;s CSS · @mdo'
     url: 'http://markdotto.com/2014/07/23/githubs-css/'
   - title: mrmrs/cssstats
     url: 'https://github.com/mrmrs/cssstats'

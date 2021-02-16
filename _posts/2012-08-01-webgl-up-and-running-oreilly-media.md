@@ -1,5 +1,5 @@
 ---
-title: 'WebGL: Up and Running - O''Reilly Media'
+title: 'WebGL: Up and Running - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920024729.do'

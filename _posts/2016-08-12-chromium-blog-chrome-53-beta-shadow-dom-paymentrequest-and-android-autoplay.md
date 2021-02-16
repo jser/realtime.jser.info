@@ -14,8 +14,8 @@ relatedLinks:
   - title: Payment Request APIを試す - mmag
     url: 'http://joe-noh.hatenablog.com/entry/2016/08/08/213159'
   - title: >-
-      Muted autoplay on mobile: say goodbye to &lt;canvas&gt; hacks and animated
-      GIFs! | Web Updates - Google Developers
+      Muted autoplay on mobile: say goodbye to &amp;lt;canvas&amp;gt; hacks and
+      animated GIFs! | Web Updates - Google Developers
     url: 'https://developers.google.com/web/updates/2016/07/autoplay'
 ---
 Chrome 53βリリース。

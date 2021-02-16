@@ -1,5 +1,5 @@
 ---
-title: 'myshov/history-of-javascript: Project "History of JavaScript"'
+title: 'myshov/history-of-javascript: Project &quot;History of JavaScript&quot;'
 author: azu
 layout: post
 itemUrl: 'https://github.com/myshov/history-of-javascript'

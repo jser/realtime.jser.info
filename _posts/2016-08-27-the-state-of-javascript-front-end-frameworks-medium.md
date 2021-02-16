@@ -15,5 +15,5 @@ relatedLinks:
 ---
 JavaScriptのフレームワークについてアンケート結果。
 認知度はVue以外大体同じ。
-学びたいもの: React -> Vue -> Angular2
-満足度: React -> Vue -> Angular2
+学びたいもの: React -&gt; Vue -&gt; Angular2
+満足度: React -&gt; Vue -&gt; Angular2

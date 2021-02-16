@@ -1,7 +1,7 @@
 ---
 title: >-
-  Redux isn't slow, you're just doing it wrong - An optimization guide | React
-  Rocket
+  Redux isn&#039;t slow, you&#039;re just doing it wrong - An optimization guide
+  | React Rocket
 author: azu
 layout: post
 itemUrl: 'http://reactrocket.com/post/react-redux-optimization/'

@@ -10,8 +10,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      Added deepChildren support from ArcEglos&#39; pull request by ljcrapo ·
-      Pull Request #5764 · webpack/webpack
+      Added deepChildren support from ArcEglos&amp;#39; pull request by ljcrapo
+      · Pull Request #5764 · webpack/webpack
     url: 'https://github.com/webpack/webpack/pull/5764'
   - title: webpack/examples/common-chunk-grandchildren at master · webpack/webpack
     url: >-

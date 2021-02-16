@@ -1,5 +1,5 @@
 ---
-title: Asynchronous JavaScript & Promises
+title: Asynchronous JavaScript &amp; Promises
 author: azu
 layout: post
 itemUrl: 'http://www.innoarchitech.com/asynchronous-javascript-promises/'
@@ -11,7 +11,7 @@ tags:
   - slide
   - video
 relatedLinks:
-  - title: Asynchronous JavaScript & Promises by Alex Castrounis
+  - title: Asynchronous JavaScript &amp; Promises by Alex Castrounis
     url: 'http://slides.com/alexcastrounis/async-js-promises#/'
 ---
 JavaScriptの非同期処理、Promiseについての動画とスライド。

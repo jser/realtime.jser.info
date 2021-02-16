@@ -9,4 +9,4 @@ tags:
   - github
   - WebComponents
 ---
-GitHubで使われている`<time>`のCustom Elementsライブラリ
+GitHubで使われている`&lt;time&gt;`のCustom Elementsライブラリ

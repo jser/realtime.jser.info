@@ -12,9 +12,9 @@ date: '2011-12-05T02:20:00Z'
 Firefox11での変更点の解説。
 - outerHTMLプロパティ
 - XHRでhtmlのパースをサポート
-responseType = "document"
+responseType = &quot;document&quot;
 http://d.hatena.ne.jp/teramako/20111122/p1
-同様にresponseType == "json"もサポート
+同様にresponseType == &quot;json&quot;もサポート
 - cancel(Request)AnimationFrameの実装
 - Event constructorsの実装
 - -moz-text-size-adjustの実装

@@ -17,5 +17,5 @@ relatedLinks:
 Chrome 86ベータリリース。
 CSS 擬似クラスの`:focus-visible`、擬似要素の`::marker`をサポート。
 Document Policy、`FetchEvent.handled`、Shadow DOM Distribution API、`ParentNode.replaceChildren()`のサポートなど。
-またOrigin TrialとしてWebHID API、Window placement API、`<meta name="battery-savings">`などのサポート。
+またOrigin TrialとしてWebHID API、Window placement API、`&lt;meta name=&quot;battery-savings&quot;&gt;`などのサポート。
 その他にはFTPのサポートが非推奨となるなど

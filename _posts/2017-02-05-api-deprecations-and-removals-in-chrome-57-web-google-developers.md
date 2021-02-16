@@ -9,4 +9,4 @@ tags:
   - Chrome
   - article
 ---
-Chrome 57での非推奨/削除されるAPIについて。 Vendor-prefix付きの`cancelAnimationFrame`、`IndexedDB`、`AudioContext`の削除。 `BluetoothDevice.uuids`、`<keygen>`、`OfflineAudioContext`の削除など
+Chrome 57での非推奨/削除されるAPIについて。 Vendor-prefix付きの`cancelAnimationFrame`、`IndexedDB`、`AudioContext`の削除。 `BluetoothDevice.uuids`、`&lt;keygen&gt;`、`OfflineAudioContext`の削除など

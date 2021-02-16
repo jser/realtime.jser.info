@@ -1,5 +1,5 @@
 ---
-title: Client-Side Data Storage - O'Reilly Media
+title: 'Client-Side Data Storage - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920043676.do'

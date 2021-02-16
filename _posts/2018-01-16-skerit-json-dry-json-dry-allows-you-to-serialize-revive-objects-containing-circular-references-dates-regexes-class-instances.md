@@ -1,7 +1,7 @@
 ---
 title: >-
-  skerit/json-dry: JSON-dry allows you to serialize & revive objects containing
-  circular references, dates, regexes, class instances,...
+  skerit/json-dry: JSON-dry allows you to serialize &amp; revive objects
+  containing circular references, dates, regexes, class instances,...
 author: azu
 layout: post
 itemUrl: 'https://github.com/skerit/json-dry'

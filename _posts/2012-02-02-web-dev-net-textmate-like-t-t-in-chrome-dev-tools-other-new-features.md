@@ -1,6 +1,6 @@
 ---
 title: >-
-  『Web Dev .NET: TextMate-like ⌘T & ⇧⌘T in Chrome Dev Tools & Other New
+  『Web Dev .NET: TextMate-like ⌘T &amp; ⇧⌘T in Chrome Dev Tools &amp; Other New
   Features』
 author: azu
 layout: post

@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 jsdom 7.2.0リリース。
-`<input>`と`<textarea>`のselection APIがサポートされた
+`&lt;input&gt;`と`&lt;textarea&gt;`のselection APIがサポートされた

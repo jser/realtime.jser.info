@@ -1,7 +1,7 @@
 ---
 title: >-
-  RailsのAsset PipelineとPrecompileをNode.jsのみで処理できるgulp-sprocketsを作った - yo_waka's
-  blog
+  RailsのAsset PipelineとPrecompileをNode.jsのみで処理できるgulp-sprocketsを作った -
+  yo_waka&#039;s blog
 author: azu
 layout: post
 itemUrl: 'http://waka.github.io/2015/11/25/gulp_sprockets.html'

@@ -1,5 +1,5 @@
 ---
-title: '『Writing Modular JavaScript With AMD, CommonJS & ES Harmony』'
+title: '『Writing Modular JavaScript With AMD, CommonJS &amp; ES Harmony』'
 author: azu
 layout: post
 itemUrl: 'http://addyosmani.com/writing-modular-js/'

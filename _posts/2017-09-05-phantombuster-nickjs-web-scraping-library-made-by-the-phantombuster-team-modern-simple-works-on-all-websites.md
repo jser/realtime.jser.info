@@ -1,7 +1,7 @@
 ---
 title: >-
   phantombuster/nickjs: Web scraping library made by the Phantombuster team.
-  Modern, simple & works on all websites.
+  Modern, simple &amp; works on all websites.
 author: azu
 layout: post
 itemUrl: 'https://github.com/phantombuster/nickjs'

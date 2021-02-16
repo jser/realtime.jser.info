@@ -1,7 +1,7 @@
 ---
 title: >-
-  Winter is coming! Get 50% OFF on WebStorm, PhpStorm and RubyMine | WebStorm &
-  PhpStorm Blog
+  Winter is coming! Get 50% OFF on WebStorm, PhpStorm and RubyMine | WebStorm
+  &amp; PhpStorm Blog
 author: azu
 layout: post
 itemUrl: >-

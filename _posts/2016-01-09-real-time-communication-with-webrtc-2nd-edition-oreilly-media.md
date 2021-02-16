@@ -1,5 +1,5 @@
 ---
-title: 'Real-Time Communication with WebRTC, 2nd Edition - O''Reilly Media'
+title: 'Real-Time Communication with WebRTC, 2nd Edition - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920044796.do'

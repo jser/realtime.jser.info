@@ -1,7 +1,7 @@
 ---
 title: >-
   Color accessibility: tools and resources to help you design inclusive
-  products, by Stéphanie Walter - UX designer & Mobile Expert.
+  products, by Stéphanie Walter - UX designer &amp; Mobile Expert.
 author: azu
 layout: post
 itemUrl: >-

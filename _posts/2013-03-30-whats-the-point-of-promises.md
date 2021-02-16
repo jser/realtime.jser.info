@@ -1,5 +1,5 @@
 ---
-title: What's The Point Of Promises?
+title: 'What&#039;s The Point Of Promises?'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: Release "Fast" By Default · TypeStrong/ts-node
+title: Release &quot;Fast&quot; By Default · TypeStrong/ts-node
 author: azu
 layout: post
 itemUrl: 'https://github.com/TypeStrong/ts-node/releases/tag/v4.0.0'

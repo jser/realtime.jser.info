@@ -10,4 +10,4 @@ tags:
   - library
 ---
 ArrayとObjectのImmutable版を提供するライブラリ。
-Mutableとして操作したい場合は、ネイティブのもので操作してラップするか、`.mutable(array => {})`を利用できる。
+Mutableとして操作したい場合は、ネイティブのもので操作してラップするか、`.mutable(array =&gt; {})`を利用できる。

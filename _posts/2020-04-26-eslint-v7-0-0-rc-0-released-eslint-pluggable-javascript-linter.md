@@ -9,7 +9,7 @@ tags:
   - ESLint
   - ReleaseNote
 relatedLinks:
-  - title: 'mysticatea/eslint-plugin-node: Additional ESLint''s rules for Node.js'
+  - title: 'mysticatea/eslint-plugin-node: Additional ESLint&#039;s rules for Node.js'
     url: 'https://github.com/mysticatea/eslint-plugin-node'
 ---
 ESLint v7.0.0-rc.0リリース。

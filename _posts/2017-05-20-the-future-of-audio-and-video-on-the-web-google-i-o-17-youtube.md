@@ -1,5 +1,5 @@
 ---
-title: The Future of Audio and Video on the Web (Google I/O '17) - YouTube
+title: 'The Future of Audio and Video on the Web (Google I/O &#039;17) - YouTube'
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=z9unKFzAj1w'

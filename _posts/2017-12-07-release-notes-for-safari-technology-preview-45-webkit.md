@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Safari Technology Preview Release 45リリース。
-SVGフィルターの最適化、`display:contents`をデフォルトで有効化、`OffscreenCanvas.getContext("webgl")`を実装など
+SVGフィルターの最適化、`display:contents`をデフォルトで有効化、`OffscreenCanvas.getContext(&quot;webgl&quot;)`を実装など

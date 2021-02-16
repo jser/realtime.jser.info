@@ -14,4 +14,4 @@ tags:
   - JavaScript
 ---
 最近 Firefox Nightly (22前後)で実装された機能について。
-input type="range"、HTML Notification、Parallel JS/asm.js/Arrow function、CSS @supports
+input type=&quot;range&quot;、HTML Notification、Parallel JS/asm.js/Arrow function、CSS @supports

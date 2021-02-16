@@ -1,5 +1,5 @@
 ---
-title: Scalable Single-Page Application Architecture – Minko Gechev's blog
+title: 'Scalable Single-Page Application Architecture – Minko Gechev&#039;s blog'
 author: azu
 layout: post
 itemUrl: >-

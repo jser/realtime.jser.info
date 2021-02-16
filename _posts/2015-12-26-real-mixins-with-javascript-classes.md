@@ -1,5 +1,5 @@
 ---
-title: '"Real" Mixins with JavaScript Classes'
+title: '&quot;Real&quot; Mixins with JavaScript Classes'
 author: azu
 layout: post
 itemUrl: 'http://justinfagnani.com/2015/12/21/real-mixins-with-javascript-classes/'

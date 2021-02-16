@@ -1,7 +1,7 @@
 ---
 title: >-
-  lukeed/klona: A tiny (423B) and fast utility to "deep clone" Objects, Arrays,
-  Dates, RegExps, and more!
+  lukeed/klona: A tiny (423B) and fast utility to &quot;deep clone&quot;
+  Objects, Arrays, Dates, RegExps, and more!
 author: azu
 layout: post
 itemUrl: 'https://github.com/lukeed/klona'

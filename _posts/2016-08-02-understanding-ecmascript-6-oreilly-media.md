@@ -1,5 +1,5 @@
 ---
-title: Understanding ECMAScript 6 - O'Reilly Media
+title: 'Understanding ECMAScript 6 - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781593277574.do'

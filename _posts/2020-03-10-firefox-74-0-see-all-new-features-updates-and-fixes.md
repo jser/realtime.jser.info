@@ -15,7 +15,7 @@ relatedLinks:
     url: 'https://www.fxsitecompat.dev/versions/74/'
   - title: >-
       Geolocation, fullscreen, camera, mic, screen capture requests from
-      cross-origin <iframe> are now disabled by default | Firefox Site
+      cross-origin &lt;iframe&gt; are now disabled by default | Firefox Site
       Compatibility
     url: >-
       https://www.fxsitecompat.dev/en-CA/docs/2020/geolocation-fullscreen-camera-mic-screen-capture-requests-from-cross-origin-iframe-are-now-disabled-by-default/

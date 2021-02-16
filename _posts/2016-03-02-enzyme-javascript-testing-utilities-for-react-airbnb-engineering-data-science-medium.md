@@ -1,6 +1,6 @@
 ---
 title: >-
-  Enzyme: JavaScript Testing utilities for React — Airbnb Engineering & Data
+  Enzyme: JavaScript Testing utilities for React — Airbnb Engineering &amp; Data
   Science — Medium
 author: azu
 layout: post

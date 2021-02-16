@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Safari Technology Preview 108リリース。
-`ParentNode.replaceChildren()`の実装、Async Clipboard APIで`"image/png"`の読み込みをサポートなど
+`ParentNode.replaceChildren()`の実装、Async Clipboard APIで`&quot;image/png&quot;`の読み込みをサポートなど

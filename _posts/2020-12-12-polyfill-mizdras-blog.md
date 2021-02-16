@@ -1,5 +1,5 @@
 ---
-title: polyfill を深堀りする - mizdra's blog
+title: 'polyfill を深堀りする - mizdra&#039;s blog'
 author: azu
 layout: post
 itemUrl: 'https://www.mizdra.net/entry/2020/12/05/234806'

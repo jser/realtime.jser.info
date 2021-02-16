@@ -1,5 +1,5 @@
 ---
-title: 'O''Reilly: Stateful JavaScript Applications'
+title: 'O&#039;Reilly: Stateful JavaScript Applications'
 author: azu
 layout: post
 itemUrl: 'http://jswebapps.heroku.com/'

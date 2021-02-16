@@ -1,5 +1,5 @@
 ---
-title: Vue.observable & TypeScriptで手早く安心できる状態管理を手に入れる - Qiita
+title: Vue.observable &amp; TypeScriptで手早く安心できる状態管理を手に入れる - Qiita
 author: azu
 layout: post
 itemUrl: 'https://qiita.com/mugi_uno/items/cb48e5d3178891f94fa7'

@@ -9,9 +9,9 @@ tags:
   - JavaScript
   - article
 relatedLinks:
-  - title: 'Glimmer&#39;s Optimizing Compiler | Chad Hietala | Pulse | LinkedIn'
+  - title: 'Glimmer&amp;#39;s Optimizing Compiler | Chad Hietala | Pulse | LinkedIn'
     url: 'https://www.linkedin.com/pulse/glimmers-optimizing-compiler-chad-hietala/'
 ---
 Glimmer.jsについてのステータスについて。
-タグが`<Button />`のようにCapitalスタイルとなるように、要素のプロパティと属性を`@`で区別できるように、Portalのサポート。
+タグが`&lt;Button /&gt;`のようにCapitalスタイルとなるように、要素のプロパティと属性を`@`で区別できるように、Portalのサポート。
 テンプレートをバイナリにするBinary Templatesのサポート予定やSSRについて

@@ -19,5 +19,5 @@ relatedLinks:
     url: 'http://momdo.hatenablog.jp/entry/20180105/1515161004'
 ---
 W3C HTML 5.2の変更点まとめ。
-`<dialog>`要素、iframeに`allowpaymentrequest`属性の追加、`<main>`要素の複数配置の許容。
+`&lt;dialog&gt;`要素、iframeに`allowpaymentrequest`属性の追加、`&lt;main&gt;`要素の複数配置の許容。
 また`keygen`、`menu`、`menuitem`の削除、HTML4 XHTML1 strict doctypeの削除など

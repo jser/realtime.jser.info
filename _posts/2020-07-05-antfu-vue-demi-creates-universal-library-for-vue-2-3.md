@@ -1,5 +1,5 @@
 ---
-title: 'antfu/vue-demi: :tophat: Creates Universal Library for Vue 2 & 3'
+title: 'antfu/vue-demi: :tophat: Creates Universal Library for Vue 2 &amp; 3'
 author: azu
 layout: post
 itemUrl: 'https://github.com/antfu/vue-demi'

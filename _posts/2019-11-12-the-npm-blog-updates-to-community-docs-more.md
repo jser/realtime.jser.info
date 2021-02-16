@@ -1,5 +1,5 @@
 ---
-title: 'The npm Blog — Updates to Community, Docs & more...'
+title: 'The npm Blog — Updates to Community, Docs &amp; more...'
 author: azu
 layout: post
 itemUrl: 'https://blog.npmjs.org/post/188841555980/updates-to-community-docs-more'

@@ -10,5 +10,5 @@ tags:
   - ReleaseNote
 ---
 flow 0.72.0リリース。
-`$Either<T>`, `$All<T>`, `$Type<T>`の廃止。
+`$Either&lt;T&gt;`, `$All&lt;T&gt;`, `$Type&lt;T&gt;`の廃止。
 Language Server Protocolの改善、Stage 1のnullish coalescingをサポートなど

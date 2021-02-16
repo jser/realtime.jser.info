@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Node v10.1.0リリース。
-`require("fs/promises")`が`require("fs").promises`に変更、`request.aborted`プロパティの追加など
+`require(&quot;fs/promises&quot;)`が`require(&quot;fs&quot;).promises`に変更、`request.aborted`プロパティの追加など

@@ -1,5 +1,5 @@
 ---
-title: 2016年、Web Audio API はどう変わったのか? | g200kg Music & Software
+title: 2016年、Web Audio API はどう変わったのか? | g200kg Music &amp; Software
 author: azu
 layout: post
 itemUrl: 'http://www.g200kg.com/archives/2016/11/2016web-audio-a.html'

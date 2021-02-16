@@ -12,8 +12,8 @@ tags:
   - slide
 relatedLinks:
   - title: >-
-      ng-conf 2014 - The World's First Angular Conference in Salt Lake City,
-      Utah
+      ng-conf 2014 - The World&#039;s First Angular Conference in Salt Lake
+      City, Utah
     url: 'http://ng-conf.org/'
 ---
 ng-conf 2014 の動画やスライドのまとめ

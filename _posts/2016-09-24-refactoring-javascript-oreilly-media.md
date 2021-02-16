@@ -1,5 +1,5 @@
 ---
-title: Refactoring JavaScript - O'Reilly Media
+title: 'Refactoring JavaScript - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920053262.do'

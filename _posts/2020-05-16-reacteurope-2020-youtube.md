@@ -11,8 +11,8 @@ tags:
   - video
 relatedLinks:
   - title: >-
-      ReactEurope - The original European React.js &amp; Native conference on
-      May 14-15th, 2020 in Paris, France
+      ReactEurope - The original European React.js &amp;amp; Native conference
+      on May 14-15th, 2020 in Paris, France
     url: 'https://www.react-europe.org/'
 ---
 React Europe 2020の動画一覧

@@ -1,5 +1,5 @@
 ---
-title: 'SF WebPerf Meetup: Building for Resilience & Performance - Google スライド'
+title: 'SF WebPerf Meetup: Building for Resilience &amp; Performance - Google スライド'
 author: azu
 layout: post
 itemUrl: >-

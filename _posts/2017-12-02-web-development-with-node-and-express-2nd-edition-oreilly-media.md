@@ -1,5 +1,5 @@
 ---
-title: 'Web Development with Node and Express, 2nd Edition - O''Reilly Media'
+title: 'Web Development with Node and Express, 2nd Edition - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920084266.do'

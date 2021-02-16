@@ -1,5 +1,5 @@
 ---
-title: 'vitejs/vite: Native-ESM powered web dev build tool. It''s fast.'
+title: 'vitejs/vite: Native-ESM powered web dev build tool. It&#039;s fast.'
 author: azu
 layout: post
 itemUrl: 'https://github.com/vitejs/vite'

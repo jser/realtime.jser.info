@@ -1,7 +1,7 @@
 ---
 title: >-
   jacobbogers/libRmath.js: Javascript Pure Implementation of Statistical R
-  "core" numerical libRmath.so
+  &quot;core&quot; numerical libRmath.so
 author: azu
 layout: post
 itemUrl: 'https://github.com/jacobbogers/libRmath.js'

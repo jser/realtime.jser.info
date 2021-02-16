@@ -10,4 +10,4 @@ tags:
   - JavaScript
   - slide
 ---
-[Almin.js](https://github.com/almin/almin "Almin.js")の設計の概念的な話やパターンについて
+[Almin.js](https://github.com/almin/almin &quot;Almin.js&quot;)の設計の概念的な話やパターンについて

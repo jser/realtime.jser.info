@@ -37,7 +37,7 @@ YUIとSeaJSを比べて、SeaJS には次の利点があります。
 -全体のCPU消費や必要となるまで実行しないためCPUに優しい
 -設定ファイルではなくデータの構成に基づいている
 -相対パスのサポートなどCommonJSに基づいている
-コードは[seajs/seajs - GitHub](https://github.com/seajs/seajs "seajs/seajs - GitHub")で公開されています。(フォーク歓迎)
+コードは[seajs/seajs - GitHub](https://github.com/seajs/seajs &quot;seajs/seajs - GitHub&quot;)で公開されています。(フォーク歓迎)
 
 という感じで適当に内容を書き出してみました。(機械翻訳便りなので内容は期待しないで)
-中国では[dexteryy/OzJS - GitHub](https://github.com/dexteryy/OzJS "dexteryy/OzJS - GitHub")といい、モジュール管理に注目してる人たちがいるみたいです。
+中国では[dexteryy/OzJS - GitHub](https://github.com/dexteryy/OzJS &quot;dexteryy/OzJS - GitHub&quot;)といい、モジュール管理に注目してる人たちがいるみたいです。

@@ -8,4 +8,4 @@ date: '2011-01-25T04:20:00Z'
 ---
 記号プログラミングと難読化エンコーダーの合わせ技でよい難読化を行う手法についての解説。
 eval 関数を使うところを、Firefox 独自実装の crypto.generateCRMFRequest メソッドを利用。
-evalについては[Perfection kills » Global eval. What are the options?](http://perfectionkills.com/global-eval-what-are-the-options/ "Perfection kills » Global eval. What are the options?")がとても詳しい
+evalについては[Perfection kills » Global eval. What are the options?](http://perfectionkills.com/global-eval-what-are-the-options/ &quot;Perfection kills » Global eval. What are the options?&quot;)がとても詳しい

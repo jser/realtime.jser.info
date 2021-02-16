@@ -1,5 +1,5 @@
 ---
-title: 'isInputPending: Facebook''s first browser API contribution - Facebook Code'
+title: 'isInputPending: Facebook&#039;s first browser API contribution - Facebook Code'
 author: azu
 layout: post
 itemUrl: 'https://code.fb.com/developer-tools/isinputpending-api/'

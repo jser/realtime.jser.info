@@ -1,5 +1,5 @@
 ---
-title: What's New in Shadow DOM v1 (by examples) — hayato.io
+title: 'What&#039;s New in Shadow DOM v1 (by examples) — hayato.io'
 author: azu
 layout: post
 itemUrl: 'http://hayato.io/2016/shadowdomv1/'

@@ -19,4 +19,4 @@ relatedLinks:
       http://lists.w3.org/Archives/Public/public-whatwg-archive/2014Sep/0024.html
 ---
 bluebird 2.7.0リリース。
-`process.on("unhandledRejection", fn)` という感じでグローバルにunhandled Rejectionをキャッチ出来るイベントを登録できるように。
+`process.on(&quot;unhandledRejection&quot;, fn)` という感じでグローバルにunhandled Rejectionをキャッチ出来るイベントを登録できるように。

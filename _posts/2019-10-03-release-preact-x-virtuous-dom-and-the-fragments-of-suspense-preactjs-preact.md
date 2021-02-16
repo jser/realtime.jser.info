@@ -13,12 +13,12 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      What's new in Preact X | Preact: Fast 3kb React alternative with the same
-      ES6 API. Components & Virtual DOM.
+      What&#039;s new in Preact X | Preact: Fast 3kb React alternative with the
+      same ES6 API. Components &amp; Virtual DOM.
     url: 'https://preactjs.com/guide/v10/whats-new/'
   - title: >-
       Upgrading from Preact 8.x | Preact: Fast 3kb React alternative with the
-      same ES6 API. Components & Virtual DOM.
+      same ES6 API. Components &amp; Virtual DOM.
     url: 'https://preactjs.com/guide/v10/upgrade-guide/'
 ---
 Preact X(10.0.0)リリース。

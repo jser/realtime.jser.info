@@ -14,7 +14,7 @@ relatedLinks:
   - title: >-
       keithclark/css-feature-toggle-devtools-extension: A devtools extension for
       toggling CSS features allowing developers to see how pages/apps render in
-      browsers that don't support modern CSS features
+      browsers that don&#039;t support modern CSS features
     url: 'https://github.com/keithclark/css-feature-toggle-devtools-extension'
 ---
 CSSの特定の機能を無効化するブラウザ拡張機能。

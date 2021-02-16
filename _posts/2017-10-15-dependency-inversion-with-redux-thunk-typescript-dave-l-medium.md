@@ -1,5 +1,5 @@
 ---
-title: Dependency Inversion with Redux-Thunk & Typescript – Dave L. – Medium
+title: Dependency Inversion with Redux-Thunk &amp; Typescript – Dave L. – Medium
 author: azu
 layout: post
 itemUrl: >-

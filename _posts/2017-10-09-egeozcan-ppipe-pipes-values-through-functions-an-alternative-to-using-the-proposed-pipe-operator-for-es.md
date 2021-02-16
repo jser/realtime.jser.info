@@ -1,7 +1,7 @@
 ---
 title: >-
   egeozcan/ppipe: pipes values through functions, an alternative to using the
-  proposed pipe operator ( |> ) for ES
+  proposed pipe operator ( |&gt; ) for ES
 author: azu
 layout: post
 itemUrl: 'https://github.com/egeozcan/ppipe'
@@ -11,4 +11,4 @@ tags:
   - JavaScript
   - library
 ---
-pipe operator(`|>`)の代案として書かれたライブラリ
+pipe operator(`|&gt;`)の代案として書かれたライブラリ

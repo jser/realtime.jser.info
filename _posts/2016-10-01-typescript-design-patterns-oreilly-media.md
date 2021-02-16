@@ -1,5 +1,5 @@
 ---
-title: TypeScript Design Patterns - O'Reilly Media
+title: 'TypeScript Design Patterns - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781785280832.do'

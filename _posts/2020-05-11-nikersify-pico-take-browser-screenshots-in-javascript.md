@@ -10,4 +10,4 @@ tags:
   - SVG
   - library
 ---
-SVGの`<foreignObject>`を使ってHTMLのスクリーンショットを作成するライブラリ
+SVGの`&lt;foreignObject&gt;`を使ってHTMLのスクリーンショットを作成するライブラリ

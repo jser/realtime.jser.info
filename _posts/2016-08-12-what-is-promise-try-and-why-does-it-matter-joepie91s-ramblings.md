@@ -1,5 +1,5 @@
 ---
-title: 'What is Promise.try, and why does it matter? - joepie91''s Ramblings'
+title: 'What is Promise.try, and why does it matter? - joepie91&#039;s Ramblings'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: 'useful js: call & apply — phuu'
+title: 'useful js: call &amp; apply — phuu'
 author: azu
 layout: post
 itemUrl: 'http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html'

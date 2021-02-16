@@ -14,4 +14,4 @@ relatedLinks:
 ---
 Backbone/Angular/Flux+Reactでそれぞれ実装した場合の違いを見ながら、Fluxアーキテクチャの特徴について紹介。 
 
-[Ractive.js](http://www.ractivejs.org/ "Ractive.js")と[vue.js](http://vuejs.org/ "vue.js")とFluxアーキテクチャを使って同様のサンプルを作ってあります。
+[Ractive.js](http://www.ractivejs.org/ &quot;Ractive.js&quot;)と[vue.js](http://vuejs.org/ &quot;vue.js&quot;)とFluxアーキテクチャを使って同様のサンプルを作ってあります。

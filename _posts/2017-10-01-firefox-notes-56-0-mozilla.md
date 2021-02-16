@@ -21,5 +21,5 @@ relatedLinks:
     url: 'https://www.fxsitecompat.com/ja/versions/56/'
 ---
 Firefox 56リリース。
-CSS Grid DevToolsの追加、`<link rel="preload">`のサポート、Intl APIがAndroid版で有効化。
+CSS Grid DevToolsの追加、`&lt;link rel=&quot;preload&quot;&gt;`のサポート、Intl APIがAndroid版で有効化。
 `setTimeout(fn, 0)`の仕様に合わせて4msに変更など

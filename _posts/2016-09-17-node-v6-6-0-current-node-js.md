@@ -11,4 +11,4 @@ tags:
 ---
 Node v6.6.0リリース。
 EventEmitterのmemory leak警告、
-PromiseのUnhandled rejectionの警告が、`process.on('warning', (warning) => { })`でキャッチできるように
+PromiseのUnhandled rejectionの警告が、`process.on(&#039;warning&#039;, (warning) =&gt; { })`でキャッチできるように

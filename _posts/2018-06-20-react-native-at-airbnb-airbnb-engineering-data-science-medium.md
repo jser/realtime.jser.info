@@ -1,5 +1,5 @@
 ---
-title: React Native at Airbnb – Airbnb Engineering & Data Science – Medium
+title: React Native at Airbnb – Airbnb Engineering &amp; Data Science – Medium
 author: azu
 layout: post
 itemUrl: 'https://medium.com/airbnb-engineering/react-native-at-airbnb-f95aa460be1c'

@@ -1,5 +1,5 @@
 ---
-title: AngularJS in 60-ish Minutes – The eBook - Dan Wahlin's WebLog
+title: 'AngularJS in 60-ish Minutes – The eBook - Dan Wahlin&#039;s WebLog'
 author: azu
 layout: post
 itemUrl: >-

@@ -13,7 +13,7 @@ tags:
 Node.jsのセキュリティアップデートとして、それぞれのLTSと開発バージョンのアップデートが公開された
 
 - Node.js 9.10.0
-- Node.js 8.11.0 (LTS "Carbon")
-- Node.js 6.14.0 (LTS "Boron")
-- Node.js 4.9.0 (LTS "Argon")
+- Node.js 8.11.0 (LTS &quot;Carbon&quot;)
+- Node.js 6.14.0 (LTS &quot;Boron&quot;)
+- Node.js 4.9.0 (LTS &quot;Argon&quot;)
 

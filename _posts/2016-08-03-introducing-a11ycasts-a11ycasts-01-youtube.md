@@ -10,9 +10,9 @@ tags:
   - video
 relatedLinks:
   - title: >-
-      Chrome Developers on Twitter: &#34;Just launched ~ A11ycasts! A new series
-      dedicated to teaching web accessibility. Tune in every 2 weeks!
-      https://t.co/yZphrjpGPz&#34;
+      Chrome Developers on Twitter: &amp;#34;Just launched ~ A11ycasts! A new
+      series dedicated to teaching web accessibility. Tune in every 2 weeks!
+      https://t.co/yZphrjpGPz&amp;#34;
     url: 'https://twitter.com/ChromiumDev/status/760555781603360768'
 ---
 アクセシビリティについての動画シリーズ

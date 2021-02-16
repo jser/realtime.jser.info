@@ -1,5 +1,5 @@
 ---
-title: 'Jest 22: Refinements & Custom Runners · Jest'
+title: 'Jest 22: Refinements &amp; Custom Runners · Jest'
 author: azu
 layout: post
 itemUrl: 'http://facebook.github.io/jest/blog/2017/12/18/jest-22.html'

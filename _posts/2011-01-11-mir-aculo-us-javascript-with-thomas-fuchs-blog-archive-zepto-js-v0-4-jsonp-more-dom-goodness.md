@@ -1,7 +1,7 @@
 ---
 title: >-
   mir.aculo.us JavaScript with Thomas Fuchs » Blog Archive » Zepto.js v0.4 –
-  JSONP & more DOM goodness
+  JSONP &amp; more DOM goodness
 author: azu
 layout: post
 itemUrl: >-
@@ -10,4 +10,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/01/inde
 date: '2011-01-11T23:00:00Z'
 ---
 Zepto.jsのver0.4が公開された。
-<q>New in v0.4 JSONP, better .find, .each, .closest; new .eq, .size, .parent, .parents, .removeAttr, .val (basic), function args to .html, .attr; adjacency methods now take Zepto objects</q>
+&lt;q&gt;New in v0.4 JSONP, better .find, .each, .closest; new .eq, .size, .parent, .parents, .removeAttr, .val (basic), function args to .html, .attr; adjacency methods now take Zepto objects&lt;/q&gt;

@@ -10,4 +10,4 @@ tags:
   - library
 ---
 WebWorkerのコミュニケーションを補助するライブラリ。
-Browser <-> Worker それぞれ関数を呼び出す、値の受け渡し、console.logのalias等
+Browser &lt;-&gt; Worker それぞれ関数を呼び出す、値の受け渡し、console.logのalias等

@@ -10,7 +10,7 @@ tags:
   - TypeScript
   - Tools
 relatedLinks:
-  - title: What & Why | Hegel
+  - title: What &amp; Why | Hegel
     url: 'https://hegel.js.org/docs'
 ---
 JavaScriptで書かれたJavaScriptの型チェッカ。

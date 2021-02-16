@@ -1,7 +1,7 @@
 ---
 title: >-
-  mizchi/minlink: Minimum(> 1kb) and isomorphic worker wrapper with comlink like
-  rpc.
+  mizchi/minlink: Minimum(&gt; 1kb) and isomorphic worker wrapper with comlink
+  like rpc.
 author: azu
 layout: post
 itemUrl: 'https://github.com/mizchi/minlink'

@@ -1,5 +1,5 @@
 ---
-title: 'Well, I''m Back: innerText: Cleaning A Dark Corner Of the Web'
+title: 'Well, I&#039;m Back: innerText: Cleaning A Dark Corner Of the Web'
 author: azu
 layout: post
 itemUrl: 'http://robert.ocallahan.org/2016/01/innertext.html'

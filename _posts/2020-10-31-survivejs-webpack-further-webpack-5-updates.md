@@ -1,5 +1,5 @@
 ---
-title: '"SurviveJS - Webpack" - Further webpack 5 updates'
+title: '&quot;SurviveJS - Webpack&quot; - Further webpack 5 updates'
 author: azu
 layout: post
 itemUrl: 'https://survivejs.com/blog/webpack-book-webpack-5-updates/'

@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: やさしいHTML&CSS入門 [単行本]: 相澤 裕介'
+title: 'Amazon: やさしいHTML&amp;CSS入門 [単行本]: 相澤 裕介'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4877830979/book042-22/ref=nosim'

@@ -11,4 +11,4 @@ tags:
   - TypeScript
   - slide
 ---
-ES6の=>等を使って関数型スタイルなJavaScriptについてのスライド
+ES6の=&gt;等を使って関数型スタイルなJavaScriptについてのスライド

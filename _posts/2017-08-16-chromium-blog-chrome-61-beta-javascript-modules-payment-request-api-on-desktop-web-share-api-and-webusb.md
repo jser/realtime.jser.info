@@ -15,9 +15,9 @@ relatedLinks:
     url: 'http://httpwg.org/http-extensions/expect-ct.html'
   - title: |-
       Prevent requests to HTTP(S) URLs containing raw `
-      ` and `&lt;`. · Issue #546 · whatwg/fetch
+      ` and `&amp;lt;`. · Issue #546 · whatwg/fetch
     url: 'https://github.com/whatwg/fetch/issues/546'
 ---
 Chrom 61βリリース。
-`<script type=module>`のサポート、Payment Request API、Web Share API、WebUSB APIのサポート。
-Expect-CT HTTP headerのサポート、HTTPリクエストURLに`>`や`\n`が含まれている場合にブロックするように
+`&lt;script type=module&gt;`のサポート、Payment Request API、Web Share API、WebUSB APIのサポート。
+Expect-CT HTTP headerのサポート、HTTPリクエストURLに`&gt;`や`\n`が含まれている場合にブロックするように

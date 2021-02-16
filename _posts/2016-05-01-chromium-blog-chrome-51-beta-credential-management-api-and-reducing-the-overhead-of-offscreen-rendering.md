@@ -15,7 +15,7 @@ relatedLinks:
     url: 'http://v8project.blogspot.jp/2016/04/v8-release-51.html'
   - title: IntersectionObserver/explainer.md at gh-pages · WICG/IntersectionObserver
     url: 'https://github.com/WICG/IntersectionObserver/blob/gh-pages/explainer.md'
-  - title: Throttling Blink's rendering pipeline for hidden content
+  - title: 'Throttling Blink&#039;s rendering pipeline for hidden content'
     url: >-
       https://docs.google.com/document/d/1Dd4qi1b_iX-OCZpelvXxizjq6dDJ76XNtk37SZEoTYQ/pub
   - title: Power usage impact of render pipeline throttling - Google ドキュメント

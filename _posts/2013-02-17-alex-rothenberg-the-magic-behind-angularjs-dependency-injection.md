@@ -1,5 +1,5 @@
 ---
-title: Alex Rothenberg - The "Magic" behind AngularJS Dependency Injection
+title: Alex Rothenberg - The &quot;Magic&quot; behind AngularJS Dependency Injection
 author: azu
 layout: post
 itemUrl: >-

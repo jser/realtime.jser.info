@@ -21,7 +21,7 @@ relatedLinks:
 ---
 Firefox 85リリース。
 Flashのサポート終了。
-CSSでPrefixなしの`:focus-visible`をサポート、`<link rel="preload">`のサポート。
+CSSでPrefixなしの`:focus-visible`をサポート、`&lt;link rel=&quot;preload&quot;&gt;`のサポート。
 ES Proposal Stage 3のTop-Level awaitのサポート、`at()`メソッドのサポートなど。
 また、Network partitioningの導入など
 

@@ -1,5 +1,5 @@
 ---
-title: What's new in Chrome 78 - LogRocket Blog
+title: 'What&#039;s new in Chrome 78 - LogRocket Blog'
 author: azu
 layout: post
 itemUrl: 'https://blog.logrocket.com/whats-new-in-chrome-78/'

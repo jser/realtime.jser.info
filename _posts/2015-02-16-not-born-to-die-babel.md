@@ -16,6 +16,6 @@ relatedLinks:
   - title: 'Name suggestions · Issue #596 · babel/babel'
     url: 'https://github.com/babel/babel/issues/596'
 ---
-6to5が"Babel"にリネームされた。
+6to5が&quot;Babel&quot;にリネームされた。
 多くのツールがparsersとtranspilersに依存しているため、Babelプロジェクトではこの部分を解決していく。
 ESTreeというASTの仕様の標準化作業にも協力していくとのこと

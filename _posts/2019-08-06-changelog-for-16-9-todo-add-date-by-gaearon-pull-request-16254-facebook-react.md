@@ -18,5 +18,5 @@ relatedLinks:
     url: 'http://example.com/'
 ---
 React 16.9 RC.0リリース。
-`<React.Profiler>`の追加、非推奨となっていた`UNSAFE_*`のライフサイクルメソッドに対する警告を表示、`<a href="javascript:">`に対して警告を出すように。
+`&lt;React.Profiler&gt;`の追加、非推奨となっていた`UNSAFE_*`のライフサイクルメソッドに対する警告を表示、`&lt;a href=&quot;javascript:&quot;&gt;`に対して警告を出すように。
 また、DevToolsで`useState`の編集、Suspenseのトグル表示に対応、テスト用の`act`がAsync対応など

@@ -1,6 +1,6 @@
 ---
 title: >-
-  Jest 20: :sparkling_heart: Delightful Testing & :runner::skin-tone-4:
+  Jest 20: :sparkling_heart: Delightful Testing &amp; :runner::skin-tone-4:
   Multi-Project-Runner · Jest
 author: azu
 layout: post

@@ -11,7 +11,7 @@ tags:
   - library
   - ReleaseNote
 relatedLinks:
-  - title: RxJS v5.x -&gt; v6 Update Guide - Google ドキュメント
+  - title: RxJS v5.x -&amp;gt; v6 Update Guide - Google ドキュメント
     url: >-
       https://docs.google.com/document/d/12nlLt71VLKb-z3YaSGzUfx6mJbc34nsMXtByPUN35cg/edit#heading=h.9gxcyk6xxdc8
 ---

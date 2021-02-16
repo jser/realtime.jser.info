@@ -11,8 +11,8 @@ tags:
   - browser
 relatedLinks:
   - title: >-
-      Why Web Components Aren't Ready for Production... Yet -Telerik Developer
-      Network
+      Why Web Components Aren&#039;t Ready for Production... Yet -Telerik
+      Developer Network
     url: >-
       http://developer.telerik.com/featured/web-components-arent-ready-production-yet/
 ---

@@ -1,5 +1,5 @@
 ---
-title: What's New in Vue Devtools 5.0 Beta
+title: 'What&#039;s New in Vue Devtools 5.0 Beta'
 author: azu
 layout: post
 itemUrl: 'https://www.telerik.com/blogs/whats-new-in-vue-devtools-5-beta'

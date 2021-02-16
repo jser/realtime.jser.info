@@ -1,5 +1,5 @@
 ---
-title: The State of Javascript Package Management | Wibblymat's code blog
+title: 'The State of Javascript Package Management | Wibblymat&#039;s code blog'
 author: azu
 layout: post
 itemUrl: >-

@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - 初めての自動テスト
+title: 'O&#039;Reilly Japan - 初めての自動テスト'
 author: azu
 layout: post
 itemUrl: 'https://www.oreilly.co.jp/books/9784873118161/'

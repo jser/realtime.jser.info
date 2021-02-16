@@ -1,5 +1,5 @@
 ---
-title: Distributed Node.js - O'Reilly Media
+title: 'Distributed Node.js - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920342762.do'

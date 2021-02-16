@@ -1,5 +1,7 @@
 ---
-title: 'DJWassink/Promise-parallel-throttle: It''s like Promise.all(), but throttled!'
+title: >-
+  DJWassink/Promise-parallel-throttle: It&#039;s like Promise.all(), but
+  throttled!
 author: azu
 layout: post
 itemUrl: 'https://github.com/DJWassink/Promise-parallel-throttle'

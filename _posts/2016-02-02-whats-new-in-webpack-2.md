@@ -1,5 +1,5 @@
 ---
-title: What's new in webpack 2
+title: 'What&#039;s new in webpack 2'
 author: azu
 layout: post
 itemUrl: 'https://gist.github.com/sokra/27b24881210b56bbaff7'

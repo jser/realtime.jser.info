@@ -23,4 +23,4 @@ Firefox 69.0リリース。
 Enhanced Tracking Protection (ETP)の有効化。
 CSSの`@supports`がセレクタをサポート.
 またECMAScript ProposalのPublic class fieldのサポート、Resize Observerのサポート、`queueMicrotask`のサポートなど。
-`<keygen>`要素の削除やCSS `user-select`のprefixなしに対応、ネットワークパネルにCSPでブロックされた理由の表示など
+`&lt;keygen&gt;`要素の削除やCSS `user-select`のprefixなしに対応、ネットワークパネルにCSPでブロックされた理由の表示など

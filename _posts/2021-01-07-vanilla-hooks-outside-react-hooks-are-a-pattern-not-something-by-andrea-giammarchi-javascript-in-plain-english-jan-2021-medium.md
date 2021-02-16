@@ -15,8 +15,8 @@ tags:
   - article
 relatedLinks:
   - title: >-
-      WebReflection/uhooks: micro hooks: a minimalistic client/server hooks'
-      implementation
+      WebReflection/uhooks: micro hooks: a minimalistic client/server
+      hooks&#039; implementation
     url: 'https://github.com/WebReflection/uhooks'
 ---
 uhooksを使ってReact HooksライクにDOM APIを使ったTODOアプリを書く話。

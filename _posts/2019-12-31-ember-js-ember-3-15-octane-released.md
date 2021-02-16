@@ -1,5 +1,5 @@
 ---
-title: Ember.js - Ember 3.15 "Octane" Released
+title: Ember.js - Ember 3.15 &quot;Octane&quot; Released
 author: azu
 layout: post
 itemUrl: 'https://blog.emberjs.com/2019/12/20/ember-3-15-released.html'

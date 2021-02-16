@@ -13,4 +13,4 @@ relatedLinks:
   - title: elijahmanor/eslint-plugin-smells
     url: 'https://github.com/elijahmanor/eslint-plugin-smells'
 ---
-JSHintやESLintを使って複雑なコードの検出、jsinspectやjscpdを使ってコピー&ペーストを検出、色々なあやしいコードの検出するeslint pluginや特定のライブラリをサポートするeslint pluginについて
+JSHintやESLintを使って複雑なコードの検出、jsinspectやjscpdを使ってコピー&amp;ペーストを検出、色々なあやしいコードの検出するeslint pluginや特定のライブラリをサポートするeslint pluginについて

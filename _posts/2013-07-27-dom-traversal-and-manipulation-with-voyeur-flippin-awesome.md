@@ -1,5 +1,5 @@
 ---
-title: DOM Traversal and Manipulation with Voyeur | Flippin' Awesome
+title: 'DOM Traversal and Manipulation with Voyeur | Flippin&#039; Awesome'
 author: azu
 layout: post
 itemUrl: >-

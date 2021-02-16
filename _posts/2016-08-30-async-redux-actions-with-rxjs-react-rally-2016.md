@@ -13,7 +13,7 @@ tags:
 relatedLinks:
   - title: >-
       redux-observable/redux-observable: RxJS middleware for action side effects
-      in Redux using &#34;Epics&#34;
+      in Redux using &amp;#34;Epics&amp;#34;
     url: 'https://github.com/redux-observable/redux-observable'
 ---
 _redux-observable_についてのスライド。

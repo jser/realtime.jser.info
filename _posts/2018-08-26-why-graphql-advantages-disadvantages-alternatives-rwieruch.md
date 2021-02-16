@@ -1,5 +1,5 @@
 ---
-title: 'Why GraphQL: Advantages, Disadvantages & Alternatives - RWieruch'
+title: 'Why GraphQL: Advantages, Disadvantages &amp; Alternatives - RWieruch'
 author: azu
 layout: post
 itemUrl: 'https://www.robinwieruch.de/why-graphql-advantages-disadvantages-alternatives/'

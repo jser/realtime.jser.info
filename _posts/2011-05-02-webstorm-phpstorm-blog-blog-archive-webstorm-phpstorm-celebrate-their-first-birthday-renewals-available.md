@@ -1,7 +1,7 @@
 ---
 title: >-
-  WebStorm & PhpStorm Blog » Blog Archive » WebStorm & PhpStorm celebrate their
-  First Birthday! Renewals available.
+  WebStorm &amp; PhpStorm Blog » Blog Archive » WebStorm &amp; PhpStorm
+  celebrate their First Birthday! Renewals available.
 author: azu
 layout: post
 itemUrl: >-

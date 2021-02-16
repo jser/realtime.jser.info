@@ -1,5 +1,5 @@
 ---
-title: 'Release 1.5.0: GraphQL, CSS-in-JS & JSON · prettier/prettier'
+title: 'Release 1.5.0: GraphQL, CSS-in-JS &amp; JSON · prettier/prettier'
 author: azu
 layout: post
 itemUrl: 'https://github.com/prettier/prettier/releases/tag/1.5.0'

@@ -1,5 +1,5 @@
 ---
-title: Maybe you don't need Rust and WASM to speed up your JS
+title: 'Maybe you don&#039;t need Rust and WASM to speed up your JS'
 author: azu
 layout: post
 itemUrl: >-

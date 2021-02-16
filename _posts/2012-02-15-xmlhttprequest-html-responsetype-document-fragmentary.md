@@ -1,5 +1,5 @@
 ---
-title: 『XMLHttpRequestのHTMLサポート (responseType='document') - fragmentary』
+title: '『XMLHttpRequestのHTMLサポート (responseType=&#039;document&#039;) - fragmentary』'
 author: azu
 layout: post
 itemUrl: 'http://myakura.hatenablog.com/entry/2012/02/16/011812'

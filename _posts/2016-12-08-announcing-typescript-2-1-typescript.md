@@ -14,4 +14,4 @@ relatedLinks:
     url: 'http://qiita.com/vvakame/items/fc7e37d0296c63f41f4f'
 ---
 TypeScript 2.1リリース。
-async/await、Object Rest & Spread、`keyof` type、Mapped Typeのサポートなど
+async/await、Object Rest &amp; Spread、`keyof` type、Mapped Typeのサポートなど

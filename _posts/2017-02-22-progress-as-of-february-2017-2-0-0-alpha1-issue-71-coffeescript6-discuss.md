@@ -18,5 +18,5 @@ relatedLinks:
 ---
 CoffeeScript 2.0.0-alpha1リリース。
 ES2015+に準拠した変更を取り入れていっているバージョンであるため、既存のものとは非互換な部分がある。
-`class`や`=>`がES2015と同等に、
+`class`や`=&gt;`がES2015と同等に、
 splatsはspreadへコンパイルされるように、Tagged Template literal、async/await、`for...of`のサポートなど

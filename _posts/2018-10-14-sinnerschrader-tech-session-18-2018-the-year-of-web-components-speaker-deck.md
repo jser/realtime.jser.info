@@ -1,7 +1,7 @@
 ---
 title: >-
-  SinnerSchrader Tech Session '18 - 2018 - The Year of Web Components - Speaker
-  Deck
+  SinnerSchrader Tech Session &#039;18 - 2018 - The Year of Web Components -
+  Speaker Deck
 author: azu
 layout: post
 itemUrl: >-

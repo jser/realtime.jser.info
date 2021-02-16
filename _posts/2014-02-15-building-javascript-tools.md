@@ -15,4 +15,4 @@ relatedLinks:
     url: 'http://azu.github.io/slide/tkbjs/js-ast-walker.html'
 ---
 JavaScriptツールを使うだけじゃなくて書いてみよう。
-どこから始める? -> コードをASTというオブジェクトで表現できる -> AST を使ったツールを作ろう という感じのJS ASTについてのスライド
+どこから始める? -&gt; コードをASTというオブジェクトで表現できる -&gt; AST を使ったツールを作ろう という感じのJS ASTについてのスライド

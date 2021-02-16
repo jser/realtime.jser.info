@@ -18,7 +18,7 @@ relatedLinks:
 ---
 EdgeHTML 13の変更点について。
 HTMLやCSS関連では、
-CSS `initial`と`unset`、`a[download]`、`input[type=time]`、`<picture>`、ORTC、`<template>`のサポート。
+CSS `initial`と`unset`、`a[download]`、`input[type=time]`、`&lt;picture&gt;`、ORTC、`&lt;template&gt;`のサポート。
 
 JavaScript関連では、ES6 Classes、asm.jsをデフォルトサポート。
 フラグ付きでasync/await、Exponentiation operator、Destructuringのサポート。

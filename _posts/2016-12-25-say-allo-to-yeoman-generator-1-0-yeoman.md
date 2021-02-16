@@ -1,5 +1,5 @@
 ---
-title: Say allo' to yeoman-generator 1.0 | Yeoman
+title: 'Say allo&#039; to yeoman-generator 1.0 | Yeoman'
 author: azu
 layout: post
 itemUrl: 'http://yeoman.io/blog/hello-generator-1.0.html'

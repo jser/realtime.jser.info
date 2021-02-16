@@ -1,5 +1,5 @@
 ---
-title: 'roman01la/closure-compiler-handbook: How to use Google''s Closure Compiler'
+title: 'roman01la/closure-compiler-handbook: How to use Google&#039;s Closure Compiler'
 author: azu
 layout: post
 itemUrl: 'https://github.com/roman01la/closure-compiler-handbook'

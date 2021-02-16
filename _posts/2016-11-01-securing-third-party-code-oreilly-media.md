@@ -1,5 +1,5 @@
 ---
-title: Securing Third-Party Code - O'Reilly Media
+title: 'Securing Third-Party Code - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920051695.do'

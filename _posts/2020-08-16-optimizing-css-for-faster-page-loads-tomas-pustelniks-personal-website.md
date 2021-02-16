@@ -1,5 +1,5 @@
 ---
-title: Optimizing CSS for faster page loads - Tomas Pustelnik's personal website
+title: 'Optimizing CSS for faster page loads - Tomas Pustelnik&#039;s personal website'
 author: azu
 layout: post
 itemUrl: 'https://pustelto.com/blog/optimizing-css-for-faster-page-loads/'

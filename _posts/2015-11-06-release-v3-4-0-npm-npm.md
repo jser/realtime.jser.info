@@ -9,5 +9,5 @@ tags:
   - npm
   - ReleaseNote
 ---
-npm 3.4.0で`npm install && npm test`を行う`npm install-test`というコマンドが追加された。
+npm 3.4.0で`npm install &amp;&amp; npm test`を行う`npm install-test`というコマンドが追加された。
 `--dry-run`などと組み合わせて、依存モジュールのアップデートテストに活用出来る

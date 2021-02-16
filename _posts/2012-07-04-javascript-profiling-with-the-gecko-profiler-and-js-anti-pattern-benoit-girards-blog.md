@@ -1,7 +1,7 @@
 ---
 title: >-
   Javascript Profiling with The Gecko Profiler and JS Anti-pattern « Benoit
-  Girard's Blog
+  Girard&#039;s Blog
 author: azu
 layout: post
 itemUrl: >-

@@ -11,5 +11,5 @@ tags:
   - video
   - music
 ---
-video／audio要素のQ&A
+video／audio要素のQ&amp;A
 実装のハマリどころやフォーマット、エンコーダー、処理が重たい場合の対処法、イベントハンドリングについてなど

@@ -1,6 +1,6 @@
 ---
 title: >-
-  Firefox Developer Tools: Episode 27 – Edit as HTML, Codemirror & more ✩
+  Firefox Developer Tools: Episode 27 – Edit as HTML, Codemirror &amp; more ✩
   Mozilla Hacks – the Web developer blog
 author: azu
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: '『Save Now: JavaScript Path to Mastery - O''Reilly Media』'
+title: '『Save Now: JavaScript Path to Mastery - O&#039;Reilly Media』'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/category/deals/hd-javascript-path.do'

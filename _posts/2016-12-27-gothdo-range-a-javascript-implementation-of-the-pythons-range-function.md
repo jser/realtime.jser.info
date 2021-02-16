@@ -1,5 +1,7 @@
 ---
-title: 'Gothdo/range: A JavaScript implementation of the Python''s range() function.'
+title: >-
+  Gothdo/range: A JavaScript implementation of the Python&#039;s range()
+  function.
 author: azu
 layout: post
 itemUrl: 'https://github.com/Gothdo/range'

@@ -1,5 +1,5 @@
 ---
-title: Making your website "cross-origin isolated" using COOP and COEP
+title: Making your website &quot;cross-origin isolated&quot; using COOP and COEP
 author: azu
 layout: post
 itemUrl: 'https://web.dev/coop-coep/'
@@ -17,7 +17,9 @@ relatedLinks:
   - title: COOP and COEP explained - Google ドキュメント
     url: >-
       https://docs.google.com/document/d/1zDlfvfTJ_9e8Jdc8ehuV4zMEu9ySMCiTGMS9y0GU92k/edit
-  - title: Understanding &quot;same-site&quot; and &quot;same-origin&quot;
+  - title: >-
+      Understanding &amp;quot;same-site&amp;quot; and
+      &amp;quot;same-origin&amp;quot;
     url: 'https://web.dev/same-site-same-origin/'
 ---
 `SharedArrayBuffer`など高度な機能は`self.crossOriginIsolated`が`true`の場合に利用できる。

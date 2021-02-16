@@ -10,7 +10,7 @@ tags:
   - Conference
   - '動画 '
 relatedLinks:
-  - title: 'EmberConf 2016 - March 29 & 30, Portland, OR.'
+  - title: 'EmberConf 2016 - March 29 &amp; 30, Portland, OR.'
     url: 'http://emberconf.com/'
 ---
 EmberConf 2016の動画まとめ

@@ -1,5 +1,5 @@
 ---
-title: What's new in ChakraCore | Build 2017 | Channel 9
+title: 'What&#039;s new in ChakraCore | Build 2017 | Channel 9'
 author: azu
 layout: post
 itemUrl: 'https://channel9.msdn.com/Events/Build/2017/P4103'

@@ -10,4 +10,4 @@ tags:
   - WebComponents
 ---
 `IntersectionObserver`を使った画像の遅延ロードの実装について。
-fallbackはただの`<img>`として動作する
+fallbackはただの`&lt;img&gt;`として動作する

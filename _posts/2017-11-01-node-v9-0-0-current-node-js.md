@@ -9,7 +9,7 @@ tags:
   - node.js
   - ReleaseNote
 relatedLinks:
-  - title: 'What&#39;s new in Node.js 9?'
+  - title: 'What&amp;#39;s new in Node.js 9?'
     url: 'https://nemethgergely.com/what-is-new-in-nodejs-9/'
 ---
 Node.js 9.0.0リリース。

@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - アイソモーフィックJavaScript
+title: 'O&#039;Reilly Japan - アイソモーフィックJavaScript'
 author: azu
 layout: post
 itemUrl: 'https://www.oreilly.co.jp/books/9784873118079/'

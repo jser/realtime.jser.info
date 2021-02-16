@@ -12,4 +12,4 @@ relatedLinks:
   - title: V8の最適化とIRHydraでの可視化とベンチマークについてのメモ | Web Scratch
     url: 'http://efcl.info/2014/09/13/v8-optimization-memo/'
 ---
-V8のdeoptimizationがなぜ起きるのかについて"Bailout reasons"と共に理由を解説してるリポジトリ
+V8のdeoptimizationがなぜ起きるのかについて&quot;Bailout reasons&quot;と共に理由を解説してるリポジトリ

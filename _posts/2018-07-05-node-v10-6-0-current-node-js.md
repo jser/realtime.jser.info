@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 Node.js 10.6.0リリース。
-`require('dns').promises`の追加、`Atomics.wake`を`Atomics.notify`にリネームするECMAScriptの仕様追従など
+`require(&#039;dns&#039;).promises`の追加、`Atomics.wake`を`Atomics.notify`にリネームするECMAScriptの仕様追従など

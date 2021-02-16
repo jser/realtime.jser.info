@@ -1,5 +1,5 @@
 ---
-title: 'Angular: ESLintサポートの現状 2020 Autumn | <output type=text>'
+title: 'Angular: ESLintサポートの現状 2020 Autumn | &lt;output type=text&gt;'
 author: azu
 layout: post
 itemUrl: 'https://blog.lacolaco.net/2020/11/angular-state-of-linting-2020/'

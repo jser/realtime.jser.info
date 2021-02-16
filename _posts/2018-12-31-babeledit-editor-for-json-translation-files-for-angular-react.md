@@ -1,5 +1,5 @@
 ---
-title: BabelEdit - Editor for JSON translation files for Angular & React
+title: BabelEdit - Editor for JSON translation files for Angular &amp; React
 author: azu
 layout: post
 itemUrl: 'https://www.codeandweb.com/babeledit'

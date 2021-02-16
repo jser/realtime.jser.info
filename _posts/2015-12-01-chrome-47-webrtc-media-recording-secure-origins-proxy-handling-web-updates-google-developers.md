@@ -1,6 +1,6 @@
 ---
 title: >-
-  Chrome 47 WebRTC: media recording, secure origins & proxy handling | Web
+  Chrome 47 WebRTC: media recording, secure origins &amp; proxy handling | Web
   Updates - Google Developers
 author: azu
 layout: post

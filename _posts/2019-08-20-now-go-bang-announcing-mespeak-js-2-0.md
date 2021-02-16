@@ -1,5 +1,5 @@
 ---
-title: <Now Go Bang!> Announcing meSpeak.js 2.0
+title: '&lt;Now Go Bang!&gt; Announcing meSpeak.js 2.0'
 author: azu
 layout: post
 itemUrl: 'https://www.masswerk.at/nowgobang/2019/mespeak_2_0'

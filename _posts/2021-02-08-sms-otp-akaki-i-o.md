@@ -12,5 +12,5 @@ tags:
   - iOS
   - Android
 ---
-iOSとAndroidにおけるSMS OTPの自動入力(`autocomplete="one-time-code"`)の動作の検証。
+iOSとAndroidにおけるSMS OTPの自動入力(`autocomplete=&quot;one-time-code&quot;`)の動作の検証。
 フィッシングなどの攻撃への利用やDomain-bound codesでの自動入力の検証や仕様などについて

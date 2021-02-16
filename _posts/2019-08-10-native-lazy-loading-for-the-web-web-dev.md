@@ -11,5 +11,5 @@ tags:
   - article
   - Chrome
 ---
-`<img>`や`<iframe>`の`loading`属性での遅延ロードについて。
+`&lt;img&gt;`や`&lt;iframe&gt;`の`loading`属性での遅延ロードについて。
 `loading`属性のFeature Detect、Polyfill、Chrome for AndroidのLite mode(Data Saver)の対応についてなど

@@ -1,5 +1,7 @@
 ---
-title: 『Internet Explorer 10 Consumer Preview のマイナーな変更点リスト « Hebikuzure's Tech Memo』
+title: >-
+  『Internet Explorer 10 Consumer Preview のマイナーな変更点リスト « Hebikuzure&#039;s Tech
+  Memo』
 author: azu
 layout: post
 itemUrl: >-

@@ -17,4 +17,4 @@ relatedLinks:
       and snapping
     url: 'http://interactjs.io/'
 ---
-要素をD&D、リサイズ、multi-touch等に対応した処理を書くことが出来るinteract.jsについての紹介記事
+要素をD&amp;D、リサイズ、multi-touch等に対応した処理を書くことが出来るinteract.jsについての紹介記事

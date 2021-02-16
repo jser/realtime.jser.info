@@ -8,6 +8,6 @@ date: '2014-08-21T14:01:19Z'
 tags:
   - JavaScript
 ---
-"JavaScript Quality Guide"
+&quot;JavaScript Quality Guide&quot;
 JavaScriptコーディングスタイルルール。
 

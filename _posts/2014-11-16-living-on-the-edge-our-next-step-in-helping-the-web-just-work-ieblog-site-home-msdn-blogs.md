@@ -13,17 +13,17 @@ tags:
   - ECMAScript
   - JavaScript
 relatedLinks:
-  - title: IE11 の「エンタープライズ モード」の新機能 – ドキュメント モードの指定 | Hebikuzure's Tech Memo
+  - title: 'IE11 の「エンタープライズ モード」の新機能 – ドキュメント モードの指定 | Hebikuzure&#039;s Tech Memo'
     url: >-
       http://hebikuzure.wordpress.com/2014/11/13/ie11-enterprise-mode-improvement/
   - title: >-
-      さねゆき on Twitter: ""Living" Edge document mode,
+      さねゆき on Twitter: &quot;&quot;Living&quot; Edge document mode,
       イントラでenterpriseモード使ってれば互換性リストで動作確保. Webには最新機能ガンガン入れてくよ.
-      古いIEへのフォールバックコード無視するUA文字列にするよ. http://t.co/5OBcP6la3J"
+      古いIEへのフォールバックコード無視するUA文字列にするよ. http://t.co/5OBcP6la3J&quot;
     url: 'https://twitter.com/saneyuki_s/status/532701057940348929'
   - title: >-
-      Šime Vidas on Twitter: "IE’s upcoming “interoperable UA string”. (Context:
-      http://t.co/W0LeK8GCLe.) http://t.co/VsY2VgEe8Y"
+      Šime Vidas on Twitter: &quot;IE’s upcoming “interoperable UA string”.
+      (Context: http://t.co/W0LeK8GCLe.) http://t.co/VsY2VgEe8Y&quot;
     url: 'https://twitter.com/simevidas/status/532749912333881344'
 ---
 IE 11の新しいプレビュー版が公開された。

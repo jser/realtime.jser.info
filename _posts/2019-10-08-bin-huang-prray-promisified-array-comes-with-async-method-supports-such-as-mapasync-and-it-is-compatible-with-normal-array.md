@@ -1,7 +1,7 @@
 ---
 title: >-
-  Bin-Huang/prray: "Promisified" Array, comes with async method supports(such as
-  mapAsync). And it is compatible with normal array.
+  Bin-Huang/prray: &quot;Promisified&quot; Array, comes with async method
+  supports(such as mapAsync). And it is compatible with normal array.
 author: azu
 layout: post
 itemUrl: 'https://github.com/Bin-Huang/prray'

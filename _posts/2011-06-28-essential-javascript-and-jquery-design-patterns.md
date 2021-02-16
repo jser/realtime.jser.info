@@ -7,4 +7,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2011/06/inde
 date: '2011-06-28T15:00:00Z'
 ---
 Essential JavaScript Design Patternsの日本語訳。
-"pdf を用意する予定"
+&quot;pdf を用意する予定&quot;

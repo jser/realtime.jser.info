@@ -11,4 +11,4 @@ tags:
 ---
 React 16.4リリース。
 `getDerivedStateFromProps`のバグ修正、Pointer Eventsのサポート。
-試験的に`<Profiler />`のサポート、また実験的実装だったReact Call Returnを削除など
+試験的に`&lt;Profiler /&gt;`のサポート、また実験的実装だったReact Call Returnを削除など

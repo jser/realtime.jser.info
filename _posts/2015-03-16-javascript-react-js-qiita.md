@@ -9,5 +9,5 @@ tags:
   - Flux
   - JavaScript
 ---
-"Thinking in React"の考え方。 
+&quot;Thinking in React&quot;の考え方。 
 テンプレートエンジンとReactの共存の話、階層構造の複雑性を解決するためのMediator/ObserverとFluxライブラリについて

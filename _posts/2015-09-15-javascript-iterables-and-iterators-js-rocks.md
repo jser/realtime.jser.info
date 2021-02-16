@@ -9,6 +9,6 @@ tags:
   - JavaScript
   - ECMAScript
 ---
-iterable、iteratorについて細かな疑問がQ&A形式でまとまっている記事。
+iterable、iteratorについて細かな疑問がQ&amp;A形式でまとまっている記事。
 iterableとiteratorそれぞれがどういう定義であるかや関係について。
 また、`iterator.next()`の返り値がオブジェクトを返すようになった理由などについて

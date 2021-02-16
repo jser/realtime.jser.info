@@ -8,4 +8,4 @@ date: '2011-02-08T22:50:00Z'
 ---
 2011年7月15日発売
 Head FirstシリーズのHTML5本
--[Head First HTML5 - O'Reilly Media](http://oreilly.com/catalog/0636920010906/ "Head First HTML5 - O'Reilly Media")
+-[Head First HTML5 - O&#039;Reilly Media](http://oreilly.com/catalog/0636920010906/ &quot;Head First HTML5 - O&#039;Reilly Media&quot;)

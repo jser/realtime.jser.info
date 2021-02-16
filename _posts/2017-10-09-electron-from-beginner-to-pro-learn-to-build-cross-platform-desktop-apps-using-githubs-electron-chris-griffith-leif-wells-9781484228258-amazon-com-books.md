@@ -1,7 +1,7 @@
 ---
 title: >-
   Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Apps
-  using Github's Electron: Chris Griffith, Leif Wells: 9781484228258:
+  using Github&#039;s Electron: Chris Griffith, Leif Wells: 9781484228258:
   Amazon.com: Books
 author: azu
 layout: post

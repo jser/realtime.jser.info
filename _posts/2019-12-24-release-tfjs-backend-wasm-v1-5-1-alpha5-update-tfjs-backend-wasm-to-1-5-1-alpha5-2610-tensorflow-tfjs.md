@@ -15,11 +15,11 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      TensorFlow on Twitter: &quot;We’re excited to release the Alpha of our
+      TensorFlow on Twitter: &amp;quot;We’re excited to release the Alpha of our
       WebAssembly backend for TensorFlow.js! :tada: WASM has wider device
       support and better numerical stability while getting competitive with
       WebGL for smaller models. Share your feedback here →
-      https://t.co/PqwNOGDRKZ https://t.co/f5NthyUcHe&quot; / Twitter
+      https://t.co/PqwNOGDRKZ https://t.co/f5NthyUcHe&amp;quot; / Twitter
     url: 'https://twitter.com/TensorFlow/status/1208153137774813187'
 ---
 TensorFlow.jsのWebAssemblyバックエンドがアルファリリース。

@@ -13,4 +13,4 @@ tags:
   - translate
 ---
 2015年3月30日発売
-"Apps For All - Coding Accessible Web Applications"の日本語版
+&quot;Apps For All - Coding Accessible Web Applications&quot;の日本語版

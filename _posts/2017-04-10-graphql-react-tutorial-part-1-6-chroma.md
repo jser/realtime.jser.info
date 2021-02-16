@@ -1,5 +1,5 @@
 ---
-title: GraphQL & React tutorial (part 1/6) – Chroma
+title: GraphQL &amp; React tutorial (part 1/6) – Chroma
 author: azu
 layout: post
 itemUrl: 'https://blog.hichroma.com/graphql-react-tutorial-part-1-6-d0691af25858'

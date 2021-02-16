@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 npm 6.1.0リリース。
-`npm audit fix`の追加、`npm init <pkg>`がgit urlをサポートなど
+`npm audit fix`の追加、`npm init &lt;pkg&gt;`がgit urlをサポートなど

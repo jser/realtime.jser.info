@@ -1,5 +1,5 @@
 ---
-title: Polymer vs. X-Tag - Here's the difference · Pascal Precht
+title: 'Polymer vs. X-Tag - Here&#039;s the difference · Pascal Precht'
 author: azu
 layout: post
 itemUrl: >-

@@ -16,4 +16,4 @@ relatedLinks:
 ---
 新しいJSXの変換の仕組みについて。
 React 17、Babel 7.9.0から対応している。
-コンポーネント内で`import React from "react"`が不要となり、パフォーマンスの改善や仕様のシンプル化が目的
+コンポーネント内で`import React from &quot;react&quot;`が不要となり、パフォーマンスの改善や仕様のシンプル化が目的

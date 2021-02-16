@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://github.com/sass/sass/issues/747'
 ---
 Sass 3.4 リリース。
-parent selector `&`の扱いを改善、Selector Functionsで`&`を使えるように。`@error` ディレクティブの追加、sourcemapの生成がデフォルトに鳴るなど
+parent selector `&amp;`の扱いを改善、Selector Functionsで`&amp;`を使えるように。`@error` ディレクティブの追加、sourcemapの生成がデフォルトに鳴るなど

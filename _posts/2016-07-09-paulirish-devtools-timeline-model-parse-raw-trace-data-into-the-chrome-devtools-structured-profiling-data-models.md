@@ -1,7 +1,7 @@
 ---
 title: >-
   paulirish/devtools-timeline-model: Parse raw trace data into the Chrome
-  DevTools' structured profiling data models
+  DevTools&#039; structured profiling data models
 author: azu
 layout: post
 itemUrl: 'https://github.com/paulirish/devtools-timeline-model'

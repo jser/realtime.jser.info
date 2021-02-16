@@ -12,7 +12,9 @@ tags:
   - MSEdge
   - ReleaseNote
 relatedLinks:
-  - title: What's new in EdgeHTML 18 - Microsoft Edge Development | Microsoft Docs
+  - title: >-
+      What&#039;s new in EdgeHTML 18 - Microsoft Edge Development | Microsoft
+      Docs
     url: >-
       https://docs.microsoft.com/en-us/microsoft-edge/dev-guide?WT.mc_id=windowsdocs-twitter#new-apis-in-edgehtml-18
 ---

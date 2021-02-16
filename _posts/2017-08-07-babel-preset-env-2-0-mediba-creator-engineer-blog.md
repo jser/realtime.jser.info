@@ -13,4 +13,4 @@ tags:
   - article
   - JavaScript
 ---
-現在αリリースされているbabel-preset-env 2.0αについて。 静的解析した結果のpolyfillだけを読み込む`"useBuiltIns": "usage"`の解説と挙動について。
+現在αリリースされているbabel-preset-env 2.0αについて。 静的解析した結果のpolyfillだけを読み込む`&quot;useBuiltIns&quot;: &quot;usage&quot;`の解説と挙動について。

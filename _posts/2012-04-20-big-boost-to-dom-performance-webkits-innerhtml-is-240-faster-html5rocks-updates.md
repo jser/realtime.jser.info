@@ -1,7 +1,7 @@
 ---
 title: >-
-  Big boost to DOM performance - WebKit's innerHTML is 240% faster - HTML5Rocks
-  Updates
+  Big boost to DOM performance - WebKit&#039;s innerHTML is 240% faster -
+  HTML5Rocks Updates
 author: azu
 layout: post
 itemUrl: >-

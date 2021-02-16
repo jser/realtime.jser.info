@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: ゲームで学ぶJavaScript入門 HTML5&CSSも身に付く!: 田中 賢一郎'
+title: 'Amazon: ゲームで学ぶJavaScript入門 HTML5&amp;CSSも身に付く!: 田中 賢一郎'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/dp/4844339788'

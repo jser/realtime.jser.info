@@ -14,5 +14,5 @@ relatedLinks:
     url: 'http://www.functionaljavascript.com/'
 ---
 FunctionalアプローチでDOMを走査する話。
-関数呼出を重ねすぎると読みにくくなるので、関数合成的なsequence関数を作ったり、ES6の=>やRest Argumentsの利用などを使ってより小さく書くなどしてる。
+関数呼出を重ねすぎると読みにくくなるので、関数合成的なsequence関数を作ったり、ES6の=&gt;やRest Argumentsの利用などを使ってより小さく書くなどしてる。
 それぞれが関数であるのでテスト等も書きやすい。

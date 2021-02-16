@@ -1,7 +1,7 @@
 ---
 title: >-
-  Polluting and Unused JavaScript Variables don't code today what you can't
-  debug tomorrow
+  Polluting and Unused JavaScript Variables don&#039;t code today what you
+  can&#039;t debug tomorrow
 author: azu
 layout: post
 itemUrl: >-

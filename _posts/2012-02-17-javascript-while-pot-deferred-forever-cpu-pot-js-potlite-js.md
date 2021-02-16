@@ -11,4 +11,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/02/inde
 date: '2012-02-17T05:39:00Z'
 ---
 Pot.js 1.13 、 PotLite.js 1.30 リリース
-"実行環境の CPU に負荷をかけることなく JavaScript が実行できる"ことを目的としてる。
+&quot;実行環境の CPU に負荷をかけることなく JavaScript が実行できる&quot;ことを目的としてる。

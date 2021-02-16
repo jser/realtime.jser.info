@@ -8,4 +8,4 @@ date: '2011-02-14T15:05:00Z'
 ---
 jsPerfでも使われているベンチマーク計測ライブラリ。ブラウザ、コンソール、node.js、Javaアプレット(nano秒対応)とほとんどの環境に対応している。
 JavaScriptのコード速度の比較にはjsPerfが便利です
--[jsPerf: JavaScript performance playground](http://jsperf.com/ "jsPerf: JavaScript performance playground")
+-[jsPerf: JavaScript performance playground](http://jsperf.com/ &quot;jsPerf: JavaScript performance playground&quot;)

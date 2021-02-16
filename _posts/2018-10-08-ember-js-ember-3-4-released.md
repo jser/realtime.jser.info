@@ -14,4 +14,4 @@ relatedLinks:
     url: 'https://github.com/emberjs/ember.js/releases/tag/v3.4.0'
 ---
 Ember 3.4リリース。
-`<Tag />`のようにかぎ括弧で書けるように、Custom Component Managerの機能追加、`component#sendAction`を非推奨化など
+`&lt;Tag /&gt;`のようにかぎ括弧で書けるように、Custom Component Managerの機能追加、`component#sendAction`を非推奨化など

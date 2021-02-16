@@ -1,6 +1,6 @@
 ---
 title: >-
-  theia-ide/theia: Theia is a cloud & desktop IDE framework implemented in
+  theia-ide/theia: Theia is a cloud &amp; desktop IDE framework implemented in
   TypeScript.
 author: azu
 layout: post

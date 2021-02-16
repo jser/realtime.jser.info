@@ -10,7 +10,7 @@ tags:
   - Tools
   - ReleaseNote
 relatedLinks:
-  - title: 'What&#39;s New in Create React App - React Blog'
+  - title: 'What&amp;#39;s New in Create React App - React Blog'
     url: >-
       https://facebook.github.io/react/blog/2017/05/18/whats-new-in-create-react-app.html
 ---

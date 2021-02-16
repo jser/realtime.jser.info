@@ -1,5 +1,5 @@
 ---
-title: 'BDD with JS: Architecture, Tools & Patterns'
+title: 'BDD with JS: Architecture, Tools &amp; Patterns'
 author: azu
 layout: post
 itemUrl: 'http://eamodeorubio.github.io/bdd-with-js/#/'

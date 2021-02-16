@@ -10,7 +10,7 @@ tags:
   - TypeScript
   - ReleaseNote
 relatedLinks:
-  - title: 'What&#39;s new in TypeScript · Microsoft/TypeScript Wiki'
+  - title: 'What&amp;#39;s new in TypeScript · Microsoft/TypeScript Wiki'
     url: >-
       https://github.com/Microsoft/TypeScript/wiki/What%27s-new-in-TypeScript#typescript-20
   - title: TypeScript 2.0 Beta 変更点 - Qiita

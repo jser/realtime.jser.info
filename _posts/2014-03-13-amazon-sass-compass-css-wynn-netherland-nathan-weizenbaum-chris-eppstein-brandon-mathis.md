@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon: Sass&Compass徹底入門 CSSのベストプラクティスを効率よく実現するために [大型本]: Wynn Netherland,
+  Amazon: Sass&amp;Compass徹底入門 CSSのベストプラクティスを効率よく実現するために [大型本]: Wynn Netherland,
   Nathan Weizenbaum, Chris Eppstein, Brandon Mathis, 石本 光司 (株式会社サイバーエージェント),
   株式会社トップスタジオ
 author: azu

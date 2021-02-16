@@ -10,5 +10,5 @@ tags:
   - ReleaseNote
 ---
 Safari Technology Preview 68リリース。
-`<input type="color">`をデフォルトで有効化、`target="_blank"`をデフォルトで`rel=noopener`にする変更。
+`&lt;input type=&quot;color&quot;&gt;`をデフォルトで有効化、`target=&quot;_blank&quot;`をデフォルトで`rel=noopener`にする変更。
 WebRTCでVP8をサポート、WebVTTでのインラインスタイルをサポートなど

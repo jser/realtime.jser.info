@@ -10,7 +10,9 @@ tags:
   - security
   - JavaScript
 relatedLinks:
-  - title: Why you need &quot;cross-origin isolated&quot; for powerful features
+  - title: >-
+      Why you need &amp;quot;cross-origin isolated&amp;quot; for powerful
+      features
     url: 'https://web.dev/why-coop-coep/'
 ---
 FirefoxでSpectreへの対応として無効になっていた`SharedArrayBuffer`が再度利用できるようになる話。

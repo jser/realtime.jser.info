@@ -15,7 +15,7 @@ relatedLinks:
     url: 'http://benjamn.github.io/pivotal-meetup-talk/#/'
 ---
 regeneratorの作者(Facebook社)によるJavaScript ASTによる変換についてのスライド。
-ES6 -> ES5の変換の仕組みやfacebook.com内のコードの置き換えた結果やそこから学んだ事について。
+ES6 -&gt; ES5の変換の仕組みやfacebook.com内のコードの置き換えた結果やそこから学んだ事について。
 変換ツールを運用する際のTipsについても書かれてる。
 React、regeneratorの変換、動作の仕組みについて。
 また何故このような難しいものをサイドプロジェクトとしてやっているのかについて話されてる。

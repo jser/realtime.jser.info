@@ -1,7 +1,7 @@
 ---
 title: >-
-  panva/jose: Universal "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK
-  with no dependencies
+  panva/jose: Universal &quot;JSON Web Almost Everything&quot; - JWA, JWS, JWE,
+  JWT, JWK with no dependencies
 author: azu
 layout: post
 itemUrl: 'https://github.com/panva/jose'

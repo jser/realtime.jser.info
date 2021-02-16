@@ -10,7 +10,7 @@ tags:
   - TypeScript
   - article
 relatedLinks:
-  - title: Upgrading DevTools' architecture to the modern web - YouTube
+  - title: 'Upgrading DevTools&#039; architecture to the modern web - YouTube'
     url: 'https://www.youtube.com/watch?v=BHogHiiyuQk'
 ---
 PuppeteerのコードベースをJavaScriptからTypeScriptの移行するどのように取り組んでいるかについて

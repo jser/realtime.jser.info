@@ -11,7 +11,7 @@ tags:
 relatedLinks:
   - title: >-
       Better streaming layouts for front-end microservices with Tailor -
-      O&#39;Reilly Media
+      O&amp;#39;Reilly Media
     url: >-
       https://www.oreilly.com/ideas/better-streaming-layouts-for-frontend-microservices-with-tailor
 ---

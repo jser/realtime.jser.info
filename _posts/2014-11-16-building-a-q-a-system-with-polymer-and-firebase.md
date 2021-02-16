@@ -1,5 +1,5 @@
 ---
-title: Building a Q&A System With Polymer and Firebase
+title: Building a Q&amp;A System With Polymer and Firebase
 author: azu
 layout: post
 itemUrl: >-
@@ -11,4 +11,4 @@ tags:
   - tutorial
   - WebComponents
 ---
-PolymerとFirebaseを使ったQ&Aシステム作るチュートリアル
+PolymerとFirebaseを使ったQ&amp;Aシステム作るチュートリアル

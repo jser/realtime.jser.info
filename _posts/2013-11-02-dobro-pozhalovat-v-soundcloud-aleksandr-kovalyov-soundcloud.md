@@ -1,5 +1,5 @@
 ---
-title: '"Добро пожаловать в SoundCloud!". Александр Ковалёв, SoundCloud'
+title: '&quot;Добро пожаловать в SoundCloud!&quot;. Александр Ковалёв, SoundCloud'
 author: azu
 layout: post
 itemUrl: 'http://www.slideshare.net/yandex/soundcloud-soundcloud'

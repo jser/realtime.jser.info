@@ -1,5 +1,5 @@
 ---
-title: 'ZEIT – Next.js 5.1: Faster Page Resolution, Environment Config & More'
+title: 'ZEIT – Next.js 5.1: Faster Page Resolution, Environment Config &amp; More'
 author: azu
 layout: post
 itemUrl: 'https://zeit.co/blog/next5-1'

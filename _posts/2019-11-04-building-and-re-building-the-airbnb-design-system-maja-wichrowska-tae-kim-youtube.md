@@ -1,7 +1,7 @@
 ---
 title: >-
-  Building (And Re-Building) the Airbnb Design System | Maja Wichrowska & Tae
-  Kim - YouTube
+  Building (And Re-Building) the Airbnb Design System | Maja Wichrowska &amp;
+  Tae Kim - YouTube
 author: azu
 layout: post
 itemUrl: >-

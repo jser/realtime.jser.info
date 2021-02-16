@@ -11,4 +11,4 @@ tags:
   - ReleaseNote
 ---
 JSHint 2.9.0リリース。
-`esversion`のオプション追加、"use strict"をグローバルか関数かどこに書くかの設定を`strict: global`と指定できるように
+`esversion`のオプション追加、&quot;use strict&quot;をグローバルか関数かどこに書くかの設定を`strict: global`と指定できるように

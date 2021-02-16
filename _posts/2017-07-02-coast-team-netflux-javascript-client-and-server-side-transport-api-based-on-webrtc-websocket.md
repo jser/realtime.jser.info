@@ -1,7 +1,7 @@
 ---
 title: >-
   coast-team/netflux: JavaScript client and server side transport API based on
-  WebRTC & WebSocket
+  WebRTC &amp; WebSocket
 author: azu
 layout: post
 itemUrl: 'https://github.com/coast-team/netflux'

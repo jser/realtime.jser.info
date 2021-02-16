@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 CoffeeScript 1.8.0リリース。
-sourcemapのファイル名が.js.mapに変更、CLIの改善、`require("coffee-script/repl")`をrequire出来るように
+sourcemapのファイル名が.js.mapに変更、CLIの改善、`require(&quot;coffee-script/repl&quot;)`をrequire出来るように

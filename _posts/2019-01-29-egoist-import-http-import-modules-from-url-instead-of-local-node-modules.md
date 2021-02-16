@@ -11,5 +11,5 @@ tags:
   - plugin
   - module
 ---
-ブラウザやdenoのようにmoduleを`import m from "https://"`のように指定するためのwebpack, rollupプラグイン。
+ブラウザやdenoのようにmoduleを`import m from &quot;https://&quot;`のように指定するためのwebpack, rollupプラグイン。
 モジュールのダウンロード、キャッシュ、import先の書き換えを行う。

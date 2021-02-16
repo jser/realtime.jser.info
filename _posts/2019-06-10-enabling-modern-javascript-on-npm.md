@@ -12,5 +12,5 @@ tags:
 ---
 npmにパッケージとして公開するモジュールについて。
 Bundleツールなどの変化によって、Transpile済みのファイルのみを配布すると利用者は最適化ができない問題について。
-`package.json`の`"main"`、`"module"`、`"unpkg"`フィールドと配布するモジュールの形式やパッケージ作者が配布時に気をつける点。
+`package.json`の`&quot;main&quot;`、`&quot;module&quot;`、`&quot;unpkg&quot;`フィールドと配布するモジュールの形式やパッケージ作者が配布時に気をつける点。
 またmicrobundleや`@pika/pack`などのパッケージ配布の補助ツールについてなど

@@ -10,7 +10,9 @@ tags:
   - ECMAScript
   - tutorial
 relatedLinks:
-  - title: 'Web Reflection: What Books Didn''t Tell You About ES5 Descriptors - Part 1'
+  - title: >-
+      Web Reflection: What Books Didn&#039;t Tell You About ES5 Descriptors -
+      Part 1
     url: >-
       http://webreflection.blogspot.jp/2014/03/what-books-wont-tell-you-about-es5.html
   - title: 'ES5, Property Descriptor解説 - 枕を欹てて聴く'

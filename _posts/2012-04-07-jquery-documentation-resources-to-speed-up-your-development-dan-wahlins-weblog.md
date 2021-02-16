@@ -1,7 +1,7 @@
 ---
 title: >-
-  jQuery Documentation Resources to Speed Up Your Development - Dan Wahlin's
-  WebLog
+  jQuery Documentation Resources to Speed Up Your Development - Dan
+  Wahlin&#039;s WebLog
 author: azu
 layout: post
 itemUrl: >-

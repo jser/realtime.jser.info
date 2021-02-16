@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 jQuery 3.2.0リリース。
-`$.css`がCSS Custom Propertyをサポート、transformされた要素の`.width()`、`.height()`の値がおかしい問題を修正、`<template>`要素をサポートなど
+`$.css`がCSS Custom Propertyをサポート、transformされた要素の`.width()`、`.height()`の値がおかしい問題を修正、`&lt;template&gt;`要素をサポートなど

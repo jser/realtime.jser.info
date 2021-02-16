@@ -1,5 +1,5 @@
 ---
-title: Practical Redux · Mark's Dev Blog
+title: 'Practical Redux · Mark&#039;s Dev Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.isquaredsoftware.com/series/practical-redux/'

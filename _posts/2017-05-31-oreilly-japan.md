@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - サーバーレスシングルページアプリケーション
+title: 'O&#039;Reilly Japan - サーバーレスシングルページアプリケーション'
 author: azu
 layout: post
 itemUrl: 'https://www.oreilly.co.jp/books/9784873118062/'

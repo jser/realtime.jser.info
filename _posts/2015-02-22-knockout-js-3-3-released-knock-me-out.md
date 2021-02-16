@@ -14,4 +14,4 @@ relatedLinks:
     url: 'https://github.com/knockout/knockout/releases/tag/v3.3.0'
 ---
 Knockout.js 3.3リリース。
-Componentsの値を変更した時のレンダリングを同期か非同期の設定が可能に、`$component`の追加、computesが"awake"と"sleep"のイベントを通知するように
+Componentsの値を変更した時のレンダリングを同期か非同期の設定が可能に、`$component`の追加、computesが&quot;awake&quot;と&quot;sleep&quot;のイベントを通知するように

@@ -1,5 +1,5 @@
 ---
-title: 'JavaScript: The Definitive Guide, 7th Edition - O''Reilly Media'
+title: 'JavaScript: The Definitive Guide, 7th Edition - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920048633.do'

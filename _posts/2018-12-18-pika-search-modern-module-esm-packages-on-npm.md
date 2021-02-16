@@ -17,5 +17,5 @@ relatedLinks:
     url: 'https://www.pikapkg.com/about/'
 ---
 ECMAScriptモジュールに対応したnpmパッケージを検索できるウェブサービス。
-"module"フィールドに対応しているパッケージを検索できる。
+&quot;module&quot;フィールドに対応しているパッケージを検索できる。
 

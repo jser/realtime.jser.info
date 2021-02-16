@@ -9,5 +9,5 @@ tags:
   - JavaScript
   - library
 ---
-D&Dで要素を動かせるsortableライブラリ。
+D&amp;Dで要素を動かせるsortableライブラリ。
 jQuery等の依存がないライブラリ

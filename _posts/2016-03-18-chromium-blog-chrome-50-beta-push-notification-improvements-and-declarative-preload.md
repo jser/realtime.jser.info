@@ -20,4 +20,4 @@ relatedLinks:
     url: 'https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/'
 ---
 Chrome 50 Betaリリース。
-`<link rel='preload'>`、`HTMLCanvasElement.toBlob()`のサポート、iframeのsandbox属性値がサポートされているかを判定出来るように、`Document.defaultCharset`を削除など
+`&lt;link rel=&#039;preload&#039;&gt;`、`HTMLCanvasElement.toBlob()`のサポート、iframeのsandbox属性値がサポートされているかを判定出来るように、`Document.defaultCharset`を削除など

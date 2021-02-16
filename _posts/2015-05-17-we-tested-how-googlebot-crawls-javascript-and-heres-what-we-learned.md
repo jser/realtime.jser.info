@@ -1,5 +1,5 @@
 ---
-title: We Tested How Googlebot Crawls Javascript And Here's What We Learned
+title: 'We Tested How Googlebot Crawls Javascript And Here&#039;s What We Learned'
 author: azu
 layout: post
 itemUrl: >-

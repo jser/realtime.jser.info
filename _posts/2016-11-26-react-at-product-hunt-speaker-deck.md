@@ -13,5 +13,5 @@ relatedLinks:
     url: 'https://github.com/producthunt/duxy'
 ---
 ProductHuntのJavaScript変遷についてのスライド。
-jQuery -> Backbone -> React + Redux。
+jQuery -&gt; Backbone -&gt; React + Redux。
 Duxyを使ったRest APIの操作についてなど

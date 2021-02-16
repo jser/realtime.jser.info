@@ -1,5 +1,7 @@
 ---
-title: WebStorm & PhpStorm Blog » Blog Archive » 50% OFF personal WebStorm licenses
+title: >-
+  WebStorm &amp; PhpStorm Blog » Blog Archive » 50% OFF personal WebStorm
+  licenses
 author: azu
 layout: post
 itemUrl: >-

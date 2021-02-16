@@ -14,4 +14,4 @@ relatedLinks:
   - title: Shape Security
     url: 'https://github.com/shapesecurity'
 ---
-SpiderMonkey ASTは内部表現として始まったので、ツールから扱いにくい部分やES6のサポートの問題がでてきた。 "Shift"プロジェクトではそのASTの仕様策定、パーサ、ジェネレータ、バリデータ、SpiderMonkey ASTからの変換ツール、Javaの実装などが公開されている。
+SpiderMonkey ASTは内部表現として始まったので、ツールから扱いにくい部分やES6のサポートの問題がでてきた。 &quot;Shift&quot;プロジェクトではそのASTの仕様策定、パーサ、ジェネレータ、バリデータ、SpiderMonkey ASTからの変換ツール、Javaの実装などが公開されている。

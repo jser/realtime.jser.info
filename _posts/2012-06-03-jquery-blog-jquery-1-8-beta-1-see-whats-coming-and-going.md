@@ -11,4 +11,4 @@ jQuery 1.8β1リリース.
 Gruntを使ったカスタムビルド
 https://github.com/jquery/jquery#how-to-build-your-own-jquery
 $.cssのベンダープレフィックス対応、jQuery.Animation、Sizzleのパフォーマンス改善。
-$()で文字列からのタグ作成の代わりに$.parseHTMLを導入、1.9からは$()は意図しないHTMLタグの生成を防止するため<で始まらない場合はセレクタとして認識される。
+$()で文字列からのタグ作成の代わりに$.parseHTMLを導入、1.9からは$()は意図しないHTMLタグの生成を防止するため&lt;で始まらない場合はセレクタとして認識される。

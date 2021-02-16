@@ -16,4 +16,4 @@ relatedLinks:
     url: 'https://github.com/tc39/proposal-global/issues/20'
 ---
 Safari Technology Preview Release 21リリース。
-Concurrent GCの有効化、`<script type="module">`の有効化、`global`のサポートされたがbreak the webのためbackoutなど
+Concurrent GCの有効化、`&lt;script type=&quot;module&quot;&gt;`の有効化、`global`のサポートされたがbreak the webのためbackoutなど

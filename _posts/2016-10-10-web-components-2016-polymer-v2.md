@@ -1,5 +1,5 @@
 ---
-title: Web Components 2016 & Polymer v2
+title: Web Components 2016 &amp; Polymer v2
 author: azu
 layout: post
 itemUrl: 'https://1000ch.github.io/slide/webcomponents-2016/'

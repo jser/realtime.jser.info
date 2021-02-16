@@ -15,4 +15,4 @@ relatedLinks:
       https://tc39.github.io/ecma262/#sec-arrow-function-definitions-static-semantics-early-errors
 ---
 Safari Technology Preview 10リリース。
-`**`のサポート、"use strict"の挙動を仕様へ追従、DOMTokenListがiterableに、nullを空文字として扱うように色々なAPIを修正など
+`**`のサポート、&quot;use strict&quot;の挙動を仕様へ追従、DOMTokenListがiterableに、nullを空文字として扱うように色々なAPIを修正など

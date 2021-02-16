@@ -10,10 +10,10 @@ tags:
   - Tools
   - ReleaseNote
 relatedLinks:
-  - title: 'What''s new in JSHint (December, 2013)'
+  - title: 'What&#039;s new in JSHint (December, 2013)'
     url: 'http://www.jshint.com/blog/new-in-jshint-dec-2013/'
 ---
 JSHint 2.4.0リリース.
-ES6の =>やletなどのサポート改善、バグ修正中心.
-"extends"で分離した設定ファイルを取り込めるように
+ES6の =&gt;やletなどのサポート改善、バグ修正中心.
+&quot;extends&quot;で分離した設定ファイルを取り込めるように
 https://github.com/jshint/jshint/pull/1314

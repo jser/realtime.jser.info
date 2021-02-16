@@ -1,7 +1,7 @@
 ---
 title: >-
   BDD + Alpaca-Webkit = headless acceptance test framework for PHP web
-  application. - chobi_e's blog
+  application. - chobi_e&#039;s blog
 author: azu
 layout: post
 itemUrl: 'http://chobie.hatenablog.com/entry/2012/03/18/220103'

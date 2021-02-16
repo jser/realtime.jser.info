@@ -1,5 +1,5 @@
 ---
-title: Idiomatic Redux · Mark's Dev Blog
+title: 'Idiomatic Redux · Mark&#039;s Dev Blog'
 author: azu
 layout: post
 itemUrl: 'http://blog.isquaredsoftware.com/series/idiomatic-redux/'

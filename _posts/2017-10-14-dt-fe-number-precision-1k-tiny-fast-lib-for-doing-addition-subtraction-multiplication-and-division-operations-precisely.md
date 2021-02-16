@@ -1,6 +1,6 @@
 ---
 title: >-
-  dt-fe/number-precision: :rocket:1K tiny & fast lib for doing addition,
+  dt-fe/number-precision: :rocket:1K tiny &amp; fast lib for doing addition,
   subtraction, multiplication and division operations precisely
 author: azu
 layout: post

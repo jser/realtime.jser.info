@@ -1,6 +1,6 @@
 ---
 title: >-
-  javascript - What does Douglas Crockford mean when he says jQuery doesn't
+  javascript - What does Douglas Crockford mean when he says jQuery doesn&#039;t
   scale? - Programmers - Stack Exchange
 author: azu
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: Matt's DOM Utils (Utils)
+title: 'Matt&#039;s DOM Utils (Utils)'
 author: azu
 layout: post
 itemUrl: 'http://www.fortybelow.ca/Projects/JavaScript/Utils/'

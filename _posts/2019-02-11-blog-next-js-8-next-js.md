@@ -12,4 +12,4 @@ tags:
 ---
 Next.js 8リリース。
 Serverlessモードの追加、ビルド時のメモリ使用量改善、`env`で環境変数を定義できるように、出力するHTMLファイルサイズの改善。
-`<Head>`コンポーネントの重複の解決、`crossOrigin`オプションの追加、CSP対応など
+`&lt;Head&gt;`コンポーネントの重複の解決、`crossOrigin`オプションの追加、CSP対応など

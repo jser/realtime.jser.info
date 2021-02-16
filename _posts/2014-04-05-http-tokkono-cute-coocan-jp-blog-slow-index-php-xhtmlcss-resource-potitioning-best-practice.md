@@ -17,5 +17,5 @@ relatedLinks:
     url: 'http://furoshiki.hatenadiary.jp/entry/2013/06/27/052327'
 ---
 script要素の場所と`async`と`defer`属性について。
-style要素、img要素とDOM構築の関係、`</body>`直前での読み込みとFOUC。
+style要素、img要素とDOM構築の関係、`&lt;/body&gt;`直前での読み込みとFOUC。
 読み込みを実験出来るサイトについて

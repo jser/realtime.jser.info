@@ -1,5 +1,5 @@
 ---
-title: 'Amazon: Html & Css in Simple Steps: Josh Hill'
+title: 'Amazon: Html &amp; Css in Simple Steps: Josh Hill'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0273762583/book042-22/ref=nosim'

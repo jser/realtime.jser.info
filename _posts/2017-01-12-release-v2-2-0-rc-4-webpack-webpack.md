@@ -10,8 +10,8 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      2.2.0-rc.4&#39;s es6 modules&#39; &#34;module&#34; usage detection seems
-      to be broken · Issue #3917 · webpack/webpack
+      2.2.0-rc.4&amp;#39;s es6 modules&amp;#39; &amp;#34;module&amp;#34; usage
+      detection seems to be broken · Issue #3917 · webpack/webpack
     url: 'https://github.com/webpack/webpack/issues/3917'
 ---
 webpack 2.2.0 RC4リリース。

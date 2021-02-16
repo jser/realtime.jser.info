@@ -1,5 +1,5 @@
 ---
-title: Release v2.3.0 JoJo's Bizarre Adventure · vuejs/vue
+title: 'Release v2.3.0 JoJo&#039;s Bizarre Adventure · vuejs/vue'
 author: azu
 layout: post
 itemUrl: 'https://github.com/vuejs/vue/releases/tag/v2.3.0'

@@ -12,4 +12,4 @@ tags:
 `let {} = {};` がES6でvalidであるというのは混乱を起こすのではという話。
 現在、EMCAScript仕様のIssueとして修正するべきかが議論されている。
 
-- [Destructuring declarations that bind nothing should probably be an early error · Issue #97 · tc39/ecma262](https://github.com/tc39/ecma262/issues/97 "Destructuring declarations that bind nothing should probably be an early error · Issue #97 · tc39/ecma262")
+- [Destructuring declarations that bind nothing should probably be an early error · Issue #97 · tc39/ecma262](https://github.com/tc39/ecma262/issues/97 &quot;Destructuring declarations that bind nothing should probably be an early error · Issue #97 · tc39/ecma262&quot;)

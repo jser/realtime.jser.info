@@ -10,4 +10,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/07/inde
 date: '2012-07-10T15:00:00Z'
 ---
 IE10でのXHRのreponseXMLについて。
-responseXMLでネイティブのdocumentが返るように、またresponseType = 'document'と'msxml-document'についての説明
+responseXMLでネイティブのdocumentが返るように、またresponseType = &#039;document&#039;と&#039;msxml-document&#039;についての説明

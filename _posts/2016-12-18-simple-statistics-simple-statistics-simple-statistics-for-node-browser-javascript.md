@@ -1,6 +1,6 @@
 ---
 title: >-
-  simple-statistics/simple-statistics: simple statistics for node & browser
+  simple-statistics/simple-statistics: simple statistics for node &amp; browser
   javascript
 author: azu
 layout: post

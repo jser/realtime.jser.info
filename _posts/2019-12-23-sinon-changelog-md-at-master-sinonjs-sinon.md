@@ -13,8 +13,8 @@ tags:
 relatedLinks:
   - title: >-
       sinonjs/lolex: Fake setTimeout and friends (collectively known as
-      &quot;timers&quot;). Useful in your JavaScript tests. Extracted from
-      Sinon.JS
+      &amp;quot;timers&amp;quot;). Useful in your JavaScript tests. Extracted
+      from Sinon.JS
     url: 'https://github.com/sinonjs/lolex'
 ---
 Sinon.js 8.0.0リリース。

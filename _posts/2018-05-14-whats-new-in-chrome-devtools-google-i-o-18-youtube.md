@@ -1,5 +1,5 @@
 ---
-title: What's new in Chrome DevTools (Google I/O '18) - YouTube
+title: 'What&#039;s new in Chrome DevTools (Google I/O &#039;18) - YouTube'
 author: azu
 layout: post
 itemUrl: 'https://www.youtube.com/watch?v=mfuE53x4b3k&feature=youtu.be'

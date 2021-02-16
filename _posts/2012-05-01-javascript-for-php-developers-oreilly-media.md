@@ -1,5 +1,5 @@
 ---
-title: JavaScript for PHP Developers - O'Reilly Media
+title: 'JavaScript for PHP Developers - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920023982.do'

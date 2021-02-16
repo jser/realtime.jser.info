@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon: TypeScript実践プログラミング (Programmer's SELECTION): スティーブ・フェントン, 鈴木 幸敏,
+  Amazon: TypeScript実践プログラミング (Programmer&#039;s SELECTION): スティーブ・フェントン, 鈴木 幸敏,
   株式会社クイープ
 author: azu
 layout: post

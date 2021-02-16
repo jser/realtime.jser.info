@@ -1,5 +1,5 @@
 ---
-title: Svelte <3 TypeScript
+title: Svelte &lt;3 TypeScript
 author: azu
 layout: post
 itemUrl: 'https://svelte.dev/blog/svelte-and-typescript'

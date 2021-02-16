@@ -7,5 +7,5 @@ itemUrl: >-
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/11/index.json'
 date: '2012-11-21T01:40:00Z'
 ---
-" Canonicalization in JavaScript"
+&quot; Canonicalization in JavaScript&quot;
 instance === instance;// true にするには

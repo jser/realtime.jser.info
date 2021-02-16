@@ -1,5 +1,5 @@
 ---
-title: WebStorm 4.0 in Harmony with ECMAScript | WebStorm & PhpStorm Blog
+title: WebStorm 4.0 in Harmony with ECMAScript | WebStorm &amp; PhpStorm Blog
 author: azu
 layout: post
 itemUrl: >-

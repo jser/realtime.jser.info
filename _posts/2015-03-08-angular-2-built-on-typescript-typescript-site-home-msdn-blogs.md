@@ -12,7 +12,7 @@ tags:
 ---
 TypeScriptにアノテーションを実装していく方針になったのでAtScript自体はなくなるという話。
 
-[Welcome Brad Green and Igor Minar - YouTube](https://www.youtube.com/watch?v=QHulaj5ZxbI "Welcome Brad Green and Igor Minar - YouTube") の 20:00ぐらいからAtScriptの今後についての話。
+[Welcome Brad Green and Igor Minar - YouTube](https://www.youtube.com/watch?v=QHulaj5ZxbI &quot;Welcome Brad Green and Igor Minar - YouTube&quot;) の 20:00ぐらいからAtScriptの今後についての話。
 
 既にアノテーションのissueがあるがこれがどうかは分からない。
 https://github.com/Microsoft/TypeScript/issues/1557

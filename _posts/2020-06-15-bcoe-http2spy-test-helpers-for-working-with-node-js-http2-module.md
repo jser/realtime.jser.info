@@ -1,5 +1,5 @@
 ---
-title: 'bcoe/http2spy: test helpers for working with Node.js'' http2 module'
+title: 'bcoe/http2spy: test helpers for working with Node.js&#039; http2 module'
 author: azu
 layout: post
 itemUrl: 'https://github.com/bcoe/http2spy'

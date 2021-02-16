@@ -10,6 +10,6 @@ tags:
   - ReleaseNote
 ---
 Chrome 80リリース。
-WebWorkerで`type:"module"`のサポート、Optional Chainingのサポート。
+WebWorkerで`type:&quot;module&quot;`のサポート、Optional Chainingのサポート。
 またOrigin TrialとしてContact Picker API、Notification triggers、Web Serialのサポートなど
 

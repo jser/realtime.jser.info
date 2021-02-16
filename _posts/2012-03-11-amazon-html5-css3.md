@@ -1,5 +1,5 @@
 ---
-title: '『Amazon: 新標準HTML5 & CSS3辞典 [大型本]: 大月宇美, 古籏一浩』'
+title: '『Amazon: 新標準HTML5 &amp; CSS3辞典 [大型本]: 大月宇美, 古籏一浩』'
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.co.jp/o/ASIN/4844331752/book042-22/ref=nosim'

@@ -15,4 +15,4 @@ relatedLinks:
     url: 'https://www.youtube.com/watch?v=y5sb-icqOyg'
 ---
 Chrome 64の変更点について
-`ResizeObservers`、RegExpのNamed Capture、`import.meta`のサポート。`<video>`や`<audio>`の`preload`属性のデフォルト値が`metadata`へと変更など
+`ResizeObservers`、RegExpのNamed Capture、`import.meta`のサポート。`&lt;video&gt;`や`&lt;audio&gt;`の`preload`属性のデフォルト値が`metadata`へと変更など

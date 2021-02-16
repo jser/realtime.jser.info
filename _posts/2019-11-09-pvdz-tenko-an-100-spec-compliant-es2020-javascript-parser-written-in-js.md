@@ -13,7 +13,7 @@ relatedLinks:
   - title: 'pvdz/zeparser2: Next version of my JS (ES5) parser'
     url: 'https://github.com/pvdz/zeparser2'
   - title: >-
-      pvdz/zeparser3: ZeParser3 was renamed to Tenko ->
+      pvdz/zeparser3: ZeParser3 was renamed to Tenko -&gt;
       https://github.com/pvdz/tenko
     url: 'https://github.com/pvdz/zeparser3'
 ---

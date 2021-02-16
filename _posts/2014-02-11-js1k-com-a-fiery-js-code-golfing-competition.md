@@ -9,7 +9,7 @@ tags:
   - JavaScript
   - Conference
 relatedLinks:
-  - title: 'Twitter / js1k: Announcing JS1k 2014: "Here ...'
+  - title: 'Twitter / js1k: Announcing JS1k 2014: &quot;Here ...'
     url: 'https://twitter.com/js1k/status/430812732028227584'
 ---
 コードゴルフ大会のJS1k 2014が開催

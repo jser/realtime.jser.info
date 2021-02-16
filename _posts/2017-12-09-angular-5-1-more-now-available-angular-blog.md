@@ -1,5 +1,5 @@
 ---
-title: Angular 5.1 & More Now Available – Angular Blog
+title: Angular 5.1 &amp; More Now Available – Angular Blog
 author: azu
 layout: post
 itemUrl: 'https://blog.angular.io/angular-5-1-more-now-available-27d372f5eb4e'

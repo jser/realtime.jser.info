@@ -1,8 +1,8 @@
 ---
 title: >-
   adobe/ferrum: Features from the rust language in javascript: Provides
-  Traits/Type classes & an advanced library for working with sequences/iterators
-  in js
+  Traits/Type classes &amp; an advanced library for working with
+  sequences/iterators in js
 author: azu
 layout: post
 itemUrl: 'https://github.com/adobe/ferrum'

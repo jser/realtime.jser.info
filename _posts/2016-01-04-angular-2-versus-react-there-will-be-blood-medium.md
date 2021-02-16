@@ -12,6 +12,6 @@ tags:
 ---
 AngularJSとReactの対比。
 
-> Angular 2 continues to put “JS” into HTML. React puts “HTML” into JS.
+&gt; Angular 2 continues to put “JS” into HTML. React puts “HTML” into JS.
 
 

@@ -15,7 +15,7 @@ relatedLinks:
     url: 'https://nodejs.medium.com/node-js-v15-0-0-is-here-deb00750f278'
   - title: Node.js v15 の主な変更点 - 別にしんどくないブログ
     url: 'https://shisama.hatenablog.com/entry/2020/10/21/004612'
-  - title: 10月20日にメジャーアップデートとしてリリースされたNode.js v15の紹介 | watilde's blog
+  - title: '10月20日にメジャーアップデートとしてリリースされたNode.js v15の紹介 | watilde&#039;s blog'
     url: 'https://blog.watilde.com/2020/10/20/node-js-v15/'
   - title: >-
       Node.js 15 release: Updated handling of rejections, npm 7, N-API Version

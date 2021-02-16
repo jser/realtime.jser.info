@@ -1,5 +1,5 @@
 ---
-title: theheadless.dev - Learn Puppeteer & Playwright
+title: theheadless.dev - Learn Puppeteer &amp; Playwright
 author: azu
 layout: post
 itemUrl: 'https://theheadless.dev/'

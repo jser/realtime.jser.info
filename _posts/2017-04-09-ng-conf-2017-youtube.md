@@ -12,7 +12,9 @@ tags:
 relatedLinks:
   - title: ng-conf 2017 Summary - Day 1
     url: 'https://auth0.com/blog/ngconf2017-summary-day1/'
-  - title: 'ng-conf 2017 1日目 Keynoteメモ | &lt;output type=&#34;laco&#34;&gt;'
+  - title: >-
+      ng-conf 2017 1日目 Keynoteメモ | &amp;lt;output
+      type=&amp;#34;laco&amp;#34;&amp;gt;
     url: 'https://blog.lacolaco.net/post/ng-conf-2017-day-1-note/'
   - title: Long Term Support for Angular Announced at ng-conf 2017
     url: 'https://www.infoq.com/news/2017/04/ng-conf-2017-keynote'

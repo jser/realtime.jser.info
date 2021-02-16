@@ -11,4 +11,4 @@ tags:
   - DOM
 ---
 DOM lessな実装をしてればWeb Workerでも動かせる。
-FluxをベースにStore->View、View->ActionをpostMessageでやりとりすることで、View以外をWeb Worker上で処理できるという話
+FluxをベースにStore-&gt;View、View-&gt;ActionをpostMessageでやりとりすることで、View以外をWeb Worker上で処理できるという話

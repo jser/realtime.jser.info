@@ -10,11 +10,11 @@ tags:
   - ReleaseNote
 relatedLinks:
   - title: >-
-      azu on Twitter: &quot;Safari TP 70でHTTPなサイトに&quot;Not
-      Secure&quot;表示が出るようになった... &quot;
+      azu on Twitter: &amp;quot;Safari TP 70でHTTPなサイトに&amp;quot;Not
+      Secure&amp;quot;表示が出るようになった... &amp;quot;
     url: 'https://twitter.com/azu_re/status/1063247013905481728'
 ---
 Safari Technology Preview 70リリース。
-HTTPなサイトに"Not Secure"表示が出るように変更。
+HTTPなサイトに&quot;Not Secure&quot;表示が出るように変更。
 
 Web AnimationsとIntersection Observerの対応改善、IndexedDBのデフォルトの最大容量が500MBに制限など

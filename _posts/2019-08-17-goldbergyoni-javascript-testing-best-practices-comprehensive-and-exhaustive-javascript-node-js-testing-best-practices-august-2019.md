@@ -2,7 +2,7 @@
 title: >-
   goldbergyoni/javascript-testing-best-practices:
   :green_book::globe_with_meridians: :ship: Comprehensive and exhaustive
-  JavaScript & Node.js testing best practices (August 2019)
+  JavaScript &amp; Node.js testing best practices (August 2019)
 author: azu
 layout: post
 itemUrl: 'https://github.com/goldbergyoni/javascript-testing-best-practices'

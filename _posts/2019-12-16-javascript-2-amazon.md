@@ -1,7 +1,7 @@
 ---
 title: >-
-  [モダンJavaScript&ゲームで2倍楽しい]グラフィックスプログラミング入門 ——リアルタイムに動く画面を描く。開発者直伝の基本 | 杉本 雅広 |本
-  | 通販 | Amazon
+  [モダンJavaScript&amp;ゲームで2倍楽しい]グラフィックスプログラミング入門 ——リアルタイムに動く画面を描く。開発者直伝の基本 | 杉本
+  雅広 |本 | 通販 | Amazon
 author: azu
 layout: post
 itemUrl: 'https://www.amazon.co.jp/dp/4297110857/'

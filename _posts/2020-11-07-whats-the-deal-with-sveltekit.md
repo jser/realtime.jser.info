@@ -1,5 +1,5 @@
 ---
-title: What's the deal with SvelteKit?
+title: 'What&#039;s the deal with SvelteKit?'
 author: azu
 layout: post
 itemUrl: 'https://svelte.dev/blog/whats-the-deal-with-sveltekit'

@@ -1,5 +1,5 @@
 ---
-title: 『design patterns | Joe Zim's JS Blog』
+title: '『design patterns | Joe Zim&#039;s JS Blog』'
 author: azu
 layout: post
 itemUrl: 'http://www.joezimjs.com/tag/design-patterns/'

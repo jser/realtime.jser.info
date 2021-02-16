@@ -13,7 +13,7 @@ tags:
 relatedLinks:
   - title: >-
       Amazon | Modern JavaScript for the Impatient (English Edition) [Kindle
-      edition] by Horstmann, Cay S. | Languages & Tools | Kindleストア
+      edition] by Horstmann, Cay S. | Languages &amp; Tools | Kindleストア
     url: 'https://www.amazon.co.jp/dp/B08F5HFWBH/'
 ---
 2020年12月21日発売

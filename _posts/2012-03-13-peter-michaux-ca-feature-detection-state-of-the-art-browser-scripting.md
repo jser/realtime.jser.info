@@ -8,4 +8,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-13T17:20:00Z'
 ---
 ECMAScript仕様のネイティブオブジェクトとブラウザが提供してるホストオブジェクトについて。(2008)
-ホストオブジェクトのFeature detectやIEがtypeofで返す謎の"unknown"についても書かれている
+ホストオブジェクトのFeature detectやIEがtypeofで返す謎の&quot;unknown&quot;についても書かれている

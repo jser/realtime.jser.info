@@ -1,5 +1,5 @@
 ---
-title: 『Developing Backbone.js Applications - O'Reilly Media』
+title: '『Developing Backbone.js Applications - O&#039;Reilly Media』'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920025344.do'

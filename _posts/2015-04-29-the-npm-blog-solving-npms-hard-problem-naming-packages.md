@@ -11,4 +11,4 @@ tags:
   - node.js
 ---
 scoped moduleを private modules として登録する場合は有料だが、無料でpublicとして公開する事ができるという話。
-@<user>/<package name>という感じで名前空間を作れることが可能になる
+@&lt;user&gt;/&lt;package name&gt;という感じで名前空間を作れることが可能になる

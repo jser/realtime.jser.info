@@ -1,5 +1,5 @@
 ---
-title: 'Angular Test-Driven Development, 2nd Edition - O''Reilly Media'
+title: 'Angular Test-Driven Development, 2nd Edition - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/9781786465474.do'

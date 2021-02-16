@@ -12,8 +12,8 @@ tags:
   - Tools
 relatedLinks:
   - title: >-
-      Frameworks without the framework: why didn&#39;t we think of this sooner?
-      • Svelte
+      Frameworks without the framework: why didn&amp;#39;t we think of this
+      sooner? • Svelte
     url: 'https://svelte.technology/blog/frameworks-without-the-framework/'
 ---
 Vueなどに似た書き方をするコンパイル前提のUIフレームワーク。

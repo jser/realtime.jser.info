@@ -1,5 +1,5 @@
 ---
-title: Announcing "Learning Aurelia" from Packt Publishing
+title: Announcing &quot;Learning Aurelia&quot; from Packt Publishing
 author: azu
 layout: post
 itemUrl: >-

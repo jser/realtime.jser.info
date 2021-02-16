@@ -1,5 +1,5 @@
 ---
-title: 'React: Up & Running - O''Reilly Media'
+title: 'React: Up &amp; Running - O&#039;Reilly Media'
 author: azu
 layout: post
 itemUrl: 'http://shop.oreilly.com/product/0636920042266.do'

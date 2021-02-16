@@ -1,5 +1,5 @@
 ---
-title: '『JavaScriptコードのメトリクス測定 - WebService::Blog->new( user => ’hide_o_55’ )』'
+title: '『JavaScriptコードのメトリクス測定 - WebService::Blog-&gt;new( user =&gt; ’hide_o_55’ )』'
 author: azu
 layout: post
 itemUrl: 'http://d.hatena.ne.jp/hide_o_55/20111116/1321377630'

@@ -13,5 +13,5 @@ relatedLinks:
     url: 'https://developer.mozilla.org/docs/Mozilla/Firefox/Releases/84'
 ---
 Firefox 84リリース。
-Accessiblity Inspectorに"Tabbing Order"の表示を追加、`PerformancePaintTiming`のサポート。
+Accessiblity Inspectorに&quot;Tabbing Order&quot;の表示を追加、`PerformancePaintTiming`のサポート。
 AppCacheの削除、`http://localhost`などのループバックアドレスから読まれたリソースをMixed Contentとして扱わないように変更など

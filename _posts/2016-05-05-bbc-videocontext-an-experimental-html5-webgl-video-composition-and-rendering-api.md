@@ -1,6 +1,6 @@
 ---
 title: >-
-  bbc/VideoContext: An experimental HTML5 & WebGL video composition and
+  bbc/VideoContext: An experimental HTML5 &amp; WebGL video composition and
   rendering API.
 author: azu
 layout: post

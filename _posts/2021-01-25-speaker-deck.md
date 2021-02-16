@@ -12,7 +12,7 @@ tags:
 relatedLinks:
   - title: 'keiya01/kamaitachi: `kamaitachi` is a simple browser.'
     url: 'https://github.com/keiya01/kamaitachi'
-  - title: 'Let''s build a browser engine! Part 1: Getting started'
+  - title: 'Let&#039;s build a browser engine! Part 1: Getting started'
     url: 'https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html'
 ---
-Let's build a browser engine!を参考にブラウザのレンダリングエンジンを作りながら、どのようにHTMLやCSSのパースからレンダリングしているのかという話
+Let&#039;s build a browser engine!を参考にブラウザのレンダリングエンジンを作りながら、どのようにHTMLやCSSのパースからレンダリングしているのかという話

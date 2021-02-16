@@ -14,7 +14,7 @@ tags:
   - library
 relatedLinks:
   - title: >-
-      What's the difference from virtual dom libraries? · Issue #21 ·
+      What&#039;s the difference from virtual dom libraries? · Issue #21 ·
       trueadm/inferno
     url: 'https://github.com/trueadm/inferno/issues/21'
 ---

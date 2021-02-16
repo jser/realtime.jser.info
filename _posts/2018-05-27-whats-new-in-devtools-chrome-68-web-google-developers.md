@@ -1,5 +1,5 @@
 ---
-title: What's New In DevTools (Chrome 68)  |  Web  |  Google Developers
+title: 'What&#039;s New In DevTools (Chrome 68)  |  Web  |  Google Developers'
 author: azu
 layout: post
 itemUrl: 'https://developers.google.com/web/updates/2018/05/devtools'
@@ -11,4 +11,4 @@ tags:
   - article
 ---
 Chrome 68の開発者ツールの変更点について。
-Eaget Evaluation、補完の改善、Lighthouse 3.0への更新、"Add property path wo wath"の追加など
+Eaget Evaluation、補完の改善、Lighthouse 3.0への更新、&quot;Add property path wo wath&quot;の追加など

@@ -1,7 +1,7 @@
 ---
 title: >-
   aadsm/jschardet: Character encoding auto-detection in JavaScript (port of
-  python's chardet)
+  python&#039;s chardet)
 author: azu
 layout: post
 itemUrl: 'https://github.com/aadsm/jschardet'

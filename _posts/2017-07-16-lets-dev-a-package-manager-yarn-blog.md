@@ -1,5 +1,5 @@
 ---
-title: 'Let''s Dev: A Package Manager | Yarn Blog'
+title: 'Let&#039;s Dev: A Package Manager | Yarn Blog'
 author: azu
 layout: post
 itemUrl: 'https://yarnpkg.com/blog/2017/07/11/lets-dev-a-package-manager/'

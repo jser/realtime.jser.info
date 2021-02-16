@@ -1,5 +1,5 @@
 ---
-title: <link rel=”prefetch/preload”> in webpack – webpack – Medium
+title: '&lt;link rel=”prefetch/preload”&gt; in webpack – webpack – Medium'
 author: azu
 layout: post
 itemUrl: 'https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c'
@@ -10,5 +10,5 @@ tags:
   - article
   - performance
 ---
-webpack 4.6.0でサポートされた `import(/* webpackPrefetch: true */ "module")`について。
+webpack 4.6.0でサポートされた `import(/* webpackPrefetch: true */ &quot;module&quot;)`について。
 chunkとprefetch/preloadの制御を行うマジックコメント

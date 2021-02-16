@@ -9,6 +9,6 @@ tags:
   - CSS
   - Tools
 ---
-> A CSS linter for immutable selectors.
+&gt; A CSS linter for immutable selectors.
 
 セレクタのoverrideをチェックするLintツール

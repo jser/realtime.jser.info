@@ -8,4 +8,4 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2012/03/inde
 date: '2012-03-15T15:20:00Z'
 ---
 strict modeの機能紹介
-"keep in mind that one of the goals of strict mode is to allow for faster debugging of issues."
+&quot;keep in mind that one of the goals of strict mode is to allow for faster debugging of issues.&quot;

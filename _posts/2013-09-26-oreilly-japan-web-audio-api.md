@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - Web Audio API
+title: 'O&#039;Reilly Japan - Web Audio API'
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873116419/'

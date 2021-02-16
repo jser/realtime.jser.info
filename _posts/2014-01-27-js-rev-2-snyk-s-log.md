@@ -11,7 +11,7 @@ tags:
 relatedLinks:
   - title: >-
       addEventListener, handleEvent and passing objects | The CSS Ninja - All
-      things CSS, JavaScript & HTML
+      things CSS, JavaScript &amp; HTML
     url: 'http://www.thecssninja.com/javascript/handleevent'
   - title: >-
       イベントハンドリングなら handleEvent を使えば、Function#bind や $.proxy はたぶん要らない - latest

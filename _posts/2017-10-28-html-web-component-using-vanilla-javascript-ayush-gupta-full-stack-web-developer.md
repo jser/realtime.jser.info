@@ -13,4 +13,4 @@ tags:
   - article
 ---
 Web Components入門記事。
-`<user-card />`というデータを取得して表示する要素を例にCustom Elementのライフサイクル、template要素、ShadowDOMについて紹介している
+`&lt;user-card /&gt;`というデータを取得して表示する要素を例にCustom Elementのライフサイクル、template要素、ShadowDOMについて紹介している

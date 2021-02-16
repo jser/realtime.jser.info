@@ -1,5 +1,5 @@
 ---
-title: 'Creating interactive graphs with SVG, Part 1 - Roemer''s blog'
+title: 'Creating interactive graphs with SVG, Part 1 - Roemer&#039;s blog'
 author: azu
 layout: post
 itemUrl: >-

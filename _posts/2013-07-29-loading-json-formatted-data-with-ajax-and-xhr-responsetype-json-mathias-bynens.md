@@ -1,7 +1,7 @@
 ---
 title: >-
-  Loading JSON-formatted data with Ajax and xhr.responseType='json' · Mathias
-  Bynens
+  Loading JSON-formatted data with Ajax and xhr.responseType=&#039;json&#039; ·
+  Mathias Bynens
 author: azu
 layout: post
 itemUrl: 'http://mathiasbynens.be/notes/xhr-responsetype-json'
@@ -11,4 +11,4 @@ tags:
   - XHR
   - JSON
 ---
-XHRのresponsetype="json"について
+XHRのresponsetype=&quot;json&quot;について

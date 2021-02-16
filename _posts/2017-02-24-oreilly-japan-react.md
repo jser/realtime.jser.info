@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - Reactビギナーズガイド
+title: 'O&#039;Reilly Japan - Reactビギナーズガイド'
 author: azu
 layout: post
 itemUrl: 'http://www.oreilly.co.jp/books/9784873117881/'
@@ -10,4 +10,4 @@ tags:
   - book
 ---
 2017年03月11日発売
-React: Up & Runningの翻訳本
+React: Up &amp; Runningの翻訳本

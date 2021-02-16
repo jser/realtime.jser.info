@@ -1,8 +1,8 @@
 ---
 title: >-
   『Amazon: jQuery, jQuery UI, and jQuery Mobile: Recipes and Examples
-  (Developer's Library) [Paperback]: Adriaan de Jonge, Visit Amazon's Adriaan de
-  Jonge Page, search results, Learn about Author Central』
+  (Developer&#039;s Library) [Paperback]: Adriaan de Jonge, Visit Amazon&#039;s
+  Adriaan de Jonge Page, search results, Learn about Author Central』
 author: azu
 layout: post
 itemUrl: 'http://www.amazon.com/o/ASIN/0321822080/book042-22/ref=nosim'

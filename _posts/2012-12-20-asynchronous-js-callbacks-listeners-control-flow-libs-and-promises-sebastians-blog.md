@@ -1,7 +1,7 @@
 ---
 title: >-
   Asynchronous JS: Callbacks, Listeners, Control Flow Libs and Promises -
-  Sebastian's Blog
+  Sebastian&#039;s Blog
 author: azu
 layout: post
 itemUrl: 'http://sporto.github.com/blog/2012/12/09/callbacks-listeners-promises/'

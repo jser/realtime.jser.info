@@ -1,5 +1,5 @@
 ---
-title: Unoptimize V8 for Easy Debugging - Moshe's Blog
+title: 'Unoptimize V8 for Easy Debugging - Moshe&#039;s Blog'
 author: azu
 layout: post
 itemUrl: >-

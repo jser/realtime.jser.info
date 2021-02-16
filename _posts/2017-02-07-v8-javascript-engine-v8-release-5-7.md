@@ -11,5 +11,5 @@ tags:
   - WebAssembly
 ---
 V8 5.7リリース。
-async/awaitやES2015のパフォーマンス改善、<del>`String#padStart`</del>、`Intl.DateTimeFormat#formatToParts`のサポート。
+async/awaitやES2015のパフォーマンス改善、&lt;del&gt;`String#padStart`&lt;/del&gt;、`Intl.DateTimeFormat#formatToParts`のサポート。
 wasmがデフォルトで有効化など

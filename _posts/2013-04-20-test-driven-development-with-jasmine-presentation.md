@@ -12,4 +12,4 @@ tags:
   - testing
 ---
 Jasmineを使ったTDDについての発表(スライド+動画)
-Green->Red->Refactoringの開発の流れやJasmineのspy等の機能紹介、matcherの追加等について
+Green-&gt;Red-&gt;Refactoringの開発の流れやJasmineのspy等の機能紹介、matcherの追加等について

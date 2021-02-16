@@ -9,4 +9,4 @@ tags:
   - JavaScript
   - ECMAScript
 ---
-`split("")`だと絵文字などでサロゲートペアの問題が起きるため、ES6で追加された`Array.from`などを使うことで正しく扱えるという話
+`split(&quot;&quot;)`だと絵文字などでサロゲートペアの問題が起きるため、ES6で追加された`Array.from`などを使うことで正しく扱えるという話

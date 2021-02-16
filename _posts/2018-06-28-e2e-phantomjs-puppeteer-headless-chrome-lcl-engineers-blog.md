@@ -1,5 +1,7 @@
 ---
-title: E2EテストをPhantomJSから、Puppeteer + Headless Chromeへ移行しました - LCL Engineers' Blog
+title: >-
+  E2EテストをPhantomJSから、Puppeteer + Headless Chromeへ移行しました - LCL Engineers&#039;
+  Blog
 author: azu
 layout: post
 itemUrl: 'http://techblog.lclco.com/entry/2018/06/28/080000'

@@ -1,6 +1,6 @@
 ---
 title: >-
-  Amazon: The Web Game Developer's Cookbook: Using JavaScript and HTML5 to
+  Amazon: The Web Game Developer&#039;s Cookbook: Using JavaScript and HTML5 to
   Develop Games [Paperback]: Evan Burchard
 author: azu
 layout: post

@@ -1,5 +1,5 @@
 ---
-title: 'fastpack/fastpack: Pack JS code fast & easy'
+title: 'fastpack/fastpack: Pack JS code fast &amp; easy'
 author: azu
 layout: post
 itemUrl: 'https://github.com/fastpack/fastpack'

@@ -1,7 +1,7 @@
 ---
 title: >-
-  "Project Spartan" in the Windows Technical Preview build 10049 - IEBlog - Site
-  Home - MSDN Blogs
+  &quot;Project Spartan&quot; in the Windows Technical Preview build 10049 -
+  IEBlog - Site Home - MSDN Blogs
 author: azu
 layout: post
 itemUrl: >-

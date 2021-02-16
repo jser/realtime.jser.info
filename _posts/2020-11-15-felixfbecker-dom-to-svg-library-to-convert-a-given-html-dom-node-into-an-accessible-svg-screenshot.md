@@ -1,7 +1,7 @@
 ---
 title: >-
   felixfbecker/dom-to-svg: Library to convert a given HTML DOM node into an
-  accessible SVG "screenshot".
+  accessible SVG &quot;screenshot&quot;.
 author: azu
 layout: post
 itemUrl: 'https://github.com/felixfbecker/dom-to-svg'
@@ -13,5 +13,5 @@ tags:
   - JavaScript
   - library
 ---
-`<foreignObject>`を使わずに、DOMからSVGを作成するライブラリ。
+`&lt;foreignObject&gt;`を使わずに、DOMからSVGを作成するライブラリ。
 DOM上のWAI-ARIAやリンクなども維持した状態のSVGを作成する

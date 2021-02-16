@@ -12,4 +12,4 @@ tags:
   - book
   - library
 ---
-`require` で読み込むファイルのインライン化 と 無意味な `"use strict"` を削除するnode moduleについて。 JavaScript ASTを使った書き換えの方法について
+`require` で読み込むファイルのインライン化 と 無意味な `&quot;use strict&quot;` を削除するnode moduleについて。 JavaScript ASTを使った書き換えの方法について

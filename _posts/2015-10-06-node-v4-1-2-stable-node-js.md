@@ -10,7 +10,9 @@ tags:
   - ReleaseNote
   - セキュリティ
 relatedLinks:
-  - title: 'http: fix out-of-order ''finish'' bug in pipelining · nodejs/node@0504066'
+  - title: >-
+      http: fix out-of-order &#039;finish&#039; bug in pipelining ·
+      nodejs/node@0504066
     url: >-
       https://github.com/nodejs/node/commit/05040664c2035b8abffb7bd7bb3243af35895130
 ---

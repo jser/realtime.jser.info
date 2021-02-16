@@ -10,5 +10,5 @@ tags:
   - webpack
   - npm
 ---
-package.jsonの"browser" fieldの解釈の違いについて。
+package.jsonの&quot;browser&quot; fieldの解釈の違いについて。
 Browserify、webpack、React Native Packagerの比較

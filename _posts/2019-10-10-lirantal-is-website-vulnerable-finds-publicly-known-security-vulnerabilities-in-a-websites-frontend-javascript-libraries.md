@@ -1,7 +1,7 @@
 ---
 title: >-
   lirantal/is-website-vulnerable: finds publicly known security vulnerabilities
-  in a website's frontend JavaScript libraries
+  in a website&#039;s frontend JavaScript libraries
 author: azu
 layout: post
 itemUrl: 'https://github.com/lirantal/is-website-vulnerable'

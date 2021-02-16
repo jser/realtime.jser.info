@@ -10,5 +10,5 @@ tags:
   - library
   - JavaScript
 ---
-クライアント <-> サーバのコミュニケーションを行うGraphQLフレームワーク。
+クライアント &lt;-&gt; サーバのコミュニケーションを行うGraphQLフレームワーク。
 Apollo/WebSocketベース

@@ -13,4 +13,4 @@ tags:
   - ReleaseNote
 ---
 iOS 9.3のSafariについて。
-`<picture>`、Fast Tap、CSS Custom Properties、ダイアログの変更、`shrink-to-fit`、Remote Inspectorなど
+`&lt;picture&gt;`、Fast Tap、CSS Custom Properties、ダイアログの変更、`shrink-to-fit`、Remote Inspectorなど

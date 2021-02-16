@@ -1,5 +1,5 @@
 ---
-title: Caching Doesn't Improve Mobile Web Performance (Much) | USENIX
+title: 'Caching Doesn&#039;t Improve Mobile Web Performance (Much) | USENIX'
 author: azu
 layout: post
 itemUrl: 'https://www.usenix.org/node/196205'

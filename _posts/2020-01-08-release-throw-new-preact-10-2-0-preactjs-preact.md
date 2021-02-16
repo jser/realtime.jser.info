@@ -1,5 +1,5 @@
 ---
-title: Release throw new Preact('10.2.0') · preactjs/preact
+title: 'Release throw new Preact(&#039;10.2.0&#039;) · preactjs/preact'
 author: azu
 layout: post
 itemUrl: 'https://github.com/preactjs/preact/releases/tag/10.2.0'

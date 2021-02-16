@@ -1,5 +1,5 @@
 ---
-title: 'nastyox/Rando.js: The world''s easiest, most powerful random function.'
+title: 'nastyox/Rando.js: The world&#039;s easiest, most powerful random function.'
 author: azu
 layout: post
 itemUrl: 'https://github.com/nastyox/Rando.js'

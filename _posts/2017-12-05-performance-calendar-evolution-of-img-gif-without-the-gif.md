@@ -1,5 +1,5 @@
 ---
-title: 'Performance Calendar » Evolution of <img>: Gif without the GIF'
+title: 'Performance Calendar » Evolution of &lt;img&gt;: Gif without the GIF'
 author: azu
 layout: post
 itemUrl: 'https://calendar.perfplanet.com/2017/animated-gif-without-the-gif/'
@@ -12,7 +12,7 @@ tags:
   - video
   - performance
 ---
-GIFと`<video>`でのアニメーション画像について。
-Safari Technology Previewが`<img src=".mp4">`をサポートした話。
-`<video>`よりも`<img>`の方がパフォーマンスのよい理由。
+GIFと`&lt;video&gt;`でのアニメーション画像について。
+Safari Technology Previewが`&lt;img src=&quot;.mp4&quot;&gt;`をサポートした話。
+`&lt;video&gt;`よりも`&lt;img&gt;`の方がパフォーマンスのよい理由。
 GIF、WebP、mp4でのファイルサイズの違いなどについて

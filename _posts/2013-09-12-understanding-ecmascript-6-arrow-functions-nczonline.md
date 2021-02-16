@@ -10,4 +10,4 @@ tags:
   - ECMAScript
   - JavaScript
 ---
-Arrow Function => の特徴、シンタックス、使い方、typeofやcall()などと合わせた場合どうなるかなどについてまとまってる
+Arrow Function =&gt; の特徴、シンタックス、使い方、typeofやcall()などと合わせた場合どうなるかなどについてまとまってる

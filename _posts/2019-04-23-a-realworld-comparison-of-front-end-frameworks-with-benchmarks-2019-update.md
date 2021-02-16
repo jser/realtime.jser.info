@@ -13,10 +13,10 @@ tags:
   - benchmark
 relatedLinks:
   - title: >-
-      gothinkster/realworld: &quot;The mother of all demo apps&quot; — Exemplary
-      fullstack Medium.com clone powered by React, Angular, Node, Django, and
-      many more 
+      gothinkster/realworld: &amp;quot;The mother of all demo apps&amp;quot; —
+      Exemplary fullstack Medium.com clone powered by React, Angular, Node,
+      Django, and many more 
     url: 'https://github.com/gothinkster/realworld'
 ---
-"RealWorld"というベンチマークアプリの各JavaScriptフレームワークなどの実装を比較した記事。
+&quot;RealWorld&quot;というベンチマークアプリの各JavaScriptフレームワークなどの実装を比較した記事。
 パフォーマンス、出力されたコードのファイルサイズ、Line of Code(LOC)でそれぞれを比較した結果をまとめている

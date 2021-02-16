@@ -1,5 +1,5 @@
 ---
-title: O'Reilly Japan - Node.jsデザインパターン 第2版
+title: 'O&#039;Reilly Japan - Node.jsデザインパターン 第2版'
 author: azu
 layout: post
 itemUrl: 'https://www.oreilly.co.jp/books/9784873118734/'

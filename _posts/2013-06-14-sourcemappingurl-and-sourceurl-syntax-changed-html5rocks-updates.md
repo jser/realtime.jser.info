@@ -11,4 +11,4 @@ tags:
   - デバック
 ---
 sourceURL を指定するコメントの書式が変更された。
-JScriptの//@cc_onみたいなものと衝突してしまっていたので`//# sourceMappingURL=<url>`という書式に変更された
+JScriptの//@cc_onみたいなものと衝突してしまっていたので`//# sourceMappingURL=&lt;url&gt;`という書式に変更された

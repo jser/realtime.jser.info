@@ -19,4 +19,4 @@ relatedLinks:
     url: 'https://github.com/Agoric/realms-shim'
 ---
 プラグインとして追加されるサードパーティコードを安全にウェブブラウザで実行するための仕組みについて。
-`<inline-iframe>`、JavaScriptインタプリタの利用、ProposalのRealms(shim)を使ったサンドボックスについて
+`&lt;inline-iframe&gt;`、JavaScriptインタプリタの利用、ProposalのRealms(shim)を使ったサンドボックスについて

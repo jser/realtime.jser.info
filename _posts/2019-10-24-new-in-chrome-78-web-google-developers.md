@@ -9,7 +9,7 @@ tags:
   - Chrome
   - ReleaseNote
 relatedLinks:
-  - title: What's New In DevTools (Chrome 78)  |  Web  |  Google Developers
+  - title: 'What&#039;s New In DevTools (Chrome 78)  |  Web  |  Google Developers'
     url: 'https://developers.google.com/web/updates/2019/09/devtools'
   - title: current deprecations
     url: >-
