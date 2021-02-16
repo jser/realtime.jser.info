@@ -7,11 +7,19 @@ var slugg = require("slugg");
 var path = require("path");
 var fs = require("fs");
 var emojiText = require("emoji-text");
+function escapeSpecialChars(str) {
+    return str
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
+}
 function pickFromMatter(item) {
     var object = {
-        title: emojiText.convert(item.title.trim().normalize('NFKC'), {
+        title: escapeSpecialChars(emojiText.convert(item.title.trim().normalize('NFKC'), {
             delimiter: ':'
-        }).replace(/[\ud800-\udfff]/g, ""),
+        }).replace(/[\ud800-\udfff]/g, "")),
         author: "azu",
         layout: "post",
         itemUrl: item.url.trim(),
