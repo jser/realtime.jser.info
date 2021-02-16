@@ -33,9 +33,9 @@ function pickFromMatter(item) {
 
     if (item.relatedLinks && item.relatedLinks.length > 0) {
         object.relatedLinks = item.relatedLinks.map(function(item){
-            item.title = emojiText.convert(item.title.normalize('NFKC'), {
+            item.title = escapeSpecialChars(emojiText.convert(item.title.normalize('NFKC'), {
                 delimiter: ':'
-            }).replace(/[\ud800-\udfff]/g, "");
+            }).replace(/[\ud800-\udfff]/g, ""));
             return item
         });
     }
@@ -49,7 +49,7 @@ function createPost(item) {
     return ("---\n" +
     dumpYaml(frontMatter) +
     "---\n" +
-    String(item.content) + "\n").replace(/[\n\r]/g, '\n');
+        String(escapeSpecialChars((item.content)) + "\n").replace(/[\n\r]/g, '\n');
 }
 function creteSafeSlug(item) {
     var slugForItem = slugg(item.title);
