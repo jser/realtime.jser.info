@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://socket.io/blog/socket-io-4-release/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/03/index.json'
-date: '2021-03-15T14:27:11Z'
+date: '2021-03-15T14:31:43Z'
 tags:
   - WebSocket
   - node.js
@@ -20,4 +20,4 @@ relatedLinks:
 ---
 Socket.IO 4.0.0リリース。
 破壊的な変更としてサーバ側の`io.to()`がimmutableに変更、protocolは互換性を維持している。
-`pingTimeout`のデフォルト値を5秒から20病へ変更、Utilityメソッドの追加、`autoUnref`オプションの追加など
+`pingTimeout`のデフォルト値を5秒から20秒へ変更、Utilityメソッドの追加、`autoUnref`オプションの追加など
