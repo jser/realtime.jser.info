@@ -7,11 +7,12 @@ layout: post
 itemUrl: >-
   https://aws.amazon.com/jp/blogs/aws/introducing-cloudfront-functions-run-your-code-at-the-edge-with-low-latency-at-any-scale/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/05/index.json'
-date: '2021-05-04T12:10:38Z'
+date: '2021-05-04T12:10:45Z'
 tags:
   - aws
   - JavaScript
   - webservice
+  - cdn
 ---
 AWS CloudFrontでCDNエッジな処理をJavaScriptでかけるサービス。
 ECMAScript 5.1互換なJavaScript、処理時間が1ms以内、メモリは2MB以内、パッケージサイズは10kb以下のファイルサイズ、Network/File IOなし
