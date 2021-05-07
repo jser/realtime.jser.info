@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://underscorejs.org/#1.13.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/05/index.json'
-date: '2021-05-07T02:35:47Z'
+date: '2021-05-07T02:58:21Z'
 tags:
   - JavaScript
   - library
@@ -12,4 +12,4 @@ tags:
 ---
 underscore 1.13.0リリース。
 ECMAScript Modulesのサポート。
-1.12.1では`_.template`のパラメータ経由でのCode Injectionができる脆弱性も修正されている。
+1.12.1では`_.template`の`variable`オプション経由でのCode Injectionができる脆弱性も修正されている。
