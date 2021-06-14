@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/06/index.json'
-date: '2021-06-14T13:10:13Z'
+date: '2021-06-14T13:10:46Z'
 tags:
   - React
   - article
@@ -27,4 +27,5 @@ relatedLinks:
 ---
 React 18のαリリースと変更予定について。
 Automatic batchingと`flushSync`の追加、SuspenseのSSRサポートと`pipeToNodeWritable`の追加、Concurrentモードのopt-inサポート。
-新しいrender APIである`createDOM`の追加、バグを見つけるためにStrictModeではコンポーネントを2重にレンダリングするようなるなど
+新しいrender APIである`createDOM`の追加、バグを見つけるためにStrictModeではコンポーネントを2重にレンダリングするようなるなど。
+また、ReactのWorking Groupのリポジトリが作成されている。
