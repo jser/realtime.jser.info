@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/udecode/plate'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/07/index.json'
-date: '2021-07-26T14:16:40Z'
+date: '2021-07-26T14:16:54Z'
 tags:
   - JavaScript
   - editor
@@ -12,4 +12,4 @@ tags:
   - library
 ---
 slateベースのリッチテキストエディタライブラリ。
-プラグインで機能を追加できるようになっている。
+プラグインで機能を追加できるようになっていて、さまざまなプラグインが用意されている。
