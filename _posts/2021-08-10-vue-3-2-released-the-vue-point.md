@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://blog.vuejs.org/posts/vue-3.2.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/08/index.json'
-date: '2021-08-10T01:37:42Z'
+date: '2021-08-10T03:04:35Z'
 tags:
   - Vue
   - ReleaseNote
