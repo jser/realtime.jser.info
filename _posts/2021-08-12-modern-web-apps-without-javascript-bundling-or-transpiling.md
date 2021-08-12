@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://world.hey.com/dhh/modern-web-apps-without-javascript-bundling-or-transpiling-a20f2755
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/08/index.json'
-date: '2021-08-12T23:38:25Z'
+date: '2021-08-12T23:38:47Z'
 tags:
   - rails
   - JavaScript
@@ -20,4 +20,4 @@ relatedLinks:
       Request #42999 · rails/rails
     url: 'https://github.com/rails/rails/pull/42999'
 ---
-Rails 7.0でwebpacker(webpack)ではなくimport-mapを使うbundlerを使わないアプローチをデフォルトにすることを検討しているという話。
+Rails 7.0でwebpacker(webpack)ではなくimport-mapベースのbundlerを使わないアプローチをデフォルトにすることを検討しているという話。
