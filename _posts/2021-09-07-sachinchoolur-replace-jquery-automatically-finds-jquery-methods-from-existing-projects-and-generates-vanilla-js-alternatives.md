@@ -6,11 +6,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/sachinchoolur/replace-jquery'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/09/index.json'
-date: '2021-09-07T01:23:17Z'
+date: '2021-09-07T01:35:36Z'
 tags:
   - JavaScript
   - jQuery
   - Tools
 ---
-jQueryのメソッドをjQuery非依存のコードに書き換えるツール。
-指定したjQueryのメソッドのみを置き換えることもできる。
+jQueryに依存したコードから、利用しているjQueryのメソッドの代替コードを生成するツール。
+指定したjQueryのメソッドのみを含んだutilityコードを生成できる。
