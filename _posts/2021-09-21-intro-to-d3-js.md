@@ -1,0 +1,12 @@
+---
+title: Intro to D3.js
+author: azu
+layout: post
+itemUrl: 'https://yangdanny97.github.io/intro-to-d3/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/09/index.json'
+date: '2021-09-21T02:22:12Z'
+tags:
+  - d3.js
+  - tutorial
+---
+D3 v5+に対応したチュートリアル
