@@ -4,11 +4,14 @@ author: azu
 layout: post
 itemUrl: 'https://parceljs.org/blog/v2/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/10/index.json'
-date: '2021-10-14T14:03:30Z'
+date: '2021-10-14T14:24:00Z'
 tags:
   - JavaScript
   - bundler
   - ReleaseNote
+relatedLinks:
+  - title: Migration
+    url: 'https://parceljs.org/getting-started/migration/'
 ---
 Parcel v2リリース。
 プラグインの仕組みを刷新、Tree Shakingをデフォルト化、SWCベースのJavaScriptコンパイラに変更、ModernとLegacyビルドの出し分け、Image optimizerの追加。
