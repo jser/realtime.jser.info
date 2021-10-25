@@ -7,11 +7,12 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/faisalman/ua-parser-js/issues/536'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/10/index.json'
-date: '2021-10-25T11:56:49Z'
+date: '2021-10-25T11:57:05Z'
 tags:
   - npm
   - security
   - issue
+  - news
 relatedLinks:
   - title: >-
       Newly Found npm Malware Mines Cryptocurrency on Windows, Linux, macOS
