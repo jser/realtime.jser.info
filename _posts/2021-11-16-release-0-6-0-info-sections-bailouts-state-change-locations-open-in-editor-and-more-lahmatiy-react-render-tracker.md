@@ -6,10 +6,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/lahmatiy/react-render-tracker/releases/v0.6.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/11/index.json'
-date: '2021-11-16T15:20:45Z'
+date: '2021-11-16T15:21:03Z'
 tags:
   - React
   - debug
   - library
+  - ReleaseNote
 ---
 Reactの意図しないレンダリングを見つけるデバッグツールのreact-render-tracker 0.6.0リリース。
