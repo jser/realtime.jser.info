@@ -4,14 +4,13 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/berstend/node-safe'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2021/11/index.json'
-date: '2021-11-30T02:42:43Z'
+date: '2021-11-30T02:57:58Z'
 tags:
   - node.js
   - macOS
   - security
-  - Tools
   - deno
   - library
 ---
 macOSのsandbox機能を利用してDenoライクなSandboxの仕組みを実装したNodeの実行ツール。
-`--allow-read`、`--allow-net`など距離ストを指定してのスクリプト実行やnpm/yarn/npxにも対応している。
+`--allow-read`、`--allow-net`など許可リストを指定してのスクリプト実行やnpm/yarn/npxにも対応している。
