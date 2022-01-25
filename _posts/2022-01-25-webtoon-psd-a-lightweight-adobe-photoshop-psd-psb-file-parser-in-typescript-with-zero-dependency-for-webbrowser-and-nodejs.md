@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/webtoon/psd'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/01/index.json'
-date: '2022-01-25T10:34:10Z'
+date: '2022-01-25T10:34:23Z'
 tags:
   - JavaScript
   - photoshop
