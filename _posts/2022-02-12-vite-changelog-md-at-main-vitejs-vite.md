@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://github.com/vitejs/vite/blob/main/packages/vite/CHANGELOG.md#280-2022-02-09
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/02/index.json'
-date: '2022-02-12T14:44:34Z'
+date: '2022-02-12T14:53:20Z'
 tags:
   - vite
   - ReleaseNote
