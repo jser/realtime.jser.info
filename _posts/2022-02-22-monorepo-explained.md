@@ -1,0 +1,15 @@
+---
+title: Monorepo Explained
+author: azu
+layout: post
+itemUrl: 'https://monorepo.tools/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/02/index.json'
+date: '2022-02-22T03:37:34Z'
+tags:
+  - monorepo
+  - Tools
+  - JavaScript
+  - library
+---
+monorepoの解説とツールの比較サイト。
+Bazel/Gradle/Lage/Lerna/Nx/Rush/Turborepoについてキャッシュや分散タスクなどの各機能について比較している
