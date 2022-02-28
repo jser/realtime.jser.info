@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://css-tricks.com/css-cascade-layers/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/02/index.json'
-date: '2022-02-28T12:47:46Z'
+date: '2022-02-28T12:47:54Z'
 tags:
   - CSS
   - article
