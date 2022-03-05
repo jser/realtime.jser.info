@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://webkit.org/blog/12288/working-together-on-interop-2022/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/03/index.json'
-date: '2022-03-05T13:45:51Z'
+date: '2022-03-05T13:48:39Z'
 tags:
   - browser
   - article
@@ -26,5 +26,5 @@ relatedLinks:
     url: 'https://www.igalia.com/news/interop2022.html'
 ---
 ブラウザの相互運用性に取り組むInterop 2022について。
-Apple/Google/Microsfot/Mozilla/Bocoup/Igaliaなどが協力して、ウェブプラットフォームでフォーカスしているエリアについての相互運用性の取り組みについて。
+Apple/Google/Microsoft/Mozilla/Bocoup/Igaliaなどが協力して、ウェブプラットフォームでフォーカスしているエリアについての相互運用性の取り組みについて。
 WPTを使った計測やフォーカスしたエリアについての紹介など
