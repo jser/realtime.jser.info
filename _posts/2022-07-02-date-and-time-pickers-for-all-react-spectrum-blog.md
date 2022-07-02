@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://react-spectrum.adobe.com/blog/date-and-time-pickers-for-all.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/07/index.json'
-date: '2022-07-02T06:54:54Z'
+date: '2022-07-02T06:55:05Z'
 tags:
   - JavaScript
   - React
@@ -17,4 +17,4 @@ relatedLinks:
 ---
 React AriaとReact Spectrumで日付入力のUIをサポート。
 アクセシビリティ、国際化、カスタマイズ性などを持った日付フィールド/カレンダーのUIコンポーネントを提供する。
-また併せて複数のカレンダーシステムやロケールをサポートした日付ライブラリも公開している。
+また併せて複数のタイムゾーン/カレンダーシステム/ロケールをサポートした日付ライブラリも公開している。
