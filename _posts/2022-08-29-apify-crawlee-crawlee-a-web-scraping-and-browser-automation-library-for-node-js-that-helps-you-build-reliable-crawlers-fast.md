@@ -6,11 +6,12 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/apify/crawlee'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/08/index.json'
-date: '2022-08-29T14:43:14Z'
+date: '2022-08-29T14:49:55Z'
 tags:
   - JavaScript
   - browser
   - library
+  - node.js
 relatedLinks:
   - title: 'Crawlee: the web scraping and browser automation library | Apify Blog'
     url: >-
