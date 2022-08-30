@@ -4,9 +4,14 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/nadeesha/ts-prune'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/08/index.json'
-date: '2022-08-30T01:55:47Z'
+date: '2022-08-30T02:11:27Z'
 tags:
   - TypeScript
   - Tools
+relatedLinks:
+  - title: >-
+      ep.129『不要な export をまとめて掃除!みんながほしかった CLI ts-prune』 | UIT INSIDE - LINE UIT
+      の開発者による「最新のフロントエンド」をキャッチアップできる Podcast
+    url: 'https://uit-inside.linecorp.com/episode/129'
 ---
 TypeScriptのコードから使用されていないexporsを検出するツール
