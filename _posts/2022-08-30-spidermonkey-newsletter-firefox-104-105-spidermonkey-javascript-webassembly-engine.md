@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://spidermonkey.dev/blog/2022/08/29/newsletter-firefox-104-105.html'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/08/index.json'
-date: '2022-08-30T02:09:30Z'
+date: '2022-08-30T02:11:00Z'
 tags:
   - Firefox
   - JavaScript
