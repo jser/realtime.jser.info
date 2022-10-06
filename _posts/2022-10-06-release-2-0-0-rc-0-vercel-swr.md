@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 SWR 2.0.0-rc.0リリース。
-mutationにおけるエラーをthrowするように変更し、それを抑制できる`throwOnError`オプションを追加など
+破壊的変更としてmutationにおけるエラーが他のmutationやuseSWRに反映されないように変更。また、mutationがエラーをthrowするかを抑制できる`throwOnError`オプションを追加など
