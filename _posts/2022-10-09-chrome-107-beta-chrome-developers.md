@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developer.chrome.com/blog/chrome-107-beta/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/10/index.json'
-date: '2022-10-09T12:19:23Z'
+date: '2022-10-09T12:23:16Z'
 tags:
   - Chrome
   - ReleaseNote
@@ -19,4 +19,4 @@ Chrome 107 betaリリース。
 `grid-template`でのtransitionのサポート、Screen Capture APIの改善、Resource Timingに`renderBlockingStatus`を追加。
 Permissions policyのorigin指定に`*`を利用可能に、`&lt;form&gt;`要素が`rel`属性のサポートなど。
 Origin TrialsとしてDeclarative PendingBeacon API、Permissions policyのunloadのサポートなど。
-また`Expect-CT` HTTPヘッダのサポートの削除など
+また`Expect-CT` HTTPヘッダを非推奨化など
