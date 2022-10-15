@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/facebook/jest/releases/tag/v29.2.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2022/10/index.json'
-date: '2022-10-15T13:23:05Z'
+date: '2022-10-15T13:23:16Z'
 tags:
   - jest
   - testing
@@ -12,4 +12,4 @@ tags:
   - ReleaseNote
 ---
 Jest v29.2.0リリース。
-テストの実行順序のランダム化などに関連するSeed値を設定できるように、`readInitialConfig` APIの追加など。
+Seed値を設定できるように、`readInitialConfig` APIの追加など。
