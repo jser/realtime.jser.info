@@ -6,14 +6,14 @@ layout: default
   <h1 class="page-heading">リアルタイム版<a href="https://jser.info/" title="JSer.info">JSer.info</a></h1>
 
   <p class="follow">
-      <a href="https://twitter.com/jser_info" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @jser_info</a>
+      <a href="https://twitter.com/jser_info" class="twitter-follow-button" data-show-count="false" data-size="large" data-dnt="true">Follow @jser_info on Twitter</a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
       </p>
   <p class="follow">
   <span>Slackで購読</span>
   <pre>/feed subscribe https://realtime.jser.info/feed.xml</pre>
   </p>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a></p>
+  <p class="rss-subscribe">Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">RSS Feed</a></p>
   <ul class="post-list">
     {% for post in site.posts limit:100 %}
       <li>
