@@ -10,5 +10,5 @@ tags:
   - ReleaseNote
 ---
 Remix 1.10.0リリース。
-`@remix-run/router`というReact Routerとの共通基盤となるパーッケージ(バイナリ)を使い再構築。
+`@remix-run/router`というReact Routerとの共通基盤となるパッケージ(バイナリ)を使い再構築。
 `shouldRevalidate`関数のサポート、`useNavigation`/`useRevalidator`/`useRouteLoaderData` Hook APIの追加など
