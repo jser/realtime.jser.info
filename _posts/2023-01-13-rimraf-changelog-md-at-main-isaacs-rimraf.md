@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/isaacs/rimraf/blob/main/CHANGELOG.md#v40'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/01/index.json'
-date: '2023-01-13T07:27:51Z'
+date: '2023-01-13T11:33:14Z'
 tags:
   - node.js
   - library
@@ -12,4 +12,4 @@ tags:
 ---
 rimraf 4.0リリース。
 globサポートを削除、Promiseを返すように変更、Node 14未満のサポート終了、TypeScriptでの書き直し。
-またWindowsでのパフォーマンスの改善など
+またCJSとESMの両方に対応し、Windowsでのパフォーマンスの改善など
