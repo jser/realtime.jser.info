@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://moonrepo.dev/blog/v0.22'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/01/index.json'
-date: '2023-01-17T00:40:46Z'
+date: '2023-01-17T00:41:00Z'
 tags:
   - monorepo
   - Tools
@@ -14,4 +14,4 @@ tags:
 ---
 monorepo管理ツールのmoon 0.22リリース。
 パイプラインの並列性を制御できるように、プロジェクトグラフのキャッシュと依存のインストールミスが減るように。
-Turborepoからのマイグレーションコマンドを追加など
+Turborepoからのマイグレーションコマンドを追加、Bunのサポートなど
