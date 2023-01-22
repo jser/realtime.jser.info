@@ -4,10 +4,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/reduxjs/redux-toolkit/releases/tag/v2.0.0-alpha.1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/01/index.json'
-date: '2023-01-22T22:33:25Z'
+date: '2023-01-22T22:33:33Z'
 tags:
   - library
   - redux
+  - ReleaseNote
 relatedLinks:
   - title: >-
       Immer 10 proposals: Drop promises, default export, array.length patches,
