@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://wpt.fyi/interop-2023'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/02/index.json'
-date: '2023-02-02T14:11:38Z'
+date: '2023-02-02T14:11:56Z'
 tags:
   - browser
   - testing
