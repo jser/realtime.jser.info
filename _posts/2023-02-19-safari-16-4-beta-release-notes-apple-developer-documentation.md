@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://developer.apple.com/documentation/safari-release-notes/safari-16_4-release-notes
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/02/index.json'
-date: '2023-02-19T14:17:41Z'
+date: '2023-02-19T14:17:43Z'
 tags:
   - safari
   - ReleaseNote
