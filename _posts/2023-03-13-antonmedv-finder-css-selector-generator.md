@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/antonmedv/finder'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/03/index.json'
-date: '2023-03-13T22:49:32Z'
+date: '2023-03-13T22:49:37Z'
 tags:
   - JavaScript
   - CSS
