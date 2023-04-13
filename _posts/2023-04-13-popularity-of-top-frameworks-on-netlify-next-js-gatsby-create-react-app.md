@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.netlify.com/blog/framework-popularity-on-netlify/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/04/index.json'
-date: '2023-04-13T01:46:44Z'
+date: '2023-04-13T01:46:57Z'
 tags:
   - article
   - JavaScript
