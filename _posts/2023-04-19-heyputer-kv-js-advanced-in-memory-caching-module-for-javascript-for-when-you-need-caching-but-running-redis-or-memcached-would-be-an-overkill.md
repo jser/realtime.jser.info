@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/HeyPuter/kv.js'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/04/index.json'
-date: '2023-04-19T04:33:28Z'
+date: '2023-04-19T04:33:56Z'
 tags:
   - JavaScript
   - library
