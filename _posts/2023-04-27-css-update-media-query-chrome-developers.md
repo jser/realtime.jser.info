@@ -4,10 +4,10 @@ author: azu
 layout: post
 itemUrl: 'https://developer.chrome.com/en/blog/css-update-media-query/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/04/index.json'
-date: '2023-04-27T00:08:35Z'
+date: '2023-04-27T00:17:03Z'
 tags:
   - CSS
   - article
 ---
-`update`　Media Queryについて。
+`update` Media Queryについて。
 デバイスのリフレットレートが`fast`/`slow`/`none`かを判定したスタイルを書ける。
