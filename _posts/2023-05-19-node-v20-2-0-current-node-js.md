@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/release/v20.2.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/05/index.json'
-date: '2023-05-19T06:03:09Z'
+date: '2023-05-19T06:03:19Z'
 tags:
   - node.js
   - ReleaseNote
