@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://web.dev/debug-cwvs-with-web-vitals-extension/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/05/index.json'
-date: '2023-05-26T02:34:46Z'
+date: '2023-05-26T02:36:35Z'
 tags:
   - performance
   - browser
@@ -17,4 +17,4 @@ relatedLinks:
       metrics for a healthy site
     url: 'https://github.com/GoogleChrome/web-vitals-extension'
 ---
-Web Vitals extensionを使ったWeb Vitalsに関する問題をデバッグ方法について
+Web Vitals extensionを使ったWeb Vitalsに関する問題のデバッグ方法について
