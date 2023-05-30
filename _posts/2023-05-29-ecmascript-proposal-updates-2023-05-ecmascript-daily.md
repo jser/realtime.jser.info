@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://ecmascript-daily.github.io/ecmascript/2023/05/27/ecmascript-proposal-update
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/05/index.json'
-date: '2023-05-29T01:44:32Z'
+date: '2023-05-29T01:44:41Z'
 tags:
   - ECMAScript
   - proposal
