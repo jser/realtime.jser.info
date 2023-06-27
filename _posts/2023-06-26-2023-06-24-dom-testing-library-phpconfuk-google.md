@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://docs.google.com/presentation/d/1j6sEAs0LF5jPXs_mHxvPreqK-lxEL3OxvQAFyXmxbZc/view#slide=id.g24bcedd6665_0_0
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/06/index.json'
-date: '2023-06-26T13:19:43Z'
+date: '2023-06-26T13:19:49Z'
 tags:
   - JavaScript
   - testing
