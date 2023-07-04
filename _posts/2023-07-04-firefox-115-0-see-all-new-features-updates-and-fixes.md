@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.mozilla.org/en-US/firefox/115.0/releasenotes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-04T22:53:29Z'
+date: '2023-07-04T22:53:42Z'
 tags:
   - Firefox
   - ReleaseNote
