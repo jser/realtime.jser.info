@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.mozilla.org/en-US/firefox/115.0/releasenotes/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-04T22:53:42Z'
+date: '2023-07-04T23:16:21Z'
 tags:
   - Firefox
   - ReleaseNote
@@ -24,5 +24,6 @@ relatedLinks:
 ---
 Firefox 115リリース。
 macOS 10.14以下、Windows7/8/8.1がサポートされる最後のバージョンとなる。
+`contenteditable`におけるノード分割と結合の挙動を他のブラウザと揃えるように変更。
 ` Array.fromAsync()`のサポート、ES2023の`Array.toReversed()`/`.toSorted()`/`.toSpliced()`/`.with()`のサポート。
-`Response.json()`、`URL.canParse()`のサポートなど
+`Response.json()`、`URL.canParse()`のサポートなど。
