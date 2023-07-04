@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.feelback.dev/blog/feelback-saas-launch-architecture/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-04T02:34:43Z'
+date: '2023-07-04T02:34:58Z'
 tags:
   - webservice
   - article
