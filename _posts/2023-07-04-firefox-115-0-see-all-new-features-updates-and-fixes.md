@@ -1,0 +1,28 @@
+---
+title: 'Firefox 115.0, See All New Features, Updates and Fixes'
+author: azu
+layout: post
+itemUrl: 'https://www.mozilla.org/en-US/firefox/115.0/releasenotes/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
+date: '2023-07-04T22:53:29Z'
+tags:
+  - Firefox
+  - ReleaseNote
+relatedLinks:
+  - title: >-
+      Firefox users on macOS 10.12, 10.13 and 10.14 moving to Extended Support
+      Release | Firefox ヘルプ
+    url: >-
+      https://support.mozilla.org/ja/kb/firefox-users-macos-1012-1013-1014-moving-to-extended-support
+  - title: >-
+      Firefox users on Windows 7, 8 and 8.1 moving to Extended Support Release |
+      Firefox ヘルプ
+    url: >-
+      https://support.mozilla.org/ja/kb/firefox-users-windows-7-8-and-81-moving-extended-support
+  - title: Firefox 115 for developers - Mozilla | MDN
+    url: 'https://developer.mozilla.org/en-US/docs/Mozilla/Firefox/Releases/115'
+---
+Firefox 115リリース。
+macOS 10.14以下、Windows7/8/8.1がサポートされる最後のバージョンとなる。
+` Array.fromAsync()`のサポート、ES2023の`Array.toReversed()`/`.toSorted()`/`.toSpliced()`/`.with()`のサポート。
+`Response.json()`、`URL.canParse()`のサポートなど
