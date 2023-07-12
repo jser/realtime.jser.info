@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://typescript-eslint.io/blog/announcing-typescript-eslint-v6/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-11T00:41:16Z'
+date: '2023-07-11T00:41:19Z'
 tags:
   - TypeScript
   - ESLint
