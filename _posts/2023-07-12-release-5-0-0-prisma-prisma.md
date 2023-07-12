@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/prisma/prisma/releases/tag/5.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-12T11:16:05Z'
+date: '2023-07-12T11:16:28Z'
 tags:
   - JavaScript
   - node.js
