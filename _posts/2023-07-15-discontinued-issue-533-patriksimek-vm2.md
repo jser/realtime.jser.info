@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/patriksimek/vm2/issues/533'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-15T04:07:31Z'
+date: '2023-07-15T04:08:00Z'
 tags:
   - node.js
   - security
