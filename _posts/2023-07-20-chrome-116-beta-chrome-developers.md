@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developer.chrome.com/en/blog/chrome-116-beta/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-20T07:43:57Z'
+date: '2023-07-20T07:44:17Z'
 tags:
   - Chrome
   - ReleaseNote
@@ -19,6 +19,8 @@ relatedLinks:
       Wildcards in Permissions Policy Origins by arichiv · Pull Request #516 ·
       w3c/webappsec-permissions-policy
     url: 'https://github.com/w3c/webappsec-permissions-policy/pull/516'
+  - title: 'w3c/edit-context: EditContext API'
+    url: 'https://github.com/w3c/edit-context'
 ---
 Chrome 116 betaリリース。
 CSS Motion Path、`display`と`content-visibility`に対してキーフレームアニメーションをサポート。
