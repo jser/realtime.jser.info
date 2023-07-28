@@ -4,11 +4,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/redwoodjs/redwood/releases/tag/v6.0.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/07/index.json'
-date: '2023-07-28T05:24:09Z'
+date: '2023-07-28T05:24:21Z'
 tags:
   - nodejs
-  - eslib
   - ReleaseNote
+  - library
 relatedLinks:
   - title: >-
       Redwood v6.0.0 Upgrade Guide - Announcements / Releases and Upgrade Guides
