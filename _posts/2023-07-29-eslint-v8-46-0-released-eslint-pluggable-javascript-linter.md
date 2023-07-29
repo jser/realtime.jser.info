@@ -10,4 +10,4 @@ tags:
   - ReleaseNote
 ---
 ESLint v8.46.0リリース。
-ES2023の正規表現の`v`フラグをサポート、 flat configのエラーメッセージの改善など
+ES2024の正規表現の`v`フラグをサポート、 flat configのエラーメッセージの改善など
