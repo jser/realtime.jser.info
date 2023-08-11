@@ -5,7 +5,7 @@ layout: post
 itemUrl: >-
   https://www.getcontrast.io/learn/using-document-picture-in-picture-and-insertable-streams-apis-to-record-your-screen-and-camera
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/08/index.json'
-date: '2023-08-11T07:54:27Z'
+date: '2023-08-11T07:54:56Z'
 tags:
   - JavaScript
   - Chrome
