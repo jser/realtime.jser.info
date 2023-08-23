@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://developer.chrome.com/en/blog/chrome-117-beta/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/08/index.json'
-date: '2023-08-23T11:55:38Z'
+date: '2023-08-23T11:55:41Z'
 tags:
   - Chrome
   - ReleaseNote
