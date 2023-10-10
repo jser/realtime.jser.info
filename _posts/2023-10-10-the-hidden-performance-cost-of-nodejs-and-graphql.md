@@ -1,0 +1,15 @@
+---
+title: The Hidden Performance Cost of NodeJS and GraphQL
+author: azu
+layout: post
+itemUrl: 'https://www.softwareatscale.dev/p/the-hidden-performance-cost-of-nodejs'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/10/index.json'
+date: '2023-10-10T12:43:01Z'
+tags:
+  - nodejs
+  - Promises
+  - performance
+---
+GraphQLでresolverの処理が増えるほどパフォーマンスが悪くなった原因を調査した記事。
+resolver内でのPromiseを多用と`async_hooks`の利用がオーバーヘッドと関連しているという話。
+
