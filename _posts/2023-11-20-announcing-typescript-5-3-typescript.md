@@ -1,0 +1,15 @@
+---
+title: Announcing TypeScript 5.3 - TypeScript
+author: azu
+layout: post
+itemUrl: 'https://devblogs.microsoft.com/typescript/announcing-typescript-5-3/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/11/index.json'
+date: '2023-11-20T23:17:26Z'
+tags:
+  - TypeScript
+  - ReleaseNote
+---
+TypeScript 5.3リリース。
+Stage 3のImport Attributesをサポート、`resolution-mode`を`///`コメントで指定できるように。
+`switch(true)`でのNarrowingをサポート、`[Symbol.hasInstance]`と`insteanceof`を使ったNarrowingをサポート。
+パッケージ内のbundleファイルの重複を避けることで、パッケージサイズの改善など。
