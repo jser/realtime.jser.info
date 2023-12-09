@@ -6,12 +6,13 @@ author: azu
 layout: post
 itemUrl: 'https://www.amazon.co.jp/dp/4798179337/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/12/index.json'
-date: '2023-12-09T08:49:12Z'
+date: '2023-12-09T08:49:37Z'
 tags:
   - Next.js
   - React
   - python
   - book
 ---
+2023年12月18日発売
 Next.jsとDjangoでのウェブ開発についての書籍。
 サンプルアプリケーションを通してウェブシステム開発を学ぶ書籍
