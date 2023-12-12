@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://zenn.dev/sa2knight/articles/migrating_vitest_from_jest'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/12/index.json'
-date: '2023-12-12T13:52:53Z'
+date: '2023-12-12T13:53:03Z'
 tags:
   - JavaScript
   - testing
