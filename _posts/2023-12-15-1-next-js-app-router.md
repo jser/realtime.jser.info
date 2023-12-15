@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://zenn.dev/urotea/articles/3fbaa77d77b788'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/12/index.json'
-date: '2023-12-15T03:32:40Z'
+date: '2023-12-15T03:32:49Z'
 tags:
   - Next.js
   - GraphQL
