@@ -8,7 +8,7 @@ date: '2022-02-01T02:11:34Z'
 tags:
   - npm
   - pnpm
-  - rlee
+  - ReleaseNote
 ---
 pnpm 7.0.0 αリリース。
 破壊的な変更として、`pnpm -r exec|run|add`の対象にRootを含まないように変更、`--filter`がglobを扱うように変更。

@@ -7,7 +7,7 @@ editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2023/01/inde
 date: '2023-01-18T23:50:29Z'
 tags:
   - Bun
-  - rlee
+  - ReleaseNote
 ---
 Bun 0.5.0リリース。
 `workspaces`のインストールをサポート。
