@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://socket.dev/blog/2023-npm-retrospective'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/01/index.json'
-date: '2024-01-21T01:44:24Z'
+date: '2024-01-21T01:44:31Z'
 tags:
   - npm
   - article
