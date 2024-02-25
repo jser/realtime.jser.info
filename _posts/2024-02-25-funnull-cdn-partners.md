@@ -1,0 +1,23 @@
+---
+title: FUNNULL CDN - Partners
+author: azu
+layout: post
+itemUrl: 'https://funnull.com/Partner/'
+editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/02/index.json'
+date: '2024-02-25T01:17:53Z'
+tags:
+  - JavaScript
+  - polyfill
+  - news
+  - webservice
+relatedLinks:
+  - title: >-
+      Jake on X: &amp;quot;I&#039;ve been in discussions with Funnull for many
+      months and they will be the new maintainers and operators of the GitHub
+      repo, which remains open source, and as of 24 Feb, they&#039;re starting
+      to provide the service for https://t.co/29YaS03zrD.&amp;quot; / X
+    url: 'https://twitter.com/JakeDChampion/status/1761315227008643367'
+  - title: Polyfill.io
+    url: 'https://polyfill.io/'
+---
+https://polyfill.io/ はFunnull CDN(方能CDN)を運営するFunnull(南京妙彩文化传播有限公司)に売却され、2024-02-24以降の運用はFunnullが行う。
