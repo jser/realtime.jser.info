@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://www.assetnote.io/resources/research/digging-for-ssrf-in-nextjs-apps'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/05/index.json'
-date: '2024-05-18T14:33:06Z'
+date: '2024-05-18T14:33:21Z'
 tags:
   - Next.js
   - security
@@ -18,4 +18,4 @@ relatedLinks:
     url: 'https://github.com/azu/nextjs-CVE-2024-34351'
 ---
 Next.js 14.1.1で修正されたSSRFの脆弱性について。
-Server Actionsで`redirect()`を使ったパスのリダレクとをしてるAPIがある場合に、Next.jsから任意のURLに対してGETリクエストした内容を取得できるSSRF脆弱性について
+Server Actionsで`redirect()`を使ったパスリダイレクトをしてるAPIがある場合に、Next.jsから任意のURLに対してGETリクエストした内容を取得できるSSRF脆弱性について
