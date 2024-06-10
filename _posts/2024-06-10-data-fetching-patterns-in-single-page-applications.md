@@ -9,4 +9,4 @@ tags:
   - React
   - article
 ---
-ReactのクライアントサイドでのData Fetchののパターンについて
+ReactのクライアントサイドでのData Fetchのパターンについて
