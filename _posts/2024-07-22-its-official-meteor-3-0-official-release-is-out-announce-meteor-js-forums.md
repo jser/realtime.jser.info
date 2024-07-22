@@ -7,11 +7,12 @@ layout: post
 itemUrl: >-
   https://forums.meteor.com/t/its-official-meteor-3-0-official-release-is-out/61860
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/07/index.json'
-date: '2024-07-22T01:09:27Z'
+date: '2024-07-22T01:09:40Z'
 tags:
   - JavaScript
   - library
   - ReleaseNote
+  - nodejs
 relatedLinks:
   - title: Meteor 3.0 Migration Guide | Meteor 3.0 Migration Guide
     url: 'https://v3-migration-docs.meteor.com/'
