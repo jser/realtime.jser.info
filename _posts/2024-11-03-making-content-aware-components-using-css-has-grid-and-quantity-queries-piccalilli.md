@@ -7,7 +7,7 @@ layout: post
 itemUrl: >-
   https://piccalil.li/blog/making-content-aware-components-using-css-has-grid-and-quantity-queries/
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/11/index.json'
-date: '2024-11-03T01:01:19Z'
+date: '2024-11-03T01:01:24Z'
 tags:
   - 'css '
   - article
