@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://rspack.dev/blog/announcing-1-1'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/11/index.json'
-date: '2024-11-10T13:37:24Z'
+date: '2024-11-10T13:37:31Z'
 tags:
   - rspack
   - ReleaseNote
