@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/microsoft/playwright/releases/tag/v1.49.0'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/11/index.json'
-date: '2024-11-25T15:01:52Z'
+date: '2024-11-25T15:02:45Z'
 tags:
   - playwright
   - ReleaseNote
@@ -13,6 +13,10 @@ relatedLinks:
       Changes in Chromium headless in Playwright v1.49 · Issue #33566 ·
       microsoft/playwright
     url: 'https://github.com/microsoft/playwright/issues/33566'
+  - title: >-
+      Download old Headless Chrome as chrome-headless-shell  |  Blog  |  Chrome
+      for Developers
+    url: 'https://developer.chrome.com/blog/chrome-headless-shell'
 ---
 playwright v1.49.0リリース。
 Aria Snapshotの追加、古いヘッドレスモード(`chromium-headless-shell`)と新しいヘッドレスモードが両方ダウンロードされるように変更。
