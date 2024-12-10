@@ -6,10 +6,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/onlook-dev/onlook'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2024/12/index.json'
-date: '2024-12-10T13:49:19Z'
+date: '2024-12-10T14:23:53Z'
 tags:
   - React
   - figma
   - editor
+  - software
 ---
 FigmaライクなUIでReactアプリケーションを編集できるエディタアプリ
