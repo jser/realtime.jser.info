@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://remix.run/blog/rr-governance'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2025/06/index.json'
-date: '2025-06-05T21:59:22Z'
+date: '2025-06-05T21:59:56Z'
 tags:
   - Remix
   - article
@@ -13,4 +13,5 @@ relatedLinks:
     url: >-
       https://github.com/remix-run/react-router/blob/main/GOVERNANCE.md#new-feature-process
 ---
-React RouterのGovernance Modelについて
+React RouterのGovernance Modelについて。
+ステージ制を含む開発のプロセつについて
