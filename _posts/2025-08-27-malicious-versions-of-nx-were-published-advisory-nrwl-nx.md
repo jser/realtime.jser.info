@@ -4,11 +4,17 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/nrwl/nx/security/advisories/GHSA-cxm3-wv7p-598c'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2025/08/index.json'
-date: '2025-08-27T08:59:16Z'
+date: '2025-08-27T08:59:39Z'
 tags:
   - nodejs
   - security
   - ReleaseNote
+relatedLinks:
+  - title: >-
+      Supply Chain Security Alert: Popular Nx Build System Package Compromised
+      with Data-Stealing Malware - StepSecurity
+    url: >-
+      https://www.stepsecurity.io/blog/supply-chain-security-alert-popular-nx-build-system-package-compromised-with-data-stealing-malware
 ---
 `nx`パッケージのマルウェアを含むバージョンが公開された問題。
 次のバージョンには問題があるため、対応が必要になっている
