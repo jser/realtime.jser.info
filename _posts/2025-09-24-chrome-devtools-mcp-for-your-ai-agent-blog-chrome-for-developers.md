@@ -4,11 +4,11 @@ author: azu
 layout: post
 itemUrl: 'https://developer.chrome.com/blog/chrome-devtools-mcp?hl=en'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2025/09/index.json'
-date: '2025-09-24T23:32:45Z'
+date: '2025-09-24T23:35:10Z'
 tags:
   - Chrome
   - debug
   - MCP
   - article
 ---
-Chrome DevToolsのMCPサポート
+Chrome DevTools MCPについて
