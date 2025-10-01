@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://socket.dev/blog/introducing-socket-firewall'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2025/10/index.json'
-date: '2025-10-01T15:53:28Z'
+date: '2025-10-01T23:37:21Z'
 tags:
   - npm
   - python
@@ -12,5 +12,5 @@ tags:
   - security
   - article
 ---
-npm/yarn/pnpm、pip/uv、cargoに対応したパッケージインストール時のネットワークリクエストのチェックをマルウェア検知をするツール。
+npm/yarn/pnpm、pip/uv、cargoに対応したパッケージインストール時のネットワークリクエストをチェックして、マルウェア検知をするツール。
 それぞれのコマンドの通信をProxyする形で動作し、GitHub ActionsなどのCIでも利用できる
