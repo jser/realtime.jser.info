@@ -6,10 +6,11 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/web-infra-dev/rspack/discussions/9270'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2025/10/index.json'
-date: '2025-10-24T00:11:27Z'
+date: '2025-10-24T00:13:21Z'
+tags:
+  - rspack
+  - issue
 ---
-Vitest 4.0リリース。
-Browser Modeがstableに、ビジュアルリグレッションテストをする`toMatchScreenshot`のサポート/Playwright Trace/frameLocatorの追加。
-`expect.assert`/`expect.schemaMatching`の追加。
-`basic`レポーター削除/Browser Provider設定の変更/`workspace`オプションを削除/`coverage.all`と`coverage.extensions`の削除など
-
+Rspack 2.0の変更予定について。
+Node.js 18サポート終了/`@module-federation/runtime-tools`のオプション化/`verbatimModuleSyntax`のデフォルト有効化。
+`target`設定の統一/`stats.profile`削除/webpack-bundle-analyzer削除/browserslist実装の簡素化などを予定している
