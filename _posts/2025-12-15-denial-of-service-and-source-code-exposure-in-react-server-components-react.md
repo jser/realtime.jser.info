@@ -5,11 +5,12 @@ layout: post
 itemUrl: >-
   https://react.dev/blog/2025/12/11/denial-of-service-and-source-code-exposure-in-react-server-components
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2025/12/index.json'
-date: '2025-12-15T00:49:45Z'
+date: '2025-12-15T00:50:09Z'
 tags:
   - React
   - security
   - ReleaseNote
 ---
 Reactのセキュリティアップデート。
-Dosとソースコードの露出の脆弱性が修正されていて、19.0.0、19.0.1、19.0.2、19.1.0、19.1.1、19.1.2、19.1.2、19.2.0、19.2.1、19.2.2で修正されている。
+Dosとソースコードの露出の脆弱性が修正されていてる。
+19.0.0、19.0.1、19.0.2、19.1.0、19.1.1、19.1.2、19.1.2、19.2.0、19.2.1、19.2.2がそれぞれ公開されている
