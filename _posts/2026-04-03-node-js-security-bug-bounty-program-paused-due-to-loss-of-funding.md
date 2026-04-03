@@ -4,10 +4,11 @@ author: azu
 layout: post
 itemUrl: 'https://nodejs.org/en/blog/announcements/discontinuing-security-bug-bounties'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2026/04/index.json'
-date: '2026-04-03T13:56:01Z'
+date: '2026-04-03T13:56:10Z'
 tags:
   - nodejs
   - security
+  - article
 ---
 Node.jsのセキュリティバグバウンティプログラムの一時停止について。
 2016年からHackerOneのInternet Bug Bounty(IBB)プログラムを通じて運用されていたが、IBBプログラムの終了により資金が枯渇したため一時停止となった。
