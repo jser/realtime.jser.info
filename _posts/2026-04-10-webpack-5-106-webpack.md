@@ -4,7 +4,7 @@ author: azu
 layout: post
 itemUrl: 'https://webpack.js.org/blog/2026-04-08-webpack-5-106/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2026/04/index.json'
-date: '2026-04-10T00:48:35Z'
+date: '2026-04-10T00:49:02Z'
 tags:
   - webpack
   - ReleaseNote
