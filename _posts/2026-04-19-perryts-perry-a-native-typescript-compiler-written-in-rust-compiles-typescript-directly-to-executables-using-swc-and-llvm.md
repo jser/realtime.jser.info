@@ -6,7 +6,7 @@ author: azu
 layout: post
 itemUrl: 'https://github.com/PerryTS/perry'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2026/04/index.json'
-date: '2026-04-19T05:48:59Z'
+date: '2026-04-19T08:29:12Z'
 tags:
   - TypeScript
   - Rust
@@ -14,6 +14,6 @@ tags:
   - Tools
 ---
 Rustで書かれたTypeScriptのネイティブコンパイラ。
-SWCでTypeScriptをパースし、LLVMで実行ファイルへと直接コンパイルする。
+SWCでTypeScriptをパースし、LLVMで実行ファイルへとコンパイルする。
 macOS/Windows/Linux/iOS/Android向けのクロスコンパイルに対応し、ネイティブUIを扱うパッケージを用意している。
 著名なnpmパッケージはRust実装のものへ差し替え、他のものはV8のRuntimeを使ったfallbackで対応している。
