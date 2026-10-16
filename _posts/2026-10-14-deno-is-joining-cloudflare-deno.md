@@ -15,5 +15,5 @@ relatedLinks:
     url: 'https://blog.cloudflare.com/deno-joins-cloudflare'
 ---
 CloudflareがDenoを買収。
-Denoランタイムは開発終了し1年間メンテナンスを行う、Deno Deployは6か月後に終了、JSRはCloudflareへ移行して継続する。
+Denoランタイムは1年間の不具合修正・セキュリティ更新を行った後、Denoチームによる開発を終了する、Deno Deployは6か月後に終了、JSRはCloudflareへ移行して継続する。
 今後はWorkersとDurable Objectsのプラットフォームに注力し、`celld`と`workerd`を統合する予定。
