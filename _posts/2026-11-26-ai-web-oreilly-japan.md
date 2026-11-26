@@ -2,8 +2,7 @@
 title: 'AI時代のWebパフォーマンス・エンジニアリング - O&#039;Reilly Japan'
 author: azu
 layout: post
-itemUrl: >-
-  https://www.oreilly.co.jp/books/9784814401888/?utm_source=feed&utm_media=referral&utm_content=ebook
+itemUrl: 'https://www.oreilly.co.jp/books/9784814401888/'
 editJSONPath: 'https://github.com/jser/jser.info/edit/gh-pages/data/2026/11/index.json'
 date: '2026-11-26T23:52:17Z'
 tags:
